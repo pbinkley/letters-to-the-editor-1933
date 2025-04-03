@@ -1,0 +1,11 @@
+Process the provided image of a newspaper section containing letters to the editor. First, assemble the continuous text in order, following these rules:
+
+1. The first headline is to be included in the text. This headline extends across all three text columns.
+
+2. Under the headline are three columns of text, with a maximum width of approximately 36 characters or 1/3 of the image width, separated by thin black vertical lines. It is very important to divide the image into three columns before further processing.
+
+3. If lines are right-justified, keep them as separate lines.
+
+4. Read the columns of text from left to right, and within each column, from top to bottom, and add their content to a variable we will call FullText. It is important to respect the layout: read the columns in order, and read each complete column before starting on the next column. It is very important never to allow text from different columns to be mixed.
+
+Show me the FullText.
