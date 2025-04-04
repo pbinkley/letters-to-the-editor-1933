@@ -1,5 +1,6 @@
 from ollama import chat
 from pydantic import BaseModel
+import json
 
 # based on https://ollama.com/blog/structured-outputs
 
@@ -8,6 +9,9 @@ class Letter(BaseModel):
   Location: str
   Subjects: list[str]
   Summary: str
+  Persons: list[str]
+  Places: list[str]
+  Organizations: list[str]
 
 class LetterList(BaseModel):
   letters: list[Letter]
@@ -31,11 +35,15 @@ for letter in letters:
   print("Letter: " + title)
 
   # prompt ends with <paste OCR text>
-  letter_prompt = 'Return as JSON. ' + prompt.replace('<paste OCR text>', letter)
+  letter_prompt = 'Return as JSON. ' + prompt.replace("<paste OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
 
   response = chat(
-      model='llama3.1',
+      model='olmo2',
       messages=[
+        { 
+          'role': 'system', 
+          'content': 'You are a helpful assistant. You pay close attention to your instructions and follow them precisely.'
+        },
         {
           'role': 'user', 
           'content': letter_prompt
@@ -45,6 +53,9 @@ for letter in letters:
   )
 
   print(response)
+  letter = json.loads(response['message']['content'])['letters'][0]
+  letter['Text'] = paragraphs
+  letter['Title'] = title.title()
   import pdb; pdb.set_trace()
 
 # letters = LetterList.model_validate_json(response.messages.content)

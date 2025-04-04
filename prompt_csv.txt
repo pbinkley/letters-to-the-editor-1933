@@ -16,4 +16,6 @@ Create a JSON file with these fields: 'Title', 'Author', 'Location', 'Subjects',
 
 4. The Text is an array containing all the paragraphs of the letter.
 
+5. The Persons, Places and Organizations fields should be populated with the names of persons, places and organizations mentioned in the letter.
+
 Here is the text: <paste OCR text>
