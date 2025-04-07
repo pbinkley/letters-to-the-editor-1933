@@ -56,7 +56,7 @@ for letter in letters:
   letter = json.loads(response['message']['content'])['letters'][0]
   letter['Text'] = paragraphs
   letter['Title'] = title.title()
-  print(f"{letter['Author']}, {letter['Location']}, {letter['Summary']}")
+  print(f"{letter['Title']}\nPersons: {letter['Persons']}\nPlaces: {letter['Places']}\nOrganisations: {letter['Organizations']}\n\n")
 
   letters_json.append(letter)
 
