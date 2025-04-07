@@ -1,8 +1,15 @@
 from ollama import chat
 from pydantic import BaseModel
 import json
+import sys
+import os
+from pathlib import Path
 
 # based on https://ollama.com/blog/structured-outputs
+
+input_text_file = sys.argv[0] # e.g. raw_text/1933-03-01_letters.txt
+p = Path(input_text_file)
+filename = p.with_suffix('').name # extract filename and stip extension
 
 class Letter(BaseModel):
   Author: str
@@ -16,9 +23,9 @@ class Letter(BaseModel):
 class LetterList(BaseModel):
   letters: list[Letter]
 
-with open('prompt_csv.txt', 'r') as file:
+with open('prompt_json.txt', 'r') as file:
     prompt = file.read()
-with open('sample_ocr.txt', 'r') as file:
+with open(input_text_file, 'r') as file:
     ocr_text = file.read()
 
 # loop through letters, 
@@ -63,6 +70,6 @@ for letter in letters:
 #  import pdb; pdb.set_trace()
 
 # Writing to sample.json
-print("Writing to sample.json")
-with open("output_json/sample.json", "w") as outfile:
+print(f"Writing to {filename}.json")
+with open(f"output_json/{filename}/json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))

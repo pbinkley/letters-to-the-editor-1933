@@ -3,7 +3,7 @@ from pathlib import PureWindowsPath, PurePosixPath
 
 # copy page blocks from Zotero storage into the project directory
 
-with open('Cleveland Press Letters.csv', newline='') as csvfile:
+with open('ClevelandPressLetters_zotero.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         image_path = str(PurePosixPath(PureWindowsPath(row['File Attachments'])))
