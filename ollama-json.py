@@ -7,7 +7,12 @@ from pathlib import Path
 
 # based on https://ollama.com/blog/structured-outputs
 
-input_text_file = sys.argv[0] # e.g. raw_text/1933-03-01_letters.txt
+input_text_file = sys.argv[1] # e.g. raw_text/1933-03-01_letters.txt
+if input_text_file == '':
+  sys.exit("Provide a filename like 'raw_text/1933-03-01_letters.txt'")
+
+print(f"Opening {input_text_file}")
+
 p = Path(input_text_file)
 filename = p.with_suffix('').name # extract filename and stip extension
 
@@ -71,5 +76,5 @@ for letter in letters:
 
 # Writing to sample.json
 print(f"Writing to {filename}.json")
-with open(f"output_json/{filename}/json", "w") as outfile:
+with open(f"output_json/{filename}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))
