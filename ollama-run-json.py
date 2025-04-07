@@ -24,6 +24,7 @@ with open('sample_ocr.txt', 'r') as file:
 # loop through letters, 
 # which are separated by empty lines
 
+letters_json = []
 letters = ocr_text.split("\n\n")
 print(f"There are {len(letters)} letters.")
 # import pdb; pdb.set_trace()
@@ -52,11 +53,16 @@ for letter in letters:
       format=LetterList.model_json_schema(),
   )
 
-  print(response)
   letter = json.loads(response['message']['content'])['letters'][0]
   letter['Text'] = paragraphs
   letter['Title'] = title.title()
-  import pdb; pdb.set_trace()
+  print(f"{letter['Author']}, {letter['Location']}, {letter['Summary']}")
 
-# letters = LetterList.model_validate_json(response.messages.content)
-# print(letters)
+  letters_json.append(letter)
+
+#  import pdb; pdb.set_trace()
+
+# Writing to sample.json
+print("Writing to sample.json")
+with open("output_json/sample.json", "w") as outfile:
+  outfile.write(json.dumps(letters_json, indent=2))

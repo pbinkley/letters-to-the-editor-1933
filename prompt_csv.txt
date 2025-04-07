@@ -6,7 +6,7 @@ This text is a letter to the editor as printed in a 1930s newspaper. Process the
 
 3. The author's name might be followed by a location. It might be a street address with a number and a street name like "123 Main St.", or it might be a town name. If it is present it is a line by itself, right-justified. It is important to capture the whole address.
 
-Create a JSON file with these fields: 'Title', 'Author', 'Location', 'Subjects', Summary', and 'Text'. Follow these rules:
+Create a JSON file with these fields: 'Title', 'Author', 'Location', 'Subjects', 'Summary', and 'Text'. Follow these rules:
 
 1. The title should be converted to title case.
 
