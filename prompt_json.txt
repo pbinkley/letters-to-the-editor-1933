@@ -14,7 +14,7 @@ Create a JSON file with these fields: 'Author', 'Location', 'Subjects', 'Summary
 
 3. The subjects should be selected exclusively from this list: "City Politics", "State Politics", "National Politics", "Economy", "World Events". Insert all that apply.
 
-4. The Persons field should be populated with all of the names of persons mentioned in the letter.
+4. The Persons field should be populated with all of the personal names mentioned in the letter. Personal names may include first name or initials, or may just have the surname.
 
 5. The Places field should be populated with all of the names of places mentioned in the letter. Places may be cities, states or countries. If an entry might qualify as a Place and as an Organization, treat it as an Organization.
 

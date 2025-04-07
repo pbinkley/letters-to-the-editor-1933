@@ -55,7 +55,7 @@ for letter in letters:
       messages=[
         { 
           'role': 'system', 
-          'content': 'You are a helpful assistant. You pay close attention to your instructions and follow them precisely.'
+          'content': 'You are a helpful assistant. You pay close attention to your instructions and follow them precisely. You do not make up answers.'
         },
         {
           'role': 'user', 
