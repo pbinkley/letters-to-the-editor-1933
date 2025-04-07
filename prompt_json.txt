@@ -1,0 +1,23 @@
+This text is a letter to the editor as printed in a 1930s newspaper. Process the text according to the following rules.  
+
+1. The first line is the title.
+
+2. The author's name is found at the end of the letter's text and is right-justfied. It might be on a line by itself, or it might be appended to the last line of the letter.
+
+3. The author's name might be followed by a location. It might be a street address with a number and a street name like "123 Main St.", or it might be a town name. If it is present it is a line by itself, right-justified. It is important to capture the whole address.
+
+Create a JSON file with these fields: 'Author', 'Location', 'Subjects', 'Summary', 'Persons', 'Places', and 'Organizations'. Follow these rules:
+
+1. The title should be converted to title case.
+
+2. Create a single-sentence summary of the main subject or argument of the letter. It is important to make the summary is no longer than a single sentence.
+
+3. The subjects should be selected exclusively from this list: "City Politics", "State Politics", "National Politics", "Economy", "World Events". Insert all that apply.
+
+4. The Persons field should be populated with all of the personal names mentioned in the letter. Personal names may include first name or initials, or may just have the surname.
+
+5. The Places field should be populated with all of the names of places mentioned in the letter. Places may be cities, states or countries. If an entry might qualify as a Place and as an Organization, treat it as an Organization.
+
+6. The Organizations field should be populated with named organizations mentioned in the letter. 
+
+Here is the text: <paste OCR text>
