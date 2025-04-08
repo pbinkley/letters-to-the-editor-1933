@@ -4,6 +4,7 @@ import json
 import sys
 import os
 from pathlib import Path
+import time
 
 # based on https://ollama.com/blog/structured-outputs
 
@@ -42,15 +43,19 @@ print(f"There are {len(letters)} letters.")
 
 for letter in letters:
 
+  start = time.time()
+
   paragraphs = letter.partition('\n')
+  words = len(letter.split())
   title = paragraphs[0]
-  print("Letter: " + title)
+  print(f"Letter: {title} ({words} words)")
 
   # prompt ends with <OCR text>
   letter_prompt = prompt.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
 
   response = chat(
       model='olmo2',
+      options = {"num_ctx": 5120},
       messages=[
         { 
           'role': 'system', 
@@ -69,6 +74,9 @@ for letter in letters:
   letter['Title'] = title.title()
 
   letters_json.append(letter)
+
+  elapsed = time.time() - start
+  print(f"  elapsed time: {round(elapsed, 1)} sec")
 
 #  import pdb; pdb.set_trace()
 
