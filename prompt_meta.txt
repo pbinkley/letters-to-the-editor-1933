@@ -1,0 +1,15 @@
+This text is a letter to the editor as printed in a 1930s newspaper. Return the results as a JSON object, with these fields: 'Author', 'Address', 'Subjects', and 'Summary'. Follow these rules:
+
+1. The first line of the text is the title.
+
+2. The author's name is found at the end of the letter's text and is right-justified. It might be on a line by itself, or it might be appended to the last line of the letter.
+
+3. The author's name might be followed by an address. It might be a street address with a number and a street name like "123 Main St.", or it might be a town name. If it is present it is on a line by itself, right-justified.
+
+4. Create a brief summary of the main subject or argument of the letter.
+
+5. The subjects should be selected exclusively from this list: "City Politics", "State Politics", "National Politics", "Economy", "World Events". Insert all that apply.
+
+9. Do not invent or hallucinate any information: if you cannot identify a name, leave the identification empty.
+
+Here is the text: <OCR text>
