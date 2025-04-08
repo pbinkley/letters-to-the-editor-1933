@@ -10,7 +10,7 @@ This text is a letter to the editor as printed in a 1930s newspaper. Process the
 
 5. The subjects should be selected exclusively from this list: "City Politics", "State Politics", "National Politics", "Economy", "World Events". Insert all that apply.
 
-6. The Names field must contain an array of all of the names mentioned in the text. Types of names include person, place, organization, office, and any others you need. It is very important not to miss any names, so if you are not sure, assume that you have found a name.
+6. The Names field must contain an array of all of the names (real or hypothetical) mentioned in the text. Types of names include person, place, organization, office, and any others you need. It is very important not to miss any names, so if you are not sure, assume that you have found a name.
 
 7. Be sure to include all place names: a city, a state, a country, etc. Format each name as a json object, with values for the text of the name, the type of name, and the identity. The identity contains any information you can provide about the likely identification of the name, given the historical context of the text. 
 
