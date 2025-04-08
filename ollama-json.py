@@ -21,9 +21,7 @@ class Letter(BaseModel):
   Location: str
   Subjects: list[str]
   Summary: str
-  Persons: list[str]
-  Places: list[str]
-  Organizations: list[str]
+  Names: list[object]
 
 class LetterList(BaseModel):
   letters: list[Letter]
@@ -47,8 +45,8 @@ for letter in letters:
   title = paragraphs[0]
   print("Letter: " + title)
 
-  # prompt ends with <paste OCR text>
-  letter_prompt = 'Return as JSON. ' + prompt.replace("<paste OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
+  # prompt ends with <OCR text>
+  letter_prompt = prompt.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
 
   response = chat(
       model='olmo2',
@@ -68,13 +66,12 @@ for letter in letters:
   letter = json.loads(response['message']['content'])['letters'][0]
   letter['Text'] = paragraphs
   letter['Title'] = title.title()
-  print(f"{letter['Title']}\nPersons: {letter['Persons']}\nPlaces: {letter['Places']}\nOrganisations: {letter['Organizations']}\n\n")
 
   letters_json.append(letter)
 
 #  import pdb; pdb.set_trace()
 
-# Writing to sample.json
+# Writing to json file
 print(f"Writing to {filename}.json")
 with open(f"output_json/{filename}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))
