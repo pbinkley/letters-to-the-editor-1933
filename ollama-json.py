@@ -14,14 +14,15 @@ if input_text_file == '':
 print(f"Opening {input_text_file}")
 
 p = Path(input_text_file)
-filename = p.with_suffix('').name # extract filename and stip extension
+filename = p.with_suffix('').name # extract filename and strip extension
 
 class Letter(BaseModel):
   Author: str
-  Location: str
+  Address: str
   Subjects: list[str]
   Summary: str
   Names: list[object]
+  DocType: str
 
 class LetterList(BaseModel):
   letters: list[Letter]

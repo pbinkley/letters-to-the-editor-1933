@@ -1,39 +1,40 @@
 [
   {
     "Author": "A. B. Curtisa",
-    "Location": "",
+    "Address": "241 Euclid Avenue",
     "Subjects": [
-      "Economy",
-      "Banking"
+      "State Politics",
+      "Economy"
     ],
-    "Summary": "The author, A. B. Curtisa, urges for a federal guarantee of bank deposits to address the currency and banking emergency, suggesting that Congress enact legislation to nationalize the banking industry. They propose a temporary solution whereby Cleveland Clearing House Association member banks guarantee each other's credits to facilitate business transactions during this time.",
+    "Summary": "The author calls for federal nationalization of the banking industry with a guarantee on bank deposits, citing the currency emergency. They propose a temporary measure where Cleveland's Clearing House Association member banks mutually guarantee each other's credits to facilitate business transactions.",
     "Names": [
       {
-        "text": "Cleveland",
+        "name": "Cleveland Clearing House Association",
+        "type": "Organization",
+        "identity": "The organization responsible for facilitating interbank payments in Cleveland."
+      },
+      {
+        "name": "Cleveland Trust Co.",
+        "type": "Organization",
+        "identity": "One of the member banks mentioned."
+      },
+      {
+        "name": "Guardian",
         "type": "Place",
-        "identity": "The location where the author's bank-related concerns are focused, suggesting it is a significant local area for the banking system discussed."
+        "identity": "The author\u2019s bank."
       },
       {
-        "text": "Cleveland Trust Co.",
+        "name": "Union Trust Co.",
         "type": "Organization",
-        "identity": "A specific bank mentioned as having a relationship with the author's business operations."
+        "identity": "A bank mentioned as a place for deposits."
       },
       {
-        "text": "Guardian",
+        "name": "Central United National Bank",
         "type": "Organization",
-        "identity": "The author's bank where deposits and withdrawals are managed."
-      },
-      {
-        "text": "Union Trust Co.",
-        "type": "Organization",
-        "identity": "A bank named that could receive payments from the author's business transactions."
-      },
-      {
-        "text": "Central United National Bank",
-        "type": "Organization",
-        "identity": "Another bank mentioned where deposits are potentially made."
+        "identity": "Another bank mentioned as a place for deposits."
       }
     ],
+    "DocType": "Letter",
     "Text": [
       "Urges Federal Guarantee of Bank Deposits",
       "\n",
@@ -43,30 +44,30 @@
   },
   {
     "Author": "F. H. Mueller",
-    "Location": "12623 Iowa avenue, N.",
+    "Address": "12623 Iowa avenue, N.",
     "Subjects": [
       "City Politics",
       "Economy",
-      "National Politics"
+      "State Politics"
     ],
-    "Summary": "The author praises Cincinnati's city services and governance while critiquing Cleveland's form of government and electorate. They argue that Cincinnati is more desirable to live in, despite its smaller size, due to its efficient and quality-focused administration.",
+    "Summary": "The author praises Cincinnati for its efficient and well-run services, including its police and fire departments, school system, and municipal university, despite having a lower tax rate compared to Cleveland. They critique Cleveland's manager form of government and suggest that the large, locally elected council makes it susceptible to party manipulation. The letter also touches on the quality of citizenship in both cities, contrasting Cincinnati's third-generation German, Irish, and northern Italian ancestry with Cleveland's broader but potentially less cohesive populace.",
     "Names": [
       {
-        "text": "Cincinnati",
-        "type": "Place",
-        "identity": "The city being praised for its services and governance."
+        "name": "Cincinnati",
+        "type": "City",
+        "identity": "Cincinnati, Ohio"
       },
       {
-        "text": "Cleveland",
-        "type": "Place",
-        "identity": "City being compared to Cincinnati in terms of services and governance."
+        "name": "Cleveland",
+        "type": "City",
+        "identity": "Cleveland, Ohio"
       },
       {
-        "text": "Mueller",
-        "type": "Person",
-        "identity": "The author's name."
+        "name": "Mueller",
+        "type": "Person"
       }
     ],
+    "DocType": "Letter",
     "Text": [
       "HE LIKES CINCINNATI",
       "\n",
@@ -76,22 +77,13 @@
   },
   {
     "Author": "J. J. Zwalsh",
-    "Location": "5920 St. Clair avenue",
+    "Address": "5920 St. Clair Avenue",
     "Subjects": [
       "Economy"
     ],
-    "Summary": "The author suggests that the government introduce a policy where all money must be passed through the controller's hands and stamped with a government seal to prevent bank runs and hoarding.",
-    "Names": [
-      {
-        "name": "J. J. Zwalsh",
-        "type": "Author",
-        "identity": ""
-      },
-      {},
-      {
-        "Type": "Letter"
-      }
-    ],
+    "Summary": "The author suggests the government should issue a statement requiring all money to be stamped with a government seal for it to remain valid, preventing bank runs and hoarding.",
+    "Names": [],
+    "DocType": "Letter",
     "Text": [
       "JACKRABBIT MONEY",
       "\n",
@@ -101,19 +93,26 @@
   },
   {
     "Author": "C. B. Keenum",
-    "Location": "2244 E. Ninth street.",
+    "Address": "2244 E. Ninth street.",
     "Subjects": [
-      "Economy",
-      "National Politics"
+      "Economy"
     ],
-    "Summary": "The author argues that printing an additional $40 billion in currency and loaning it to the government to refinance farm and home loans at 2% interest would balance the budget, reduce interest rates to 2%, save the American people $8 billion annually in interest payments, increase buying power, and spur economic prosperity. This solution is contrasted with public works and beer tax programs.",
+    "Summary": "The author suggests printing an additional $40 billion in currency to cover bank deposits and refinance farm and home loans at 2% interest, which would also lower interest rates and reduce the interest burden on American people by $8 billion annually.",
     "Names": [
       {
         "text": "C. B. Keenum",
         "type": "Author",
-        "identity": "The author of the letter."
-      }
+        "identity": ""
+      },
+      {
+        "text": "Secretary Mills",
+        "type": "Person",
+        "identity": "Frank G. Millspaugh, Secretary of the Treasury (1933-1940)}",
+        "": "place_names"
+      },
+      {}
     ],
+    "DocType": "Letter",
     "Text": [
       "WANTS MORE CURRENCY",
       "\n",
@@ -123,12 +122,13 @@
   },
   {
     "Author": "Philip Garbo",
-    "Location": "",
+    "Address": "",
     "Subjects": [
+      "State Politics",
       "National Politics",
       "World Events"
     ],
-    "Summary": "The author, Philip Garbo, takes issue with Rabbi Brickner's radio remarks regarding Hitler's rise to power and Mussolini's governance. Garbo disputes Rabbi Brickner's view that Von Hindenburg is no longer in control, questions his comparison between Hitler and Mussolini, and argues against the prospect of an imminent war between Germany, Italy, Austria, Hungary, and their enemies. He also defends Mussolini as a beneficial dictator for Italy and suggests that a similar strong leadership could improve the United States.",
+    "Summary": "The letter from Philip Garbo critiques Rabbi Brickner's radio remarks on Hitler's rise to power, Mussolini's Italy, and potential future wars. Garbo contests Rabbi Brickner's viewpoints on Hitler, Mussolini, peace in Europe, and the comparison between Mussolini's Italy and a hypothetical dictatorship led by Roosevelt.",
     "Names": [
       {
         "text": "Rabbi Brickner",
@@ -138,44 +138,25 @@
       {
         "text": "Hitler",
         "type": "Person",
-        "identity": "Adolf Hitler"
+        "identity": ""
       },
       {
         "text": "Von Hindenburg",
         "type": "Person",
-        "identity": "Paul von Hindenburg"
+        "identity": ""
       },
       {
         "text": "Mussolini",
         "type": "Person",
-        "identity": "Benito Mussolini"
-      },
-      {
-        "text": "Jews",
-        "type": "Group",
         "identity": ""
       },
       {
-        "text": "France",
-        "type": "Country",
-        "identity": "France"
-      },
-      {
-        "text": "Yugoslavia",
-        "type": "Country",
-        "identity": "Kingdom of Yugoslavia"
-      },
-      {
-        "text": "Russia",
-        "type": "Country",
-        "identity": "Soviet Union"
-      },
-      {
-        "text": "Poland",
-        "type": "Country",
-        "identity": "Poland"
+        "text": "Roosevelt",
+        "type": "Office",
+        "identity": "President of the United States (hypothetical)"
       }
     ],
+    "DocType": "Letter",
     "Text": [
       "DIFFERS WITH RABBI BRICKNER",
       "\n",
