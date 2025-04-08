@@ -1,23 +1,23 @@
-This text is a letter to the editor as printed in a 1930s newspaper. Process the text according to the following rules.  
+This text is a letter to the editor as printed in a 1930s newspaper. Process the text according to the following rules. Return the results as JSON, with these fields: 'Author', 'Address', 'Subjects', 'Summary', and 'Names'. Follow these rules:
 
-1. The first line is the title.
+1. The first line of the text is the title.
 
-2. The author's name is found at the end of the letter's text and is right-justfied. It might be on a line by itself, or it might be appended to the last line of the letter.
+2. The author's name is found at the end of the letter's text and is right-justified. It might be on a line by itself, or it might be appended to the last line of the letter.
 
-3. The author's name might be followed by a location. It might be a street address with a number and a street name like "123 Main St.", or it might be a town name. If it is present it is a line by itself, right-justified. It is important to capture the whole address.
+3. The author's name might be followed by an address. It might be a street address with a number and a street name like "123 Main St.", or it might be a town name. If it is present it is on a line by itself, right-justified.
 
-Create a JSON file with these fields: 'Author', 'Location', 'Subjects', 'Summary', 'Persons', 'Places', and 'Organizations'. Follow these rules:
+4. Create a brief summary of the main subject or argument of the letter.
 
-1. The title should be converted to title case.
+5. The subjects should be selected exclusively from this list: "City Politics", "State Politics", "National Politics", "Economy", "World Events". Insert all that apply.
 
-2. Create a single-sentence summary of the main subject or argument of the letter. It is important to make the summary is no longer than a single sentence.
+6. The Names field must contain an array of all of the names mentioned in the text. Types of names include person, place, organization, office, and any others you need. It is very important not to miss any names, so if you are not sure, assume that you have found a name.
 
-3. The subjects should be selected exclusively from this list: "City Politics", "State Politics", "National Politics", "Economy", "World Events". Insert all that apply.
+7. Be sure to include all place names: a city, a state, a country, etc. Format each name as a json object, with values for the text of the name, the type of name, and the identity. The identity contains any information you can provide about the likely identification of the name, given the historical context of the text. 
 
-4. The Persons field should be populated with all of the personal names mentioned in the letter. Personal names may include first name or initials, or may just have the surname.
+8. Include the place name "Cleveland" if the letter evidently deals with local affairs, and include "Ohio" if deals with state affairs. 
 
-5. The Places field should be populated with all of the names of places mentioned in the letter. Places may be cities, states or countries. If an entry might qualify as a Place and as an Organization, treat it as an Organization.
+9. Do not invent or hallucinate any information: if you cannot identify a name, leave the identification empty.
 
-6. The Organizations field should be populated with named organizations mentioned in the letter. 
-
-Here is the text: <paste OCR text>
+10. Add a DocType field, with the string value "Letter".
+ 
+Here is the text: <OCR text>

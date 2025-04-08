@@ -1,24 +1,40 @@
 [
   {
     "Author": "A. B. Curtisa",
-    "Location": "241 Euclid Avenue",
+    "Address": "241 Euclid Avenue",
     "Subjects": [
-      "National Politics",
+      "State Politics",
       "Economy"
     ],
-    "Summary": "The author advocates for federal guarantee of bank deposits and argues for temporary measures by local banks to ensure continued transactions during an economic crisis.",
-    "Persons": [
-      "A. B. Curtisa"
+    "Summary": "The author calls for federal nationalization of the banking industry with a guarantee on bank deposits, citing the currency emergency. They propose a temporary measure where Cleveland's Clearing House Association member banks mutually guarantee each other's credits to facilitate business transactions.",
+    "Names": [
+      {
+        "name": "Cleveland Clearing House Association",
+        "type": "Organization",
+        "identity": "The organization responsible for facilitating interbank payments in Cleveland."
+      },
+      {
+        "name": "Cleveland Trust Co.",
+        "type": "Organization",
+        "identity": "One of the member banks mentioned."
+      },
+      {
+        "name": "Guardian",
+        "type": "Place",
+        "identity": "The author\u2019s bank."
+      },
+      {
+        "name": "Union Trust Co.",
+        "type": "Organization",
+        "identity": "A bank mentioned as a place for deposits."
+      },
+      {
+        "name": "Central United National Bank",
+        "type": "Organization",
+        "identity": "Another bank mentioned as a place for deposits."
+      }
     ],
-    "Places": [
-      "Cleveland",
-      "Cleveland Clearing House Association",
-      "Union Trust Co.",
-      "Central United National Bank"
-    ],
-    "Organizations": [
-      "member banks of the Cleveland Clearing House Association"
-    ],
+    "DocType": "Letter",
     "Text": [
       "Urges Federal Guarantee of Bank Deposits",
       "\n",
@@ -28,17 +44,30 @@
   },
   {
     "Author": "F. H. Mueller",
-    "Location": "12623 Iowa Avenue, N.",
+    "Address": "12623 Iowa avenue, N.",
     "Subjects": [
-      "City Politics"
+      "City Politics",
+      "Economy",
+      "State Politics"
     ],
-    "Summary": "The author praises Cincinnati's efficient services and the merits of its manager form of government over Cleveland's, pointing out that Cincinnati's smaller, well-paid council is less susceptible to party influence. They also highlight the city's quality of life and educational opportunities as reasons why it is more desirable than larger cities like Cleveland.",
-    "Persons": [],
-    "Places": [
-      "Cincinnati",
-      "Cleveland"
+    "Summary": "The author praises Cincinnati for its efficient and well-run services, including its police and fire departments, school system, and municipal university, despite having a lower tax rate compared to Cleveland. They critique Cleveland's manager form of government and suggest that the large, locally elected council makes it susceptible to party manipulation. The letter also touches on the quality of citizenship in both cities, contrasting Cincinnati's third-generation German, Irish, and northern Italian ancestry with Cleveland's broader but potentially less cohesive populace.",
+    "Names": [
+      {
+        "name": "Cincinnati",
+        "type": "City",
+        "identity": "Cincinnati, Ohio"
+      },
+      {
+        "name": "Cleveland",
+        "type": "City",
+        "identity": "Cleveland, Ohio"
+      },
+      {
+        "name": "Mueller",
+        "type": "Person"
+      }
     ],
-    "Organizations": [],
+    "DocType": "Letter",
     "Text": [
       "HE LIKES CINCINNATI",
       "\n",
@@ -48,14 +77,13 @@
   },
   {
     "Author": "J. J. Zwalsh",
-    "Location": "5920 St. Clair Avenue",
+    "Address": "5920 St. Clair Avenue",
     "Subjects": [
       "Economy"
     ],
-    "Summary": "The letter advocates for government control over currency by requiring all money to be stamped with a government seal, aiming to prevent bank runs and hoarding.",
-    "Persons": [],
-    "Places": [],
-    "Organizations": [],
+    "Summary": "The author suggests the government should issue a statement requiring all money to be stamped with a government seal for it to remain valid, preventing bank runs and hoarding.",
+    "Names": [],
+    "DocType": "Letter",
     "Text": [
       "JACKRABBIT MONEY",
       "\n",
@@ -65,20 +93,26 @@
   },
   {
     "Author": "C. B. Keenum",
-    "Location": "2244 E. Ninth street.",
+    "Address": "2244 E. Ninth street.",
     "Subjects": [
-      "National Politics",
       "Economy"
     ],
-    "Summary": "The author argues that the U.S. should print $40 billion in currency to alleviate the economic burden of high interest rates and to stabilize the economy by covering bank deposits with cash.",
-    "Persons": [],
-    "Places": [
-      "Cleveland",
-      "U.S.A."
+    "Summary": "The author suggests printing an additional $40 billion in currency to cover bank deposits and refinance farm and home loans at 2% interest, which would also lower interest rates and reduce the interest burden on American people by $8 billion annually.",
+    "Names": [
+      {
+        "text": "C. B. Keenum",
+        "type": "Author",
+        "identity": ""
+      },
+      {
+        "text": "Secretary Mills",
+        "type": "Person",
+        "identity": "Frank G. Millspaugh, Secretary of the Treasury (1933-1940)}",
+        "": "place_names"
+      },
+      {}
     ],
-    "Organizations": [
-      "bank"
-    ],
+    "DocType": "Letter",
     "Text": [
       "WANTS MORE CURRENCY",
       "\n",
@@ -88,28 +122,41 @@
   },
   {
     "Author": "Philip Garbo",
-    "Location": "",
+    "Address": "",
     "Subjects": [
+      "State Politics",
       "National Politics",
       "World Events"
     ],
-    "Summary": "The author, Philip Garbo, criticizes Rabbi Brickner's radio remarks on Hitler's rise to power and Mussolini's governance. Garbo disputes Rabbi Brickner's claims regarding Hitler's chancellorship, Von Hindenburg's mental faculties, Hitler's comparison with Mussolini, and the potential banding of Germany, Italy, Austria, Hungary against France and Yugoslavia.",
-    "Persons": [
-      "Rabbi Brickner",
-      "Von Hindenburg",
-      "Hitler",
-      "Mussolini"
+    "Summary": "The letter from Philip Garbo critiques Rabbi Brickner's radio remarks on Hitler's rise to power, Mussolini's Italy, and potential future wars. Garbo contests Rabbi Brickner's viewpoints on Hitler, Mussolini, peace in Europe, and the comparison between Mussolini's Italy and a hypothetical dictatorship led by Roosevelt.",
+    "Names": [
+      {
+        "text": "Rabbi Brickner",
+        "type": "Person",
+        "identity": ""
+      },
+      {
+        "text": "Hitler",
+        "type": "Person",
+        "identity": ""
+      },
+      {
+        "text": "Von Hindenburg",
+        "type": "Person",
+        "identity": ""
+      },
+      {
+        "text": "Mussolini",
+        "type": "Person",
+        "identity": ""
+      },
+      {
+        "text": "Roosevelt",
+        "type": "Office",
+        "identity": "President of the United States (hypothetical)"
+      }
     ],
-    "Places": [
-      "Germany",
-      "Italy",
-      "Yugoslavia",
-      "Russia",
-      "Hungary"
-    ],
-    "Organizations": [
-      "dictator"
-    ],
+    "DocType": "Letter",
     "Text": [
       "DIFFERS WITH RABBI BRICKNER",
       "\n",
