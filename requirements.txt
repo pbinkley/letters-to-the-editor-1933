@@ -1,2 +1,4 @@
 ollama
 pydantic
+Pillow
+google-genai
