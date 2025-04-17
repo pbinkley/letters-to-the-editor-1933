@@ -2,3 +2,9 @@ ollama
 pydantic
 Pillow
 google-genai
+layoutparser
+matplotlib
+torch
+torchvision
+cython
+numpy
