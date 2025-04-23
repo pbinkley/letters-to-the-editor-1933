@@ -4,12 +4,13 @@ import sys
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+import json
 
 # run:  python3 split-columns.py 1933-03-07_letters
 
-def split_columns(image):
+def split_columns(image, column_crops):
     print()
-    print(f"Image: {image}")
+    print(f"Image: {image} Date: {issue_date}")
     img = cv2.imread(image, 0)
 
     image_name = os.path.splitext(os.path.basename(image))[0]
@@ -73,13 +74,22 @@ def split_columns(image):
 #        plt.add_patch(column)
 
         print(f"{gap[0]-10},{gap[1]+20}")
+        # incorporate column_crops here: 
+        # use to set the bottom of each column, instead of height
         left_side = gap[0]-10 if gap[0] >= 10 else 0
         right_side = gap[1]+20
         column_image = img[0:height, left_side:right_side]
         cv2.imwrite(f"./column_images/{image_name}_column{str(c)}.jpg", column_image)
         c += 1
 
-
 if not os.path.exists('./column_images'):
     os.makedirs('./column_images')
-split_columns(f"raw_images/{sys.argv[1]}.jpg")
+
+# Open and read the JSON file
+with open('column-cropping-data.json', 'r') as jsonfile:
+    column_crops = json.load(jsonfile)
+
+filename = sys.argv[1]
+issue_date = filename.split('_')[0]
+
+split_columns(f"raw_images/{filename}.jpg", column_crops[issue_date])
