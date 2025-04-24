@@ -1,4 +1,4 @@
-Perform optical character recognition on the provided image from a newspaper section containing letters to the editor. 
+Extract text from the provided image, which is from a newspaper section containing letters to the editor. 
 
 1. It is extremely import that you never invent or hallucinate any text that does not exist in the image. I will strangle everyone you love if you do that.
 
