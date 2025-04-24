@@ -20,10 +20,14 @@ def split_columns(image, column_crops):
     # split off heading at 175
     heading_height = 175
     height, width = img.shape
+    print(f"image height: {height}")
     heading = img[0:heading_height, 0:width]
+    print(f"heading: {heading.shape}")
     cv2.imwrite(f"./column_images/{image_name}_column0.jpg", heading)
 
-    img = img[heading_height:height-heading_height, 0:width]
+    # further processing is on the image without the heading, just the three columns
+    img = img[heading_height:height, 0:width]
+    print(f"body: {img.shape}")
 
     _, bitonal = cv2.threshold(img, 100, 255, cv2.THRESH_BINARY)
     height, width = bitonal.shape
@@ -44,19 +48,19 @@ def split_columns(image, column_crops):
         plt.scatter(x, black) # visualization
 
     print(f"max: {max_black}")
-    chop = max_black - 100
+    chop = max_black - 25
     column_count = 0
-    while column_count < 3:
+    while (column_count != 3) and (chop > 0):
         print(f"Checking {chop}")
         gap_start = 0 # set to x when w find a black column
-        column_start = -1 # set to gap_start when we find 300 non-black columns
+        column_start = -1 # set to gap_start when we find 100 non-black columns
         gaps = [] # store start and end of text columns
         for x in range(width):
             black = blackness[x]
             if black >= chop:
                 # print(f"{x}: {black}")
                 if column_start >= 0:
-                    # we have reached the end of a text column
+                    # we have reached the edge of a text column
                     gaps.append([column_start, x])
                     print(f"column width: {x - column_start}")
                     column_start = -1
@@ -66,7 +70,7 @@ def split_columns(image, column_crops):
                 gap_start = x
         column_count = len(gaps)
         print(f"columns: {column_count}")
-        chop = chop - 100
+        chop = chop - 25
 
     print(gaps)
     # import pdb; pdb.set_trace() 
@@ -80,16 +84,19 @@ def split_columns(image, column_crops):
 #        column = patches.Rectangle((0,height), gap[1]-gap[0], 30, linewidth=5, edgecolor='r', facecolor='none')
 #        plt.add_patch(column)
 
-        print(f"{gap[0]-10},{gap[1]+20}")
+        print(f"Column {c}: {gap[0]-10},{gap[1]+20}")
         # incorporate column_crops here: 
         # use to set the bottom of each column, instead of height
-        h = height if column_crops[c - 1] == 0 else column_crops[c - 1]
-        print(f"column crop {c}: {column_crops[c - 1]}; height: {h}")
-        left_side = gap[0]-10 if gap[0] >= 10 else 0
-        right_side = gap[1]+20
-        column_image = img[0:h, left_side:right_side]
-        cv2.imwrite(f"./column_images/{image_name}_column{str(c)}.jpg", column_image)
-        c += 1
+        if c <= 3:
+            h = height if column_crops[c - 1] == 0 else column_crops[c - 1] - heading_height
+            # h = h - heading_height # allow for cropped heading
+            print(f"column crop {c}: {column_crops[c - 1]}; height: {h}")
+            # left and right sides of column
+            left_side = gap[0]-10 if gap[0] >= 10 else 0 # can't have negative number
+            right_side = gap[1]+20
+            column_image = img[0:h, left_side:right_side]
+            cv2.imwrite(f"./column_images/{image_name}_column{str(c)}.jpg", column_image)
+            c += 1
 
 if not os.path.exists('./column_images'):
     os.makedirs('./column_images')
