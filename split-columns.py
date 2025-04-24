@@ -76,9 +76,11 @@ def split_columns(image, column_crops):
         print(f"{gap[0]-10},{gap[1]+20}")
         # incorporate column_crops here: 
         # use to set the bottom of each column, instead of height
+        h = height if column_crops[c - 1] == 0 else column_crops[c - 1]
+        print(f"column crop {c}: {column_crops[c - 1]}; height: {h}")
         left_side = gap[0]-10 if gap[0] >= 10 else 0
         right_side = gap[1]+20
-        column_image = img[0:height, left_side:right_side]
+        column_image = img[0:h, left_side:right_side]
         cv2.imwrite(f"./column_images/{image_name}_column{str(c)}.jpg", column_image)
         c += 1
 
