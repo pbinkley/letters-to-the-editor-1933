@@ -17,8 +17,15 @@ def split_columns(image, column_crops):
 
     # import pdb; pdb.set_trace() 
 
+    # split off heading at 175
+    heading_height = 175
+    height, width = img.shape
+    heading = img[0:heading_height, 0:width]
+    cv2.imwrite(f"./column_images/{image_name}_column0.jpg", heading)
+
+    img = img[heading_height:height-heading_height, 0:width]
+
     _, bitonal = cv2.threshold(img, 100, 255, cv2.THRESH_BINARY)
-    # cv2.imwrite('bitonal.jpg', bitonal)
     height, width = bitonal.shape
 
     # Split the image into one-pixel-wide images along the x-axis
