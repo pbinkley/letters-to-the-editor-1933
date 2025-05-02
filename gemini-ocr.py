@@ -17,12 +17,14 @@ def get_concat_v_resize(im1, im2, resample=Image.BICUBIC, resize_big_image=True)
 
 # based on https://ai.google.dev/gemini-api/docs/vision?lang=python
 
-with open('prompt_ocr.txt', 'r') as file:
+with open('prompt_ocr.txt', 'r') as file: # load prompt
     prompt_ocr = file.read()
 
 date = sys.argv[1] # e.g. 1933-03-01
 if date == '':
   sys.exit("Provide a date like '1933-03-01'")
+
+# check whether that date has already been processed
 
 text_blocks = 3
 text = ''
