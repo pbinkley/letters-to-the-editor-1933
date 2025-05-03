@@ -5,24 +5,33 @@ import sys
 import os
 from pathlib import Path
 import time
+import re
 
 # based on https://ollama.com/blog/structured-outputs
 
 class Letter(BaseModel):
-  Author: str
-  Address: str
-  Subjects: list[str]
-  Summary: str
-  DocType: str
+  author: str
+  address: str
+  subjects: list[str]
+  summary: str
+  doctype: str
 
 class Names(BaseModel):
-  Names: list[object]
+  names: list[object]
 
-class LetterListMeta(BaseModel):
+class LetterListMetadata(BaseModel):
   letters: list[Letter]
 
 class LetterListNames(BaseModel):
   letters: list[Names]
+
+def is_title_line(text):
+  # check for two capital letters together, so as not to be fooled
+  # by initials in signature of a letter  
+  if re.search(r'[A-Z]{2}', text) and not re.search(r'[a-z]', text):
+      return True
+  else:
+      return False
 
 def get_response(prompt, listClass):
   response = chat(
@@ -51,37 +60,75 @@ print(f"Opening {input_text_file}")
 p = Path(input_text_file)
 filename = p.with_suffix('').name # extract filename and strip extension
 
-with open('prompt_meta.txt', 'r') as file:
-    prompt_meta = file.read()
+with open('prompt_metadata.txt', 'r') as file:
+    prompt_metadata = file.read()
 with open('prompt_names.txt', 'r') as file:
     prompt_names = file.read()
 with open(input_text_file, 'r') as file:
     ocr_text = file.read()
 
 # loop through letters, 
-# which are separated by empty lines
+# which are now separated by multiline titles in all caps
+# so: when find matching line start new letter, unless 
+# the line follows another matching line (i.e. is the second
+# line of a title)
 
 letters_json = []
-letters = ocr_text.split("\n\n")
+letters = []
+
+previous_title = ""
+current_title = ""
+current_letter = []
+title_open = True
+
+for counter, line in enumerate(ocr_text.splitlines()):
+  if counter == 1:
+    # put first line in all caps so will be treated as title
+    line = line.upper()
+  is_title = is_title_line(line) # the line is in all-caps
+  # print(f"line {counter} ({is_title}): {line}")
+  if (is_title):
+    if title_open:
+      if current_title != "":
+        current_title += " "
+      current_title += f"{line}" # append this line to current title
+    elif len(current_letter) > 0:
+      # close and store letter
+      # print(f"Store letter: {current_title} ({len(current_letter)} lines)")
+      letters.append([current_title, ''] + current_letter)
+      current_letter = []
+      # start a new letter
+      previous_title = current_title
+      current_title = line
+      title_open = True
+  else: # append text line to current letter
+    title_open = False # we're inside the letter text now
+    current_letter.append(line)
+else:
+  # print(f"Store letter: {current_title} ({len(current_letter)} lines)")
+  letters.append([current_title, ''] + current_letter)
+
 print(f"There are {len(letters)} letters.")
+counter = 1
 
 for letter in letters:
-
   start = time.time()
 
-  paragraphs = letter.partition('\n')
-  words = len(letter.split())
+  text = ('\n').join(letter)
+  paragraphs = text.split('\n\n')
+  words = len(text.split())
   title = paragraphs[0]
-  print(f"Letter: {title} ({words} words)")
+  print(f"Letter {counter}: {title} ({words} words)")
 
   # prompt template ends with <OCR text>
-  letter_meta_prompt = prompt_meta.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
+  letter_metadata_prompt = prompt_metadata.replace("<OCR text>", f"\n\"\"\"\n{text}\n\"\"\"")
 
-  response = get_response(letter_meta_prompt, LetterListMeta)
+  response = get_response(letter_metadata_prompt, LetterListMetadata)
 
   letter_data = json.loads(response['message']['content'])['letters'][0]
-  letter_data['Text'] = paragraphs
-  letter_data['Title'] = title.title()
+  letter_data['text'] = ('@@@').join(paragraphs).replace("\n", ' ').replace('@@@', "\n\n")
+  letter_data['title'] = title.title()
+  letter_data['doctype'] = "letter"
 
   # now do the names
 
@@ -90,22 +137,19 @@ for letter in letters:
 
   response = get_response(letter_names_prompt, LetterListNames)
 
-  letter_data['Names'] = []
+  letter_data['names'] = []
   for letter in json.loads(response['message']['content'])['letters']:
-    for name in letter['Names']:
-      letter_data['Names'].append(name)
-
-#  import pdb; pdb.set_trace()
-
+    for name in letter['names']:
+      letter_data['names'].append(name)
 
   letters_json.append(letter_data)
 
   elapsed = time.time() - start
   print(f"  elapsed time: {round(elapsed, 1)} sec")
 
-#  import pdb; pdb.set_trace()
+  counter += 1
 
-# Writing to json file
+# Write to json file
 print(f"Writing to {filename}.json")
 with open(f"output_json/{filename}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))
