@@ -16,14 +16,14 @@ class Letter(BaseModel):
   summary: str
   doctype: str
 
-class Names(BaseModel):
-  names: list[object]
+class Entities(BaseModel):
+  entities: list[object]
 
 class LetterListMetadata(BaseModel):
   letters: list[Letter]
 
-class LetterListNames(BaseModel):
-  letters: list[Names]
+class LetterListEntities(BaseModel):
+  letters: list[Entities]
 
 def is_title_line(text):
   # check for two capital letters together, so as not to be fooled
@@ -36,7 +36,7 @@ def is_title_line(text):
 def get_response(prompt, listClass):
   response = chat(
     model='olmo2',
-    # options = {"num_ctx": 5120},
+    options = {"num_ctx": 4096},
     messages=[
       { 
         'role': 'system', 
@@ -51,8 +51,9 @@ def get_response(prompt, listClass):
   )
   return response
 
-input_text_file = sys.argv[1] # e.g. raw_text/1933-03-01_letters.txt
-if input_text_file == '':
+try:
+  input_text_file = sys.argv[1] # e.g. raw_text/1933-03-01_letters.txt
+except:
   sys.exit("Provide a filename like 'raw_text/1933-03-01_letters.txt'")
 
 print(f"Opening {input_text_file}")
@@ -62,8 +63,8 @@ filename = p.with_suffix('').name # extract filename and strip extension
 
 with open('prompt_metadata.txt', 'r') as file:
     prompt_metadata = file.read()
-with open('prompt_names.txt', 'r') as file:
-    prompt_names = file.read()
+with open('prompt_entities.txt', 'r') as file:
+    prompt_entities = file.read()
 with open(input_text_file, 'r') as file:
     ocr_text = file.read()
 
@@ -82,7 +83,7 @@ current_letter = []
 title_open = True
 
 for counter, line in enumerate(ocr_text.splitlines()):
-  if counter == 1:
+  if counter == 0:
     # put first line in all caps so will be treated as title
     line = line.upper()
   is_title = is_title_line(line) # the line is in all-caps
@@ -126,21 +127,21 @@ for letter in letters:
   response = get_response(letter_metadata_prompt, LetterListMetadata)
 
   letter_data = json.loads(response['message']['content'])['letters'][0]
-  letter_data['text'] = ('@@@').join(paragraphs).replace("\n", ' ').replace('@@@', "\n\n")
+  letter_data['text'] = ('@@@').join(paragraphs).replace("-\n", '').replace("\n", ' ').replace('@@@', "\n\n")
   letter_data['title'] = title.title()
   letter_data['doctype'] = "letter"
 
-  # now do the names
+  # now do the entities
 
   # prompt template ends with <OCR text>
-  letter_names_prompt = prompt_names.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
+  letter_entities_prompt = prompt_entities.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
 
-  response = get_response(letter_names_prompt, LetterListNames)
+  response = get_response(letter_entities_prompt, LetterListEntities)
 
-  letter_data['names'] = []
+  letter_data['entities'] = []
   for letter in json.loads(response['message']['content'])['letters']:
-    for name in letter['names']:
-      letter_data['names'].append(name)
+    for entity in letter['entities']:
+      letter_data['entities'].append(entity)
 
   letters_json.append(letter_data)
 
