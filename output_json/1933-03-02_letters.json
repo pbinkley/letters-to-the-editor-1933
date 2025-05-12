@@ -1,0 +1,320 @@
+[
+  {
+    "author": "H. A. Blachman",
+    "address": "",
+    "subjects": [
+      "Economy"
+    ],
+    "summary": "The author proposes a system where banks can issue checks as an alternative form of currency to bypass withdrawal restrictions, thus helping businesses and keeping the economy flowing.",
+    "doctype": "letter",
+    "text": "SUGGESTS COMMERCIAL SCRIP TO AID BUSINESS\n\n-Letters to the Editor-\n\nTo the Editor of The Press: Inasmuch as those banks which have restricted withdrawals did not see fit to make an exception of commercial accounts which are the life of trade, perhaps this suggestion may furnish an expedient substitute. If the owner of a commercial account will write a check for $10 to the order of cash and take it to his bank, and if the bank will place a stamp thereon, indorsed, \"The Maker of This Check Has Not Issued Checks Like This in a Greater Amount Than His Commercial Deposit in This Bank,\" said check can then be used as scrip in the purchase of any commodity of the payment of any bill to anyone who will be willing to accept same in absolute payment of an obligation of $10. If this practice becomes universal, a new form of currency or commercial barter will have created itself without almost any mechanics. By the time the check has been used a dozen times, we can hope the present situation will have been so relieved, that the bank will be in a position to honor the payment of the check. With the indorsement as suggested, it is the same as a certified check, except that the bank is under no compulsion to honor payment, but by its indorsement furnishes a prospective taker with the information that the maker of the check has sufficient funds in nis commercial account, but obviously must a wait its withdraw until the bank voluntarily lifts the restriction or is in such a position that it can and must do so. Large bills can be paid to creditors, who are willing, by the required number or as many checks of $10 as such creditor may be willing to take. In other words such a check would act as a $10, bill... If the worstcomes to worst the creditor will have one or more $10 checks on his hands, depending on the number such creditor is willing to carry at one time. In the meantime, regardless of its ultimate value, the check has served as a medium of exchange. It will also make liquid the stagnant account. A $10 bill has, of course, gold behind it. The check will have $10 behind it but in additiori, the uncertainty of exchange payment in legal tender. For most part this mv well be disregarded in the face of the advantages and compensations attached thereto, Checks could be written in larger amounts, but they would not pass as easily. Under this plan some schemes might be suggested which might work a fraud. The prabability is that such practices would not be any different than those perpetrated in normal times without the present restrictions. Our present laws would be sufficient to take care of such. A party could not issue checks in a greater amount than his commercial deposits, otherwise the foregoing indorsement could not be secured from the bank. If the banks are willing to cooperate in this plan and permit savings accounts to be converted into checking, there is no reason why considerable hardship cannot be eliminated and the banks' depositors will have much to be thankful. for. H. A. Blachman 813 Public Square Building. ",
+    "title": "Suggests Commercial Scrip To Aid Business",
+    "word_count": 546,
+    "entities": [
+      {
+        "text": "H. A. Blachman",
+        "type": "person",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 26.5
+  },
+  {
+    "author": "Fred W. Rose",
+    "address": "475 East 124th Street",
+    "subjects": [
+      "State Politics",
+      "Economy"
+    ],
+    "summary": "The author commends Governor White's stance against the repeal of enforcement laws before ratification. They criticize 'wets' in the Assembly for attempting to override current law and argue that such repeal would intensify lawlessness, contrary to the wets' professed intentions. The letter also criticizes the newspaper for ridiculing temperance efforts on a day dedicated to school lessons on the subject, suggesting that perhaps a period of unrestricted liquor sales might lead to a change of heart among those who currently favor repeal.",
+    "doctype": "letter",
+    "text": "CENSURE FOR WETS\n\n To the Editor of The Press: Gov. White is to be commended for his stand in opposition to the repeal of state enforcement laws prior to ratification of the repeal amendment. However much the wets in the Assembly think they have a mandate to provide for such a vote, present dissatisfaction with the status quo everywhere would prevent the voters calm consideration of the results of such action and repeal would mean only the intensification of present conditions of lawlessness which they pretend to deplore. This certainly shows up most of the wets in their true light, not as advocates of temperance, but in their lust for drink real enemies of law and order.\n\nAs to the ratification of said amendment there seems to be little doubt at present, as wets are determined to put every obstacle in the way of enforcement so that even sincere drys will be forced to accept their proposals.\n\nYour paper deserves, censure by all right-thinking people for advocating such a course. The recent sneers in your news columns at temperance in the matter of strong drink being emphasized on the day set aside by the state for such teaching in our schools merely illustrates a case in point.\n\nAfter all, repeal may be what is needed to bring some short memoried wets back to their senses-a few years of free flowing booze and they may unite in calling for-more rigid control than was ever before attempted. Fred W. Rose 475 E. 124th street. ",
+    "title": "Censure For Wets",
+    "word_count": 259,
+    "entities": [
+      {
+        "text": "CENSURE FOR",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "text": "WETS",
+        "type": "organization",
+        "identity": "Proponents of repeal of prohibition laws; opponents of temperance."
+      },
+      {
+        "text": "GOV. WHITE",
+        "type": "person",
+        "identity": "Frank B. Willis, Governor of Ohio (1931-1937)"
+      },
+      {
+        "text": "ASSEMBLY",
+        "type": "organization",
+        "identity": "Ohio State Legislature"
+      },
+      {
+        "text": "THE PRESS",
+        "type": "organization",
+        "identity": "Name of the newspaper"
+      },
+      {
+        "text": "DRYS",
+        "type": "group",
+        "identity": "Supporters of prohibition; those advocating for temperance."
+      },
+      {
+        "text": "FRED W. ROSE",
+        "type": "person",
+        "identity": "hypothetical or fictional, as no specific Fred W. Rose is known to be associated with the text in a historical context."
+      },
+      {
+        "text": "CLEVELAND",
+        "type": "place",
+        "identity": "Not mentioned directly in the text, but inferred to be relevant due to mention of state affairs and likely location of letter writer."
+      },
+      {
+        "text": "OHIO",
+        "type": "state",
+        "identity": "State mentioned in context of the letter's discussion on state enforcement laws and repeal amendment."
+      },
+      {
+        "text": "TEMPERANCE",
+        "type": "cause",
+        "identity": "Movement promoting moderation or abstinence from alcohol; opposed to repeal of prohibition laws."
+      },
+      {
+        "text": "RATIFICATION",
+        "type": "process",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 83.9
+  },
+  {
+    "author": "W. A. Krider",
+    "address": "",
+    "subjects": [
+      "City Politics",
+      "National Politics"
+    ],
+    "summary": "The author argues against the corruption in major political parties, advocating for an independent candidate such as Daniel Morgan, who is qualified but unwilling to affiliate with the Republican Party. They criticize the previous election of Peter Witt, blaming the people's decisions on 'prattle and promises' of professional politicians, and express concern for a potential future where change might come through upheaval rather than thoughtful voting.",
+    "doctype": "letter",
+    "text": "WANTED: A MAYOR\n\n To the Editor of The Press:\n\nI cannot see why the city of Cleveland cannot have as a candidate for mayor a man who has the ability to run the city for the benefit of the citizens.\n\nThere are such men in the city of Cleveland who have run in the past and who would run now but they could not affiliate themselves with either of the large parties because the corruption which has crept into these parties. There are men like Mr. D. Cull who has all the qualifications for this position but would run as an independent. Daniel Morgan in my estimation is well qualified for the position but who would not run under the leadership of the Republican Party.\n\nThe last election the people in the city of Cleveland had an opportunity to elect a man in the position of mayor, namely Peter Witt, who would have served them well, but their eyes were dimmed by the prattle and promises of the professional politician and as a res\u00fclt our city is in a terrible situation.\n\nLet us hope that in the next election the people in the city of Cleveland will not take voting as a matter of course, but will give it considerable thought, because if they don't, not only in the city but throughout the country, there is going to be a change in the former government. I do not say that this change will be for the better but it will be a change and it will be bullets rather than ballots.\n\nW. A. Krider. ",
+    "title": "Wanted: A Mayor",
+    "word_count": 275,
+    "entities": [
+      {
+        "text": "WANTED: A MAYOR",
+        "type": "subject",
+        "identity": ""
+      },
+      {
+        "text": "city of",
+        "type": "location",
+        "identity": "place_name.Cleveland"
+      },
+      {
+        "text": "Cleveland",
+        "type": "location",
+        "identity": "city"
+      },
+      {
+        "text": "Daniel Morgan",
+        "type": "person",
+        "identity": "name.Daniel_Morgan"
+      },
+      {
+        "text": "Mr. D. Cull",
+        "type": "person",
+        "identity": "name.D._Cull"
+      },
+      {
+        "text": "Republican Party",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "text": "Peter Witt",
+        "type": "person",
+        "identity": "name.Peter_Witt"
+      },
+      {
+        "text": "professional politician",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "text": "the people",
+        "type": "group",
+        "identity": "general"
+      },
+      {
+        "text": "W. A. Krider",
+        "type": "person",
+        "identity": "name.W._A._Krider"
+      }
+    ],
+    "elapsed_seconds": 58.9
+  },
+  {
+    "author": "Branko M. Solich",
+    "address": "903 E. 73rd street.",
+    "subjects": [
+      "Economy",
+      "National Politics"
+    ],
+    "summary": "The letter discusses the economic challenges presented by the fall in silver prices and declining gold production, predicting a currency crisis. It critiques President Hoover's policies, including high tariffs and demands for debt repayment from foreign nations, leading to economic difficulties. The writer mentions that new gold discoveries previously stimulated American economic growth but no new fields have been found. Furthermore, they criticize the stock market crash of 1929 as a result of excessive credit and big business prosperity.",
+    "doctype": "letter",
+    "text": "PASSING FRONTIERS\n\n To the Editor of The Press:\n\nJames Truslow Adams, in his book called \"Epic of America,\" says, \"The average man in all our modern democracies is no more of a trained economist than our westerners were in 1896. With the immense fall in price of silver and declining production of gold, which the League of Nations states will reach a crisis ins 1940, with the world loaded with debts payable in currency value of 1918, we are already beginning to hear of the demand for a new and more scientific basis for currencythat is a cheaper money to cause inflation for trade and make the payment of debt easier for the debtor. In a sense, Europe is today the new economic frontier of America.\"\n\nUnder President Hoover, who was considered the great engineer, we enacted tariff that almost staggered us with the prohibitive height to which duties were raised, in spite of the fact that we insisted upon collection from other nations of over $11,000,000:000 in loans, even the interest on which could only be paid by selling goods to us.\n\nWe know that there are no new gold fields to be discovered. First railroads in America were built by new supplies of gold found in Sacramento in 1849. Our agrarian empire which lies west of the Mississipi River and the boom of big business, manufacture and commerce on the eastern sea-coastal plan, were stimulated by Civil War plus gold fields discovered in the Rocky Mountains in 1864..\n\nUnparalleled orgy of stock market with its wild speculation ended in the disastrous collapse of 1929, because vast structure was built upon credit. It was the natural outcome of the great prosperity of big business, manufacture and commerce in our country.\n\nBranko M. Solich 903 E. 73d street. ",
+    "title": "Passing Frontiers",
+    "word_count": 307,
+    "entities": [
+      {
+        "name": "James Truslow Adams",
+        "type": "person",
+        "identity": "Author of 'Epic of America' suggesting a new economic basis for currency"
+      },
+      {
+        "name": "President Hoover",
+        "type": "office",
+        "identity": "32nd President of the United States (1929-1933) known for his economic policies."
+      },
+      {
+        "name": "League of Nations",
+        "type": "organization",
+        "identity": "International organization established after World War I, which addressed global crises"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City mentioned as the local context for affairs."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which 'Cleveland' is located; state affairs context implied by discussion of tariffs and economic policies"
+      },
+      {
+        "name": "Sacramento",
+        "type": "place",
+        "identity": "City known for gold discovery in 1849 that spurred westward expansion."
+      },
+      {
+        "name": "Mississippi River",
+        "type": "natural_feature",
+        "identity": "River dividing the agrarian empire from the eastern business region as per the text."
+      },
+      {
+        "name": "Rocky Mountains",
+        "type": "natural_feature",
+        "identity": "Mountain range where additional gold fields were discovered in 1864, stimulating economic growth."
+      },
+      {
+        "name": "First railroads",
+        "type": "infrastructure",
+        "identity": "Were built with funding from the new supplies of gold found in Sacramento."
+      },
+      {
+        "name": "big business",
+        "type": "organization",
+        "identity": "Refers to large industrial corporations contributing to America's economic boom."
+      },
+      {
+        "name": "Branko M. Solich",
+        "type": "person",
+        "identity": "Author or speaker of the letter, potentially a local figure or businessman depending on context."
+      },
+      {
+        "name": "stock market",
+        "type": "institution",
+        "identity": "Facility where securities are traded; mentioned due to its role in the economic disaster of 1929."
+      },
+      {
+        "name": "Speculation",
+        "type": "activity",
+        "identity": "Unregulated buying and selling of stock, leading to the 1929 market crash."
+      }
+    ],
+    "elapsed_seconds": 76.7
+  },
+  {
+    "author": "Arthur Dainley",
+    "address": "5713 Bridge Avenue.",
+    "subjects": [
+      "City Politics",
+      "National Politics"
+    ],
+    "summary": "The author agrees with an article by Arthur Dainley that discusses the state of radio programming, specifically a lack of good music and excessive use of orchestras.",
+    "doctype": "letter",
+    "text": "AGREES WITH WHAT'S WRONG\n\n To the Editor of The Press:\n\nArthur Dainley in Friday's Press wrote an article on what's wrong with radio. I sincerely agree with him. Nowadays we seldom hear good music. I think we ought to have more organ music instead of dizzy orchestras all the time.\n\nI enjoy reading Norman' Siegel's radio column. He has a sense of humor which other radio editors lack Clarence E. Murphy 5726 Bridge avenue.",
+    "title": "Agrees With What'S Wrong",
+    "word_count": 74,
+    "entities": [
+      {
+        "text": "To the Editor of The Press:",
+        "type": "office"
+      },
+      {
+        "text": "Arthur Dainley",
+        "type": "person"
+      },
+      {
+        "name": "Arthur Dainley",
+        "type": "person",
+        "identity": "Author of the letter's subject"
+      },
+      {
+        "text": "wrote an article on what's wrong",
+        "type": "event"
+      },
+      {
+        "text": "with radio",
+        "type": "topic"
+      },
+      {
+        "name": "radio",
+        "type": "topic"
+      },
+      {
+        "name": "organ music",
+        "type": "concept"
+      },
+      {
+        "name": "orchestras",
+        "type": "concept"
+      },
+      {
+        "name": "Norman' Siegel",
+        "type": "person",
+        "identity": "Radio columnist with a sense of humor"
+      },
+      {
+        "text": "I enjoy reading Norman' Siegel's",
+        "type": "quote"
+      },
+      {
+        "text": "radio column.",
+        "type": "location"
+      },
+      {
+        "name": "Norman' Siegel",
+        "type": "person",
+        "identity": "Radio columnist whose radio column is enjoyed by the letter writer"
+      },
+      {
+        "text": "He has a sense of",
+        "type": "description"
+      },
+      {
+        "text": "humor which other radio editors",
+        "type": "comparison"
+      },
+      {
+        "name": "Clarence E. Murphy",
+        "type": "person",
+        "identity": "Letter writer, address provided"
+      }
+    ],
+    "elapsed_seconds": 43.8
+  }
+]

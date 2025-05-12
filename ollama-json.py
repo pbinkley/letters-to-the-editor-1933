@@ -130,6 +130,7 @@ for letter in letters:
   letter_data['text'] = ('@@@').join(paragraphs).replace("-\n", '').replace("\n", ' ').replace('@@@', "\n\n")
   letter_data['title'] = title.title()
   letter_data['doctype'] = "letter"
+  letter_data['word_count'] = words
 
   # now do the entities
 
@@ -145,8 +146,9 @@ for letter in letters:
 
   letters_json.append(letter_data)
 
-  elapsed = time.time() - start
-  print(f"  elapsed time: {round(elapsed, 1)} sec")
+  elapsed_seconds = round(time.time() - start, 1)
+  print(f"  elapsed time: {elapsed_seconds} sec")
+  letter_data['elapsed_seconds'] = elapsed_seconds
 
   counter += 1
 

@@ -1,0 +1,216 @@
+[
+  {
+    "author": "J. J. Levy",
+    "address": "16726 Miles avenue.",
+    "subjects": [
+      "State Politics",
+      "Economy"
+    ],
+    "summary": "The letter proposes that the United States revalue its gold to alleviate the economic depression by reducing the national debt proportionally, similar to France's action after World War I. The author argues that such a measure would significantly decrease unemployment and make it easier to repay debts from 1929 using currency with more buying power in 1933.",
+    "doctype": "letter",
+    "text": "HOW THE FRENCH SCALED DOWN THEIR DEBTS\n\n-Letters to the Editorto the Editor of The Press: At the end of the World War, France discovered that her national debt had risen to the equivalent of $80,000,000,000 against a gold deposit in her vaults of $2,090,000,000. France faced the facts. She realized that employment, bread and butter and shelter were more important than retaining her former valuation of gold.\n\nShe revaluated her gold ounce in the ratio of five to one. She legislated that gold, as far as she was concerned, was five times more valuable in 1930-than it was in 1914. She declared that a franc was five times less in value. This meant that the $80,000,000,000 of the French national debt was automatically decreased in the same proportion. Today it represents in modern American money the sum of $16,000,000,000, the fifth of what it was formerly.\n\nThirty-six of the 37 nations engaged in the World War practically followed the example set by France, either by legislation or through necessity. We alone have refused to revalue our gold in spite of the fact that public and private debts amount to the staggering total of $235,000,000,000 against a gold deposit of approximately $4,500,000,000. In the face of these facts, the bankers would\n\nxxxxxxxxx old dollar would be a \"novel experience\" never before attempted by any nation. You will now naturally ask how this move on the part of the French government affected her business and employment. The French ambassador says that as of October 15th, 1932, there were in France only 251,083 completely out of work; those with partial work numbered 12,203. The total population of France is 40,785,874. If this proportion held true in our country there would be only 750,000 unemployed instead of the 12,000,000 which we actually have.\n\nI am firmly convinced that before we escape from the throes of this depression, we will have revaluated our gold dollar, banks, financiers and capitalists to the contrary. By this I do not mean, as our friends would have you believe, \"inflating\" our currency until it begins to shrink in value, but I mean \"normalizing\" our currency so that a 1929 debt can be paid with honest 1933 dollars and not with dollars whose buying power has reached the unheard of peak of today. The constitution of this country invests in Congress full power to legislate the value of currency and the sooner they take steps in this direction, the sooner will we find ourselves on the road to recovery.\n\nI am sure that if all the people who are interested in seeing \"better times\" return to us, would urge their congressmen and senator-to-support gold revaluation, we will get some quick action in the right direction. J. J. Levy 16726 Miles avenue. ",
+    "title": "How The French Scaled Down Their Debts",
+    "word_count": 463,
+    "entities": [
+      {
+        "text": "J. J. Levy",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "text": "Congress",
+        "type": "organization",
+        "identity": "U.S. Congress"
+      },
+      {
+        "text": "French",
+        "type": "person",
+        "identity": "FRENCH GOVERNMENT"
+      },
+      {
+        "text": "French ambassador",
+        "type": "person",
+        "identity": "France's Ambassador to the U.S."
+      },
+      {
+        "text": "French",
+        "type": "nation",
+        "identity": "FRANCE"
+      },
+      {
+        "text": "world War",
+        "type": "event",
+        "identity": "World War I"
+      },
+      {
+        "text": "debt",
+        "type": "concept",
+        "identity": "FRENCH NATIONAL DEBT"
+      },
+      {
+        "text": "gold",
+        "type": "commodity",
+        "identity": "GOLD STOCK IN FRANCE"
+      },
+      {
+        "text": "Cleveland",
+        "type": "place",
+        "identity": "Place mentioned in the context of local affairs."
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "State where '16726 Miles avenue' is located."
+      },
+      {
+        "text": "America",
+        "type": "region",
+        "identity": "UNITED STATES"
+      },
+      {
+        "text": "debt",
+        "type": "concept",
+        "identity": "AMERICAN DEBT"
+      },
+      {
+        "text": "gold",
+        "type": "commodity",
+        "identity": "GOLD STOCK IN THE UNITED STATES"
+      },
+      {
+        "text": "dollars",
+        "type": "currency",
+        "identity": "UNITED STATES DOLLAR"
+      }
+    ],
+    "elapsed_seconds": 68.4
+  },
+  {
+    "author": "Cornelius Maloney",
+    "address": "1413 Williamson Building.",
+    "subjects": [
+      "National Politics",
+      "Economy"
+    ],
+    "summary": "The letter proposes a plan where banks certify checks to alleviate the economic freeze caused by the inability to cash checks due to the financial crisis. The author believes this method could stimulate circulation of money and provide relief, considering banks are solvent.",
+    "doctype": "letter",
+    "text": "WHY NOT SWAP CHECKS?\n\nthe Editor of The Press: With the co-operation of the banks as an extraordinary measure in an extraordinary condition, I see no insuperable reason why thefollowing plan cannot be carried out: Suppose A has money in bank. The bank cannot at present cash his check. Suppose A, owing B, or seeking cash of goods from B, draws his check, payable to B. The bank co-operating, certifies this check, confirming that it owes A the money. A delivers the certified check to B, who, having faith in the certifying bank, accepts it, delivers it by indorsement to C, who, with like faith, accepts it, and so on. A $10 check thus circulating could discharge $1000 of aggregate obligations in a short time, even as currency can do. These checks are as good as the currency, assuming that the certifying banks ultimately redeem them, which is sure enough for trading purposes, if, as is claimed, the best banks of Cleveland are solvent. If these banks are solvent, and if the public believe they are solvent (which faith would also help to keep and make them solvent) this plan of course would work, and working, would bring tremendous relief to the present paralyzing situation. Cornelius Maloney 1413 Williamson Building. ",
+    "title": "Why Not Swap Checks?",
+    "word_count": 210,
+    "entities": [
+      {
+        "text": "A",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "text": "B",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "text": "C",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "text": "the Editor of The Press:",
+        "type": "office",
+        "identity": "Editor of The Press"
+      },
+      {
+        "text": "banks",
+        "type": "organization",
+        "identity": "banking institutions"
+      },
+      {
+        "text": "Cleveland",
+        "type": "place",
+        "identity": "the city in Ohio where the best banks are assumed to operate"
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "state where the letter's local affairs take place, presumably involving banks from Cleveland"
+      }
+    ],
+    "elapsed_seconds": 36.3
+  },
+  {
+    "author": "John F. Robb",
+    "address": "",
+    "subjects": [
+      "State Politics",
+      "Economy",
+      "City Politics"
+    ],
+    "summary": "The author, John F. Robb, complains about the unfair charge for a cradle telephone installation in Cleveland. Despite repeated complaints to the Public Utilities Commission about the 25c monthly fee (totaling over $18 plus an initial $5 installation charge), there has been no resolution to reduce the charge, which is unjust compared to rates in Washington, D.C., where the charge was lower from the beginning. The author questions the effectiveness and fairness of the Public Utilities Commission's handling of this issue.",
+    "doctype": "letter",
+    "text": "THE CRADLE PHONE OVERCHARGE\n\n I wils one of the nist users in the city of Cleveland of the cradle telephone, installed in my office the first part of 1927. The installation charge was $5.00 according to my records, and the initial monthly charge was 50c. I protested this 50c charge, immediately to the Public Utilities Commission and evidently others in the state did likewise, for the commission compelled the company then to reduce its monthly charge to 250. I have written to the Public Utilities Commission from time to time, urging that after a person has paid the 25c charge for a certain length of time, the charge be discontinued. This is the only fair and proper way to handle this matter, but so far as I can see the Public Utilities Commission is deaf as a post, and does not deal with the problem put up to the commission in this matter. From my correspondence with the commission, it seems to them that this rate on the cradle phone is wrapped up in the entire rate structure and regulations of the company, whereas, it is obvious that it is not. The sole question is whether an equitable charge is being levied E upon the people of this state, and I L say that the present charge is exFor over six years I have paid 25c a month for the cradle phone con-s venience, or a total of something E over $18.00 plus an installation charge of $5.00, which brings the total to an amount that would pay for several of these cradle phones very readily. I have referred to the commission the fact that in the t District of Columbia the cradle phone was installed in 1931 on the b basis of a cash payment of $4.00, or a payment of $4.50 on a time basis. The Public Utilities Commission compels the telephone company there to get its charges down to a reasonable point. On the basis of the charge at Washington I have paid for nearly six cradle telephones in the past six years.\n\nI feel our chief obstacle is the supineness of our Public Utilities Commission. Why should the telephone company worry when all it has to do is to tie up its rate structure case before the commission for six, eight or some such unending term of years? Why should people pay taxes to support such a commission? John F. Robb Hanna Building. ",
+    "title": "The Cradle Phone Overcharge",
+    "word_count": 408,
+    "entities": [
+      {
+        "text": "I",
+        "type": "person",
+        "identity": "Author of the letter"
+      },
+      {
+        "text": "Public Utilities Commission",
+        "type": "organization",
+        "identity": "Government body responsible for utilities regulation in Ohio"
+      },
+      {
+        "text": "telephone company",
+        "type": "organization",
+        "identity": "Company providing telecommunication services in Ohio"
+      },
+      {
+        "text": "District of Columbia",
+        "type": "place",
+        "identity": "Federal district, USA"
+      },
+      {
+        "text": "Washington",
+        "type": "city",
+        "identity": "Capital city of the USA"
+      },
+      {
+        "text": "Cleveland",
+        "type": "place",
+        "identity": "City in Ohio"
+      },
+      {
+        "text": "John F. Robb",
+        "type": "person",
+        "identity": "Letter writer"
+      },
+      {
+        "text": "Cleveland",
+        "type": "place",
+        "identity": "City in Ohio where the letter's author resides or is concerned about local affairs"
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "State in which the letter's author resides"
+      }
+    ],
+    "elapsed_seconds": 57.6
+  },
+  {
+    "author": "Kay Jackson",
+    "address": "Norwalk, O.",
+    "subjects": [
+      "National Politics",
+      "Economy"
+    ],
+    "summary": "The author argues against taxation of large incomes from the testimony of Charles E. Mitchell, suggesting that taxing the rich will not yield a significant amount of money due to tax evasion strategies and the rarity of such individuals being taxed.",
+    "doctype": "letter",
+    "text": "SWAT THE RICH? FORGET IT!\n\nTo the Editor of The Press: After the candid admission by Mr. Charles E. Mitchell of the New York National City Bank to a Senate committee the other day it seems incredible that anyone will be so naive as to assert that the United States government can ever raise an appreciable amount of money by means of a tax upon large incomes-by \"swatting the rich.\"\n\nHe frankly confessed that he had xxx xxx xxx xxx xxx xxx his $25,000 a year salary in bonuses on stock and bond deals during the three boom years, 1927, 1928 and 1929. This money was simply given to him by the National City Co., a company formed and manned by the National City Bank to deal in stocks and bonds in a big way. He explained that this system of compensating him had been inaugurated because of his \"low\" salary, compared to those given \"private\" bankers, and Committeeman Couzens, senator from Michigan, asked him if he believed it to be a good system. Banker Mitchell promptly replied, \"Yes, I feel very strongly about it.\"\n\nAnd then, but only after persistent questioning by Mr. Pecora, the counsel for the committee, he disclosed the measures he employed in 1929 to evade his income tax. They were exceedingly simple. He merely sold stock in his bank to his daughter at a \"loss\" of more than $2,500,000. After the day for declaring his income had passed he bought it all back!\n\nOf course Mr. Mitchell is not an exception among the considerable group of American citizens who obtain incomes of that size and in that manner, nor can it be argued ing the income tax, efficient as it surely is, is the only one in vogue among these people.\n\nSo, in making its estimates of the money the government can raise from various sources to balance the budget, Congress would do well to just forget all about the rich and turn its attention elsewhere. Kay Jackson Norwalk, O.",
+    "title": "Swat The Rich? Forget It!",
+    "word_count": 335,
+    "entities": [],
+    "elapsed_seconds": 20.5
+  }
+]
