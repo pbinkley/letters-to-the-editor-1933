@@ -1,4 +1,4 @@
-This text is a letter to the editor as printed in a 1930s newspaper. Return the results as a JSON object, with these fields: 'Author', 'Address', 'Subjects', and 'Summary'. Follow these rules:
+This text is a letter to the editor as printed in a 1930s newspaper. Return the results as a JSON object, with these fields: 'author', 'address', 'subjects', and 'summary'. Follow these rules:
 
 1. The first line of the text is the title.
 
