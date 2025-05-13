@@ -1,5 +1,6 @@
-from ollama import chat
-from pydantic import BaseModel
+from google import genai
+from google.genai import types
+
 import json
 import sys
 import os
@@ -10,7 +11,7 @@ import re
 # based on https://ollama.com/blog/structured-outputs
 
 model = 'olmo2'
-
+ 
 class Letter(BaseModel):
   author: str
   address: str
@@ -134,7 +135,6 @@ for letter in letters:
   letter_data['doctype'] = "letter"
   letter_data['word_count'] = words
   letter_data['model'] = model
-
   # now do the entities
 
   # prompt template ends with <OCR text>
@@ -157,5 +157,5 @@ for letter in letters:
 
 # Write to json file
 print(f"Writing to {filename}.json")
-with open(f"output_json/{filename}.json", "w") as outfile:
+with open(f"gemini_json/{filename}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))
