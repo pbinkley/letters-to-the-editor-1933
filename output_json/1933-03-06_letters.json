@@ -6,19 +6,30 @@
       "State Politics",
       "Economy"
     ],
-    "summary": "The author, Fred P. Soukup, expresses frustration over the passage of a series of bank bills that, in his opinion, prioritize saving banks over supporting local governments and relief agencies. He suggests that the governor or legislators could have included a provision allowing county treasurers to accept bank savings deposit assignments for tax payments, thereby providing immediate funds to local governments and giving some semblance of relief to depositors.",
+    "summary": "The letter criticizes state and legislative actions, particularly concerning the passing of bank bills without adequate consideration for local governments and relief for tax obligations. The author suggests a provision in the bills to allow payment of taxes with bank deposits, prioritizing tax payments over other withdrawals.",
     "doctype": "letter",
     "text": "ASKS SUPPORT FOR VEGETABLE GARDEN PROJECTS\n\nLetters to the EditorTo the Editor of The Press: It would seem to me that our governor and l\u00e9gislators, in their frantic haste to save the banks, by the passage of bank bills of last Monday, apparently again forgot the \"forgotten man.\" But not only that, they forgot local governments, and the inability of political subdivisions of our government to function without money. h It would seem to me that our governor could at least have recommended, or some one of our numerous legislators suggested to him, that, if such bills as proposed by him, which were without debate enacted into law, whether constitutional or not, carry in them a provision that would authorize county treasurers throughout the state to take in payment of tax obligations, orders or assignmens of saving deposits in banks that are allowed to operate under the bank bills, in payment of taxes, etc., and that such assignments for such tax purposes shall first be paid, before other withdrawals are honored by, said banks. This would have meant that millions of dollars throughout the state would already have been made available to the government subdivisions of this state, and it wuold have meant that the bills would have in them some semblance of relief for the depositor, and not solely relief for the banker. Our relief agencies and government units today would not be in choas. Fred P. Soukup 702 Engineers Bldg. ",
     "title": "Asks Support For Vegetable Garden Projects",
     "word_count": 243,
+    "model": "olmo2",
     "entities": [
       {
-        "name": "Fred P. Soukup",
+        "text": "Fred P.",
         "type": "person",
         "identity": ""
+      },
+      {
+        "text": "governor",
+        "type": "office",
+        "identity": "Governor of Ohio"
+      },
+      {
+        "text": "legislators",
+        "type": "group",
+        "identity": "Ohio Legislators"
       }
     ],
-    "elapsed_seconds": 25.0
+    "elapsed_seconds": 47.7
   },
   {
     "author": "Charles F. Irish",
@@ -27,124 +38,114 @@
       "City Politics",
       "Economy"
     ],
-    "summary": "The author advocates for the establishment of a park commission to properly manage and protect Cleveland's parks, arguing that the current political administration has led to mismanagement and abuse of resources. They also express concern over how funds designated for park improvements will be used under political control, particularly with regard to the natural upkeep and potential long-term damage to the parks' ecosystems.",
+    "summary": "The letter's author, Charles F. Irish, president of the American Society of Arborists, expresses his concern over the mishandling and neglect of Cleveland's parks. He calls for a commission-based administration for park management, stating that this would ensure effective use of funds and resources. The author argues that under the present political setup, the parks are poorly maintained due to political grandstanding and spoils system influence. Furthermore, he warns against potential damage to park ecosystems if current practices continue, emphasizing the need for a sustainable approach to park upkeep.",
     "doctype": "letter",
     "text": "WANTS PARKS RUN BY A COMMISSION\n\n To the Editor of The Press: I have been following Mr. Gray's articles and note with interest his suggestion in the Feb. 11 issue of The Press in which he urges a commission form of administration for our park system.\n\nI cannot conceive of a more worthy project in which The Cleveland Press could interest itself than that of assisting to organize the public mind to effect this change in the city government. With Mayor Miller proposing to utilize so much of the relief fund he hopes to obtain, for the employment of thousands in park improvement, the subject of parks becomes of greater importance than ever before.\n\nUnder the present setup the investment in parks will continue to be a political football with the public and their parks on the short end. The record of the handling of the parks for 20 years has been one of mishanagement, ignorarice and neglect. When we have had a sincere employee, he has been so dominated by the spoils system and political grandstanding that he has been unable to function. Under such conditions the use of additional funds in the parks, much as they are needed, will only add to political spoils.\n\nUnder the present setup thousands of the unemployed can be effectively employed in the parks, but If they are put to work faking up and burning every leaf and stray bit of organic material and we do not replace this natural fertilizer, the depreciation of the parks by the injury to trees and shrubs and permitting the erosion of the soil from the slopes will do irreparable damage. This is only one of the many ways in which our parks have been abused.\n\nYours for a square deal to the parks, to the persons whose generosity made them possible and to the public who supports them. Charles F. Irish, president American Society of Arborists. ",
     "title": "Wants Parks Run By A Commission",
     "word_count": 320,
+    "model": "olmo2",
     "entities": [],
-    "elapsed_seconds": 21.8
+    "elapsed_seconds": 48.9
   },
   {
     "author": "J. Homolka",
-    "address": "3387 E. 65th street",
+    "address": "3387 E. 65th street.",
     "subjects": [
-      "National Politics",
-      "Economy"
+      "Economy",
+      "National Politics"
     ],
-    "summary": "The author, J. Homolka, writes about the 'back to barter' movement, suggesting it could lead to economic prosperity if implemented nationwide. They argue that with existing community resources and cooperation with farmers, a barter system could be viable. The letter highlights the potential benefits of eliminating money in favor of direct trade between communities and even nations. However, the author also acknowledges the risks of a divided economy, particularly due to differing standards.",
+    "summary": "The author argues that the 'back to barter' movement could lead to the greatest prosperity if organized and spread across the country, as communities already cooperate in various industries like tanneries and coal mines. They believe that such a system could link communities from coast to coast and even facilitate international trade, avoiding the pitfalls of economic depressions. The author also contemplates a division between a gold standard and barter-based economies within the nation but sees this as a manageable challenge given sufficient willpower.",
     "doctype": "letter",
     "text": "BACK TO BARTER\n\n To the Editor of The Press: Permit me to express my views on the subject \"back to barter.\" I believe this movement once organized and spread over the country could bring about the greatest prosperity we have ever known. Since some communities already boast tanneries, coal mines, refineries, co-operation with farmers and so on it would be Just as possible to maintain founWe've already gotten accustomed to these things, they were created by labor. Communities could be linked up from coast to coast, from the north to the south. I'll go as far as to say that trade between nations could be worked out. The dangerlies in the fact that this movement would lead to a split nation, part of our country would still follow the gold standard, the other, of course, would trade between themselves by the medium of labor.\n\nOnce labor learns how nicely it can do without money, as we now know, nothing but a miracle will induce them to go back to it and why should they? We work a few years to obtain the necessities and comforts of life, we think we're all set to enjoy life and along comes old man depression, sweeps everything from under our very nose and where are we.\n\nI'll admit there is much to be worked out in this idea, but there is a saying that where there is a will there is a way. J. Homolka, 3387 E. 65th street. ",
     "title": "Back To Barter",
     "word_count": 246,
+    "model": "olmo2",
     "entities": [
       {
-        "text": "To the Editor of The Press:",
-        "type": "office",
+        "name": "Permit me",
+        "type": "expression"
+      },
+      {
+        "text": ""
+      },
+      {
         "identity": ""
       },
       {
-        "text": "",
-        "type": "other",
-        "identity": ""
+        "name": "To the Editor",
+        "type": "address"
       },
       {
-        "text": "\"Permit me to express my views on the subject \"back to barter.\" I believe this movement once organized and spread over the country could bring about the greatest prosperity we have ever known.\"",
-        "type": "quoted_text",
-        "identity": "Quote"
+        "text": "\"The Press\""
       },
       {
-        "text": "Cleveland",
-        "type": "place_name",
-        "identity": "Place name, likely refers to the city where the newspaper is published."
+        "name": "Editor",
+        "type": "office"
       },
       {
-        "text": "",
-        "type": "other",
-        "identity": ""
+        "name": "J. Homolka",
+        "type": "person",
+        "identity": "Author of the letter"
       },
       {
-        "text": "\"Since some communities already boast tanneries, coal mines, refineries, co-operation with farmers and so on it would be Just as possible to maintain foun-",
-        "type": "quoted_text",
-        "identity": "\"Maintain our local industrial and agricultural infrastructure.\""
+        "name": "back to barter",
+        "type": "subject"
       },
       {
-        "text": "We've already gotten accustomed to these things, they were created by labor.",
-        "type": "quoted_text",
-        "identity": "\"Statements reflecting worker sentiment around the era.\""
+        "text": "\"movement\""
       },
       {
-        "text": "communities",
-        "type": "other",
-        "identity": "Unclear if specific communities are mentioned; likely refers to local areas or regions."
+        "name": "this movement",
+        "type": "general-entity"
       },
       {
-        "text": "",
-        "type": "other",
-        "identity": ""
+        "name": "cooperation",
+        "type": "organization"
       },
       {
-        "text": "linked up from coast to coast, from the north to the south.",
-        "type": "quoted_text",
-        "identity": "\"The concept of nationwide cooperation.\""
+        "text": "with farmers and so on"
       },
       {
-        "text": "I'll go as far as to say that trade between nations could be worked out.",
-        "type": "quoted_text",
-        "identity": "\"An optimistic view on international commerce through barter.\""
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Location referenced in the letter's context, potentially dealing with local affairs."
       },
       {
-        "text": "this movement",
-        "type": "other",
-        "identity": "The barter movement itself, likely referring to the economic system proposed."
+        "name": "gold standard",
+        "type": "concept"
       },
       {
-        "text": "would lead to a split nation,",
-        "type": "quoted_text",
-        "identity": "\"Concerns regarding the potential division of economic practices.\""
+        "text": "\"gold standard\""
       },
       {
-        "text": "gold standard",
-        "type": "concept",
-        "identity": "Economic concept referring to the monetary policy based on gold."
+        "name": "trade",
+        "type": "activity"
       },
       {
-        "text": "part of our country would still follow the gold standard,",
-        "type": "quoted_text",
-        "identity": "\"Concerns about economic division.\""
+        "text": "\"trade between nations\""
       },
       {
-        "text": "old man depression",
-        "type": "other",
-        "identity": "Euphemism for the Great Depression."
+        "name": "dangerlies",
+        "type": "concept"
       },
       {
-        "text": "sweeps everything from under our very nose and where are we?",
-        "type": "quoted_text",
-        "identity": "\"The profound impact of the Great Depression.\""
+        "text": "\"dangerlies in the fact\""
       },
       {
-        "text": "J. Homolka,",
-        "type": "person_name",
-        "identity": "Name likely refers to an individual, possibly the author or a person involved in the barter movement."
+        "name": "nation",
+        "type": "organization}, ",
+        "  {": ": ",
+        "}, {": ": "
       },
       {
-        "text": "3387 E. 65th street.",
-        "type": "address",
-        "identity": "\"Residential address.\""
+        "name": "part",
+        "type": "general-entity"
+      },
+      {
+        "text": "\"part of our country\""
       }
     ],
-    "elapsed_seconds": 89.2
+    "elapsed_seconds": 85.1
   },
   {
     "author": "Dr. S. H. Englander",
@@ -152,109 +153,85 @@
     "subjects": [
       "Economy"
     ],
-    "summary": "The author, Dr. S. H. Englander, complains about the cost of telephone extensions and bells in their office, totaling $105 over seven years, questioning the fairness of the charges in comparison to the 25-cent cradle fee.",
+    "summary": "The author, Dr. S. H. Englander, complains about the ongoing charges for phone extensions and bells in their office. Despite the recent media attention to a 25-cent charge for cradle phones, the author highlights the significantly higher monthly fees they have been paying for seven years for an extension and a bell, amounting to $105. This is described as a substantial amount compared to the small cradle charge and is questioned why the larger charges remain unnoticed.",
     "doctype": "letter",
     "text": "JUST A DROP IN THE BUCKET\n\n To the Editor of The Press: This discussion of the 25-cent charge for cradle phones amuses me. It is really just a drop in the bucket. How about making just a little fuss about the charge on extensions and extra bells? There are two of us in this office, necessitating two phones. For the extension we are charged $1 per month, and for a bell 25c. This has gone on now for over seven years, making totals of $21-for the bell (some bell) and $84 for the extra phone. Just compare that to the measly 25c charge for the cradles and get yourself a big laugh. If it were not so outrageous, it would be funny. Dr. S. H. Englander 719 Osborn Bldg. ",
     "title": "Just A Drop In The Bucket",
     "word_count": 129,
-    "entities": [
-      {
-        "name": "Dr. S. H. Englander",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "name": "719 Osborn Bldg.",
-        "type": "organization",
-        "identity": "Office location; likely refers to a specific office within a building, but the exact details are not given."
-      },
-      {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "Place name; refers to the city where the letter's writer is based and suggests local affairs."
-      },
-      {
-        "name": "To the Editor of The Press:",
-        "type": "person",
-        "identity": "Addressee; role is that of the editor of a specific newspaper, but the exact identity of the person is not provided."
-      },
-      {
-        "name": "25-cent charge for cradle phones",
-        "type": "concept",
-        "identity": ""
-      },
-      {
-        "name": "extensions and extra bells",
-        "type": "product",
-        "identity": "The products mentioned as being charged for, which are additional features for telephone service."
-      }
-    ],
-    "elapsed_seconds": 46.6
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 38.6
   },
   {
     "author": "Arthur Bender",
-    "address": "",
+    "address": "2325 Riverside Road",
     "subjects": [
+      "State Politics",
       "Economy"
     ],
-    "summary": "The author argues for the establishment of a department within the Postal Savings Bank to offer checking accounts with guaranteed safety, as a response to the perceived inadequacies of commercial banks. This move would leverage the government's existing banking services and its issuing of money, while ensuring safe handling of checking accounts for those who prefer guaranteed security over speculation.",
+    "summary": "The letter's author, Arthur Bender, suggests that the Postal Savings, a government-operated bank, should extend its services to include checking accounts with guaranteed safety for customers who desire an alternative to commercial banking. Bender questions why the government, which issues currency and guarantees savings, does not offer this service, citing the current shortcomings of commercial banks and their failure to imaginatively serve the public's needs for financial security.",
     "doctype": "letter",
     "text": "WANTS POSTAL BANK TO HANDLE CHECKS\n\n To the Editor of The Press: Why don't the bright boys of backward business get back of the now heavily functioning government bank, the Postal Savings, by starting and carrying through a move-ment to add to the Postal Bank a department for checking accounts of unlimited amounts and with all deposits guaranteed?\n\nOur government issues our money. it provides a guaranteed safety now on savings accounts-just why could it not have a checking account department for those who don't wish to speculate and who desire guaranteed safety? Many today would be glad to pay for the safe handling of a checking account. All this would be silly in the era that is now rapidly passing were it not for the fact that the government is in the banking business and strenously. The Federal Reserve, the Postal Bank, the R. F. C.! And is the government making loans? Why be afraid of our commercial banks and bankers? With some appreciated exceptions bankers are right now proving themselves ine capable of properly handling the money entrusted to their care. Above all, they lack the imagination to percieve their just responsibility and the ideals of glorious service that is necessary for the well-being of our nation. Arth Bender 2325 Riverside road. ",
     "title": "Wants Postal Bank To Handle Checks",
     "word_count": 215,
+    "model": "olmo2",
     "entities": [],
-    "elapsed_seconds": 19.7
+    "elapsed_seconds": 40.4
   },
   {
     "author": "B. O. Selple",
     "address": "",
     "subjects": [
-      "City Politics",
-      "Economy"
+      "National Politics"
     ],
-    "summary": "The author praises the citizens for their courage and cooperation during a financial crisis, where their bank accounts were restricted. They accepted the situation for the common good, showcasing their faith and determination amidst hardship.",
+    "summary": "The author discusses the courage and cooperative spirit shown by citizens in a recent financial crisis, emphasizing their faith and collective good over personal inconvenience and despair.",
     "doctype": "letter",
     "text": "A TEST OF COURAGE\n\n To the Editor of The Press: The individual and collective courage of American citizens has been tested repeatedly and in various ways since the founding of this nation more than a century and a half ago. In all of these tests they have been tried, and at times severely so but never have been found wanting in that sensible, consistent type of moral courage which has returned them victorious on a thousand battlefields in almost every kind of contest.\n\nWithin recent days or weeks the citizens in this particular section of the nation, have been put to another serious and trying test. They -have suddenly and entirely without 1 warning, had their savings and even their checking accounts in their banking institutions tied up under severe restrictions thus making it extremely difficult and in many instances, entirely impossible for them to meet their current obligations. Checks which had been issued in good faith and accepted in the same manner, were returned marked \"restricted funds\" to the great embarrassment of all parties concerned. Withdrawal of cash deposits were limited to an almost negligible percentage or entirely eliminated through the expediency of \"bank holidays.\" Surely here was a real test coming as it did, after many weary discouraging months of business depression which had already -taxed the resources of every one almost beyond limit.\n\nDid these citizens give way to panic and despair? Did they consider violence or retallation? Did they resort to vigorous criticism or abuse? No, but they did promptly ask for an explanation of this action and upon being assured and convinced that it was a necessary move to protest individual entities and to insure a fair and equal distribution of available funds, they accepted the situation in the interest of the common good and are trying to forget their personal inconvenience. This faith, co-operation, courage and determination cannot be denied and must not be abused.\n\nB. O. Selple, superintendent State-City Employment Service.",
     "title": "A Test Of Courage",
     "word_count": 328,
+    "model": "olmo2",
     "entities": [
       {
         "text": "To the Editor of The Press:",
         "type": "office",
-        "identity": ""
+        "identity": "The role of 'The Editor' is inferred based on the context as being the person in charge of editing and publishing letters in 'The Press', a 1930s newspaper."
+      },
+      {
+        "text": "B. O. Selple",
+        "type": "person",
+        "identity": "B.O. Selple is mentioned as the Superintendent, suggesting a high-ranking official in the State-City Employment Service during the 1930s."
       },
       {
         "text": "American citizens",
         "type": "person",
-        "identity": []
+        "identity": "A collective term for the residents of the United States who have displayed courage throughout history."
       },
       {
-        "text": "individual and collective courage",
-        "type": "abstraction",
-        "**": "# Not a name",
-        "identity": ""
-      },
-      {
-        "text": "nation",
-        "type": "place",
-        "identity": "United States of America"
+        "text": "citizens",
+        "type": "person",
+        "identity": "The unspecified 'citizens' in a particular section of the nation are individuals who demonstrate courage during a recent financial crisis."
       },
       {
         "text": "Cleveland",
-        "type": "city",
-        "identity": "Ohio"
+        "type": "place",
+        "identity": "Not explicitly mentioned but inferred as relevant due to the reference to local affairs (e.g., 'this particular section of the nation')."
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "Implied by reference to state-level affairs and actions taken by the State-City Employment Service, which suggests a state-wide impact or organization."
+      },
+      {
+        "text": "business depression",
+        "type": "event",
+        "identity": "Refers to the economic downturn that afflicted the United States in the 1930s, notably during the Great Depression."
       },
       {
         "text": "State-City Employment Service",
         "type": "organization",
-        "identity": "B. O. Selple"
-      },
-      {
-        "text": "superintendent",
-        "type": "office",
-        "identity": "B. O. Selple"
+        "identity": "An organization responsible for employment services at the state level, existing presumably in the 1930s United States."
       }
     ],
-    "elapsed_seconds": 40.5
+    "elapsed_seconds": 84.7
   }
 ]

@@ -1,34 +1,41 @@
 [
   {
-    "author": "E.-S. Byers",
+    "author": "E. S. Byers",
     "address": "",
     "subjects": [
       "State Politics",
       "National Politics",
       "Economy"
     ],
-    "summary": "The letter expresses concern over legislative delegation of power to the executive branch, citing the insurance superintendent's rule-making authority as an example. The author argues that such measures could lead to abuses and disregards by businesses. It brings up the contradiction in demands for constitutional adherence while supporting actions that potentially undermine it.",
+    "summary": "The author, E. S. Byers, writes about concerns over excessive authority given to governmental departments and officials. They question the delegation of constitutional power, pointing out potential dangers in allowing a superintendent of insurance to make rules for the insurance business without sufficient expertise or understanding of the industry. The letter highlights issues related to accountability in the presidential control over banks due to his electability and contrasts this with the political appointment of superintendents who may lack knowledge about the sectors they regulate. Byers questions the legitimacy and constitutionality of such delegations and urges readers to consider the possible abuses and contradictions with previous demands for constitutional adherence.",
     "doctype": "letter",
     "text": "MR. BYERS SEES DANGER IN TOO MUCH AUTHORITY\n\nLetters to the Editor To the Editor of The Press: In this period when legislative bodies, unable to act for themselves, seem inclined to abdicate their constitutional powers at the behest of the executive branches of the government, it will be well for the people to bear in mind that out of such a situation may grow abuses far worse than the ills they are intended to remedy.\n\nIn the measures sought by President Roosevelt there is at least an appearance of delegation of constitutional power, in the bill enacted at a midnight session of our own Legislature attempting to grant plenary powers to the superintendent of insurance to control the insurance business in exercise of his absolute discretion (subject only to approval by the director of commerce), we have a measure which, if it were to be upheld by the courts, which God forbid, might serve as a precedent for legislation granting to governmental departments arbitrary control of every activity which could be said to be tinged with a public interest.\n\nIn granting to the president the power given him to control the banks, there are two saving considerations.\n\nHe is an elective, official. If he abuses his power he is accountable to the people and he might be impeached for such abuse. Moreover, it is fairly apparent that the bankers are not telling him what to do.\n\nThe superintendent of insurance is a political appointee. In our history usually he knows little or nothing about the insurance business when he takes office, and sometimes not much thereafter. Almost invariably he is a lawyer who is found connected with the insurance business when he goes out of office. The rules he makes will be and must be rules which the insurance companies want, for if the federal or state constitutions are still in effect, it is reasonably plain that the Legislature cannot itself make any law impairing the obligations of contracts, much less delegate that power to a mere superintendent of insurance.\n\nIt follows that such rules as he might make which were unlawful would be disregarded by the companies which were opposed to them. Where are the 400 percenters who were so vociferous only a short time ago in demanding that we all \"stand by the Constitution?\" E.-S. Byers. ",
     "title": "Mr. Byers Sees Danger In Too Much Authority",
     "word_count": 389,
+    "model": "olmo2",
     "entities": [],
-    "elapsed_seconds": 23.0
+    "elapsed_seconds": 58.4
   },
   {
     "author": "John J. Henry",
-    "address": "2117 W. 33rd street.",
+    "address": "2117 W. 33d street.",
     "subjects": [
       "National Politics",
       "Economy"
     ],
-    "summary": "The author questions the negative implications of revaluing the gold dollar, suggesting that similar measures taken by France and other nations did not lead to calamity. They argue that such a move would make the current depression seem minor in comparison and express hope that the new president might take similar steps.",
+    "summary": "The author questions Mr. McCarthy's view on revaluation of the gold dollar, arguing that other nations have successfully revalued without causing the catastrophic outcomes predicted by Mr. McCarthy. They suggest that a revaluation could significantly alleviate the current economic depression.",
     "doctype": "letter",
     "text": "WILL WE DEVALUATE\n\n To the Editor of The Press: This is an answer to Mr. McCarthy's letter on revaluation of the gold dollar.\n\nIf to revaluate our gold dollar would bring on such a calamity as he would have us believe why did it not happen when all of the foreign nations revaluated their gold ounce or dollar? If to revaluate our gold dollar or ounce would bring on confusion in foreign exchange and international trade we certainly would have received some effect when that little trick was pulled over in Europe.\n\nFrance discounted her national debt five times. It once was 80 billion, it now represents 16 billion in modern American money. This was all brought about by the revaluation of her gold dollar.\n\nWhen our gold dollar is revaluated this depression will look like a piker to any other hard times we have ever experienced. I would not be surprised if our new president takes similar steps as did France and other nations.\n\nJohn J. Henry 2117 W. 33d street. ",
     "title": "Will We Devaluate",
     "word_count": 172,
-    "entities": [],
-    "elapsed_seconds": 18.3
+    "model": "olmo2",
+    "entities": [
+      {
+        "text": "WILL WE DEVALUATE",
+        "type": "headline"
+      }
+    ],
+    "elapsed_seconds": 39.4
   },
   {
     "author": "Robert R. Fink",
@@ -37,41 +44,131 @@
       "Economy",
       "National Politics"
     ],
-    "summary": "The author disputes John McCarthy's stance against revaluating gold, arguing that it would help stabilize international trade and enable debt repayment under fair conditions. He also points out that keeping money in a sock rather than lending it does not increase currency. Finally, he suggests that revaluation would benefit the economy by enabling farmers to afford goods produced in the USA.",
+    "summary": "The author challenges John McCarthy's opinion against gold revaluation, arguing that it would correct the imbalance created by varying gold content in foreign currencies and enable a fairer repayment of debts contracted during years of cheap dollars.",
     "doctype": "letter",
     "text": "STANDS FOR REVALUATION\n\n To the Editor of The Press: John McCarthy in a letter printed in this column on March 8 says that revaluating gold would be foolish. The confusion in foreign exchange would be a mighty small detail as all exchanges are keyed to ever-changing prices as it is.\n\nThe confuston in international trade would certainly benefit you, Mr. McCarthy, as then, a foreign country could not manufacture an article to sell for a dime in their money containing 10 per cent gold, ship it thousands of miles, pay a tariff, and then undersell an Ameri-can-made product for a dime of ours  containing 40 per cent gold. Get the point?\n\nIf I take a thousand dollars from the bank, who will not lend it because of over-inflation of credit, and stick it in an old sock, would you call that ar increase in currency? Hardly, it is still the same old amount, Just a different hiding place.\n\nRevaluating gold would enable a man-most everybody who bought a home or a farm during the years of prosperity-which means really, years of cheap dollars, repay his debt under the same conditions that he contracted. Then the hidden source of supply for that well, to which you liken a bank, will once more start its life-giving flow, and cause the liquidation of its assets which are mostly real estate, thereby putting banks on a sound basis.\n\nWhich is best, Mr. McCarthy, $2.50 a day (when you work) and a $1500 debt and 40c wheat for a farmer who couldn't buy the things you make, or $5 a day and a $1500 debt with a farmer able to buy the things you make? Robert R. Fink 3213 W. 48th street. ",
     "title": "Stands For Revaluation",
     "word_count": 289,
+    "model": "olmo2",
     "entities": [
       {
         "text": "John McCarthy",
         "type": "person",
-        "identity": "Author of the letter opposing revaluation."
+        "identity": ""
       },
       {
         "text": "you",
-        "type": "second_person_singular pronoun"
+        "type": "second person singular pronoun",
+        "identity": ""
       },
       {
         "text": "Mr. McCarthy",
         "type": "person",
-        "identity": "Target of criticism in the letter."
+        "identity": "respondent to the letter"
+      },
+      {
+        "text": "The Press",
+        "type": "organization",
+        "identity": "newspaper"
+      },
+      {
+        "text": "To the Editor",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "text": "foreign",
+        "type": "adjective",
+        "identity": ""
+      },
+      {
+        "text": "international trade",
+        "type": "noun phrase",
+        "identity": "subject matter of the letter"
+      },
+      {
+        "text": "Ameri-can-made product",
+        "type": "noun phrase",
+        "identity": ""
+      },
+      {
+        "text": "Mr. McCarthy",
+        "type": "person",
+        "identity": "author of the letter referred to"
+      },
+      {
+        "text": "Cleveland",
+        "type": "place name",
+        "identity": "location relevant to the affairs mentioned, likely the city where the newspaper is published"
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "state where the affairs are taking place"
+      },
+      {
+        "text": "Robert R. Fink",
+        "type": "person",
+        "identity": "signature of the letter writer"
       }
     ],
-    "elapsed_seconds": 31.5
+    "elapsed_seconds": 82.3
   },
   {
     "author": "K. F. Ziska",
     "address": "",
     "subjects": [
+      "City Politics",
       "National Politics"
     ],
-    "summary": "The letter defends Jack Raper's criticism of Hoover and criticizes the suppression of criticism in public discourse. The author suggests that a return to 'good old days' is not desirable and supports the 'scavenger's' caustic wit as a method of prodding people into awareness.",
+    "summary": "The letter by K.F. Ziska responds to Emil A. Green's critique of Jack Raper's remarks about Hoover, defending the importance of truth-telling and the value of criticism in politics. Ziska suggests that suppressing such criticism would lead to a return to 'good old days' that some find too rigid.",
     "doctype": "letter",
     "text": "LONG LIVE THE SCAVENGER!\n\n To the Editor of The Press: I read Mr. Emil A. Green's recent letter in which he asserted that Jack Raper's mind was always in the gutter. If Hoover was asleep for four years is Jack Raper to blame for mentioning the truth? Of course, the truth is often unpleasant, especially to a rock-ribbed, 100 per cent fossilized Republican, whom I judge Mr. Greene to be.\n\nI preseume this gentleman's idea of restoring confidence would be to suppress criticism of any public man regardless of whether he has proved to be an outstanding failure or even a racketeer of the worst type. I imagine that Mr. Greene prays for a return of the \"good old days.\"\n\nMay the \"town's scavenger's\" caustic wit flourish forever! It has prodded a few of us saps into wakefulness. K. F. Ziska.",
     "title": "Long Live The Scavenger!",
     "word_count": 144,
-    "entities": [],
-    "elapsed_seconds": 17.4
+    "model": "olmo2",
+    "entities": [
+      {
+        "name": "Emil A. Green",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Jack Raper",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Hoover",
+        "type": "person",
+        "identity": "President Herbert Hoover"
+      },
+      {
+        "name": "Mr. Greene",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Republican",
+        "type": "political_affiliation",
+        "identity": "Rock-ribbed, 100 per cent fossilized"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": ""
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "state affairs"
+      },
+      {
+        "name": "town's scavenger",
+        "type": "personification",
+        "identity": "K. F. Ziska"
+      }
+    ],
+    "elapsed_seconds": 57.6
   }
 ]

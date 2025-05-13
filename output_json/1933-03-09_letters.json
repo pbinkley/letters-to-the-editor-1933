@@ -4,159 +4,217 @@
     "address": "",
     "subjects": [
       "City Politics",
-      "State Politics"
+      "Economy"
     ],
-    "summary": "The letter addresses the concerns regarding park taxes and criticizes an article published about a meeting of 'The Cuyahoga County Taxpayers' Association. It highlights the strict control exerted on park levies by the Budget Commission and outlines how even a full one-tenth mill levy is limited. The letter questions the motives of those who signed resolutions calling for legislative action.",
+    "summary": "The letter by Mr. Stinchcomb addresses concerns over park tax levies in the Cleveland Metropolitan Park District. He outlines the strict controls imposed on park districts by the Budget Commission and the legislative provisions for park levies. Stinchcomb questions the motives of those advocating for the repeal of park taxation sections, suggesting that the current system is already heavily regulated and emphasizes fiscal responsibility over emotional reactions to economic challenges.",
     "doctype": "letter",
     "text": "MR. STINCHCOMB EXPLAINS PARK TAXES\n\n Letters to the EditorTo the Editor of The Press: I am herewith submitting certain facts with reference to tax levies authorized for Park District purposes.\n\nA published article referred to reports a meeting of \"The Cuyahoga County Taxpayers' Association\" at the Statler Hotel, in which unanimous action was taken, asking the Legislature to support a bill repealing sections of the statutes, which, it is alleged, empower Metropolitan Park boards to make tax assessments without applying to the Budget Commission.\n\nThere are two provisions in the park laws by means of which, park districts may obtain tax funds. Section 2976-10 authorizes park boards to make application to the Budget Commission for a levy which cannot exceed one-tenth of 1 mill. This levy comes within the 15-mill limitation and is subject to revision and review by the Budget Commission. In no Park District in Ohio has the Budget Commission of the respective districts ever allowed the full one-tenth mill. In the Cleveland Metropolitan Park District for 1932 and 1933 the rate allowed has been .05 of a mill.\n\nThe other provision for tax levy is contained in Section 2976-101, which permits park boards to submit to the electorate, the question of authorizing a levy which at no submission can exceed one-tenth of 1 mill. Money so obtained by voted levies, is used for capital investment in land and permanent improvements. Levies approved by the Budget Commission may be used for either operation or capital investment.\n\nFrom the foregoing, it is apparent that the strictest kind of control is exerted on park levies. In the first place the maximums allowed are the lowest maximums provided in the statutes for any political subdivision and in the case of the general levy, it comes within the 15-mill maximum limit and is subject to control by the Budget Commission. In the case of the voted levies, it is limited to a maximum of one-tenth of 1 mill at any submission and is controlled by the electorate itself.\n\nBased upon present tax duplicate, it was estimated when the budgets were approved in January, that a full one-tenth mill levy would provide about $155,000. It is apparent that this is now not likely to exceed $100,000. On the other hand, it was estimated that the .05 of a mill authorized by the Budget Commission would amount to approximately $76,000. This, by reason of probable delinquencies will be correspondingly reduced to not in excess of $50,000,\n\nIt might be interesting to investigate the personal motives actuating those in signing resolutions by this association\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx when we should keep our heads cool and our feet on the ground and every effort should be made to prevent the development of hysteria which might result in actions which would be greatly regretted when the present crisis clears. A W. A. Stinchcomb, Director. ",
     "title": "Mr. Stinchcomb Explains Park Taxes",
     "word_count": 476,
-    "entities": [],
-    "elapsed_seconds": 26.9
+    "model": "olmo2",
+    "entities": [
+      {
+        "text": "MR. STINCHCOMB",
+        "type": "person",
+        "identity": "Director of the Cleveland Metropolitan Park District"
+      },
+      {
+        "text": "Cleveland Metropolitan Park District",
+        "type": "organization",
+        "identity": "Park district in question, presumably based in Cleveland, Ohio"
+      },
+      {
+        "text": "Budget Commission",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "text": "The Cuyahoga County Taxpayers' Association",
+        "type": "organization",
+        "identity": "Hypothetical organization; no further details provided."
+      },
+      {
+        "text": "Statler Hotel",
+        "type": "place",
+        "identity": "Location where the Taxpayers' Association meeting was held, presumably in Cleveland, Ohio"
+      },
+      {
+        "text": "Cleveland",
+        "type": "city",
+        "identity": "The city in which the letter is set, likely involved in local park district affairs."
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "State where the park district is located."
+      },
+      {
+        "text": "Section 2976-10",
+        "type": "statute",
+        "identity": ""
+      },
+      {
+        "text": "Section 2976-101",
+        "type": "statute",
+        "identity": ""
+      },
+      {
+        "text": "$155,000",
+        "type": "amount",
+        "identity": "Estimated amount from a full one-tenth mill levy."
+      },
+      {
+        "text": "$100,000",
+        "type": "amount",
+        "identity": "Reduced estimate due to delinquencies."
+      },
+      {
+        "text": "$76,000",
+        "type": "amount",
+        "identity": "Estimated amount from the .05 mill authorized by the Budget Commission."
+      },
+      {
+        "text": "Crisis",
+        "type": "event",
+        "identity": "The current situation being discussed."
+      }
+    ],
+    "elapsed_seconds": 109.2
   },
   {
     "author": "Newman Jeffrey",
     "address": "",
     "subjects": [
-      "State Politics",
-      "National Politics"
+      "National Politics",
+      "World Events"
     ],
-    "summary": "The author disputes the German consul's statement regarding the suppression of Social Democratic newspapers in Germany, arguing that the suppression was due to a government interested in maintaining its authority through terroristic means. They accuse the German government of burning the Reichstag to blame the opposition and condemn the authoritarian suppression of opposition voices.",
+    "summary": "The author disputes the claim by Mr. W. Friebel that Social Democratic newspapers in Germany were suspended due to undermining the government's authority. They argue that the suppression also included the Catholic press, who upheld the German Constitution and opposed the terroristic government responsible for the Reichstag fire. The letter expresses condemnation of the German government's brutal suppression of opposition and shows solidarity with German workers fighting for freedom, justice, and peace.",
     "doctype": "letter",
     "text": "A SOCIALIST ANSWER TO GERMAN CONSUL\n\n To the Editor of The Press: In your issue of March 4 Mr. W. Friebel, acting German consul of Cleveland, states that the Social Democratic newspapers in Germany were suspended due to the fact that such papers had lately consistently undermined the authority of the government. We wish to take exception to this statement which is at utter variance with the facts known to all impartial students of the political situation in Germany.\n\nThe Social Democratic newspapers were suppressed together with a great part of the Catholic press, which certainly cannot be accused of being revolutionary, for the reason that they upheld the German Constitution and opposed by legitimate means the terroristic government which stands today revealed before the world as guilty of the darkest crimes it pretends to fight. The burning of the Reichstag, in spite of denials of Mr. Friebel, was apparently a clumsy trick of the agents of the present government. Since the time of Nero, who burned Rome in order to throw blame on the Christians, there is no deed of political provocation more outstanding than this burning of the Reichstag on the eve of the elections to German Parliament.\n\nWe condemn the terrorist government of Germany for its brutal suppression of all opposition and declare our solidarity with German Social Democrats and all German workers fighting for political-freedom, social justice and international peace.\n\nNewman Jeffrey, Secretary Socialist Party of Cleveland. ",
     "title": "A Socialist Answer To German Consul",
     "word_count": 241,
+    "model": "olmo2",
     "entities": [
       {
         "name": "Mr. W. Friebel",
         "type": "person",
-        "identity": "German consul of Cleveland"
+        "identity": "acting German consul of Cleveland"
       },
       {
         "name": "Social Democratic newspapers",
         "type": "organization",
-        "identity": "Social Democratic newspapers in Germany"
+        "identity": "German Social Democratic newspapers"
       },
       {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "City"
-      },
-      {
-        "name": "Ohio",
-        "type": "state",
-        "identity": "State where Cleveland is located"
+        "name": "Catholic press",
+        "type": "organization",
+        "identity": "part of the Catholic press"
       },
       {
         "name": "Socialist Party of Cleveland",
         "type": "organization",
-        "identity": "Party of the letter's author"
+        "identity": "the organization Newman Jeffrey represents"
       }
     ],
-    "elapsed_seconds": 33.2
+    "elapsed_seconds": 55.5
   },
   {
     "author": "J. Manlet",
-    "address": "2658 Queenston Road",
+    "address": "2658-Queenston Road",
     "subjects": [
-      "Economy",
-      "National Politics"
+      "National Politics",
+      "Economy"
     ],
-    "summary": "The author argues against the idea that the adoption of trouser suits by women could be a solution to the economic depression, stating that wealth is concentrated in the hands of a few and that consumer spending alone cannot stimulate a broad-based economy. They use the example of the rayon and wool industries to highlight how economic substitution can lead to the suffering of certain groups. The letter criticizes women's fashion as being manipulated by exploiters and suggests that women should focus on economic sense rather than fashion trends.",
+    "summary": "The author, J. Manlet, challenges the idea that selling more clothes to women, even through fashion like trouser suits, can overcome economic depression. They argue that the economic disparity between the wealthy and the poor renders such a solution impractical. They use historical examples, like the rayon vs. wool conflict, to highlight how new markets can negatively affect existing industries without addressing the root economic issues. Finally, the author advises women to be self-aware and not fall victim to fashion trends that only benefit private interests at public expense.",
     "doctype": "letter",
     "text": "THE TROUSER SUIT CURE\n\n To the Editor of The Press:\n\nMarian Parson, in reply to my recent criticism, states that she did have on her thinking cap when she advocated trouser suits for women as a cure for the depression.\n\nIt is said that 2 per cent of the people own 90 per cent of the wealth of this country. If this is correct, 98 per cent of the people have little or no purchasing power. Consequently it is absurd to assume that a probable buying factor of 2 per cent can overcome a positive sales resistance of 98 per cent.\n\nMoreover, the women of this country who have wealth have not been waiting for the ballyhoo of some sales drummer to buy what they want or what they like. These women usually know what they want, why they want it and, when they want it. Furthermore, they are very choicy in their tastes and carefully avoid adopting anything that the \"common\" women are going to wear. As for the latter class of women, as stated, they have no money; in fact, most of them have already bought more than they can pay for.\n\nEven, were all women on a basis of economic equality and had sufficient available funds, the substitution of one style of garment for another could not produce prosperity. would make others poor. Don't we well remember the conflict between rayon and wool? Some wood fiber spinners became affluent but sheep raisers and wool knitters went to the wall. We now have artificial silk mills in Cleveland, but where are Wooltex and others?\n\nMy advice. is, that women become sensible and self-conscious and no longer permit themselves to become the victims of fashion mongers and other exploiters of their sex, all of whom are operating for private gain and have not in yiew the public good. J. Manlet 2658-Queenston road. ",
     "title": "The Trouser Suit Cure",
     "word_count": 313,
+    "model": "olmo2",
     "entities": [
       {
-        "text": "THE TROUSER SUIT CURE",
-        "type": "conceptual_name",
-        "identity": ""
-      },
-      {
-        "text": "Marian Parson",
+        "name": "Marian Parson",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "J. Manlet",
+        "name": "J. Manlet",
         "type": "person",
         "identity": "Author of the letter"
       },
       {
-        "text": "Cleveland",
-        "type": "place_name",
-        "identity": "Place where 'Wooltex and others' are presumably located; potentially relevant due to mention of artificial silk mills."
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Location where Wooltex and others are not mentioned, likely due to their downfall in the context of rayon's rise."
       },
       {
-        "text": "wool spinners",
-        "type": "person",
-        "identity": "Those who became affluent with the rise of rayon."
-      },
-      {
-        "text": "sheep raisers",
-        "type": "person",
-        "identity": "Those who suffered as wool production decreased due to rayon competition."
-      },
-      {
-        "text": "wool knitters",
-        "type": "person",
-        "identity": "Those who went out of business when the demand for wool decreased."
-      },
-      {
-        "text": "artificial silk mills",
-        "type": "organization",
-        "identity": "Mentioned in relation to Cleveland, possibly referring to a specific mill or sector in the city's economy related to rayon production."
-      },
-      {
-        "text": "Wooltex",
-        "type": "organization",
-        "identity": "Presumably a wool production company that faced difficulties with the rise of rayon."
+        "name": "Ohio",
+        "type": "state",
+        "identity": "The state where the letter is published and presumably where the events described by J. Manlet take place."
       }
     ],
-    "elapsed_seconds": 65.5
+    "elapsed_seconds": 64.2
   },
   {
     "author": "M. J. McGure",
-    "address": "8116 Dorver Avenue",
+    "address": "8116 Dorver avenue.",
     "subjects": [
       "National Politics"
     ],
-    "summary": "The author suggests that newspapers in Cleveland print a large picture of President Roosevelt to boost morale, especially during his administration's struggle with opposition. Additionally, they propose organizing symposiums in local high schools to discuss and analyze Roosevelt's inaugural address.",
+    "summary": "The author recommends printing a large picture of President Roosevelt for display in windows across Cleveland to uplift morale and supports the idea of holding high school symposiums to discuss and analyze his inaugural address.",
     "doctype": "letter",
     "text": "ROOSEVELT'S PICTURE IN EVERY WINDOW\n\n To the Editor of The Press: As a happy gesture and for the psychological effect it may have, I would suggest that the newspapers of Cleveland cause to have printed a window size picture of President Roosevelt. Urge all readers to procure one for display in their windows for a period of 30 days. His performance to date is sufficient justification for some gesture, and it may react to strengthen the morale of his cabinet in its battle against the terrific forces arrayed against the Why not also urge the organization of symposiums in every high school class in the city to discuss, analyze, yes even memorize that masterful oratorical effort President Roosevelt's inaugural address. M. J. McGure 8116 Dorver avenue. ",
     "title": "Roosevelt'S Picture In Every Window",
     "word_count": 126,
+    "model": "olmo2",
     "entities": [
       {
-        "name": "Roosevelt",
+        "name": "ROOSEVELT",
         "type": "person",
+        "identity": "Franklin D. Roosevelt, President of the United States."
+      },
+      {
+        "name": "President",
+        "type": "title",
         "identity": ""
       },
       {
-        "name": "President Roosevelt",
+        "name": "Roosevelt",
         "type": "person",
-        "identity": "32nd President of the United States"
+        "identity": "Hypothetical reference to Franklin D. Roosevelt, likely intended to be President Franklin D. Roosevelt."
+      },
+      {
+        "name": "cabinet",
+        "type": "office",
+        "identity": "The executive branch officials appointed by the President of the United States."
       },
       {
         "name": "Cleveland",
         "type": "place",
-        "text": "Cleveland",
-        "identity": "city in Ohio"
+        "identity": "City where the newspaper 'The Press' is located."
       },
       {
         "name": "The Press",
         "type": "organization",
-        "identity": "Local newspaper of the 1930s"
+        "identity": "Name of the newspaper publishing the letter."
       },
       {
         "name": "M. J. McGure",
         "type": "person",
-        "text": "M. J. McGure",
+        "identity": "Author of the letter, a resident of Cleveland."
+      },
+      {
+        "name": "8116 Dorver avenue.",
+        "type": "address",
         "identity": ""
+      },
+      {
+        "name": "high schools",
+        "type": "institution",
+        "identity": "Educational institutions in Cleveland."
       }
     ],
-    "elapsed_seconds": 31.7
+    "elapsed_seconds": 58.9
   },
   {
     "author": "Virginia M. Miller",
@@ -165,12 +223,94 @@
       "National Politics",
       "Economy"
     ],
-    "summary": "The letter urges readers to adopt a more optimistic mindset as a means of combating the effects of the Great Depression, suggesting that individual positive thinking and action can influence the nation's recovery. It criticizes discussions that focus solely on external factors such as banks and politics without considering personal attitudes as a driving force in economic downturns.",
+    "summary": "The author writes to urge people to adopt a more optimistic outlook during the economic depression. They argue that collective mental attitude has a significant impact on the situation and advocate for critical, constructive thinking rather than spreading gloom and doom.",
     "doctype": "letter",
     "text": "WE NEED OPTIMISTS\n\n To the Editor of The Press: How many people have said during the last 10 days-what's wrong with the world? The depression has been discussed by people from the standpoint of banks, business, money, plutocracy, World War, produce and politics but did they ever stop to think that they themselves might have something to do with it? Their mental attitude toward the affair means much if they would only stop to think seriously about it. State laws or Roosevelt's decrees alone cannot pull us through. We need optimists, not pessimists. Pause a while and think seriously, earnestly and conscientiously. I don't mean mourn around in sackcloth and ashes but just occasionally really concentrate on the subject. Pretty soon, the world will take on a new slant: You will be able to understand matters more clearly. You won't have to repeat gossip and hearsay, you will be able to think for yourself. You have heard the saying- \"Look up and not down; look out and not in\"-that's what I mean. O. K. America, we'll show them. Virginia M. Miler",
     "title": "We Need Optimists",
     "word_count": 181,
-    "entities": [],
-    "elapsed_seconds": 19.1
+    "model": "olmo2",
+    "entities": [
+      {
+        "text": "The Press",
+        "type": "publication",
+        "identity": ""
+      },
+      {
+        "text": "To the Editor",
+        "type": "role",
+        "identity": ""
+      },
+      {
+        "text": "Virginia M. Miller",
+        "type": "person",
+        "identity": "Author of the letter"
+      },
+      {
+        "text": "world",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "text": "State laws",
+        "type": "law",
+        "identity": ""
+      },
+      {
+        "text": "Roosevelt",
+        "type": "person",
+        "identity": "Franklin D. Roosevelt"
+      },
+      {
+        "text": "decrees",
+        "type": "action",
+        "identity": ""
+      },
+      {
+        "text": "plutocracy",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "text": "banks",
+        "type": "institution",
+        "identity": ""
+      },
+      {
+        "text": "business",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "text": "money",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "text": "produce",
+        "type": "product",
+        "identity": ""
+      },
+      {
+        "text": "optimists",
+        "type": "group",
+        "identity": ""
+      },
+      {
+        "text": "pessimists",
+        "type": "group",
+        "identity": ""
+      },
+      {
+        "text": "Cleveland",
+        "type": "place",
+        "identity": "Location implied by local affairs reference."
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "State where Cleveland is located, inferred from state affair implication."
+      }
+    ],
+    "elapsed_seconds": 69.5
   }
 ]

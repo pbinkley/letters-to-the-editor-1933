@@ -4,176 +4,112 @@
     "address": "3333 Erin Avenue",
     "subjects": [
       "City Politics",
-      "National Politics",
-      "Economy"
+      "National Politics"
     ],
-    "summary": "The letter expresses discontent with the recent censorship of new burlesque houses, arguing that a minority's enjoyment in funeral parlors should not dictate the majority's pleasures. It also references a past incident possibly involving a well-known individual with a capital 'P' and suggests these so-called 'upholders of righteousness' focus on their own homes instead of censoring entertainment.",
+    "summary": "The author expresses frustration with the recent censorship of burlesque shows, arguing against the influence of 'sob sisters' and drawing a parallel to past incidents, while questioning why these individuals dictate public pleasure. The letter also implicitly criticizes a figure associated with past censorship efforts, likely referring to Anthony Comstock.",
     "doctype": "letter",
     "text": "VIGOROUS PROTEST AGAINST BURLESQUE CENSORSHIP\n\nLetters to the Editor-\n\nTo the Editor of The Press: Questions are in order regarding the recent censor of our new burlesque houses.\n\nWhy is it that a few sob sisters who find enjoyment in a funeral parlor govern the pleasures of the majority. I have attended a few of the shows and from my experience I can say that I did not see any traps or nets around the entrance to ensare any unsuspecting hypocrites. Look back a few years to 1918. We had the same thing then and the outcome was that long-nosed individual who spells his name with a capital \"P.\" Why don't these so-called upholders of righteousness stay at home and put black glasses on their tom cats? They would do the community at large a greater benefit. F. H. Richardson 3333 Erin avenue. ",
     "title": "Vigorous Protest Against Burlesque Censorship",
     "word_count": 143,
-    "entities": [],
-    "elapsed_seconds": 20.5
+    "model": "olmo2",
+    "entities": [
+      {
+        "text": "VIGOROUS PROTEST AGAINST BURLESQUE CENSORSHIP",
+        "type": "entity"
+      },
+      {
+        "text": "Letters to the Editor-",
+        "type": "section"
+      }
+    ],
+    "elapsed_seconds": 38.3
   },
   {
     "author": "Harry L. Davis",
     "address": "",
     "subjects": [
-      "City Politics"
+      "City Politics",
+      "Integrity"
     ],
-    "summary": "The author argues that Harry L. Davis should be chosen by the citizens of Cleveland to lead their city due to his proven integrity, intelligence, honesty, and loyalty.",
+    "summary": "The letter argues that Harry L. Davis, based on his proven integrity and dedication to Cleveland citizens, would be the best candidate to lead the city of Cleveland, analogous to how General Pershing is chosen to lead the U.S. army in case of war.",
     "doctype": "letter",
     "text": "HARRY L. DAVIS, OUR OWN PERSHING\n\n To the Editor of The Press: If a foreign country would declare war on the United States who would be the man chosen by the government to lead our vast army? Common sense would tell us that your answer would naturally be Gen. Pershing. Why? Because he has proved his capability as a leader in time of war. On the other hand, should The Cleveland Press make a query asking the entire body of Cleveland citizens whom they would consider the man best qualified to be given the great responsibility of guiding a large city as Cleveland, without a doubt a man like Harry L. Davis would be chosen. He has proved his integrity, intelligence, honesty and loyalty to his fellow citizens of Cleveland.. Mrs. L. Palmer 3435 E. 142d street. ",
     "title": "Harry L. Davis, Our Own Pershing",
     "word_count": 137,
+    "model": "olmo2",
     "entities": [
       {
         "text": "Harry L. Davis",
         "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "The Cleveland Press",
-        "type": "organization",
-        "identity": "A local newspaper in Cleveland, Ohio, likely referring to the actual newspaper 'The Cleveland Press' from the 1930s."
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "Large city in Ohio where the letter is presumably written."
-      },
-      {
-        "text": "United States",
-        "type": "country",
-        "identity": "The country in which the hypothetical scenario of a foreign war is posited."
+        "identity": "The person's name is Harry L. Davis. It is likely he was a prominent figure in Cleveland during the 1930s, possibly holding an office or being well-known for his service to the city."
       },
       {
         "text": "Gen. Pershing",
         "type": "person",
-        "identity": "General John J. Pershing, a well-known American military general during World War I."
+        "identity": "General John J. Pershing, a notable military figure from World War I, who served as the Chief of Staff of the United States Army and was closely associated with military leadership."
+      },
+      {
+        "text": "Cleveland",
+        "type": "place",
+        "identity": "The city of Cleveland, Ohio, where Harry L. Davis is mentioned to be a prominent figure."
       },
       {
         "text": "Mrs. L. Palmer",
         "type": "person",
-        "identity": ""
+        "identity": "The name of a citizen from Cleveland, referred to in the context of possibly supporting Harry L. Davis as a leader."
       },
       {
         "text": "3435 E. 142d street.",
         "type": "place",
-        "identity": "An address in Cleveland, Ohio"
+        "identity": "The address where Mrs. L. Palmer resides, located in Cleveland, Ohio."
       }
     ],
-    "elapsed_seconds": 40.9
+    "elapsed_seconds": 60.1
   },
   {
     "author": "H. L. Allen",
     "address": "",
     "subjects": [
+      "Economy",
       "National Politics"
     ],
-    "summary": "The letter calls for strict guidelines on who should be granted beer dispensing permits under the 18th amendment, emphasizing that permits should go to those who are citizens and have no criminal record.",
+    "summary": "The letter argues that beer dispensing permits under the 18th amendment should be given only to citizens who have never been arrested for a felony and are thus 'legitimate' people, to ensure the business remains in the hands of trustworthy individuals.",
     "doctype": "letter",
     "text": "NO PERMITS TO VIOLATERS\n\n To the Editor of The Press: Unless beer dispensing permits are allotted properly they will be handed out to the favored few and of course many of these will prove to be violaters of the 18th amendment.\n\nIt would seem to me that no one should be granted this favor unless he is a citizen and only if he has never been arrested for a felony of any. kind. This would keep the business in the hands of legitimate people. H. L. Allen ",
     "title": "No Permits To Violaters",
     "word_count": 87,
-    "entities": [
-      {
-        "text": "NO PERMITS TO VIOLATERS",
-        "type": "topic"
-      },
-      {
-        "text": "18th amendment",
-        "type": "legislation"
-      },
-      {
-        "name": "H. L. Allen",
-        "type": "author",
-        "identity": "The writer of the letter to the editor."
-      }
-    ],
-    "elapsed_seconds": 20.6
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 26.8
   },
   {
-    "author": "Cuyahoga County Taxpayers' Association",
+    "author": "A. T. Felton",
     "address": "",
     "subjects": [
       "State Politics",
       "Economy"
     ],
-    "summary": "The Cuyahoga County Taxpayers' Association writes to discuss their resolution limiting the power of the Metropolitan Park Board. They reject the claim of personal motives by W. A. Stinchcomb, their suggestion for an investigation, and insist on the need for economic measures in the park system's operation.",
+    "summary": "The Cuyahoga County Taxpayers' Association, an organization focused on the welfare of overburdened taxpayers in Cuyahoga county, argues against claims that their resolution urging economy in government is motivated by personal interests. They reject the park board director's insinuations and encourage an investigation into his decision-making process instead. The association supports the Metropolitan Park system but insists on strict economic measures for its operation, citing prominent member Harvey R. Snyder's altruistic intent in introducing the resolution.",
     "doctype": "letter",
     "text": "NO PERSONAL INTERESTS\n\n To the Editor of The Press: The Cuyahoga County Taxpayers' Association was organized as a \"property conscious body\" interested only in the welfare of the 125,000 overburdened taxpayers in Cuyahoga county. None of the officers of this association are public office holders or candidates for public office and none have political affiliations that might hamper or deter the best interests of this association. One of the chief interests of our organization is to urge strict economy in government. It was with that view in mind that we passed a resolution limiting the power of the Metropolitan Park Board as stated in a bill sponsored by Senator Smolka.\n\nIn a letter, purported to be an answer to our resolution, W. A. Stinchcomb, director of the park board, suggests \"personal motives actuated the passing of this resolution andsuggests an investigation in this regard.\" In direct answer to Mr. Stinchcomb, the Cuyahoga County Taxpayers' Association invites Mr. Stinchcomb or any other proper citizen or civic body to fully investigate either the personal motives of the officers of this association or the sponsor of the resolution. We cannot help but feel Mr. Stinchcomb's attitude is an arbitrary one. We appreciate Mr. Stinchcomb's service in the interests of the Metropolitan Park plan and further we may state that this association is fully in favor of the maintenance of the Metropolitan Park system, but we insist that there is a great need for drastic economic measures in the operation of that system.\n\nThe resolution was introduced by Mr. Harvey R. Snyder, Cleveland attorney and prominent leader in fraternal organizations. He has no personal motives in presenting the resolution, but is to be admired for his fine public spirit. Mr. A. T. Felton, our president, and Mr. Karl Witthuhn, our treasurer, are both interested in farming and the flower business and both are strictly in accord with the best interests of the park plan.\n\nWe hope and suggest to Mr. Stinchcomb that he investigate the purpose of the Cuyahoga County Taxpayers' Association before making his decision as to the \"personal motives involved in the presentation of this plan.\" We do recommend to Mr. Stinchcomb that he reduce the salaries of the officials of the Metropolitan Park Board in accordance with the times.\n\nIt is not the intention of this association to indulge in personalities and we wish to state that the Cuyahoga County Taxpayers' Association has no personal grievance as to the operation of the Metropolitan Park Board by Mr. Stinchcomb, and the recommendation made was in the spirit of our efforts to devise plans wherein strict economy can be practiced in the operation of our government.\n\nThe Cuyahoga County Taxpayers' Association, A. T. Felton, President. John C. Haefele, First Vice President. Karl K. Witthuhn, Secretary and Treasurer. ",
     "title": "No Personal Interests",
     "word_count": 464,
-    "entities": [
-      {
-        "name": "W. A. Stinchcomb",
-        "type": "person",
-        "identity": "Director of the park board"
-      },
-      {
-        "name": "Senator Smolka",
-        "type": "person",
-        "identity": "Sponsored the bill"
-      },
-      {
-        "name": "Cuyahoga County Taxpayers' Association",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "Officers of the association",
-        "type": "person",
-        "identity": [
-          "A. T. Felton",
-          "Karl K. Witthuhn"
-        ]
-      },
-      {
-        "name": "Mr. Snyder",
-        "type": "person",
-        "identity": "Harvey R. Snyder, Cleveland attorney and prominent leader in fraternal organizations"
-      },
-      {
-        "name": "Mr. A. T. Felton",
-        "type": "person",
-        "identity": "President"
-      },
-      {
-        "name": "John C. Haefele",
-        "type": "person",
-        "identity": "First Vice President"
-      },
-      {
-        "name": "Karl K. Witthuhn",
-        "type": "person",
-        "identity": "Secretary and Treasurer"
-      },
-      {
-        "name": "Metropolitan Park Board",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "Mr. Stinchcomb",
-        "type": "person",
-        "identity": "Director of the park board"
-      }
-    ],
-    "elapsed_seconds": 56.0
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 60.1
   },
   {
     "author": "George O. Coolidge",
     "address": "",
     "subjects": [
-      "City Politics",
-      "Economy"
+      "State-City Employment"
     ],
-    "summary": "The author expresses gratitude for the support The Press is giving to the State-City Employment Bureau. They highlight Mr. B.C. Seiple's efforts in reducing expenses while maintaining service quality, and urge to oppose any attempts to close the bureau. They believe expansion and more employer patronage are necessary today.",
+    "summary": "The author expresses gratitude for the support given to the State-City Employment Bureau by The Press and its editor. They highlight the beneficial service provided by Mr. B.C. Seiple and his team, who have reduced their budget significantly while maintaining full service levels without compromising the number of clients assisted. The author hopes the paper will continue opposing any attempts to close the bureau and advocates for its expansion and more employer patronage as a necessity in current economic conditions.",
     "doctype": "letter",
     "text": "PRAISE FOR MR. SEIPLE\n\n To the Editor of The Press: Please accept my thanks for the backing you and your paper are giving the State-City Employment Bureau. Mr. B. C. Seiple and his associates have in my opinion been rendering this community a highly beneficial free employment service for the many thousand clients in all the various labor classifications. I understand he reduced his budget from $26,000 in 1931 to $14,000 this year without cutting service.\n\nI know many individuals who have secured results from this bureau and it is my sincere hope that you and your paper will continue to oppose any attempt to close the State-City Employment Bureau. Expansion of this bureau and more employer patronage is what we need today. George O. Coolidge, Registrar La Salle University. ",
     "title": "Praise For Mr. Seiple",
     "word_count": 130,
+    "model": "olmo2",
     "entities": [
       {
         "name": "Mr. Seiple",
@@ -183,30 +119,30 @@
       {
         "name": "State-City Employment Bureau",
         "type": "organization",
-        "identity": "the State-City Employment Bureau"
+        "identity": ""
       },
       {
         "name": "The Press",
         "type": "organization",
-        "identity": "your paper"
+        "identity": "The newspaper"
       },
       {
         "name": "George O. Coolidge",
         "type": "person",
-        "identity": "Registrar of La Salle University"
+        "identity": "Registrar at La Salle University"
       },
       {
         "name": "Cleveland",
         "type": "place",
-        "identity": "no specific mention, but likely refers to local affairs due to specific reference to services provided in the community"
+        "identity": ""
       },
       {
         "name": "Ohio",
         "type": "state",
-        "identity": "no explicit mention, but the letter's context suggests state affairs as it concerns a bureau operated at a state level"
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 43.0
+    "elapsed_seconds": 49.1
   },
   {
     "author": "Philip Schoenberg",
@@ -214,71 +150,69 @@
     "subjects": [
       "City Politics",
       "State Politics",
-      "National Politics"
+      "National Politics",
+      "Economy",
+      "World Events"
     ],
-    "summary": "The letter disputes the notion that women should not pursue men, arguing that modern women have merely updated their courting methods and still fundamentally seek security from men. The author criticizes men's need for artificial resistance to validate their worthiness in a woman's eyes.",
+    "summary": "The author, Philip Schoenberg, disputes the notion that women should not pursue men in relationships or marriage. He argues that from historical records to the present day, women have always sought security from men. The modern age has simply updated their methods of pursuing and courting, rather than fundamentally changing their motivations. Schoenberg also points out the contradiction when men claim to desire a challenge to prove a woman's worth; he argues that true worth comes from inherent qualities, not from overcoming manufactured resistance. He asserts that common sense should prevail before and after marriage, but often does not due to misconceptions about love.",
     "doctype": "letter",
     "text": "WOMAN, THE PURSUER\n\n To the Editor of The Press:\n\nMr. Ordinary Hubby writes you urging wives to try courting husbands. He is ages late. Women have pursued men and wives have courted husbands since history was first recorded.\n\nModern economic freedom, so called, as well as modern ideas of equality, have only modernized their methods of pursuit and their skill in courting.\n\nThe fundamental drive motivating women toward men is a sense of security. This security may change in form and degree from generation to generation. It may even change in individual women during their lifetime, but it is always security against something that haunts their lives. True, some women are able to successfully-combat their individual specters. Others are fortunate enough to capture the demon of insecurity in their youth. Still others change their fears resulting often in the desire to change the man who was specifically selected to quell the prior fear.\n\nOf course, women advisers advocate that type of procedure which will make it appear to dumb men that the woman is actually the object of pursuit. This is only necessary because men are too vain merely to accept her for what she is. They must win her; they must overcome her resistance artificially produced, in order to satisfy themselves that she is worth while. If he doesn't have to struggle to get her she is not worth while. So she aptly makes him struggle when all the time she knows that the only purpose of the struggle is to convince him that she is worthy of him.\n\nIf he employed just a little common sense he would observe that her inherent qualities do not depend upon the tactics employed by him to demonstrate that he is the only one. It is said that common sense and love do not mix. Just another myth which usually explodes after marriage. If common sense is possible after marriage it has more reason to exist before marriage. The modern girl differs only from her grandmother in her willingness to forsake indirect methods of pursuit and courting. But she is pursuing and courting as she undoubtedly always has. Philip Schoenberg. ",
     "title": "Woman, The Pursuer",
     "word_count": 358,
+    "model": "olmo2",
     "entities": [
-      {
-        "name": "Mr. Ordinary Hubby",
-        "type": "hypothetical",
-        "identity": ""
-      },
       {
         "name": "WOMAN",
         "type": "person",
-        "identity": "Typifies the general female gender role, often perceived as pursuing men in the context of social dynamics."
+        "identity": ""
       },
       {
-        "name": "men",
+        "name": "THE PURSUER",
         "type": "person",
         "identity": ""
       },
       {
-        "name": "women",
+        "name": "Mr. Ordinary Hubby",
         "type": "person",
-        "identity": "The subject group pursuing men historically and in the modern context."
+        "identity": "hypothetical person"
       },
       {
-        "name": "husbands",
+        "name": "husband",
         "type": "person",
         "identity": ""
       },
       {
         "name": "wives",
         "type": "person",
-        "identity": "Roles typically associated with women, engaging in courting husbands."
+        "identity": "women"
       },
       {
-        "name": "Modern economic freedom",
+        "name": "modern economic freedom",
         "type": "concept",
-        "identity": "A societal change that has impacted gender roles and relationships."
+        "identity": ""
       },
       {
         "name": "equality",
         "type": "concept",
-        "identity": "The notion of treating genders as equal in rights and opportunities."
+        "identity": ""
       },
       {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "If the letter specifically addresses local affairs or events in Cleveland, Ohio."
+        "name": "women",
+        "type": "person",
+        "identity": "women"
       },
       {
-        "name": "Ohio",
-        "type": "state",
-        "identity": "If the letter deals with state-wide issues or concerns from Ohio."
+        "name": "Modern",
+        "type": "concept",
+        "identity": ""
       },
       {
-        "name": "Philip Schoenberg",
-        "type": "hypothetical",
-        "identity": "A name likely used as an example of male engagement in relationship dynamics, although no direct context for identification is provided within the letter."
+        "name": "Philip Schoenberg.",
+        "type": "person",
+        "identity": "hypothetical person"
       }
     ],
-    "elapsed_seconds": 56.2
+    "elapsed_seconds": 79.8
   },
   {
     "author": "H. Williams",
@@ -286,18 +220,13 @@
     "subjects": [
       "National Politics"
     ],
-    "summary": "The author, Henry Williams, denies writing a letter about checking and savings accounts that was erroneously attributed to them and expresses concern over the false claim.",
+    "summary": "The author is writing to clarify that they did not write a recent letter on checking and savings accounts, signed by H. Williams.",
     "doctype": "letter",
     "text": "IT WASN'T THIS ONE\n\n To the Editor of The Press: Recently there appeared in this column a letter about checking and savings accounts which was signed by H. Williams. I did not write that letter. Henry Williams 24191 Detroit road, Bay Village, O.",
     "title": "It Wasn'T This One",
     "word_count": 43,
-    "entities": [
-      {
-        "name": "H. Williams",
-        "type": "person",
-        "identity": ""
-      }
-    ],
-    "elapsed_seconds": 15.0
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 24.1
   }
 ]

@@ -6,70 +6,66 @@
       "National Politics",
       "Economy"
     ],
-    "summary": "The author, W.E. Outzs, expresses his staunch support for prohibition and criticizes the newspaper's view on the return of beer as a means to boost the economy. He feels that relying on the liquor business for revenue is 'backward' and against the best interests of the nation.",
+    "summary": "The author expresses strong opposition to the return of beer sales as a means for national prosperity, arguing that it undermines the values and goals of Prohibition. They call upon divine pity for the nation if its well-being is tied to liquor business revenue.",
     "doctype": "letter",
     "text": "SEES NO GAIN TO THE PEOPLE IN RETURN OF BEER\n\nLetters to the Editor-\n\nTo the Editor of The Press: I have been a regular subscriber of your paper for nearly 20 years, and have often admired your energy and fearlessness in combating the evils of our city.\n\nI have been and still am an ardent prohibitionist, and feel that the things we are now doing with the 18th amendment is a step back-ward. How can a nation expect to have continued prosperity, and fill its. proper place in the world, if it has to depend upon revenue from such a damnable business \u00e1s is the liquor business, to carry on its activities?\n\nYour editorial concerning beer for Ohio, on the first page of your March 25 issue, makes me so mad I am almost tempted to discontinue taking your publication. It seems to tell your readers you think the getting of beer is a major accomplishment, and a necessary thing in the plan to renew prosperity. May the great God look down with pity upon us if we have sunk so low that our prosperity and well being depends upon that cursed business. This letter will not change your opinion one lota, but I hope it will let you know we do not all think the legal return of that cursed demon is for the best interests of the land we love. W. E. Outzs 1600 Rosewood avenue Lakewood, O. ",
     "title": "Sees No Gain To The People In Return Of Beer",
     "word_count": 241,
-    "entities": [
-      {
-        "name": "The Press",
-        "type": "organization",
-        "identity": "the newspaper"
-      },
-      {
-        "name": "W. E. Outzs",
-        "type": "person",
-        "identity": "author of the letter"
-      }
-    ],
-    "elapsed_seconds": 24.9
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 39.4
   },
   {
-    "author": "",
+    "author": "C. G. Monroe",
     "address": "",
     "subjects": [
       "City Politics",
       "Economy"
     ],
-    "summary": "The author criticizes the hiring of life guards from New Castle, PA, suggesting local unemployed men could be employed instead. Additionally, the letter touches upon the discussion regarding county commissioners taking control of the parks, potentially leading to the employment of Cleveland men.",
+    "summary": "The letter's author expresses dissatisfaction with the hiring of out-of-town life guards for Huntington Beach Park and suggests that unemployed men from Cleveland could fill the role more economically. Additionally, the author questions the county commissioners' control over parks and speculates about potential negative impacts if they were to take over.",
     "doctype": "letter",
     "text": "LIFE GUARDS\n\n To the Editor of The Press: Last spring, as every spring, it was necessary to lure four men as life guards for Huntington Beach Park. Two of the men were native married men, the other two were imported from New Castle, Pa. I do not know what the requirements are for life guards, but I am sure that there are plenty of unemployed men in this city and county who would very capably fill every requirement. A short time ago there was some discussion in The Press about the county commissioners desiring to get control of the parks. If they do get control the parks would undoubtedly suffer, but at least it would be Cleveland men who would be employed there. C. G. Monroe. ",
     "title": "Life Guards",
     "word_count": 126,
+    "model": "olmo2",
     "entities": [
       {
-        "text": "LIFE GUARDS",
+        "name": "LIFE GUARDS",
         "type": "organization",
-        "identity": "The Life Guards mentioned are the individuals tasked with saving lives at Huntington Beach Park."
+        "identity": ""
       },
       {
-        "text": "C. G. Monroe",
-        "type": "person",
-        "identity": "C. G. Monroe is a person whose full name isn't provided in the text, but they are likely associated with the suggestion of employing local Cleveland men as life guards."
-      },
-      {
-        "text": "Huntington Beach Park",
+        "name": "Huntington Beach Park",
         "type": "place",
-        "identity": "The location where the life guards are employed."
+        "identity": "A park in Huntington Beach, California"
       },
       {
-        "text": "New Castle, Pa.",
-        "type": "location",
-        "identity": "The city from which two of the life guards were imported."
+        "name": "native married men",
+        "type": "person",
+        "identity": ""
       },
       {
-        "text": "Cleveland",
-        "type": "city",
-        "identity": "The likely location where the letter's author lives and implies that unemployed men are available."
+        "name": "imported from New Castle, Pa.",
+        "type": "person",
+        "identity": ""
       },
       {
-        "text": "Ohio",
-        "type": "state",
-        "identity": "Although 'Cleveland' is mentioned, 'Ohio' is not specifically named in the text but is implied to be the state where Huntington Beach Park is located."
+        "name": "C. G. Monroe",
+        "type": "person",
+        "identity": "County Commissioner or notable resident of Cleveland"
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Local newspaper"
+      },
+      {
+        "name": "county commissioners",
+        "type": "office",
+        "identity": "County officials in Ohio"
       }
     ],
-    "elapsed_seconds": 38.4
+    "elapsed_seconds": 50.2
   },
   {
     "author": "Ed Beran",
@@ -77,292 +73,143 @@
     "subjects": [
       "City Politics"
     ],
-    "summary": "The letter praises the public's response to petitions for cheaper electric light rates and urges councilmen to reconsider betraying their constituents.",
+    "summary": "The author is pleased with the public's response to petitions for cheaper electric light rates, suggesting it indicates a growing awareness among Cleveland's residents that they should not passively accept unfair legislation. The letter also critiques councilmen for their perceived betrayal of constituents.",
     "doctype": "letter",
     "text": "PLEASED BY RESPONSES\n\n To the Editor of The Press: The whole-hearted response that the people of Cleveland are showing to the petitions for cheaper electric light rates is indeed very gratifying. It shows that the people in general are beginning to realize that they do not have to sit back and calmly submit to any unfair legislation that the mayor and a fickle Council would foist upon them. These peti-tions that are being circulated through the honest efforts of Mar-tin L. Sweeney and several other public-minded citizens, show that there are some people who have at heart the interests of Cleveland's taxpayers. This response on the people's part should also show some of the coun-cilmen that they cannot hope to continue to betray their constituents. Ed Beran, secretary Jeffersonian League. ",
     "title": "Pleased By Responses",
     "word_count": 130,
-    "entities": [
-      {
-        "text": "editor",
-        "type": "office",
-        "identity": ""
-      },
-      {
-        "text": "The Press",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "city in Ohio"
-      },
-      {
-        "text": "people of Cleveland",
-        "type": "group",
-        "identity": ""
-      },
-      {
-        "text": "Martin L. Sweeney",
-        "type": "person",
-        "identity": "likely Martin Lewis Sweeney, an actual figure involved in utility rate reform movements in the 1930s"
-      },
-      {
-        "text": "mayor",
-        "type": "office",
-        "identity": ""
-      },
-      {
-        "text": "Council",
-        "type": "organization",
-        "identity": "Cleveland City Council"
-      },
-      {
-        "text": "Ed Beran",
-        "type": "person",
-        "identity": "likely Edward Beran, an actual councilman in Cleveland during this period."
-      },
-      {
-        "text": "Jeffersonian League.",
-        "type": "organization",
-        "identity": "political group, likely referring to a real organization of the time"
-      }
-    ],
-    "elapsed_seconds": 35.4
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 31.0
   },
   {
     "author": "Phillip Bartell",
     "address": "",
     "subjects": [
-      "National Politics",
-      "Economy"
+      "National Politics"
     ],
-    "summary": "Phillip Bartell expresses concern over President Roosevelt's plan to address unemployment by creating a 250,000-strong uniformed army of one-year indentured workers. Bartell draws parallels to Roman latifundia and warns that this program could lead to the creation of a 'pauper' class working under harsh conditions, diverting from genuine relief efforts and instead exploiting the unemployed for the benefit of the wealthy.",
+    "summary": "The author expresses alarm at President Roosevelt's proposed solution to unemployment, likening it to the Roman latifundia system where slaves worked for the patricians. Phillip Bartell argues that this plan essentially enslaves the unemployed through a forced labor program, suggesting it will create a permanent 'pauper' class and shift the tax burden from the wealthy to the working poor.",
     "doctype": "letter",
     "text": "HE VIEWS WITH ALARM\n\n To the Editor of The Press: Your interesting news item about President Roosevelt's plan towards a solution of the unemployment prob-lems brings to mind a picture of Roman Latifundia where chattelp slaves performed the agricultural and other work of the patricians' villas.\n\nExamine carefully this programa uniformed army of 250,000 indentured for one year, subject to the disciplinary regulations of the president. How far is it from placing collars of iron around the necks of 250,000 to 1,000,000 and so on? Examining further, the unemployment solution would take the form of indenturing (read enslaving) all the unemployed until there would be a standing \"pauper\" class working under prison or chattel slave-latifundia conditions and discipline. All the unemployed would eventually pass into \"prison\" camps. Taxes which now feed the R. F. C. and provide the disemployed some relief has already impoverished the middle classes which can stand no more. It becomes necessary to tax the capitalist class, but it is cheaper to pay the insignificant \"army\" sum of $30 a month than to provide direct relief; then the paupers could be put to work building up more raw material resources for the parasite class rather than be a non-productive liability on corporate wealth. The new deal-draw your own conclusions! Phillip Bartell. ",
     "title": "He Views With Alarm",
     "word_count": 223,
+    "model": "olmo2",
     "entities": [],
-    "elapsed_seconds": 21.9
+    "elapsed_seconds": 44.5
   },
   {
     "author": "J. M. Hill",
     "address": "",
     "subjects": [
-      "Economy"
+      "Economy",
+      "State Politics"
     ],
-    "summary": "The author argues for readjusting or canceling international monetary obligations and revaluing gold to at least $60 per ounce to alleviate economic strain on debtor nations and restore global prosperity.",
+    "summary": "The author, J.M. Hill, who is a mining engineer with 38 years of experience, discusses the global economic crisis of the 1930s centered around the world's monetary gold reserve and debt obligations. He argues that the largest creditor nations are draining the gold reserves of debtor nations, leading to a cycle of poverty, unemployment, and under-consumption. Hill suggests a two-part solution: readjusting or canceling international monetary obligations and revaluing gold to at least $60 per ounce to alleviate the economic strain on debtor nations.",
     "doctype": "letter",
     "text": "ANOTHER REVALUATOR\n\n To the Editor of The Press: The monetary gold reserve of the world on Jan. 1, 1933, was $12,050,000,000. The total indebtedness of the world, that is, obligations payable in gold, amounts to $316,000,000,000. While these debt payments mature through a long succession of years there is not sufficient gold in reserve in the world to pay interest on the principal of the world's debts without completely draining the gold reserve of the debtor nations. At the rate of increase at which gold is going to monetary use a panic in monetary gold will continue. Thus, it is obvious that the largest creditor nations are going to continue to drain the gold reserves of the debtor nations, and force them to sell their products at any price obtainable in order to get the gold with which to meet their obligations.\n\nThe final results are loss and chaos to every nation in the world that is engaged in international comfierce. Wage and living standards will remain impoverished, unemployment will continue, agriculture will continue to suffer, and under-consumption will continue. The concentration of money will continue, which situation has proved disastrous to the common wealth of all nations, from the beginning of organized governments.\n\nThe questions arise as to what should be done to avoid further oppression of the debtor nations by the creditor nations and how to completely eradicate unemployment among all nations, thereby restoring happiness, prosperity, and the blessedness of good will among the whole of civilization. If my logic is correct, the plan to follow is this: 1: Readjust or cancel international monetary obligations. (a) It is as unreasonable for a nation to remain a creditor nation and also a competitor as it would be for a chain store monopoly to loan money to interests which operate in competition to the chain. (b)On account of our natural resources the United States cannot afford to remain a creditor nation. 2: Revaluate the troy ounce of gold to at least $60 per ounce 1000 fine.\n\nI have been a mining engineer for 38 years and have sampled and assisted in sampling gold bearing grounds from Nome, Alaska, to Yukon basin on the north to the Mexican border on the south and in Mexico for the Green Consolidated Mining Co. and know of what I write. We can get a revaluation of the troy ounce of gold only by sticking together and organizing clubs. J. M. Hill. ",
     "title": "Another Revaluator",
     "word_count": 422,
+    "model": "olmo2",
     "entities": [
       {
-        "text": "'ANOTHER REVALUATOR'",
-        "type": "hypothetical",
+        "name": "ANOTHER REVALUATOR",
+        "type": "Person",
         "identity": ""
       },
       {
-        "text": "The monetary gold reserve of the world",
-        "type": "concept",
-        "identity": "global monetary gold reserve"
-      },
-      {
-        "text": "world",
-        "type": "place",
-        "identity": "global"
-      },
-      {
-        "text": "Jan. 1, 1933",
-        "type": "date",
+        "name": "world",
+        "type": "Concept",
         "identity": ""
       },
       {
-        "text": "$12,050,000,000",
-        "type": "currency",
-        "identity": "US dollars"
+        "name": "monetary gold reserve",
+        "type": "Concept",
+        "identity": ""
       },
       {
-        "text": "total indebtedness of the world",
-        "type": "concept",
-        "identity": "world's obligations payable in gold"
+        "name": "The Press",
+        "type": "Organization",
+        "identity": "Name of the Newspaper"
       },
       {
-        "text": "$316,000,000,000",
-        "type": "currency",
-        "identity": "US dollars"
+        "name": "editor",
+        "type": "Person",
+        "identity": ""
       },
       {
-        "text": "debt payments",
-        "type": "concept",
-        "identity": "world debt obligations"
+        "name": "Cleveland",
+        "type": "Place",
+        "identity": "Location mentioned if letter deals with local affairs."
       },
       {
-        "text": "interest",
-        "type": "concept",
-        "identity": "principal of the world's debts interest"
+        "name": "Ohio",
+        "type": "Place",
+        "identity": "State mentioned if letter deals with state affairs."
       },
       {
-        "text": "debtor nations",
-        "type": "group",
-        "identity": "countries with debt"
-      },
-      {
-        "text": "largest creditor nations",
-        "type": "group",
-        "identity": "nations with significant loans to others"
-      },
-      {
-        "text": "To the Editor of The Press:",
-        "type": "salutation",
-        "identity": "anonymously directed letter to the newspaper editor"
-      },
-      {
-        "text": "The Press",
-        "type": "publication",
-        "identity": "name of the newspaper"
-      },
-      {
-        "text": "J. M. Hill",
-        "type": "author_name",
-        "identity": "the author of the letter"
-      },
-      {
-        "text": "United States",
-        "type": "country",
-        "identity": "contextual reference to a nation involved in international affairs"
-      },
-      {
-        "text": "miner",
-        "type": "occupation",
-        "identity": "author's occupation"
-      },
-      {
-        "text": "Green Consolidated Mining Co.",
-        "type": "organization",
-        "identity": "a hypothetical mining company mentioned in the text"
-      },
-      {
-        "text": "Nome, Alaska",
-        "type": "place_name",
-        "identity": "location related to the author's experience"
-      },
-      {
-        "text": "Yukon basin",
-        "type": "place_name",
-        "identity": "region related to the author's experience"
-      },
-      {
-        "text": "Mexican border",
-        "type": "place_name",
-        "identity": "border region mentioned in context of mining activities"
-      },
-      {
-        "text": "Mexico",
-        "type": "country",
-        "identity": "specific country mentioned as part of the author's experience"
-      },
-      {
-        "text": "Readjust or cancel international monetary obligations.",
-        "type": "proposal",
-        "identity": "letter author's suggestion for solving the problem"
-      },
-      {
-        "text": "(a) It is as unreasonable for a nation to remain a creditor nation and also a competitor...",
-        "type": "quote",
-        "identity": "a significant point highlighted by the letter author"
-      },
-      {
-        "text": "United States",
-        "type": "country",
-        "identity": "specifically mentioned in the context of being a creditor nation"
-      },
-      {
-        "text": "J. M. Hill",
-        "type": "author_name",
-        "identity": "repeated for closure, potentially indicating ownership or recognition of the letter's argument"
+        "name": "J. M. Hill",
+        "type": "Person",
+        "identity": "Name of the author"
       }
     ],
-    "elapsed_seconds": 114.2
+    "elapsed_seconds": 84.1
   },
   {
-    "author": "A Grade School Teacher",
+    "author": "\"A Grade School Teacher\"",
     "address": "",
     "subjects": [
+      "National Politics",
       "Economy"
     ],
-    "summary": "The author, a teacher supporting a widowed mother, is concerned about the lack of payment to teachers despite ongoing discussions about maintaining school operations. They question how they are supposed to live without income.",
+    "summary": "The letter expresses frustration about the possibility of teachers not being paid, as Superintendent R. G. Jones and Board Member Thomas J. Martin have suggested keeping schools open regardless. The author, a widowed mother dependent on her teacher's salary, is concerned about her financial survival and asks how she and other teachers will make ends meet.",
     "doctype": "letter",
     "text": "HOW DO TEACHERS LIVE WITHOUT PAY?\n\n To the Editor of The Press:\n\nI notice that Superintendent of Schools R. G. Jones and now Board Member Thomas J. Martin are talking about keeping the schools open whether teachers are paid or not. How do they expect the teachers to live? I am supporting a widowed mother. Most of my savings are tied up in a local bank which has not yet reorganized. I am within two weeks of being absolutely broke and in debt.\n\nWill Mr. Martin or Supt. Jones tell me how my mother and I shall keep alive and maintain our self respect? A Grade School Teacher. ",
     "title": "How Do Teachers Live Without Pay?",
     "word_count": 109,
-    "entities": [
-      {
-        "name": "Superintendent of Schools",
-        "type": "office",
-        "identity": ""
-      },
-      {
-        "name": "R. G. Jones",
-        "type": "person",
-        "identity": "Superintendent of Schools"
-      },
-      {
-        "name": "Thomas J. Martin",
-        "type": "person",
-        "identity": "Board Member"
-      },
-      {
-        "name": "teachers",
-        "type": "group",
-        "identity": "Educational professionals"
-      },
-      {
-        "name": "I",
-        "type": "person",
-        "identity": "The writer of the letter."
-      },
-      {
-        "name": "widowed mother",
-        "type": "person",
-        "identity": "The person the writer is supporting."
-      },
-      {
-        "name": "local bank",
-        "type": "organization",
-        "identity": "Financial institution where the writer's savings are held."
-      },
-      {
-        "name": "The Press",
-        "type": "publication",
-        "identity": "Newspaper"
-      },
-      {
-        "name": "Mr. Martin",
-        "type": "person",
-        "identity": "Board Member Thomas J. Martin."
-      },
-      {
-        "name": "Supt. Jones",
-        "type": "person",
-        "identity": "Superintendent of Schools"
-      }
-    ],
-    "elapsed_seconds": 39.3
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 32.2
   },
   {
     "author": "George White",
-    "address": "17720 Ingleside drive.",
+    "address": "17720 Ingleside Drive",
     "subjects": [
-      "City Politics"
+      "City Politics",
+      "National Politics"
     ],
-    "summary": "The author disputes the relevance of William Hense's letter regarding Mayor Miller's heritage, pointing out that no one seems to care about the mayor's ancestry except for Hense. The author also mentions Eamon De Valera as an example of someone with a mixed heritage who holds significant political office.",
+    "summary": "The letter from George White criticizes William Hense for focusing on Mayor Miller's German ancestry instead of more pressing issues, using Eamon De Valera as an example to highlight the triviality of the topic. It suggests that the origins of the mayor's family are inconsequential and questions why such matters are given significant attention in the press.",
     "doctype": "letter",
     "text": "WAS NOT INTERESTED\n\n To the Editor of The Press: After reading William Hense's letter in The Press of March, 25, one wonders why you use so much space for such nonsense. So Mayor Miller is of German decent and not Irish (horrors) and he changed his name from German to English. (More horrors.) I would like to call Mr. Hense's attention to Eamon De Valera, an American like Mr. Miller now the president of the Irish Free State, his father was/Spanish and his mother Irish. So what of it? I have yet to hear of anyone who wants to know who Mayor Miller's ancestors were, but the Irish. George White 17720 Ingleside drive.",
     "title": "Was Not Interested",
     "word_count": 115,
-    "entities": [],
-    "elapsed_seconds": 16.9
+    "model": "olmo2",
+    "entities": [
+      {
+        "name": "William Hense",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Mayor Miller",
+        "type": "person",
+        "identity": "Mayor of a city in the 1930s"
+      },
+      {
+        "name": "Eamon De Valera",
+        "type": "person",
+        "identity": "President of the Irish Free State from 1959"
+      },
+      {
+        "name": "George White",
+        "type": "person",
+        "identity": "Hypothetical, as no specific identity given for this name."
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Newspaper"
+      }
+    ],
+    "elapsed_seconds": 47.8
   }
 ]

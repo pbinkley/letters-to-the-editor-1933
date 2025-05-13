@@ -3,138 +3,133 @@
     "author": "W. Friebel",
     "address": "",
     "subjects": [
-      "National Politics"
+      "National Politics",
+      "World Events"
     ],
-    "summary": "The Acting German Consul, W. Friebel, writes to dispel rumors that the Reichstag fire was a government plot. He claims it was an act of organized Communist conspiracy and asserts that the suspension of Social-Democratic newspapers was due to their undermining of the government's authority.",
+    "summary": "The Acting German Consul writes to refute claims in American newspapers that the Reichstag fire was orchestrated by the German government. According to official reports, the fire was the result of a Communist conspiracy, and the government's actions were in response to this threat, including the temporary suspension of Social-Democratic newspapers for undermining its authority.",
     "doctype": "letter",
     "text": "ACTING GERMAN CONSUL EXPLAINS REICHSTAG FIRE\n\nLetters to the Editor\n\nTo the Editor of The Press: It appears that some newspapers of this country are being used for a certain propaganda to the effect that the fire which recently. destroyed part of the German Reichstag Building was plotted by persons in close touch with the government in order to throw the odium on the Communist party.\n\nI therefore feel it my duty to announce that according to official advices received by this consulate it has been conclusively proven that xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx mer Royal Castle as well as in the Reithstag, can be traced to the activities of organized Communist conspiracy. The government, therefore, to preserve order especially in ployed, has been compelled to take drastic and extraordinary steps against all subversive movements. The temporary suspension of So-cial-Democratic newspapers was due to the fact that such papers had lately consistently undermined the authority of the government. W. Friebel Acting German Consul. ",
     "title": "Acting German Consul Explains Reichstag Fire",
     "word_count": 163,
-    "entities": [
-      {
-        "name": "W. Friebel",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "name": "German Consul",
-        "type": "position",
-        "identity": "acting German Consul"
-      },
-      {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": ""
-      },
-      {
-        "name": "Ohio",
-        "type": "state",
-        "identity": ""
-      }
-    ],
-    "elapsed_seconds": 26.9
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 35.3
   },
   {
     "author": "Walter Lee",
-    "address": "6214 Lexington Avenue",
+    "address": "6214 Lexington avenue.",
     "subjects": [
       "State Politics",
       "Economy"
     ],
-    "summary": "The letter's author, Walter Lee, expresses his discontent with the editorial 'Back the Banks for the General Good' from The Press newspaper. He argues against a proposed law that would limit the withdrawal of commercial accounts in banks. Lee believes that this law could ruin a business owner's credit and give banks too much control over business operations. He is particularly critical of banks charging service fees without providing adequate loan opportunities to businesses. Furthermore, he criticizes banks for their high-interest rates on personal loans and low-interest rates on savings deposits. Lee argues that banks have lost the trust of the public through such practices and calls for laws to control them in the future. He urges fellow citizens to protect the general interest by enforcing sound business principles.",
+    "summary": "The author, Walter Lee, disputes the notion of supporting banks for general economic benefit by proposing a law to limit temporary withdrawals from commercial accounts. He argues that the money in these accounts is essential working capital for businesses and should remain accessible. He criticizes banks for charging fees while demanding payment on demand, and believes they should not control business through financial measures. The letter also hints at banks' unethical behavior by refusing loans on real estate and manipulating asset values. Lee concludes by calling for laws to control banks in the future and for citizens to protect their general interest by advocating for sound business practices.",
     "doctype": "letter",
     "text": "FINDS US UNREASONABLE\n\n To the Editor of The Press: Your editorial, Back the Banks for the General Good, is the most unreasonable thing I have ever read in your paper in sometime. I am sure you do not realize how-disasterous it would be to business to have a law to limit the withdrawal of commercial accounts, even temporarily. It is the working cash of all business, and the one thing that should be free today. Every man's credit is strained to the-limit. He must take advantage of all discounts, etc., to make ends meet. The banks charge a service fee for carrying these accounts, and therefore have no claim on them, and are liable for their payment on demand. Those funds are not for investment. With such a law they can ruin a man's credit and control any business at their discretion. They refusing to loan on real estate, allowing the investor to juggle values until their assets in that line are destroyed. With money borrowed from them on personal security, he erates of interest and large bonus, spaying regular commercial 'rates to them, for our saving deposits drawing 3 per cent for security. They have Violated the conndence and trust of the public. It was a gamble, and they have lost. They should be held to account for it, by laws to control them hereafter. This ocasi\u00f3n calls for calm and clear thinking, but not for uncomplaining acceptance of such conditions. And it is time for all good citizens to protect the general interest, by holding them to sound business principles. Stand back of them in their troubles now, but pr\u00e9pare for the future. Yours for calm and clear thinking. Walter Lee 6214 Lexington avenue. ",
     "title": "Finds Us Unreasonable",
     "word_count": 287,
+    "model": "olmo2",
     "entities": [
       {
-        "name": "editor",
+        "name": "Editor",
         "type": "office",
         "identity": ""
       },
       {
         "name": "The Press",
         "type": "organization",
-        "identity": "Name of the 1930s newspaper"
+        "identity": "Cleveland newspaper"
       },
       {
         "name": "Walter Lee",
         "type": "person",
-        "identity": ""
+        "identity": "Author of the letter"
       }
     ],
-    "elapsed_seconds": 37.3
+    "elapsed_seconds": 58.4
   },
   {
     "author": "O. T. Marchand",
-    "address": "",
+    "address": "Gates Mills, O.",
     "subjects": [
       "Economy",
       "National Politics"
     ],
-    "summary": "The author proposes that the U.S. government call back outstanding Liberty Bonds, issue new money to pay for them, use these bonds as backing for the new currency to prevent deflation, save on interest payments, and increase confidence through taxation of profits from the stock market.",
+    "summary": "The author suggests that the government issue $2 billion in new money by buying back outstanding Liberty Bonds and using them as backing for the new currency to prevent deflation. Additionally, the author proposes a substantial tax on profits from the stock market to restore confidence and redirect stock purchases towards investment rather than gambling.",
     "doctype": "letter",
     "text": "RETIRE BONDS, PRINT MONEY...\n\n To the Editor of The Press: There has been so much said about the government issuing $2,000,000,000 in new money in order to bring more money into circulation. This money would, of course, have no gold value in back of it, therefore it is considered too dangerous, as it would deflate the dollat too low and destroy what confidence there is left. Now suppose the government would call back one of the issues of the, oustanding Liberty Bonds, print said amount of new money. pay face value for them. Said bond to be kept in treasury as backing of newly issued money. If necessary, it can be resold in later years when times are better, re-dating them due in a later year, than they are due now. These bonds certainly should have xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx racy has been fof naught. Also said backing should keep the dollar from deflation. Calling back said bonds will save the government millions of dollars sin interest. Also the taxes derived from this money will repay a good bit of the new money sued. Further in order to bring back confidence, the government should tax 80 to 90 per cent of the profit taken at the stock market. People will then buy stocks for investment and not gamble. Confidence would thus be restored. O. T. Marchand Gates Milis, O. ",
     "title": "Retire Bonds, Print Money...",
     "word_count": 226,
-    "entities": [
-      {
-        "name": "O. T. Marchand",
-        "type": "person",
-        "identity": "Author of the letter"
-      },
-      {
-        "name": "The Press",
-        "type": "organization",
-        "identity": "Name of the Newspaper where the letter is published"
-      }
-    ],
-    "elapsed_seconds": 27.1
+    "model": "olmo2",
+    "entities": [],
+    "elapsed_seconds": 40.6
   },
   {
-    "author": "Rossi Cerrits",
+    "author": "Rossi Cerri",
     "address": "",
     "subjects": [
-      "Social Issues",
-      "Justice System"
+      "State Politics",
+      "Economy"
     ],
-    "summary": "The author, Rossi Cerrits, expresses concern over the implications of incarcerating young boys with seasoned criminals. They argue that the psychological impact on these youths could lead to a life of crime and a diminished self-worth, challenging societal norms and the judicial system's approach to juvenile delinquency.",
+    "summary": "The author is concerned about the implications of young boys being grouped with experienced criminals in the justice system, as it may lead to a negative influence on their life choices and perception of themselves post-release. They argue that such practices contradict efforts to use science and judgment in the judicial system and could result in these boys adopting a criminal identity and mindset.",
     "doctype": "letter",
     "text": "READERS AROUSED\n\n To the Editor of The Press: We were very much aroused after reading the article in The Press on March 1 in reference to the five boys who were jailed for sneaking Into the State Theater.\n\nOur sociology books, teachers and xxxxxxxxxxxxxxxxxxxxxxxx courts try to is now trying to use science and good judgment in discriminating the thief from the petty offender. What chances in life will these boys kave after mingling with experi-enced criminals? Their minds will be corrupted. After they have been freed they will consider themselves \"social inferiors\" jailbirds and crooks and in most cases act the part. This is something for our citizens and courts to think about. Mr. and Mrs. Rossi Cerrits. ",
     "title": "Readers Aroused",
     "word_count": 119,
+    "model": "olmo2",
     "entities": [],
-    "elapsed_seconds": 16.5
+    "elapsed_seconds": 33.5
   },
   {
     "author": "William B. Bucey",
-    "address": "1367 E. 110th street",
+    "address": "1367 E. 110th street.",
     "subjects": [
-      "Economy",
-      "Immigration"
+      "National Politics",
+      "Economy"
     ],
-    "summary": "The author argues against the proposed opening of immigration doors wide during the economic depression, stating that it could lead to job losses for veterans, the cheapening of wages, and a propagation of social degradation. He questions the integrity and intentions behind this policy, suggesting it may be aimed at deunionizing workers and lowering standards.",
+    "summary": "The letter argues against reducing wages and standards by opening up immigration during economic depression, suggesting that such action would only serve to foster social degradation and support the spread of communism.",
     "doctype": "letter",
     "text": "TARIFFS AND IMMIGRATION\n\n To the Editor of The Press: Eleven years ago, before we im-posed restriction on immigration, men who wore the uniform of the try on the battlefields of France were thrown out of their jobs every-where and immigrants fresh from the docks put in their places. Why? Because the immigrant would work cheaper and because he esteemed the cut-wage a princely salary com-pared to what he could earn at home.\n\nAre we to encourage the develop-ment of the misery of European slums and social degradation in our land and are we to make fertile fields for the propagandists of Gom munism and others who destroy our social, economic and political order?\n\nAre we to repeat the sad experi-ence of 11 years ago and under cir-cumstances less trying than those of the present time?\n\nAre we to disregard the pledge secured by President Hoover in the beginning of this period of depres-sion from leading industrialists, not to lower standards of work nor re-duce prevailing wages in return for xxxxxxxxxxxxxxxx not to seek higher standards?\n\nAre we to believe that this entire program for the opening wide our portals to both foreign workers and goods of foreign people is inspired and designed to liquidate isbor and force a lowering of our standards? Can we honestly draw any other dedustion? William B. Bucey 1367 E. 110th street.",
     "title": "Tariffs And Immigration",
     "word_count": 226,
+    "model": "olmo2",
     "entities": [
       {
-        "name": "William B. Bucey",
-        "type": "person",
-        "identity": ""
+        "text": "TARIFFS AND IMMIGRATION",
+        "type": "topic"
       },
       {
-        "name": "President Hoover",
+        "text": "President Hoover",
         "type": "office",
-        "identity": "United States President at the time of economic depression"
+        "identity": "28th President of the United States, served 1929-1933"
       },
       {
-        "name": "leading industrialists",
-        "type": "organization",
-        "identity": "Prominent business leaders in the United States"
+        "text": "William B. Bucey",
+        "type": "person",
+        "identity": "Author of the letter"
+      },
+      {
+        "text": "Cleveland",
+        "type": "place",
+        "identity": "City where the letter was likely written or published, located in Ohio"
+      },
+      {
+        "text": "Ohio",
+        "type": "state",
+        "identity": "State in which Cleveland is located"
+      },
+      {
+        "text": "immigrants",
+        "type": "person"
+      },
+      {
+        "text": "European slums",
+        "type": "place"
+      },
+      {
+        "text": "Gom munism",
+        "type": "organization_or_govt"
       }
     ],
-    "elapsed_seconds": 29.6
+    "elapsed_seconds": 62.8
   }
 ]
