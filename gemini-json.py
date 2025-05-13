@@ -3,14 +3,15 @@ from google.genai import types
 
 import json
 import sys
-import os
+import osgemini
 from pathlib import Path
 import time
 import re
 
 # based on https://ollama.com/blog/structured-outputs
 
-model = 'olmo2'
+service = 'gemini'
+model = 'gemini-2.0-flash-001'
  
 class Letter(BaseModel):
   author: str
@@ -115,6 +116,8 @@ else:
 print(f"There are {len(letters)} letters.")
 counter = 1
 
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+
 for letter in letters:
   start = time.time()
 
@@ -127,20 +130,37 @@ for letter in letters:
   # prompt template ends with <OCR text>
   letter_metadata_prompt = prompt_metadata.replace("<OCR text>", f"\n\"\"\"\n{text}\n\"\"\"")
 
-  response = get_response(letter_metadata_prompt, LetterListMetadata)
+#  response = get_response(letter_metadata_prompt, LetterListMetadata)
+  response = client.models.generate_content(
+      model = model,
+      config=types.GenerateContentConfig(
+          system_instruction="You are a skilled reader of old newspaper texts. You never invent, generate or hallucinate text that is not found in the image you are processing."),
+      contents=[letter_metadata_prompt])
+
+  import pdb; pdb.set_trace()
+
 
   letter_data = json.loads(response['message']['content'])['letters'][0]
   letter_data['text'] = ('@@@').join(paragraphs).replace("-\n", '').replace("\n", ' ').replace('@@@', "\n\n")
   letter_data['title'] = title.title()
   letter_data['doctype'] = "letter"
   letter_data['word_count'] = words
+  letter_stat['service'] = service
   letter_data['model'] = model
+  letter_data['timestamp'] = time.strftime("%Y-%m-%d %H:%M:%S", start)
+
   # now do the entities
 
   # prompt template ends with <OCR text>
   letter_entities_prompt = prompt_entities.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
 
-  response = get_response(letter_entities_prompt, LetterListEntities)
+#  response = get_response(letter_entities_prompt, LetterListEntities)
+
+  response = client.models.generate_content(
+      model = model,
+      config=types.GenerateContentConfig(
+          system_instruction="You are a skilled reader of old newspaper texts. You never invent, generate or hallucinate text that is not found in the image you are processing."),
+      contents=[letter_entities_prompt])
 
   letter_data['entities'] = []
   for letter in json.loads(response['message']['content'])['letters']:

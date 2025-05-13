@@ -9,6 +9,7 @@ import re
 
 # based on https://ollama.com/blog/structured-outputs
 
+service = 'ollama'
 model = 'olmo2'
 
 class Letter(BaseModel):
@@ -133,7 +134,9 @@ for letter in letters:
   letter_data['title'] = title.title()
   letter_data['doctype'] = "letter"
   letter_data['word_count'] = words
+  letter_data['service'] = service
   letter_data['model'] = model
+  letter_data['timestamp'] = time.strftime("%Y-%m-%d %H:%M:%S", start)
 
   # now do the entities
 
