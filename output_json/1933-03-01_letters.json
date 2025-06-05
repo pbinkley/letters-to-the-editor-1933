@@ -1,256 +1,211 @@
 [
   {
-    "Author": "A. B. Curtisa",
-    "Address": "241 Euclid Avenue",
-    "Subjects": [
+    "author": "A. B. Curtiss",
+    "address": "241 Euclid Ave.",
+    "subjects": [
       "Economy",
       "National Politics"
     ],
-    "Summary": "The author calls for federal guarantee of bank deposits in response to the currency and banking emergency, suggesting that member banks within a clearing house association temporarily guarantee each other's credits. They also mention the feasibility of a uniform international currency system under joint guarantees by civilized nations.",
-    "DocType": "json",
-    "Text": [
-      "Urges Federal Guarantee of Bank Deposits",
-      "\n",
-      "To the Editor of The Press\nThe present currency and banking emergency emphasizes the necessity of the speedy enactment of legislation by Congress completely to nationalise the banking industry, the federal government guaranteeing all bank deposits and undertaking to issue legal tender for them upon demand.\nIn the meantime, to meet, partially, at least, our local demands, the member banks of the Cleveland Clearing House Association should at once agree between themselves jointly to guarantee the credits of each to the other, to the end for instance, that I could deposit a check from a client drawn on the Cleveland Trust Co, to my checking account with the Guardian, enabling me to draw checks, against my credit to my grocer and coal dealer, for deposit by them in the Union Trust Co., the Central United National Bank, etc. Incidentally, the right to convert savings into commercial accounts should be recognized.\nI can understand the necessity of limitations upon the withdrawal of currency, but not upon the transfer of creditors.\nIf I cared to pursue the subject further, I could raise the question of the feasibility of a uniform international currency and banking system, looking to the joint guarantee by all civilized nations of the currency, if not the bank credits of each.\nA. B. Curtisa\n241 Euclid ayenue,"
-    ],
-    "Title": "Urges Federal Guarantee Of Bank Deposits",
-    "Names": [
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "The letter evidently deals with local affairs in Cleveland, Ohio."
-      },
-      {
-        "text": "Clearing House Association",
-        "type": "organization",
-        "identity": "The Cleveland Clearing House Association is a hypothetical organization mentioned as part of the letter's proposal; it represents local banks and their proposed agreement to guarantee each other's deposits."
-      },
-      {
-        "text": "Cleveland Trust Co.",
-        "type": "organization",
-        "identity": "A likely real bank mentioned in the letter as the source of a check being deposited by 'A. B. Curtisa'."
-      },
-      {
-        "text": "Guardian",
-        "type": "organization",
-        "identity": "Another likely real bank where 'A. B. Curtisa' maintains their checking account."
-      },
-      {
-        "text": "Union Trust Co.",
-        "type": "organization",
-        "identity": "A hypothetical bank mentioned as a possible recipient of deposited checks from 'Cleveland Trust Co.'"
-      },
-      {
-        "text": "Central United National Bank",
-        "type": "organization",
-        "identity": "Another hypothetical bank mentioned as a possible recipient of deposited checks."
-      },
-      {
-        "text": "A. B. Curtisa",
-        "type": "person",
-        "identity": "The author of the letter, presumably a banker or individual affected by the banking crisis."
-      }
-    ]
+    "summary": "The letter calls for the federal guarantee of bank deposits to address the currency and banking emergency. The author suggests that local banks should also back each other's credits to facilitate transactions, and hints at the broader concept of a uniform-international currency system.",
+    "doctype": "letter",
+    "text": "URGES FEDERAL GUARANTEE OF BANK DEPOSITS\n\n Letters to the Editor\n\nTo the Editer of The Presst, The present currency and banking emergency emphasizes the necessity of the speedy enactment of legislation by Congress completely to nationalize the banking industry, the federal government guaranteeing all bank deposits and undertaking to issue legal tender for them upon demand.\n\nIn the meantime, to meet, partially, at least, our local demands, the member banks of the Cleveland Clearing House Association should at once agree between themselves jointly to guarantee the credits of each to the other, to the end, for instance, that I could deposit a check from a client drawn on the Cleveland Trust Co. to my checking account with the Guardian, enabling me to draw checks, against my credit to my grocer and coal dealer, for deposit by them in the Union Trust Co., the Central United National Bank, etc. Incidentally, the right to convert savings into commercial accounts should be recognized.\n\nI can understand the necessity of limitations upon the withdrawal of currency, but not upon the transfer of creditors.\n\nIf I cared to pursue the subject further, I could raise the question of the feasibility of, a uniform-international currency and banking system, looking to the joint guarantee by all civilized nations of the currency, if not the bank credits of each. A. B. Curtiss 241 Euclid avenue. ",
+    "title": "Urges Federal Guarantee Of Bank Deposits",
+    "word_count": 227,
+    "entities": [],
+    "elapsed_seconds": 18.3
   },
   {
-    "Author": "F. H. Mueller",
-    "Address": "12623 Iowa avenue, N.",
-    "Subjects": [
+    "author": "F. H. Mueller",
+    "address": "12623 Iowa avenue, N. E.",
+    "subjects": [
       "City Politics",
-      "Economy",
-      "National Politics",
-      "World Events"
+      "National Politics"
     ],
-    "Summary": "The author praises Cincinnati's efficient city services, well-compensated councilmen, and superior library, contrasting these with Cleveland's managerial form of government and larger, less quality-oriented electorate. They argue that despite being smaller, Cincinnati is more desirable due to its efficient management, cultural offerings, and a citizenry of high quality, rooted in German, Irish, and northern Italian ancestry.",
-    "DocType": "letter",
-    "Text": [
-      "HE LIKES CINCINNATI",
-      "\n",
-      "To the Editor of The Press\nYour editorial about Cincinnati was very good except that you do not go far enough.\nAs a former Cincinnatian, and one who had a very small part in launching the present city government, think you could also have mentioned the following points.\nIn spite of economical operation, Cincinnati has a police and fire department which will bear comparison with the best in the country, Their waste collection system is thorough and reliable, not the hit or miss proposition it is here. The school system is one of the best in the country, while the city maintains a municipal university which attracts students from all over the world.\nAll these services, besides many others of a more distinctive character, are provided for out of a tax rate considerably lower than that of Cleveland. Just to mention one of the distinctive Cincinnati projects, I recall an item in one of the papers recently mentioning the fact that the Cincinnati Public Library had the best collection of Braille books for the blind in the United States throughout the country.\nIn my judgment Cleveland doomed its manager form of government to failure from the start by the retention of the large, locally elected council, poorly paid and therefore open to party manipulation. Cincinnati only has nine councilmen, elected at large and paid well enough to make them less susceptible to influence from selfishly motivated interests.\nBut the greatest difference, and one that only time can change is the fundamental difference in the electorate. This city, together with Detroit, Chicago and others is now paying the price for the senseless drive for mere size regardless of the quality of the people who made up the increase it will take this city a generation and possibly two to develope a citizenship averaging up with the third generation German, Irish and northern Italian stock to which most Cincinnatians can trace their ancestry.\nI have no desire to minimize the good points of Cleveland which are numerous and real but as they stand at present Cleveland may be twice as big, but Cincinnati is twice as desirable a city in which to live.\nF. H. Mueller,\n12623 Iowa avenue, N."
-    ],
-    "Title": "He Likes Cincinnati",
-    "Names": [
+    "summary": "The author commends Cincinnati for its efficient city services and management of the government, contrasting it with Cleveland's council system and larger, less quality-focused population growth. They express admiration for Cincinnati's police, fire department, waste collection system, school system, and its municipal university. Additionally, they value the smaller, well-paid city council and the genetic makeup of its population as a positive influence on the city's desirability. The letter concludes with a note praising Cincinnati over Cleveland despite acknowledging Cleveland's humor and real good points.",
+    "doctype": "letter",
+    "text": "HE LIKES CINCINNATI\n\n To the Editor of The Press! Your editorial about Cincinnati was very good except that you do not go far enough..\n\nAs a former Cincinnatian, and one who had a very small part in launching the present city government, think you could also have mentioned the following points. In spite of economical operation, Cincinnati has a police and fire department which will bear comparison with the best in the country. Their waste collection system is thorough and reliable, not the hit or miss proposition it is here. The school system is one of the best in the country, while the city maintains a municipal university which attracts students from all over the world.\n\nAll these services, besides many others of a more distinctive character, are provided for out of a tax rate considerably lower than that of Cleveland. Just to mention one of the distinctive Cincinnati projects. I recall an item in one of the papers recently mentioning the fact that the Cincinnati Public Library had the best collection of Braille books for the blind in the United States and that it was extensively used throughout the country.\n\nIn my judgment Cleveland doomed its manager form of government to failure from the start by the retention of the large, locally elected, council, poorly paid and therefore open to party manipulation. Cincinnati only has nine councilmen, elected at large and paid well enough to make them less susceptible to influence from selfishly motivated interests.\n\nBut the greatest difference, and one that only time can change is the fundamental difference in the electorate. This city, together with Detroit, Chicago and others is nowpaying the price for the senseless -drive for mere size regardless of the quality of the people who made up the increase, It will take this city a generation and possibly two to develope a citizenship averaging up with the third generation German, Irish and northern Italian stock to which most Cincinnatians can trace their ancestry. I have no desire to minimize the good points of Cleveland which are humerous and real but as they stand at present Cleveland may be twice as big, but Cincinnati is twice as desirable a city in which to live. F. H. Mueller, 12623 Iowa avenue, N. E. ",
+    "title": "He Likes Cincinnati",
+    "word_count": 378,
+    "entities": [
       {
         "text": "Cincinnati",
-        "type": "place",
-        "identity": "City mentioned by the author where they used to reside and compare favorably with Cleveland."
+        "type": "place_name",
+        "identity": "The city referred to as a place with a notable municipal government and services."
       },
       {
-        "text": "Cincinnatian",
-        "type": "person",
-        "identity": "The author identifies themselves as a former resident of Cincinnati."
+        "text": "editorial",
+        "type": "entity",
+        "identity": "The content of the letter addressing a newspaper's editorial position on Cincinnati."
       },
       {
         "text": "F. H. Mueller",
         "type": "person",
-        "identity": "Author of the letter to The Press in Cleveland."
+        "identity": "The name of the letter writer, presumably a former Cincinnatian."
+      },
+      {
+        "text": "Cincinnatian",
+        "type": "person",
+        "identity": "Refers to a person from Cincinnati, likely the writer F. H. Mueller."
+      },
+      {
+        "text": "city government",
+        "type": "entity",
+        "identity": "The municipal government system of Cincinnati as mentioned by the writer."
       },
       {
         "text": "Cleveland",
-        "type": "place",
-        "identity": "City mentioned as having a higher tax rate compared to Cincinnati."
+        "type": "place_name",
+        "identity": "City mentioned for comparison in terms of tax rates and form of government. 'Cleveland' is a city in Ohio, possibly the location from which the letter was sent."
       },
       {
         "text": "manager form of government",
-        "type": "concept",
-        "identity": "Type of government in Cleveland that the author claims failed due to council retention and manipulation."
+        "type": "entity",
+        "identity": "The specific type of city government criticized in Cleveland for its failure."
+      },
+      {
+        "text": "municipal university",
+        "type": "entity",
+        "identity": "The university mentioned as a notable service provided by Cincinnati."
+      },
+      {
+        "text": "Braille books for the blind",
+        "type": "entity",
+        "identity": "A specific mention of the library's service to the blind, indicating quality in the city's offerings. 'Braille books' are a key detail hinting at accessibility and inclusivity services offered by Cincinnati's library."
       },
       {
         "text": "Cincinnati Public Library",
-        "type": "organization",
-        "identity": "Mentioned for its collection of Braille books for the blind, indicating a notable service of the library."
+        "type": "place_name",
+        "identity": "The library specifically referenced for its collection of Braille books."
       },
       {
-        "text": "German",
-        "type": "ethnicity",
-        "identity": "One of the ancestries of most Cincinnatians according to the author."
-      },
-      {
-        "text": "Irish",
-        "type": "ethnicity",
-        "identity": "Another mentioned ancestry of Cincinnatians."
-      },
-      {
-        "text": "northern Italian",
-        "type": "ethnicity",
-        "identity": "The third mentioned ancestry of Cincinnatians."
-      },
-      {
-        "text": "Cincinnati Public Library",
-        "type": "organization",
-        "identity": "Mentioned for having the best collection of Braille books for the blind in the United States."
+        "text": "Cincinnati",
+        "type": "place_name",
+        "identity": "City praised for its services, urban planning, and quality of life. 'Cincinnati' is the main focus of the letter's content, praising its governance, educational institutions, and quality of life compared to 'Cleveland'."
       },
       {
         "text": "Detroit",
-        "type": "place",
-        "identity": "City mentioned as having a similar situation to Cincinnati in terms of electorate quality."
+        "type": "place_name",
+        "identity": "Another city compared to Cincinnati in terms of civic development and population growth, implying it shares similar issues with 'Cleveland'."
       },
       {
         "text": "Chicago",
-        "type": "place",
-        "identity": "City mentioned as having a similar situation to Cincinnati in terms of electorate quality."
-      },
-      {
-        "text": "Cincinnatians",
-        "type": "person",
-        "identity": "The residents of Cincinnati, noted for their specific ancestry and character."
-      },
-      {
-        "text": "electorate",
-        "type": "concept",
-        "identity": "The voting population mentioned for its quality and influence on city development."
+        "type": "place_name",
+        "identity": "A third city mentioned along with Detroit and Cleveland for its demographic characteristics and presumably similar challenges with civic governance and quality of life."
       }
-    ]
+    ],
+    "elapsed_seconds": 94.7
   },
   {
-    "Author": "J. J. Zwalsh.",
-    "Address": "5920 St. Clair avenue",
-    "Subjects": [
+    "author": "J. J. Zwalsh",
+    "address": "5920 St. Clair avenue.",
+    "subjects": [
       "Economy"
     ],
-    "Summary": "The letter suggests that the government should declare all money must be stamped with a government seal to prevent a run on banks and hoarding, as a measure to improve economic stability.",
-    "DocType": "json",
-    "Text": [
-      "JACKRABBIT MONEY",
-      "\n",
-      "To the Editor of The Press\nWhy does not the government issue a statement to the effect that all money must be put through the controller's hands and be stamped with the government seal and that unless this is done the money would become obsolete and worthless after 30 days or such given time. This would prevent a run on the banks and stop hoarding of money.\nJ. J. Zwalsh.\n5920 St. Clair avenue,"
+    "summary": "The author suggests that the government stamp all money with a government seal to prevent hoarding and bank runs.",
+    "doctype": "letter",
+    "text": "JACKRABBIT MONEY\n\n To the Editor of The Press: Why does not the government issue a statement to the effect that all money must be put through the controller's hands and be stamped with the government seal and that unless this is done the money would become obsolete and worthless after 30 days or such given time. This would prevent a run on the banks and stop hoarding of money. J. J. Zwalsh, 5920 St. Clair avenue. ",
+    "title": "Jackrabbit Money",
+    "word_count": 76,
+    "entities": [
+      {
+        "text": "JACKRABBIT MONEY",
+        "type": "entity",
+        "identity": ""
+      },
+      {},
+      {
+        "text": "the government",
+        "type": "entity",
+        "identity": "government"
+      }
     ],
-    "Title": "Jackrabbit Money",
-    "Names": []
+    "elapsed_seconds": 16.5
   },
   {
-    "Author": "C. B. Keenum",
-    "Address": "2244 E. Ninth street.",
-    "Subjects": [
-      "Economy",
-      "National Politics"
+    "author": "C. B. Keenum",
+    "address": "2244 E. Ninth street",
+    "subjects": [
+      "Economy"
     ],
-    "Summary": "The letter argues for the United States Congress to print $40 billion in currency to cover bank deposits, refinance farm and home loans at 2% interest, and reduce the interest burden on Americans by $8 billion annually. This move is suggested as a more effective measure to stimulate confidence and prosperity than public works and trade programs.",
-    "DocType": "Letter to the Editor",
-    "Text": [
-      "WANTS MORE CURRENCY",
-      "\n",
-      "To the Editor of The Press\nThis bank limitation of 5 per cent on withdrawals that has just reached Cleveland reminds one of the recent statement made by Secretary Mills that the total bank deposits in the U.S.A amounts to $46,000,000,000 and the actual cash in the U.S.A. amounts to less than $6,000,000,000.\nIf our Congress would now print $40,000,000,000 in currency there would then be just enough money in the country to cover the bank deposits and if our government should print $40,000,000,000 on its own instead of the usual \"bank notes\" and loan the same to refinance farm and home loans at 2 per cent interest, the revenue to the government would almost balance the budget and, at the same time force down all interest rates to 2 per cent and this save a difference in interest burden on the American people of 4 per cent average on the 200,000,000,000 total of interest bearing debts, or $8,000,000,000.\nThis $8,000,000,000 a year saving to the people would automatically increase the buying power of the masses to that extent. It would do more to \"restore confidence\" and create prosperity than all the public works programs and beer tax programs and foreign trade programs all put together could do. Let's put Cleveland to work but not by inflating our debt structure with more bond issues.\nOur banker friends are hollering their heads off Against inflation of currency, but you don't hear one of them saying a word about us having inflated our debts so much that just the interest now amounts to 4,000,000 a year more than our entire money supply.\nFor us to try and run this country with less than $6,000,000,000 (plus bank credit confidence) is like trying to run a motor car with one pint of oil in the crank case.\nC. B. Keenum,\n2244 E. Ninth street."
-    ],
-    "Title": "Wants More Currency",
-    "Names": []
+    "summary": "The author suggests that the U.S. government should print $40 billion in currency to refinance farm and home loans at 2% interest, effectively balancing the budget and reducing interest rates to 2%. This move would save Americans approximately $8 billion annually, increasing buying power and promoting prosperity without the need for public works programs, beer tax programs, or foreign trade programs.",
+    "doctype": "letter",
+    "text": "WANTS MORE CURRENCY\n\n To the Editor of The Pres: This bank limitation of 5 per cent on withdrawals that has just reached Cleveland reminds one of the recent statement made by Secretary Mills that the total bank deposits in the U. S. A. amounts to $46,000,000,000 and the actual cash in the U. S. A. amounts to less than $6,000,000,000. If our Congress would now print $40,000,000,000 in currency there would then be just enough money in the country to cover the bank deposits and if our government should print $40,000,000,000 on its own instead of the usual \"bank notes\" and loan the same to refinance farm and home loans at 2 per cent interest, the revenue to the government would almost balance the budget and, at the same time force down all interest rates to 2 per cent and thus save a difference in interest burden on the American people of 4 per cent average on the-200,000,000,000 total of interest bearing debts, or $8,000,000,000. This $8,000,000,000 a year saving to the people would automatically increase the buying power of the masses to that extent. It would do more to \"restore confidence\" and create prosperity than all the public works programs and beer tax programs and foreign trade programs all put together could do. Let's put Cleveland to work but not by inflating our deht structure with more C. B. Keenum, 2244 E. Ninth street. ",
+    "title": "Wants More Currency",
+    "word_count": 242,
+    "entities": [],
+    "elapsed_seconds": 21.8
   },
   {
-    "Author": "Philip Garbo",
-    "Address": "",
-    "Subjects": [
+    "author": "Philip Garbo",
+    "address": "",
+    "subjects": [
       "National Politics",
+      "State Politics",
+      "Economy",
       "World Events"
     ],
-    "Summary": "The author, Philip Garbo, disputes Rabbi Brickner's comments regarding Hitler's chancellorship, the treatment of Jews under Mussolini, and the alleged banding of Germany, Italy, Austria, and Hungary against France, Yugoslavia, and Russia. Garbo criticizes Rabbi Brickner for comparing Hitler to Mussolini and suggests that Mussolini has maintained peace during his tenure and has done good for Italy.",
-    "DocType": "Letter",
-    "Text": [
-      "DIFFERS WITH RABBI BRICKNER",
-      "\n",
-      "To the Editor of The Press\nRabbi Brickner recently made some remarks on the radio about t which I wish to comment and in some instances take exception to.\nHe said that Hitler has become chancellor because Von Hindenburg is old and his days are numbered. Does the rabbi mean that 60,000,000 people in Germany are asleep that they allow this man to take advantage of them? Certainly Von Hindenburg cannot have lost control of his mind.\nIn one breath he expresses concern about the March 5 elections and that Hitler will drive the Jews from Germany and in the next, the rabbi likens Hitler to Mussolini How can he make such a comparison when it is common knowledge that in the years Mussolini has been in power, the Jews in Italy have received better treatment and more consideration than in any other country in the world. Should such a thing happen in Germany as the driving out of the Jews, an appeal can be made to Mussolini and the Pope and they will welcome the Jews to Italy.\nHe said that Germany, Italy, Austria and Hungary are banding together against France, Yugoslavia and Russia (with Poland on the fence) and that there will soon be war. This is just a bad dream. Mussolini has been in power for more than 10 years and in spite of France's innuendos he has kept and is keeping peace. has been on the fields of battle, wounded several times and he knows what war means.\nOf course, it is evident that the rabbi is against Mussolini because he is a dictator. He does not tell his listeners of the good that Mussolini has done for Italy, bringing it to its rightful place as a sovereign nation. Think how much better off we would be were Roosevelt vested with the powers of a dictator. Then the kind of corruption in government we read about in Liberty magazine would be rectified.\nPhilip Garbo"
-    ],
-    "Title": "Differs With Rabbi Brickner",
-    "Names": [
+    "summary": "The letter challenges Rabbi Brickner's radio comments about Hitler, Von Hindenburg, and Mussolini. The author disputes Rabbi Brickner's viewpoint on multiple fronts, arguing that Rabbi Brickner misrepresents public sentiment in Germany, the comparison between Hitler and Mussolini, and the geopolitical situation involving Italy, Germany, Austria, Hungary, and their neighbors. Additionally, the letter criticizes Rabbi Brickner for not mentioning Mussolini's positive contributions to Italy.",
+    "doctype": "letter",
+    "text": "DIFFERS WITH RABBI BRICKNER\n\n To the Editor of The Prese: p Rabbi Brickner recently made w some remarks on the radio about t which I wish to comment and in M some instances take exception to.\n\nHe said that Hitler has become H chancellor because Von Hindenburg is old and his days are numbered. Does the rabbi mean that 60,000,000 people in Germany are asleep that they allow this man to take advantage of them? Certainly Von Hindenburg cannot have lost control of his mind.\n\nIn one breath he expresses .concern about the March 5 elections and that Hitler will drive the Jews from Germany and in the next, the rabbi likens Hitler to Mussolini How can he make such a comparison when it is common knowledge that in the years Mussolini has been in power, the Jews in Italy have received better treatment and more consideration than in any other country in the world. Should such a thing happen in Germany as the driving out of the Jews, an appeal can be made to Mussolini and the Pope and they will welcome the Jews to Italy. S G F\n\nHe said that Germany, Italy, Austria and Hungary are banding together against France, Jugoslavia and Russia (with Poland on the c fence) and that there will soon be war. This is just a bad dream. Mussolini has been in power for more than 10 years and in spite of France's inuendos he has kept and is keeping peace. He has been on the fields of battle, wounded several times and he knows what war means..\n\nOf course, it is evident that the rabbi is against Mussolini because he is a dictator. He does not telle his listeners of the good that Mussolini has done for Italy, bringing it to its rightful place as a sovereign nation. Think how much better off we would be were Roosevelt vested with the powers of a dictator. Then the kind of corruption in government we read about In Liberty magazine would be rectified. Philip Garbo",
+    "title": "Differs With Rabbi Brickner",
+    "word_count": 354,
+    "entities": [
       {
-        "text": "Rabbi Brickner",
+        "name": "Rabbi Brickner",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Hitler",
+        "name": "Von Hindenburg",
         "type": "person",
-        "identity": "Chancellor of Germany"
+        "identity": "Chancellor of Germany, President of Germany"
       },
       {
-        "text": "Von Hindenburg",
+        "name": "Hitler",
         "type": "person",
-        "identity": "President of Germany"
+        "identity": "German Chancellor"
       },
       {
-        "text": "Jews",
-        "type": "group",
-        "identity": ""
-      },
-      {
-        "text": "Mussolini",
+        "name": "Mussolini",
         "type": "person",
-        "identity": "Prime Minister of Italy"
+        "identity": "Italian Prime Minister, Dictator"
       },
       {
-        "text": "Italy",
+        "name": "France",
         "type": "country",
-        "identity": "where Mussolini is Prime Minister"
+        "identity": "Opponent of Italy"
       },
       {
-        "text": "France",
+        "name": "Jugoslavia",
         "type": "country",
-        "identity": "mentioned as opposed to Italy and Germany"
+        "identity": "Region Opponent of Italy"
       },
       {
-        "text": "Yugoslavia",
+        "name": "Russia",
         "type": "country",
-        "identity": ""
+        "identity": "Opponent of Italy with Poland on the fence"
       },
       {
-        "text": "Russia",
+        "name": "Poland",
         "type": "country",
-        "identity": "mentioned alongside Yugoslavia"
+        "identity": "Neutrally Positioned Country"
       },
       {
-        "text": "Poland",
-        "type": "country",
-        "identity": "described as 'on the fence'"
+        "name": "The Prese",
+        "type": "organization",
+        "identity": "Newspaper Publishing the Letter"
       },
       {
-        "text": "Liberty magazine",
+        "name": "Roosevelt",
+        "type": "person",
+        "identity": "US President, Hypothetical Mention in Contrast to Dictatorship"
+      },
+      {
+        "name": "Liberty magazine",
         "type": "publication",
-        "identity": ""
-      },
-      {
-        "text": "Philip Garbo",
-        "type": "person",
-        "identity": "Author of the letter"
+        "identity": "Magazine Referenced for Corruption Allegations"
       }
-    ]
+    ],
+    "elapsed_seconds": 63.7
   }
 ]

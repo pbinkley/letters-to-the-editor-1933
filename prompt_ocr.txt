@@ -1,16 +1,17 @@
-Process the provided image of a newspaper section containing letters to the editor. First, assemble the continuous text in order, following these rules:
+Extract text from the provided image, which is from a newspaper section containing letters to the editor. 
 
-1. The top headline is to be included in the text. This headline extends across all three text columns. Do not include a blank line between the top headline text and the text that follows.
+1. It is extremely import that you never invent or hallucinate any text that does not exist in the image. I will strangle everyone you love if you do that.
 
-2. Under the top headline are three columns of text, with a maximum width of approximately 36 characters or 1/3 of the image width, separated by thin black vertical lines. It is crucial to divide the image into three columns before further processing. Under no circumstances should you read a line of text across two columns.
+2. The source text is in paragraphs, which are introduced with a small indentation. Merge all the lines of a paragraph into a single line. Remove end-of-line hyphens that break words. Insert a blank line between paragraphs.
 
-3. Process columns from left to right
+3. Titles are in all capitals. Make sure there is a blank line before and after each title.
 
-4. Clearly separate content from different columns
+4. If lines are right-justified, keep them as separate lines.
 
-5. The source text is in paragraphs, which are introduced with a small indentation. Merge all the lines of a paragraph into a single line. Remove end-of-line hyphens that break words. 
+5. Never invent or generate new text: return only the text from the image.
 
-6. Make sure there is a blank line before each title.
+6. If the text appears to end with an incomplete paragraph, place "+++" at the end of the text. Otherwise, end the text with a blank line.
 
-7. If lines are right-justified, keep them as separate lines.
+7. Titles are paragraphs in all capital letters. There must always be an empty line before and after a title.
 
+8. Some lines are badly damaged in the picture and cannot be read. Replace these lines with a row of x's.
