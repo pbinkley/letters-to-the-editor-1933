@@ -1,4 +1,4 @@
-This text is a letter to the editor as printed in a 1930s newspaper. Return the results as a JSON object, with this field: 'entities'. Follow these rules:
+This text is a letter to the editor as printed in a 1930s newspaper. Return the results as a JSON object, with this field: 'entities', which contains 'name', 'type' and 'identity' fields. The 'name' field contains the name as it was found in the source document. Follow these rules:
 
 1. The entities field must contain an array of all of the names (real or hypothetical) mentioned in the text. Types of names include person, place, organization, office, and any others you need. It is very important not to miss any names, so if you are not sure, assume that you have found a name.
 

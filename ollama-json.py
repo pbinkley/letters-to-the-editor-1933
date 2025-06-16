@@ -9,8 +9,28 @@ import re
 
 # based on https://ollama.com/blog/structured-outputs
 
-service = 'ollama'
-model = 'olmo2'
+from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
+
+# Parse command line arguments
+parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
+parser.add_argument("-s", "--service", default="ollama", help="LLM service")
+parser.add_argument("-m", "--model", default="olmo2", help="LLM name")
+parser.add_argument("file", help="File name like raw_text/1933-03-01_letters.txt'")
+args = vars(parser.parse_args())
+
+# Set up parameters
+service = args['service']
+model = args['model']
+try:
+  input_text_file = args['file'] # e.g. raw_text/1933-03-01_letters.txt
+except:
+  sys.exit("Provide a filename like 'raw_text/1933-03-01_letters.txt'")
+
+print(f"Service: {service}; model: {model}")
+
+# model = 'olmo2'
+# model = 'olmo2:13b-1124-instruct-fp16'
+# model = 'deepseek-r1:32b'
 
 class Letter(BaseModel):
   author: str
@@ -53,11 +73,6 @@ def get_response(prompt, listClass):
     format=listClass.model_json_schema(),
   )
   return response
-
-try:
-  input_text_file = sys.argv[1] # e.g. raw_text/1933-03-01_letters.txt
-except:
-  sys.exit("Provide a filename like 'raw_text/1933-03-01_letters.txt'")
 
 print(f"Opening {input_text_file}")
 
@@ -116,7 +131,7 @@ print(f"There are {len(letters)} letters.")
 counter = 1
 
 for letter in letters:
-  start = time.time()
+  start = time.localtime()
 
   text = ('\n').join(letter)
   paragraphs = text.split('\n\n')
@@ -138,6 +153,8 @@ for letter in letters:
   letter_data['model'] = model
   letter_data['timestamp'] = time.strftime("%Y-%m-%d %H:%M:%S", start)
 
+  print(letter_data['summary'])
+
   # now do the entities
 
   # prompt template ends with <OCR text>
@@ -147,13 +164,15 @@ for letter in letters:
 
   letter_data['entities'] = []
   for letter in json.loads(response['message']['content'])['letters']:
+    #import pdb; pdb.set_trace()
     for entity in letter['entities']:
       letter_data['entities'].append(entity)
+      print(f"  {entity.get('name', '<no name>')}: {entity.get('type', '<no type>')}")
 
   letters_json.append(letter_data)
 
-  elapsed_seconds = round(time.time() - start, 1)
-  print(f"  elapsed time: {elapsed_seconds} sec")
+  elapsed_seconds = round(time.time() - time.mktime(start), 1)
+  print(f"  elapsed time: {elapsed_seconds} seconds; {len(letter_data['entities'])} entities")
   letter_data['elapsed_seconds'] = elapsed_seconds
 
   counter += 1
