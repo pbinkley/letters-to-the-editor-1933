@@ -1,0 +1,216 @@
+[
+  {
+    "author": "W. Friebel",
+    "address": "",
+    "subjects": [
+      "National Politics",
+      "World Events"
+    ],
+    "summary": "The Acting German Consul writes to dispute rumors that the Reichstag fire was a plot by the German government to discredit the Communist party. According to official reports, the fire was the result of a Communist conspiracy, and the government was forced to take strong measures against subversive activities.",
+    "doctype": "letter",
+    "text": "ACTING GERMAN CONSUL EXPLAINS REICHSTAG FIRE\n\nLetters to the Editor\n\nTo the Editor of The Press: It appears that some newspapers of this country are being used for a certain propaganda to the effect that the fire which recently. destroyed part of the German Reichstag Building was plotted by persons in close touch with the government in order to throw the odium on the Communist party.\n\nI therefore feel it my duty to announce that according to official advices received by this consulate it has been conclusively proven that xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx mer Royal Castle as well as in the Reithstag, can be traced to the activities of organized Communist conspiracy. The government, therefore, to preserve order especially in ployed, has been compelled to take drastic and extraordinary steps against all subversive movements. The temporary suspension of So-cial-Democratic newspapers was due to the fact that such papers had lately consistently undermined the authority of the government. W. Friebel Acting German Consul. ",
+    "title": "Acting German Consul Explains Reichstag Fire",
+    "word_count": 163,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:52:37",
+    "entities": [],
+    "elapsed_seconds": 3.9
+  },
+  {
+    "author": "Walter Lee",
+    "address": "6214 Lexington avenue.",
+    "subjects": [
+      "State Politics",
+      "Economy"
+    ],
+    "summary": "The author criticizes the editorial stance supporting bank regulations, arguing that imposing a law to limit the withdrawal of commercial accounts would severely harm businesses. They claim that banks charge service fees without a claim on these accounts and should not control business operations by refusing loans or manipulating property values. The author urges for a future where banks are held accountable under sound business principles.",
+    "doctype": "letter",
+    "text": "FINDS US UNREASONABLE\n\n To the Editor of The Press: Your editorial, Back the Banks for the General Good, is the most unreasonable thing I have ever read in your paper in sometime. I am sure you do not realize how-disasterous it would be to business to have a law to limit the withdrawal of commercial accounts, even temporarily. It is the working cash of all business, and the one thing that should be free today. Every man's credit is strained to the-limit. He must take advantage of all discounts, etc., to make ends meet. The banks charge a service fee for carrying these accounts, and therefore have no claim on them, and are liable for their payment on demand. Those funds are not for investment. With such a law they can ruin a man's credit and control any business at their discretion. They refusing to loan on real estate, allowing the investor to juggle values until their assets in that line are destroyed. With money borrowed from them on personal security, he erates of interest and large bonus, spaying regular commercial 'rates to them, for our saving deposits drawing 3 per cent for security. They have Violated the conndence and trust of the public. It was a gamble, and they have lost. They should be held to account for it, by laws to control them hereafter. This ocasi\u00f3n calls for calm and clear thinking, but not for uncomplaining acceptance of such conditions. And it is time for all good citizens to protect the general interest, by holding them to sound business principles. Stand back of them in their troubles now, but pr\u00e9pare for the future. Yours for calm and clear thinking. Walter Lee 6214 Lexington avenue. ",
+    "title": "Finds Us Unreasonable",
+    "word_count": 287,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:52:40",
+    "entities": [
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Name of the newspaper"
+      },
+      {
+        "name": "Walter Lee",
+        "type": "person",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 5.8
+  },
+  {
+    "author": "O. T. Marchand",
+    "address": "Gates Mills, O.",
+    "subjects": [
+      "State Politics",
+      "Economy"
+    ],
+    "summary": "The author suggests that the government should call back outstanding Liberty Bonds, print new money to match their value, use this as backing for the new currency, save millions in interest, and restore confidence by taxing stock market profits.",
+    "doctype": "letter",
+    "text": "RETIRE BONDS, PRINT MONEY...\n\n To the Editor of The Press: There has been so much said about the government issuing $2,000,000,000 in new money in order to bring more money into circulation. This money would, of course, have no gold value in back of it, therefore it is considered too dangerous, as it would deflate the dollat too low and destroy what confidence there is left. Now suppose the government would call back one of the issues of the, oustanding Liberty Bonds, print said amount of new money. pay face value for them. Said bond to be kept in treasury as backing of newly issued money. If necessary, it can be resold in later years when times are better, re-dating them due in a later year, than they are due now. These bonds certainly should have xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx racy has been fof naught. Also said backing should keep the dollar from deflation. Calling back said bonds will save the government millions of dollars sin interest. Also the taxes derived from this money will repay a good bit of the new money sued. Further in order to bring back confidence, the government should tax 80 to 90 per cent of the profit taken at the stock market. People will then buy stocks for investment and not gamble. Confidence would thus be restored. O. T. Marchand Gates Milis, O. ",
+    "title": "Retire Bonds, Print Money...",
+    "word_count": 226,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:52:45",
+    "entities": [
+      {
+        "name": "O. T. Marchand",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Gates Millis",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Newspaper"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Location of newspaper publication or context relevance"
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which 'The Press' is located or the state affair context applies"
+      },
+      {
+        "name": "Liberty Bonds",
+        "type": "organization",
+        "identity": "United States Liberty Loan Program of World War I bonds"
+      },
+      {
+        "name": "dollat",
+        "type": "noun",
+        "identity": ""
+      },
+      {
+        "name": "gold",
+        "type": "material",
+        "identity": "Backings for currency during the gold standard era"
+      },
+      {
+        "name": "money",
+        "type": "noun",
+        "identity": ""
+      },
+      {
+        "name": "Confidence",
+        "type": "abstract",
+        "identity": ""
+      },
+      {
+        "name": "stock market",
+        "type": "institution",
+        "identity": "Financial institution and marketplace for buying and selling stocks"
+      }
+    ],
+    "elapsed_seconds": 10.7
+  },
+  {
+    "author": "Rossi Cerrettis",
+    "address": "",
+    "subjects": [
+      "City Politics",
+      "Economy"
+    ],
+    "summary": "The author expresses concern about the judicial system's approach to juvenile delinquency, arguing that incarcerating young offenders with adult criminals will corrupt their minds and negatively impact their futures. They call for reconsideration of how such cases are handled by both society and the courts.",
+    "doctype": "letter",
+    "text": "READERS AROUSED\n\n To the Editor of The Press: We were very much aroused after reading the article in The Press on March 1 in reference to the five boys who were jailed for sneaking Into the State Theater.\n\nOur sociology books, teachers and xxxxxxxxxxxxxxxxxxxxxxxx courts try to is now trying to use science and good judgment in discriminating the thief from the petty offender. What chances in life will these boys kave after mingling with experi-enced criminals? Their minds will be corrupted. After they have been freed they will consider themselves \"social inferiors\" jailbirds and crooks and in most cases act the part. This is something for our citizens and courts to think about. Mr. and Mrs. Rossi Cerrits. ",
+    "title": "Readers Aroused",
+    "word_count": 119,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:52:55",
+    "entities": [
+      {
+        "name": "Rossi",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Cerrits",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "State Theater",
+        "type": "organization",
+        "identity": "a local theater in the context of the article"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "not explicitly stated, assumed to be relevant due to the mention of local affairs and location of the newspaper."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "the state where Cleveland is located"
+      }
+    ],
+    "elapsed_seconds": 6.4
+  },
+  {
+    "author": "William B. Bucey",
+    "address": "1367 E. 110th street.",
+    "subjects": [
+      "State Politics",
+      "Economy"
+    ],
+    "summary": "The letter expresses concern over the potential negative effects of lowering wages due to unrestricted immigration, especially given the recent economic depression. The author questions the rationale behind replacing American workers with cheaper foreign labor and criticizes the disregard for prevailing wage standards as a threat to American society and economy.",
+    "doctype": "letter",
+    "text": "TARIFFS AND IMMIGRATION\n\n To the Editor of The Press: Eleven years ago, before we im-posed restriction on immigration, men who wore the uniform of the try on the battlefields of France were thrown out of their jobs every-where and immigrants fresh from the docks put in their places. Why? Because the immigrant would work cheaper and because he esteemed the cut-wage a princely salary com-pared to what he could earn at home.\n\nAre we to encourage the develop-ment of the misery of European slums and social degradation in our land and are we to make fertile fields for the propagandists of Gom munism and others who destroy our social, economic and political order?\n\nAre we to repeat the sad experi-ence of 11 years ago and under cir-cumstances less trying than those of the present time?\n\nAre we to disregard the pledge secured by President Hoover in the beginning of this period of depres-sion from leading industrialists, not to lower standards of work nor re-duce prevailing wages in return for xxxxxxxxxxxxxxxx not to seek higher standards?\n\nAre we to believe that this entire program for the opening wide our portals to both foreign workers and goods of foreign people is inspired and designed to liquidate isbor and force a lowering of our standards? Can we honestly draw any other dedustion? William B. Bucey 1367 E. 110th street.",
+    "title": "Tariffs And Immigration",
+    "word_count": 226,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:53:01",
+    "entities": [
+      {
+        "name": "William B. Bucey",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "President Hoover",
+        "type": "person",
+        "identity": "United States President, 31st President of the United States"
+      },
+      {
+        "name": "industrialists",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City, Ohio, USA"
+      },
+      {
+        "name": "European slums",
+        "type": "location",
+        "identity": "Urban areas in Europe known for poverty and poor living conditions."
+      },
+      {
+        "name": "Gom munism",
+        "type": "organization",
+        "identity": "A reference to communism or a specific ideology, possibly a misspelling or propaganda term."
+      }
+    ],
+    "elapsed_seconds": 8.3
+  }
+]

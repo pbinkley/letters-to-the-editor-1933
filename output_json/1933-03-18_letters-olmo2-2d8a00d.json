@@ -1,0 +1,180 @@
+[
+  {
+    "author": "",
+    "address": "",
+    "subjects": [
+      "National Politics",
+      "Economy"
+    ],
+    "summary": "The letter expresses frustration over the one-sided expectation for husbands to constantly court their wives, despite the changing dynamics in gender roles and economic responsibilities post women's suffrage. The author argues that with wives now enjoying equal rights and opportunities, they should reciprocate the effort in maintaining a relationship by showing appreciation towards their husbands.",
+    "doctype": "letter",
+    "text": "READER URGES WIVES TO TRY COURTING HUSBANDS\n\n-Letters to the Editor-\n\nTo the Editor of The Press: I am sick and tired of all this stuff about husbands ought to keep courting their wives all the time like Mrs. Maxwell and a lot of other such advisers keep telling us husbands.\n\nThey tell us we ought to cherish the honeymoon indefinitely, that we ought to send her flowers and candy and take her to shows like we was courting yet.\n\nNow that's all right as long as it's fifty-fifty. But it never is. Most of these advisers are women. That's why they keep talking that way. A guy gets good and tired of doing that sort of thing and getting nothing in return.\n\nHow about the wives buying their husbands flowers once in a while, and inviting them to shows out of their own money? A husband would fall over dead if his wife did that. Why aren't wives supposed to be nice to their husbands as well as vice versa?\n\nThe fact is the wife has got more a' stake than the husband. He's supporting her, isn't he? I think it's up to her to be more particular about keeping their wedded bliss all one long honeymoon than him. The trouble is that all these advisers seem to think that a woman is doing a man a big favor when she marries him. How about him doing her one too? She gets just as much fun out of the honeymoon as he does. If she's doing him a favor so is he doing her one. It's fifty-fifty.\n\nAnd now that women have the vote, the run of the speakeasies, and all the economic freedom and sex liberties a man ever had, why don't they act like it?\n\nNow me, I'm not asking anything for myself. It's just the principle of the thing. I'd like it a lot if the little woman ever brought me a bunch of flowers, or said she had bought tickets for a good show for us. But no. And that isn't saying that a lot of girls are anxious to do those things for me, even if there are a few who might.\n\nAll I've got to say is a lot of these here wives better start thinking about what's sauce for the goose etc., because husbands aren't going to put up with such a one-way proposition much longer. At least one I know isn't.\n\nSo you tell those advisers to watch their step or their woman racket is going all Haywire on them one of these fine days, Spring is coming and you know about a young man's \"fancy.\" Mr. Ordinary Hubby. ",
+    "title": "Reader Urges Wives To Try Courting Husbands",
+    "word_count": 448,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 12:00:36",
+    "entities": [],
+    "elapsed_seconds": 4.4
+  },
+  {
+    "author": "Herbert W. Hintz",
+    "address": "",
+    "subjects": [
+      "Economy"
+    ],
+    "summary": "The author proposes a tax on businesses for selling non-related lines of products, aiming to prevent destructive price cutting without imposing new burdens on established local business.",
+    "doctype": "letter",
+    "text": "A DIFFERENT KIND OF LICENSE TAX\n\n To the Editor of The Press: Attention: Louis Petrash and the members of the City Council. As a service station operator it would be very easy to condemn the proposed new tax on local business. However, I know that you have the interest of the city and its future at heart and that you hesitate to impose new burdens on business even in the face of a serious lack of city funds: Neither the citizens or the City Council would want to put a brake on any business already established here or drive any firms out of the city, therefore, let me propose for your consideration an alternative for your proposed tax measure. A sales tax or license-tax all business houses that sell in conjunction with their main line of business, completely dissimilar or non-related lines; for instance, last summer we sold soft drinks at our service station. Now our business is gasoline and oil sales. So, therefore, if we want a license to sell soft drinks, say, tax us $25 for the privilege. Now if a drug store wants to sell items that are not drugs let them pay a tax for the privilege, or if chain grocery stores want to sell motor oil let them sell it, but license them for the privilege. The same to hold with hardware stores, department stores, opticians, jewelers, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx will be no additional burden on business as long as they stay in their respective lines. Help eliminate de-structive price cutting, and the tax will be paid by those companies who have the extra capital to carry on business other than their own.\n\nI do not think that any of us want or desire more taxation, how-ever, if we indicate that we think the other fellow's business is so profitable and we want to share it, let us be willing to pay a tax to do it. Herbert W. Hintz. ",
+    "title": "A Different Kind Of License Tax",
+    "word_count": 323,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 12:00:40",
+    "entities": [
+      {
+        "name": "Louis Petrash",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "City Council",
+        "type": "organization",
+        "identity": "Members of the City Council"
+      },
+      {
+        "name": "Herbert W. Hintz",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Newspaper"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City where the letter deals with local affairs."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which 'Cleveland' is located."
+      }
+    ],
+    "elapsed_seconds": 7.3
+  },
+  {
+    "author": "O. K. Vance",
+    "address": "1927 E. 59th street.",
+    "subjects": [
+      "National Politics"
+    ],
+    "summary": "The author argues for the government to take over and operate the entire banking system following the recent failures of private banks, citing public faith in the government's efficiency and willingness to act amidst the economic depression.",
+    "doctype": "letter",
+    "text": "GOVERNMENT SHOULD OPERATE A BANK\n\n To the Editor of The Press: Newspaper reports inform us that Senator Dill of Washington is to in-troduce a bill calling for the Postal Savings Bank extension to include checking accounts. This is com-mendable and is the least that should be done at this time but why stop there? Why would not this be an opportune time for the govern-ment to take over and operate the entire system? The happenings of the past few weeks should convince the most skeptical that our banking system conducted as it is, primarily for profit and secondly for service, has failed miserably. Is not the setting ideal for government opera-tion? Consider it for a moment.\n\nThe faith of the people in the present system destroyed, but having faith in the government's ability to efficiently operate them and in a state of mind not only willing but eager to accept such a step, plenty of banking facilities daily being made idle due to their unsoundness and the depression which could be utilized by the government together with an efficient personnel, Even-tually, why not now? O. K. Vance, 1927 E. 59th street. ",
+    "title": "Government Should Operate A Bank",
+    "word_count": 191,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 12:00:47",
+    "entities": [
+      {
+        "name": "Senator Dill",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Postal Savings Bank",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "government",
+        "type": "office_or_title",
+        "identity": ""
+      },
+      {
+        "name": "banking system",
+        "type": "concept",
+        "identity": "The current banking system"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City or state not explicitly mentioned but relevant to local affairs"
+      },
+      {
+        "name": "O. K. Vance",
+        "type": "person",
+        "identity": "1927 E. 59th street suggests a potential address rather than a name; however, if Vance is a notable figure from that area at the time, this might be his name and residence."
+      },
+      {
+        "name": "Present system",
+        "type": "concept",
+        "identity": "The existing banking system"
+      },
+      {
+        "name": "faith",
+        "type": "abstract_concept",
+        "identity": "People's trust in the current banking system"
+      },
+      {
+        "name": "government",
+        "type": "office_or_title",
+        "identity": "Assumed to be the federal government due to reference to a Senator and 'Postal Savings Bank'"
+      },
+      {
+        "name": "efficient personnel",
+        "type": "person",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 11.2
+  },
+  {
+    "author": "Fred Bukey",
+    "address": "",
+    "subjects": [
+      "City Politics",
+      "Economy"
+    ],
+    "summary": "The author, Fred Bukey, expresses frustration over Mrs. Sheppard's stance against the sale of beer in Lakewood. He argues that as long as beer is accessible from Cleveland, Lakewood merchants should also be allowed to sell it. He questions why Mrs. Sheppard feels she needs to intervene in Lakewood's affairs and stresses that previous speakeasies in the area did not consult her.",
+    "doctype": "letter",
+    "text": "WANTS BEER IN LAKEWOOD, TOO\n\n To the Editor of The Press: I see where Mrs. Sheppard, head of some W. C. T. U. or other says that she is going to fight the sale of beer in Lakewood.\n\nNow who asked her, I would like to know, to look after our affairs out here? I am sure I did not. As long as it is to be had as close as Cleveland, and you know people are going to rush down like mad, why not let Lakewood merchants have a fling at the sale, too?\n\nLakewood speakeasies in the past have not consulted this Mrs. Shep-pard, so why should the merchants? Let Mrs. Sheppard look after her own personal flock that they do not xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx but I like mine--open-with riends. Fred Bukey.",
+    "title": "Wants Beer In Lakewood, Too",
+    "word_count": 132,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 12:00:58",
+    "entities": [
+      {
+        "name": "Mrs. Sheppard",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "W. C. T. U.",
+        "type": "organization",
+        "identity": "Women's Christian Temperance Union"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": ""
+      },
+      {
+        "name": "Lakewood",
+        "type": "place",
+        "identity": "a city in Ohio"
+      },
+      {
+        "name": "Fred Bukey",
+        "type": "person",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 6.5
+  }
+]

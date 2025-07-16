@@ -1,0 +1,466 @@
+[
+  {
+    "author": "John McCarthy",
+    "address": "1730 W. 38th street.",
+    "subjects": [
+      "Economy"
+    ],
+    "summary": "The author argues against the revaluation of gold, stating that it would not lead to higher prices and that the real issue is the decrease in credit circulation which has occurred alongside a drop in prices. They compare the situation with banks having reserves akin to drawing less water than needed from a well, and assert that it is a temporary issue that will improve over time.",
+    "doctype": "letter",
+    "text": "TO THE EDITOR OF THE PRESS:\n\nThe demand that the gold dollar be revalued is foolish. If we Americans were to revalue, without other nations doing likewise, the value of our currency in relation to the value of theirs would be dislocated; and the result would be confusion in foreign exchange and international trade.\n\nWith gold revalued our present stock of gold 'would serve as a basis for a greater quantity of currency: but currency has been increasing all through the depression-while prices have been dropping-so why assume that more currency would bring higher prices? Prices do not depend on currency alone, they depend also on the total amount of credit outstanding and on the rapidity with which both currency and credit circulate.\n\nWhile there has been an increase in. in currency, there has been a decrease a very big decrease in credit and circulation and so the three combined are much less now than in 1929; which is why prices are much lower.\n\nRevalued gold would provide more potential credit, but there was plenty of potential credit at the banks long after the depression started; but the business world didn't need it and couldn't use it. Had there been more, what good would it have been?\n\nGold revaluation would only bring confusion. It wouldn't help matters a particle. As for the present bank stringency, it simply means that for a considerable time withdrawals have been exceeding deposits. The bank's reserves have thus become a little low. It is precisely like drawing water out of a well faster than the water seeps in. We will have to draw less out for a while, and let more seep in. The situation is not really serious and it will steadily improve. John McCarthy 1730 W. 38th street. ",
+    "title": "To The Editor Of The Press:",
+    "word_count": 296,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:54:09",
+    "entities": [
+      {
+        "name": "John McCarthy",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "The Editor of The Press",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "gold dollar",
+        "type": "object",
+        "identity": "currency reference"
+      },
+      {
+        "name": "our currency",
+        "type": "object",
+        "identity": "United States currency"
+      },
+      {
+        "name": "foreign exchange",
+        "type": "concept",
+        "identity": "international monetary system"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City"
+      },
+      {
+        "name": "Ohio",
+        "type": "place",
+        "identity": "State"
+      },
+      {
+        "name": "stock of gold",
+        "type": "object",
+        "identity": "United States gold reserves"
+      },
+      {
+        "name": "currency",
+        "type": "object",
+        "identity": "United States currency supply"
+      },
+      {
+        "name": "credit",
+        "type": "concept",
+        "identity": "financial credit availability and use"
+      },
+      {
+        "name": "circulation",
+        "type": "concept",
+        "identity": "velocity of money through the economy"
+      },
+      {
+        "name": "devaluation",
+        "type": "action",
+        "identity": "act of lowering currency value relative to gold"
+      },
+      {
+        "name": "confusion",
+        "type": "concept",
+        "identity": "disruption in economic transactions due to monetary policies"
+      },
+      {
+        "name": "business world",
+        "type": "organization",
+        "identity": "private sector companies and businesses"
+      },
+      {
+        "name": "banks",
+        "type": "organization",
+        "identity": "financial institutions"
+      },
+      {
+        "name": "revalued gold",
+        "type": "object",
+        "identity": "gold valued at a higher rate than its face value"
+      },
+      {
+        "name": "bank stringency",
+        "type": "condition",
+        "identity": "tightening of credit by banks due to reduced reserves"
+      },
+      {
+        "name": "withdrawals",
+        "type": "action",
+        "identity": "customers removing funds from bank accounts"
+      },
+      {
+        "name": "deposits",
+        "type": "action",
+        "identity": "customers adding funds to bank accounts"
+      },
+      {
+        "name": "reserves",
+        "type": "object",
+        "identity": "funds held by banks against deposits"
+      },
+      {
+        "name": "water out of a well",
+        "type": "metaphor",
+        "identity": "comparing bank withdrawals to water usage from a well"
+      }
+    ],
+    "elapsed_seconds": 17.3
+  },
+  {
+    "author": "Mrs. Frank Laraway",
+    "address": "1038 Oakwood Avenue, Toledo",
+    "subjects": [
+      "Family",
+      "Personal"
+    ],
+    "summary": "A heartbroken mother named Mrs. Frank Laraway is seeking her missing daughter, Mary Scott Jackman, and is reaching out to the newspaper for help through a public plea. The mother has not heard from her daughter in some time and is concerned for her well-being.",
+    "doctype": "letter",
+    "text": "MOTHER SEEKS HER DAUGHTER\n\n To the Editer of The Presst Will you please print this in your paper for a poor heartbroken mother?\n\nMary Scott Jackman or Mrs. Bonnie. Higt please write to mother at once. I am ill and would love to hear from you.\n\nI have not heard from my daughter for some time. I feel sure she will see this message in your paper.. May God bless you is the wish for this 70-year-old mother. Mrs. Frank Laraway 1038 Oakwood avenue Toledo. ",
+    "title": "Mother Seeks Her Daughter",
+    "word_count": 85,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:54:26",
+    "entities": [
+      {
+        "name": "Mary Scott Jackman",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Mrs. Bonnie",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Frank Laraway",
+        "type": "person",
+        "identity": "Husband or partner of the letter writer"
+      },
+      {
+        "name": "mother",
+        "type": "person",
+        "identity": "Subject of the letter, a 70-year-old mother seeking her daughter"
+      },
+      {
+        "name": "The Presst",
+        "type": "organization",
+        "identity": "Name of the newspaper"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Not applicable, as the letter doesn't explicitly deal with local affairs in Cleveland, Ohio."
+      },
+      {
+        "name": "Ohio",
+        "type": "place",
+        "identity": "The state where Toledo is located"
+      },
+      {
+        "name": "Toledo",
+        "type": "place",
+        "identity": "City where the letter writer lives"
+      }
+    ],
+    "elapsed_seconds": 8.0
+  },
+  {
+    "author": "Rabbi Jacob Richman",
+    "address": "",
+    "subjects": [
+      "Spiritual Development",
+      "Economy",
+      "Moral Standards",
+      "Crime"
+    ],
+    "summary": "The author argues that to combat the economic crisis and reduce crime, society must prioritize a 'spiritual readjustment.' He criticizes the lack of spiritual training in religious institutions, the indifference to religion, and the rolling presumption in churches without genuine love of God or consideration for fellowmen.",
+    "doctype": "letter",
+    "text": "NEEDS OF THE SPIRIT\n\n To the Editor of The Press: According to the version of ereation the physical part of original xxx xxxxx xxx xxxxxx xxxx xxx divine particle called soul inserted afterward. This indicates to us that we human beings in the conduct of our lives must have a material foundation first if there is to be a spiritual development. True as it is that man cannot live by bread alone, precedence must be given bread. Without substance there is no room for spiritual growth.\n\nWhile during the last three years we have set the best minds of our country to thinking of how to bring the economical calamity to a close, consideration should not be withheld for the waves of crime which have spread over our country. If we are to survive economically we must make spiritual readjustment as well. Unless we do uphold our moralstandard we would not be able to avail ourselves of prosperity when it comes. We cannot put all the responsibility for our moral laxity upon the present day difficulties. Its origin must be sought in our broken homes, our nominally religious institutions that afford no spiritual training.\n\nFor countless generations men had struggled for freedom, willing to live and die for the right to worship and now in an age with that freedom attained, what does that freedom mean to us? We have become indifferent, we neither affirm nor deny religion. We think of God as one who is tolerated by us instead of thinking us tolerated by him. We pay our debt to him by coming once in a while or even once a year to church or temple, rolling presumptuously in munificence in luxuriant pews, appreciating the sensuous atmosphere with no relation to the love of God which is also the love and consideration of our fellowmen. It is real prayer and worship that prevents the infliction of pain in others and is able to check crime and vice and enable men to enjoy life to the fullest. Rabbi Jacob Richman, Lorain, O. ",
+    "title": "Needs Of The Spirit",
+    "word_count": 345,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:54:33",
+    "entities": [
+      {
+        "name": "Rabbi Jacob Richman",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "our country",
+        "type": "place",
+        "identity": "United States"
+      },
+      {
+        "name": "best minds",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "prosperity",
+        "type": "abstract concept",
+        "identity": ""
+      },
+      {
+        "name": "moralstandard",
+        "type": "abstract concept",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Ohio"
+      },
+      {
+        "name": "Rabbi Jacob Richman",
+        "type": "person",
+        "identity": "A Jewish rabbi mentioned as part of the discourse."
+      },
+      {
+        "name": "Lorain",
+        "type": "place",
+        "identity": "A city in Ohio, referenced as the location where Rabbi Jacob Richman resides or is associated with."
+      }
+    ],
+    "elapsed_seconds": 10.3
+  },
+  {
+    "author": "Louis Branch",
+    "address": "313 Townsend street\nWilmington, Del.",
+    "subjects": [
+      "City Politics"
+    ],
+    "summary": "The letter is seeking assistance to locate family members in Cleveland. The writer has not heard from his twin brother Lee Branch, sister Elsie Branch, aunt Sarah Briggs, and uncles Cleter and Mitchell Briggs for eight years. He hopes to reconnect with them through the newspaper's help.",
+    "doctype": "letter",
+    "text": "LOOKING FOR RELATIVES\n\n To the Editor of The Press: I have a twin brother, a sister and an aunt and two uncles living in Cleveland and I haven't heard from any of them for eight years. I hope you will help me locate them. I want to hear from them.\n\nAll of them live in what you people call the Roaring Third, but that is all I know.\n\nMy brother is Lee Branch, my sister, Elsie Branch; my aunt, Sarah Briggs, and my uncles, Cleter and Mitchell Briggs. I would like to hear from any of them. Louis Branch 313 Townsend street Wilmington, Del. ",
+    "title": "Looking For Relatives",
+    "word_count": 104,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:54:43",
+    "entities": [
+      {
+        "name": "Lee Branch",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Elsie Branch",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Sarah Briggs",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Cleter Briggs",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Mitchell Briggs",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "location of the writer's family and where the relatives are presumed to be living."
+      },
+      {
+        "name": "Wilmington, Del.",
+        "type": "place",
+        "identity": "where the author is currently residing."
+      }
+    ],
+    "elapsed_seconds": 6.3
+  },
+  {
+    "author": "Henry Dill Benner",
+    "address": "77 Heller Parkway\nNewark, N. J.",
+    "subjects": [
+      "City Politics",
+      "State Politics"
+    ],
+    "summary": "The letter discusses the night sky feature of Orion's Belt and the Pleiades, providing a guide for viewing these celestial bodies using an opera glass at around 7 p.m., when Orion is on the meridian. The author provides specific instructions for locating the Great Nebula in Orion's sword and advises on how to view the Fairies Dipper (Little Dipper) in the Pleiades constellation near Aldebaran.",
+    "doctype": "letter",
+    "text": "ORION'S GLASS\n\n To the Editor of The Press Possibly not all of your well-in-formed readers know that the most outstanding diagram in the night-sky is Orion's Beauty-Glass in the form of a baseball diamond, held by that mighty hunter in such a way the beautiful Seven Sisters forming the Pleiades can behold their own loveliness and at the same time keep an ever-watchful eye on that ever-following gentleman.\n\nOrion is now on our nosth-south line (known as the meridian, easily found with a Scout compass, if not known) about 7 p. m., and will be on it four minutes earlier each succeeding night, directly between us and the south pole of the sky. xxxxxxxxxxxxxxxxxxxxxxxxxxxx upper-left side of the glass; his three \"sword stars\" its handle.\n\nAn opera-glass will give a better view of his Great Nebula, whose exact location is clearly marked by the middle star in the handle.\n\nThe opera glass will also give amost splendid view of the Fairies Dipper in the Pleiades easily seen out beyond Aldebaran and his Vshaped group, by sighting from the left to the right, along the \"belt stars.\" Henry Dill Benner 77 Heller Parkway Newark, N. J. ",
+    "title": "Orion'S Glass",
+    "word_count": 196,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:54:49",
+    "entities": [
+      {
+        "name": "Orion's Glass",
+        "type": "name",
+        "identity": ""
+      },
+      {
+        "name": "Seven Sisters",
+        "type": "name",
+        "identity": "The Pleiades"
+      },
+      {
+        "name": "Henry Dill Benner",
+        "type": "person",
+        "identity": "Author of the letter"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": ""
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Name of the newspaper where the letter was printed"
+      },
+      {
+        "name": "Scout compass",
+        "type": "tool",
+        "identity": "Instrument used for navigation, referenced in the text as a point of reference for finding Orion"
+      },
+      {
+        "name": "Aldebaran",
+        "type": "star",
+        "identity": "A prominent star mentioned in the letter"
+      },
+      {
+        "name": "V-shaped group",
+        "type": "celestial_feature",
+        "identity": "Refers to the constellation Taurus and its arrangement of stars forming a V-shape"
+      }
+    ],
+    "elapsed_seconds": 10.2
+  },
+  {
+    "author": "Albert Frederick",
+    "address": "",
+    "subjects": [
+      "City Politics",
+      "National Politics",
+      "Economy"
+    ],
+    "summary": "The author disapproves of excessive organ music on the radio, feeling it is intrusive and not aesthetically pleasing. They argue that people who are confined to their homes must listen to whatever the radio plays, including organ music which the author finds irritating and unsophisticated. Additionally, they express disdain for mouth organs as well, considering both pipe and mouth organs overrated instruments.",
+    "doctype": "letter",
+    "text": "ORGANS. AND MOUTH ORGANS\n\n To the Editor of The Press: I read in your paper where a man named Murphy thinks there ought to be more organ music on the radio.\n\nIt's o. k. with me, because I have already thrown my radio into the ash can because every time I turned the blamed thing on it started putting out organ music, but I should imagine that it would be an unnecessary cruelty to lots of other people, especially shutins that can't help listening to the radio.\n\nThe reason some people like organ music, I think, is because it is so loud. It certainly is not very beautiful. It wasn't even very beautiful before it got associated with movie advertisements of what's coming next week and what's showing at all the other houses in the city.\n\nPersonally, I regard the mouth organ as a much more sensitive and beautiful instrument than the pipe organ, which is the most overrated thing in the whole musical world. And I don't think much of the mouth organ.\n\nAlbert Frederick. ",
+    "title": "Organs. And Mouth Organs",
+    "word_count": 176,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:54:59",
+    "entities": [
+      {
+        "name": "Murphy",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "A 1930s newspaper"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Place name mentioned in the context of local affairs (assuming the letter deals with local matters based on the mention of 'The Press')"
+      },
+      {
+        "name": "organ music",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "name": "pipe organ",
+        "type": "musical instrument",
+        "identity": "Musical instrument mentioned in the text"
+      },
+      {
+        "name": "mouth organ",
+        "type": "musical instrument",
+        "identity": "Another musical instrument discussed in the letter"
+      },
+      {
+        "name": "Albert Frederick",
+        "type": "person",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 10.9
+  },
+  {
+    "author": "Thomas Q. Lempertz",
+    "address": "1230 E. Ninth street.",
+    "subjects": [
+      "City Politics",
+      "National Politics"
+    ],
+    "summary": "The author disputes the answer given in The Cleveland Press question and answer column regarding Constantinople's original name, providing historical context about the city's name changes from Byzantium to Constantinople and then back to Istanbul.",
+    "doctype": "letter",
+    "text": "CONSTANTINOPLE'S CHANGING NAMES\n\n To the Editor of The Press: In the question and answer column of The Cleveland Press for March 3, I find the following: Question: What was the original name for Constantinople?\n\nAnswer: Istambul is the old Turkish name. It was changed to Constantinople in honor of Constantine the Great, and recently the Turks have returned to the former name.\n\nThe above answer is obviously incorrect. Constantinople did not fall into the hands of the Ottoman Tarks until 1453 A. D., when the Eastern Roman Empire, so-called, came to an end. It is highly im-probable that it was given a Turkish name prior to that date. True, Istambul is the old Turkish name, but it is not the original. The city was first called after Constantine when that emperor established the eastern seat of Roman government at that point in 330 A. D. To do this, he enlarged the town of Byzantium and called the result after himself. However, even then the name Byzantium still clung and today we still speak of Byzantine language and Byzantine architecture,\n\nByzantium was settled sometime in the Sixth Century B. C. by Greek colonists. As far as I am able to determine, that is the original name of the settlement at that place. Thomas Q. Lempertz 1230 E. Ninth street.",
+    "title": "Constantinople'S Changing Names",
+    "word_count": 218,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:55:09",
+    "entities": [
+      {
+        "name": "Constantinople",
+        "type": "place",
+        "identity": ""
+      },
+      {
+        "name": "Istanbul",
+        "type": "place",
+        "identity": "The old Turkish name for Constantinople."
+      },
+      {
+        "name": "Constantine the Great",
+        "type": "person",
+        "identity": "Roman Emperor who renamed the city after himself."
+      },
+      {
+        "name": "Eastern Roman Empire",
+        "type": "organization",
+        "identity": "The so-called 'Roman Empire' in the East after 1453 A.D., which fell to the Ottoman Turks."
+      },
+      {
+        "name": "Byzantium",
+        "type": "place",
+        "identity": "The original Greek colony that later became Constantinople, settled in the 6th century BC."
+      },
+      {
+        "name": "Thomas Q. Lempertz",
+        "type": "person",
+        "identity": "Author of the letter to the editor criticizing the answer about Constantinople's name changes."
+      }
+    ],
+    "elapsed_seconds": 8.2
+  }
+]
