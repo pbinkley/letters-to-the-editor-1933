@@ -3,133 +3,117 @@
     "author": "Lingelbach, Louis",
     "address": "3886 W. 34th street.",
     "subjects": [
-      "City Politics",
       "National Politics",
       "Society"
     ],
-    "summary": "The author asserts that American women possess a refined understanding of building souls akin to the construction of character. They are considered the architects of mankind, more so than their European counterparts, with the example given being the first lady, Mrs. Franklin D. Roosevelt. He pleads for women blessed with knowledge and justice to lead men back to a 'democratic simplicity'.",
+    "summary": "The author asserts that American women, exemplified by Mrs. Franklin D. Roosevelt, embody the values of democracy and simplicity, suggesting they have a crucial role in guiding men back to these fundamental principles.",
     "doctype": "letter",
     "text": "WANTS WOMEN TO LEAD US BACK TO SIMPLICITY\n\nLetters to the Editor\n\nTo the Editor of The Press: I have often wondered if it has ever occurred to the women of America that they are the builders of mankind? I am writing about women because I come in contact with so many of them. Personally, I see beauty in a woman only when there is a refined soul. A soul, when ereated, has to be built up like character, and I say that the American woman better understands this than her European sister. Our present first lady, Mrs. Franklin D. Roosevelt, seems to me a striking example of democracy and simplicity. I pray especially for those who are blessed with knowledge, who have justice in their hearts, reasoning power in their minds to lead us men back again to democratic simplicity. The American woman is the one who leads the world and her soul will put our country on its feet. Louis Lingelbach 3886 W. 34th street. ",
     "title": "Wants Women To Lead Us Back To Simplicity",
     "word_count": 167,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:30:03",
     "entities": [],
-    "elapsed_seconds": 39.5
+    "elapsed_seconds": 3.3
   },
   {
     "author": "June Morris",
-    "address": "2093 Brown road.",
+    "address": "2093 Brown Road",
     "subjects": [
       "National Politics"
     ],
-    "summary": "The letter expresses concern over the quick sentencing of Zangara for murder in the first degree and argues that he should have been given a chance to prove insanity, suggesting that his actions indicated clear signs of mental illness.",
+    "summary": "The author expresses their opinion that the assassin Giuseppe Zangara should have been evaluated for insanity before being sentenced to death, arguing that his motives and actions point towards mental illness.",
     "doctype": "letter",
     "text": "THINKS ZANGARA WAS INSANE\n\n To the Editor of The Press: Recently Zangara, an immigrant, made an attempt upon the life of the then president-elect of the United States. Accidentally his stray bullet hit and fatally wounded the mayor of Chicago. The time which lapsed between the time of the shooting and the death of Mayor Cermak was sufficient to arouse in the minds of many a doubt as to whether the charge against Zangara would be first or second degree murder. However, without delay, the killer was sentenced to die in the electric chair for murder in the first degree. In the past, many guilty of committing much more brutal murders have been confined to institutions for the insane. Zangara was given no such chance or facilities to prove insanity. Yet a man who desires to kill for no reason other than a difference in political belief and who thinks of writing his autobiography when death is so close cer tainly belongs in an institution for the insane, if anyone does.\n\nJune Morris 2093 Brown road. ",
     "title": "Thinks Zangara Was Insane",
     "word_count": 176,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:30:06",
     "entities": [
       {
-        "text": "Zangara",
+        "name": "Zangara",
         "type": "person",
-        "identity": "Giuseppe Zangara"
+        "identity": ""
       },
       {
-        "text": "Cermak",
+        "name": "Cermak",
         "type": "person",
-        "identity": "Anton Cermak"
+        "identity": "Mayor of Chicago"
       },
       {
-        "text": "president-elect of the United States",
+        "name": "president-elect of the United States",
         "type": "office",
         "identity": ""
       },
       {
-        "text": "The Press",
-        "type": "organization",
-        "identity": "Name of the newspaper"
-      },
-      {
-        "text": "June Morris",
-        "type": "person",
+        "name": "Chicago",
+        "type": "place",
         "identity": ""
       },
       {
-        "text": "Ohio",
-        "type": "place",
-        "identity": "State where the letter is published"
+        "name": "Ohio",
+        "type": "state",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Newspaper"
+      },
+      {
+        "name": "June Morris",
+        "type": "person",
+        "identity": "Writer"
       }
     ],
-    "elapsed_seconds": 52.0
+    "elapsed_seconds": 6.5
   },
   {
     "author": "Mrs. R. H. McKee",
     "address": "",
     "subjects": [
       "City Politics",
-      "National Politics",
-      "Economy",
-      "World Events"
+      "State Politics",
+      "National Politics"
     ],
-    "summary": "The author agrees with a previous letter in favor of organ music and criticizes a 'Mr. Albert Frederick' for hating both organ music and, seemingly, everything else. She questions if the individual who hates organ music is the same person who expressed hatred towards Cleveland without any stated reasons, and suggests that his actions are unnecessarily destructive rather than constructive.",
+    "summary": "The author takes issue with Albert Frederick's dislike of organ music and his alleged throwing of a radio in the ash can. She questions whether the same person could be responsible for both actions and suggests he donate the radio instead.",
     "doctype": "letter",
     "text": "YES, IT WAS THE SAME\n\n To the Editor of The Press: I would like to write a few words to the man who hates organs, Mr. Albert Frederick. I heartily agree with Clarence E. Murphy when he says the organ is one of the most beautiful, instruments. Mr. Murphy has, in my opinion, an ear for good music. Last week when Albert Frederick answered Mr. Murphy's letter telling of his dislike of organs there appeared on the same page another article in which an Albert Frederick gave about 10 reasons why he hated Cleveland. I would like to know if this is the same Albert Frederick? I'll bet the Albert Frederick who has all those reasons for hating Cleveland hates just about everything, even himself. He reminds me of the kind of a fellow who ties, strings around chickens' legs and then trips them when they start to run. Mr. Frederick, there was no reason, as I can see, for you throwing your radio in the ash can, as yousaid you did, just because you hate organ music. Why didn't you tune in on another station? You may y have found someone who was t making a long speech. You dont like organ music because it is so g loud. Why don't you tune it down p a little? Our radio has a gadget r on it for making music a little c softer, hasn't yours?\n\nSay, by the way, Albert, instead of throwing the radio in the ash can, S or even going to the bother of t tuning it down, why didn't you give it to some family who has never had a radio? I am sure someone would have been very glad to get it, even if the only thing you could tune in would be organ music.\n\nI feel sorry for you, Albert Fred-erick. Hating an organ must cer-tainly keep you away from a lot of places, for instance the churches, some of the best theaters and also the Public Auditorium.\n\nI agree with Clarence E. Murphy when he says that you don't know Mrs. R. H. McKee ",
     "title": "Yes, It Was The Same",
     "word_count": 352,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:30:12",
     "entities": [
       {
-        "text": "Mr. Albert Frederick",
+        "name": "Albert Frederick",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Clarence E. Murphy",
+        "name": "Clarence E. Murphy",
         "type": "person",
-        "identity": "A person who appreciates organ music mentioned in the letter."
+        "identity": "Author of the opinion that organs are beautiful instruments"
       },
       {
-        "text": "Albert Frederick",
+        "name": "Mr. Murphy",
+        "type": "person",
+        "identity": "Referring to Clarence E. Murphy"
+      },
+      {
+        "name": "Albert Frederick",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Cleveland",
+        "name": "Cleveland",
         "type": "place",
-        "identity": "City mentioned in the letter that Albert Frederick hates."
-      },
-      {
-        "text": "Albert Frederick",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "Mr. Murphy",
-        "type": "person",
-        "identity": "Another person who appreciates organ music, mentioned to agree with in the letter."
-      },
-      {
-        "text": "Albert Frederick",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "radio",
-        "type": "thing",
-        "identity": "The item Albert Frederick threw in the ash can."
-      },
-      {
-        "text": "Albert Frederick",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "Mrs. R. H. McKee",
-        "type": "person",
-        "identity": "The woman who agrees with Clarence E. Murphy."
+        "identity": "Place mentioned in the text; presumably the city where the letter's author lives or the context of the event"
       }
     ],
-    "elapsed_seconds": 86.8
+    "elapsed_seconds": 8.0
   },
   {
     "author": "W. H. Lee",
@@ -138,14 +122,56 @@
       "State Politics",
       "Economy"
     ],
-    "summary": "The author questions Stuart Bell's figures on race revenue, particularly in regard to the potential financial impact of a suggested mutuel tax. They challenge Bell to provide accurate figures on the operational costs of a mutuel plant and other racing-related expenses to support his claims. The letter also references comments by William Woodward regarding the economic sustainability of New York's racing industry under such taxations.",
+    "summary": "The author W. H. Lee disputes the financial statements made by Stuart Bell regarding the racing industry in New York, specifically concerning mutuels, tax implications, and operational expenses. Lee challenges Bell to provide detailed figures on the true costs of running a mutuel plant and racing operations to substantiate his claims.",
     "doctype": "letter",
     "text": "QUESTIONS STUART BELL'S FIGURES ON RACE REVENUE\n\n To the Editor of The Press: I read a statement in Daily Rac-ing Form dated Feb. 22, by Presi-dent Sewell Combs, Kentucky Asso-ciation: \"We are hopeful that we will be able to have the minimum purse no lower than $400 and as much above that as possible,\" he said. \"We will most assuredly give as much as possible, hoping to keep out of the \"red\" at the wind-up, we will be satisfied to break even on the meeting.\n\nHere's another one, Mr. Bell: Daily Racing Form, Feb. 24: William Woodward, chairman New York Jockey Club, stated that if the people of the state desire the mutuels the Jockey club could but acquiesce in that sentiment. It is clear, however, Mr. Woodward pointed out such a method could be adopted and in the meantime it is of vital importance to the mainten-ance of racing in New York, Mr. Woodward also referred pointedly to the suggestion of a tax of $1000 per race, which would apply.\n\n(In the way it seems to be sug-gested.) Under present conditions, he stat-ed that such a tax would surely close every track in the state. The racing association lost heavily last year and the imposition of any tax of this character without relief\n\nwould be fatal to them at this time. Mr. Bell, using your own words in your article, March 14th, that any tyro at mathematics can figure this out themselves. I will ask you to get some figures on a mutuel plant, plus purses, salary pertaining to racing officials, hospital equipment, doctors, nurses, ambulance, work horses, workmen, for yearly upkeep, resoiling top surface of racing strip after hard winds, cashiers, ticket sellers, money counters, ticket counters, hundreds of thousands of mutual tickets printed, publicity, Insurance, policing, property tax, water tax and many sther items.\n\nMr. Bell, the check on Maryland was a war-time tax measure with handle of a million. A cut of twothirds or more since the crash, leaving the Maryland track driving for overhead expenses.\n\nMr. Bell, string along with Franklin Roosevelt, our president, get the facts first, then action. But be sureto get the facts. as I have in our new president. W. H. Lee 5822 Bridge avenue. ",
     "title": "Questions Stuart Bell'S Figures On Race Revenue",
     "word_count": 374,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 58.4
+    "timestamp": "2025-07-16 11:30:20",
+    "entities": [
+      {
+        "name": "",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Sewell Combs",
+        "type": "person",
+        "identity": "President of Kentucky Association"
+      },
+      {
+        "name": "William Woodward",
+        "type": "person",
+        "identity": "Chairman of New York Jockey Club"
+      },
+      {
+        "name": "Mr. Bell",
+        "type": "person",
+        "identity": "Author of March 14th article"
+      },
+      {
+        "name": "Franklin Roosevelt",
+        "type": "person",
+        "identity": "President of the United States"
+      },
+      {
+        "name": "W. H. Lee",
+        "type": "person",
+        "identity": "Author of the letter"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City (implied context as local affairs in letter)}",
+        "Ohio": {
+          "type": "state",
+          "identity": "State (implied context as state affairs in reference to New York Jockey Club actions and mutuels.)"
+        }
+      }
+    ],
+    "elapsed_seconds": 9.2
   },
   {
     "author": "Francis J. McDonald",
@@ -154,64 +180,46 @@
       "National Politics",
       "Economy"
     ],
-    "summary": "The letter criticizes the 'Buy American' campaign, arguing that it is detrimental to international trade and contrary to President Roosevelt's economic policies. The author also questions the intelligence of those who produce patriotic songs in conflict with these policies.",
+    "summary": "The author criticizes the 'Buy American' slogan and its economic repercussions, pointing out its counterproductivity to global trade and Roosevelt's trade policies. They also suggest that songwriters might benefit from an intelligence test due to their poor judgment in creating such music.",
     "doctype": "letter",
     "text": "THIS MUSIC DOESN'T CLICK\n\n To the Editor of The Presst\n\nTo my mind, Tin Pan Alley reached a new high in asininity when it ground out that musical lesson in economics \"Buy American.\" As a transparent piece of propaganda attempting to play on the patriotic emotions of the masses it takes the palm.\n\nThe Buy American action, aided by prohibitive tariffs, has resulted in reciprocal measures aboard. This has delivered a body blow to business and aggravated conditions throughout the world. Contrary to general opinion, our high standard of living makes world trade imperitive.\n\nThis was brought to my attention recently when a local radio band played that priceless composition in honor of Mr. Roosevelt's inauguration despite the known fact that it is out of harmony with his convictions. He, as I understand it, is emphatically for the reduction of tariffs to the point where it protects American labor, thus fostering good will and giving impetus to international trade.\n\nAs an afterthought, I think an I. Q. test for popular music bards would be in order. Francis J. McDonald",
     "title": "This Music Doesn'T Click",
     "word_count": 179,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:30:29",
     "entities": [
       {
-        "text": "THIS MUSIC DOESN'T CLICK",
-        "type": "",
+        "name": "Tin Pan Alley",
+        "type": "organization",
         "identity": ""
       },
       {
-        "text": "To the Editor",
-        "type": "role_or_position",
-        "identity": "The Editor"
+        "name": "Buy American",
+        "type": "concept",
+        "identity": ""
       },
       {
-        "text": "Francis J. McDonald",
+        "name": "Franklin D. Roosevelt",
         "type": "person",
-        "identity": "Author of the letter"
+        "identity": "President of the United States at the time"
       },
       {
-        "text": "Roosevelt",
-        "type": "person",
-        "identity": "Franklin D. Roosevelt"
-      },
-      {
-        "text": "Tin Pan Alley",
-        "type": "location",
-        "identity": "Area in New York City known for music publishing and recording"
-      },
-      {
-        "text": "Buy American",
+        "name": "I. Q. test",
         "type": "concept",
-        "identity": "American economic policy promoting domestic production over imports"
+        "identity": ""
       },
       {
-        "text": "business",
-        "type": "entity",
-        "identity": "General economic activities of companies and firms"
+        "name": "Mr. Roosevelt",
+        "type": "title?",
+        "identity": "presumably Franklin D. Roosevelt, as mentioned in context of inauguration"
       },
       {
-        "text": "world trade",
-        "type": "concept",
-        "identity": "International exchange of goods and services"
-      },
-      {
-        "text": "Tariffs",
-        "type": "concept",
-        "identity": "Import taxes imposed by a government on imported goods"
-      },
-      {
-        "text": "Cleveland",
+        "name": "Cleveland",
         "type": "place",
-        "identity": "City mentioned in the letter, likely refers to Cleveland, Ohio."
+        "identity": "not mentioned explicitly but likely refers to local affairs given the mention of a local radio band playing music"
       }
     ],
-    "elapsed_seconds": 75.5
+    "elapsed_seconds": 6.5
   }
 ]

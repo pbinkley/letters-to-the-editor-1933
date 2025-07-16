@@ -6,14 +6,22 @@
       "State Politics",
       "Economy"
     ],
-    "summary": "The Liquidating Trustees of the Atlas Savings & Loan Co. provide a detailed report on their efforts to successfully liquidate the company amidst significant financial challenges. They highlight key achievements, including the repayment of bank loans and the settlement of all mortgages and taxes, demonstrating their commitment to preserving the company's assets for its stakeholders.",
+    "summary": "The letter provides an update on the liquidation process of the Atlas Savings & Loan Co. They report on the repayment of bank loans, settling of mortgages and taxes, and maintaining earnings to cover expenses. The authors express confidence in their ability to continue operations cost-effectively and eventually permit withdrawals, despite economic hardships.",
     "doctype": "letter",
     "text": "REPORT OF PROGRESS IN ATLAS SAVINGS LIQUIDATION\n\n To the Editor of The Press: Various articles have appeared from time to time in some of the Cleveland newspapers regarding the liquidation of the Atlas Savings & Loan Co. In order that the depositors, stockholders and others interested in the affairs of the Atlas Savings & Loan Co. may have a better understanding of what has been accomplished up to the present time, we are submitting the following information:\n\nWe have repaid borrowed money in the sum of $475,000 to the banks. The final payment of $70,000 and interest in full was made to the Union Trust Co. on March 1, 1933.\n\nAll mortgages owned by the Atlas Savings & Loan Co. are now in the company's vault. Real estate owned is free and clear of any and all encumbrances whatsoever. Every item of expense has been paid and all losses through foreclosure and resale of real estate have been charged off on the books of the company.\n\nDuring the same period we have paid to the sheriff for delinquent taxes and court costs on real estate foreclosed, for the necessary repairs to real estate so acquired, current taxes and interest on borrowed money, the sum of $325,000.\n\nThrough the untiring efforts of the men in charge of the liquidation and in spite of the many obstacles which had to be overcome, the earnings of the Atlas Savings & Loan Co. have been maintained and have been sufficient to absorb all running expenses and almost all losses sustained by the foreclosure of a very large number of inadequately secured mortgages and the resale of this property. The reserve and undivided profit fund on July 1, 1930, was $277,000 and on January 1, 1933, $247,000. Losses during this period were over $300,000 all paid out of earnings except the $30,000 charge to reserve.\n\nWith our bank loans now paid in full, the only liabilities we have other than the deposits, are our current expense bills and tax bills. It is our opinion that within three or four months we will be able to pay off these current liabilities, and if conditions do not get any worse than they are, we should at that time be able to permit withdrawals of 1 per cent or 2 per cent every 30 or 60 days. We might also mention that all operating expenses, salaries and wages have been reduced in keeping with the times, and it is our intention to continue to do this-to leave nothing undone to keep the cost of liquidation as low as possible. It is the ambition of every one of us that when this liquidation is over we will be able to point with pride to the fact that this liquidation has cost less than any other liquidation of its kind in this state. Liquidating Trustees of the Atlas Savings & Loan Co. James F. Strnad President. ",
     "title": "Report Of Progress In Atlas Savings Liquidation",
     "word_count": 486,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 62.7
+    "timestamp": "2025-07-16 11:31:03",
+    "entities": [
+      {
+        "name": "James F. Strnad",
+        "type": "office",
+        "identity": "President, Liquidating Trustees"
+      }
+    ],
+    "elapsed_seconds": 5.3
   },
   {
     "author": "Thomas Gray",
@@ -21,103 +29,64 @@
     "subjects": [
       "City Politics"
     ],
-    "summary": "The author expresses strong support for Ignatz Kohn's performance as a 'keeper' in the Criminal Courts Building. He argues against Kohn being replaced by an inferior candidate and encourages the public or media to start a petition protesting this decision.",
+    "summary": "The author supports Ignatz Kohn for his role in the Criminal Courts Building, expressing disappointment that he will be replaced by an inferior man as a Democrat. Suggests starting a petition if other citizens share this sentiment.",
     "doctype": "letter",
     "text": "FROM A FRIEND OF IGNATZ KOHN\n\n To the Editor of The Press: While I have always had Democratic leanings, and have always been rather against the so-called machine Republicans of this city, I must make a decided exception in the case of Ignatz Kohn. Having recently served on a jury in a criminal case, tried before Judge Corlett in the new Criminal Courts Building, and having been locked up for four nights in the Statler Hotel, with Mr. Kohn as a \"keeper,\" I am in a position to know how capable that gentleman is for the job in question. He is perfectly fitted for this work, and combines more \"color\" with his job than anyone else you come in contact with down there.\n\nI am for Ignatz Kohn 100 percent, and think it is a crying shame that the Democrats are going to let him out on the first of April. It is a foregone conclusion that he will be replaced by an inferior man, and that Ignatz will be sorely missed, not only by the judges, but by everyone that has business down there. If The Cleveland Press or any other party would start a petition of protest in the case of this injustice, I should be only to happy to sign same. Thomas Gray ",
     "title": "From A Friend Of Ignatz Kohn",
     "word_count": 216,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [
-      {
-        "text": "Ignatz Kohn",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "Judge Corlett",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "Statler Hotel",
-        "type": "organization",
-        "identity": "A hotel in Cleveland, Ohio"
-      },
-      {
-        "text": "The Press",
-        "type": "publication",
-        "identity": "Cleveland newspaper"
-      },
-      {
-        "text": "Democrats",
-        "type": "organization",
-        "identity": "Political party"
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "City, Ohio"
-      },
-      {
-        "text": "Ohio",
-        "type": "state",
-        "identity": "State of residence for Cleveland"
-      },
-      {
-        "text": "Thomas Gray",
-        "type": "person",
-        "identity": "Author of the letter"
-      }
-    ],
-    "elapsed_seconds": 61.6
+    "timestamp": "2025-07-16 11:31:08",
+    "entities": [],
+    "elapsed_seconds": 3.3
   },
   {
     "author": "Charles Graham",
-    "address": "22504 Ruple road, Berea, O.",
+    "address": "22504 Ruple Road, Berea, OH",
     "subjects": [
       "Economy"
     ],
-    "summary": "The author questions why banks oppose the cash payment of the ex-servicemen's adjusted compensation certificates, arguing that such payments would quickly enter circulation to meet the needs of veterans in purchasing necessities.",
+    "summary": "The author is questioning why banks oppose the cash payment of ex-servicemen's adjusted compensation certificates, arguing that this money would quickly circulate as the veterans spend it on necessities.",
     "doctype": "letter",
     "text": "MONEY IN CIRCULATION\n\n To the Editor of The Fr Since the banks want money to circulate why do they not approve of cash payment of the ex-servicemen's adjusted compensation certificates?\n\nThis money would be promptly in circulation as every man who would draw it is in need of clothing, furniture, tax money, house repairs and plenty of other necessities. Charles Graham 22504 Ruple road, Berea, O. ",
     "title": "Money In Circulation",
     "word_count": 66,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:31:11",
     "entities": [
       {
-        "text": "MONEY IN CIRCULATION",
-        "type": "topic"
+        "name": "MONEY IN CIRCULATION",
+        "type": "abstract",
+        "identity": ""
       },
       {
-        "text": "",
-        "type": "unknown"
+        "name": "To the Editor of The Fr",
+        "type": "office",
+        "identity": "The Editor"
       },
       {
-        "text": "To the Editor of The Fr",
-        "type": "recipient"
+        "name": "Charles Graham",
+        "type": "person",
+        "identity": "Author of the letter"
       },
       {
-        "text": "Since the banks want money to circulate why do they not approve of cash payment of the ex-servicemen's adjusted compensation certificates?",
-        "type": "quote"
+        "name": "22504 Ruple road, Berea, O.",
+        "type": "address",
+        "identity": ""
       },
       {
-        "text": "This money would be promptly in circulation as every man who would draw it is in need of clothing, furniture, tax money, house repairs and plenty of other necessities.",
-        "type": "description"
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City where affairs might be local"
       },
       {
-        "text": "",
-        "type": "unknown"
-      },
-      {
-        "text": "Charles Graham",
-        "type": "author"
-      },
-      {
-        "text": "22504 Ruple road, Berea, O.",
-        "type": "address"
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which 'Berea' is located, potentially relevant for state affairs"
       }
     ],
-    "elapsed_seconds": 50.7
+    "elapsed_seconds": 6.2
   },
   {
     "author": "H. J. Dean",
@@ -126,50 +95,59 @@
       "City Politics",
       "Economy"
     ],
-    "summary": "The author expresses frustration over a banking situation where their insurance check, which was due to expire, was not honored by the bank despite having money on deposit. They argue that the bank, having collected all service charges on the checking account, should not withhold payment for items like taxes and insurance that are essential necessities.",
+    "summary": "The author is upset with their bank for refusing to honor checks despite having money on deposit, particularly regarding unpaid insurance and taxes. They question the legality and morality of such practices, especially in light of recent bank closures and legislative changes. The letter is addressed to the editor of a 1930s newspaper, seeking attention and possibly support from fellow readers.",
     "doctype": "letter",
     "text": "HE CAN'T GET HIS MONEY\n\n To The Editor of The Press. I wish to call your attention and that of fellow readers to a banking situation which I believe is rather prevalent and which you will agree is rotten.\n\nHaving certain obligations such as insurance, interest, taxes, etc., on our home; we entered into an agreement with our bank to establish a budget for all these items in order to have the money available when any one of them became due. Our taxes were due and payable on Jan. 1st arid the money was then, and still is, on deposit in the bank. An insurance policy has also lapsed which has been carried for 17 years.\n\nMy monthly pay check was promptly sent through the clearing house but checks issued the same day against it were not honored. The insurance check was one of these.\n\nPerhaps you or some of the readers can tell me how the bank has the moral right to do this when we have paid all service charges on the checking account. The information in the papers quotes some of the bank officers as unwilling to open until all the new legislation has been interpreted by legal advisers. Were there no banking laws effective before they closed or did they know how to interpret them? Taxes, insurance, food, medicine. If these are necessities how are we going to get them when the banks can get laws\" passed over night to protect themselves.\n\nH. J. Dean 2038 Belle avenue. ",
     "title": "He Can'T Get His Money",
     "word_count": 252,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 43.1
+    "timestamp": "2025-07-16 11:31:17",
+    "entities": [
+      {
+        "name": "HE",
+        "type": "hypothetical person",
+        "identity": ""
+      },
+      {
+        "name": "J. H. Dean",
+        "type": "person",
+        "identity": "The letter writer who complains about the bank's handling of their financial obligations."
+      },
+      {
+        "name": "bank",
+        "type": "organization",
+        "identity": "The institution in question that is the subject of the complaint."
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "If the letter is dealing with local affairs."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "If the letter addresses state-level banking issues."
+      }
+    ],
+    "elapsed_seconds": 7.6
   },
   {
     "author": "Edward J. Falkenstein",
     "address": "",
     "subjects": [
       "State Politics",
-      "Economy"
+      "Banking"
     ],
-    "summary": "The letter's author questions the oversight by the State Banking Department in failing to notice the critical condition of the Standard Trust Bank before its insolvency. He presents detailed financial analysis indicating a significant shortfall in assets, and asserts that this condition was present even when the bank opened in March 1930. The writer calls for an explanation of these failures in oversight.",
+    "summary": "The author, Edward J. Falkenstein, questions the oversight by the State Banking Department of the Standard Trust Bank, which appears to have been operating insolvent for years prior to December 19, 1931. He presents calculated figures indicating a $8,545,826.84 deficiency in assets and suggests that the department failed to conduct proper examinations despite the legality to do so under Ohio's banking code.",
     "doctype": "letter",
     "text": "WHERE WAS THE BANK DEPARTMENT\n\n To The Editor of The Press. The writer has followed the praiseworthy efforts of The Press to place before its readers the facts pertaining to the affairs of the Standard Trust Bank. Apparently as time proceeds the questionable condition of that institution becomes increasingly apparent. Lately even the State Department of Banking is beginning to revolt against the offensive odors connected therewith.\n\nIt has been a privilege of the writer to make a close and careful analysis of the affairs of this institution during the past year and to have accumulated some figures as to its solvency. These may be of interest.\n\nThis computation indicates that the Standard was heavily deficient in assets. The total deficiency. was $8,545,826.84, divided into $2,213,092.66 as to current liabilities and $6,332,- 734.18 as to fixed liabilities. These figures are as of the closing date of Dec, 19, 1931. There is also evidence proving that this institution was dangerously near if not actually insolvent as of its date of opening in March, 1930. Its opening would, of course, have been authorized by the State Banking Department.\n\nThe condition mentioned above as of Dec. 19, 1930, could not have arisen on the immediate day previous. In fact it was of long duration. The question arises, therefore, as to what the Banking Department was doing when and if it made its usual examinations. The Ohio code permits (Secs. 710-20) the superintendent to appraise doubtful assets in a bank. Also the superintendent may charge down the value of assets or write them off the books entirely (Secs. 710-28). By sections 710-89 the superintendent may take possession of a bank for any one of nine reasons, among them being that where the institution \"is conducting its business in an unauthorized and unsafe manner.\"\n\nWhy should it be necessary to ask the State Banking Department to explain such gross omissions of its duties?\n\nEdward J. Falkenstein Case School of Applied Science.",
     "title": "Where Was The Bank Department",
     "word_count": 326,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [
-      {
-        "name": "Standard Trust Bank",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "The Press",
-        "type": "organization",
-        "identity": "Local newspaper"
-      },
-      {
-        "name": "State Department of Banking",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "Edward J. Falkenstein",
-        "type": "person",
-        "identity": "Author of the letter"
-      }
-    ],
-    "elapsed_seconds": 63.6
+    "timestamp": "2025-07-16 11:31:24",
+    "entities": [],
+    "elapsed_seconds": 5.2
   }
 ]

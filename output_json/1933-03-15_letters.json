@@ -4,37 +4,90 @@
     "address": "",
     "subjects": [
       "City Politics",
-      "National Politics"
+      "National Politics",
+      "Economy",
+      "World Events"
     ],
-    "summary": "The letter discusses the valuable services provided by the Cleveland Public Library for the blind, including book circulation and advice services, emphasizing the importance of library support.",
+    "summary": "The letter discusses the services provided by the Cleveland Public Library for the blind, including book circulation and reference work. The author emphasizes the library's role in assisting newly blind individuals and maintaining the support for library services.",
     "doctype": "letter",
     "text": "HOW THE CLEVELAND LIBRARY SERVES THE BLIND\n\n-Letters to the Editor-\n\nTo the Editor of The Press: A recent letter on your editorial page bearing the caption, \"He Likes Cincinnati,\" mentioned as \"one of the distinctive Cincinnati projects\" the collection of Braille books (for the blind in the Cincinnati Public Library. It is true that Cincinnati has a fine collection of books for the blind, the largest in this state, though not the largest in the United States as your correspondent implies.\n\nIt will, however, I am sure, interest your readers to know that the Cleveland Public Library has also an excellent \"library for the blind\" containing over 12,000 volumes, of which some 3700 belong to the Board of Education. The books are shelved in an attractive room on the foundation floor of the main library, where visitors are always welcome. The library for the blind is open from 9 to 5:30 daily except Sundays and holidays.\n\nThe books are circulated not only among non-seeing Cleveland borrowers but throughout northern Ohio. The government franking privilege on books for the blind makes possible this service since such books may be mailed free of charge anywhere within the United States. This privilege extends also to our Cleveland blind readers, many of whom keep in touch with the library by letters, cards and frequent telephone messages; the books being mailed to their home addresses. A smaller number come regularly to the library to read magazines in embossed type or to take books in Braille type for their home reading. Seventeen thousand six hundred and six books were circulated by the library for the blind in 1932. Much reference work is also done with the blind, chiefly with high school, college and music school students.\n\nA valuable phase of the work is that of advising those who have a relative or friend who has lately become blind. If living in the city the name and particulars are reported to the Cleveland Society for the Blind; if elsewhere in the state, the nearest teacher of the Ohio State Commission for the Blind is informed. Many outside the state are put in touch with their own state agencies; \"beginning books\" are suggested; and the needed word given, that achievement and happiness are possible through the medium of books especially typed for blind readers\n\nI write of this simply as one of the many services which make it so urgently important that the support of the library shall be maintained. Marilla W. Freeman Librarian of the Main Library. ",
     "title": "How The Cleveland Library Serves The Blind",
     "word_count": 421,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "City in Ohio"
-      }
-    ],
-    "elapsed_seconds": 54.5
+    "timestamp": "2025-07-16 11:28:37",
+    "entities": [],
+    "elapsed_seconds": 4.7
   },
   {
     "author": "J. W. Carey",
     "address": "",
     "subjects": [
+      "City Politics",
+      "State Politics",
       "National Politics"
     ],
-    "summary": "The author reminisces about the golden days of the American prize ring, referencing Corbett's death and the disillusionment of his supporters after the fight's outcome.",
+    "summary": "The letter reflects on the golden days of the American prize ring, recounting a specific event involving Corbett's death and its impact on a group of admirers. The writer nostalgically describes the era of boxing that began and ended with particular matches at Revere Beach and Goldfield.",
     "doctype": "letter",
     "text": "FROM THE GOLDEN DAYS\n\n To the Editor of The Press: The news of Corbett's death brought back to my memory a certain misty St. Patrick's Day many years ago when the lads who made up the Gully gang assembled in force at the old Marine Hospital, then trooped downtown full of confidence and high spirits to hear the returns from Carson City. Corbett was our idol, he was invincible, he couldn't lose, so imagine the consternation and dismay when that fatal left hook went home to its mark. I tell you it was a silent and downcast crowd that winded its way back. Those were the golden days of the American prize ring, an era that began and ended with these two classics, McAuliffe and Carney at Revere Beach, Nelson and Gans at Goldfield. J. W. Carey. ",
     "title": "From The Golden Days",
     "word_count": 137,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 31.0
+    "timestamp": "2025-07-16 11:28:41",
+    "entities": [
+      {
+        "name": "Corbett",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Gully gang",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Carson City",
+        "type": "place",
+        "identity": "Capital of Nevada"
+      },
+      {
+        "name": "McCauliffe",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Carney",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Nelson",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Gans",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "J. W. Carey",
+        "type": "person",
+        "identity": "Author or Promoter"
+      },
+      {
+        "name": "Marine Hospital",
+        "type": "place",
+        "identity": "Hospital in an unspecified location, possibly Boston given its proximity to a St. Patrick's Day celebration and historical context."
+      },
+      {
+        "name": "downtown",
+        "type": "place",
+        "identity": "City Center"
+      }
+    ],
+    "elapsed_seconds": 8.8
   },
   {
     "author": "Mrs. W. E. Hays",
@@ -42,30 +95,131 @@
     "subjects": [
       "Human Interest"
     ],
-    "summary": "The author commends the local rescue squad members for their invaluable aid to her family during an emergency, highlighting their character and efficiency.",
+    "summary": "The author expresses her gratitude towards various members of the Cleveland rescue squads for their help during an unspecified incident, highlighting their character, humanity, and efficiency.",
     "doctype": "letter",
     "text": "EXPRESSES APPRECIATION\n\n To the Editor of The Press: We would like to publicly express our appreciation and commend the services of Lieut. Turlock and crew of Rescue Squad No. 1, and Firemen Siebert and Walters especially. Also Fireman J. Ballnow of Rescue Squad No. 3, who although off duty rendered invaluable aid to the family. Few people realize the remarkable aid these rescue squads give to Cleveland's citizens. All these men are men of character, they are humane and conscientious and render efficient service. Mrs. W. E. Hays and family. ",
     "title": "Expresses Appreciation",
     "word_count": 90,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 28.4
+    "timestamp": "2025-07-16 11:28:49",
+    "entities": [
+      {
+        "name": "Lieut. Turlock",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "crew of Rescue Squad No. 1",
+        "type": "group",
+        "identity": ""
+      },
+      {
+        "name": "Firemen Siebert and Walters",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Fireman J. Ballnow",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Mrs. W. E. Hays and family",
+        "type": "group",
+        "identity": "The family referred to in the letter"
+      }
+    ],
+    "elapsed_seconds": 5.9
   },
   {
     "author": "J. P. Sharpe",
-    "address": "9829 Lake avenue.",
+    "address": "9829 Lake Avenue",
     "subjects": [
       "City Politics",
-      "Economy"
+      "Civic Issues"
     ],
-    "summary": "The author expresses concern about the deterioration of Edgewater Park, including the destruction of its natural beauty due to unauthorized parking and neglect. They argue that minor measures such as warnings and occasional patrolling by police officers could maintain the park without incurring significant costs.",
+    "summary": "The author is concerned about the deterioration of Edgewater Park, specifically due to unauthorized parking and lack of maintenance. The park's beauty is being destroyed through negligence, and the author calls for action to preserve it.",
     "doctype": "letter",
     "text": "RUIN IN EDGEWATER\n\n To the Editor of The Press: I would like to write a few words of protest regarding the deplorable condition Edgewater Park is rapidly declining to. A short time ago the strip of land along the lower drive beside the lake was an attractive place. There was a gravel walk and wooden benches beneath the Norway maples, and a fine lawn of well-kept green grass. This is all rapidly disappearing. due to the negligence of either the park management or the park police. Automobiles are parked on this ground and there are only a few blades of grass remaining; the trees are also rapidly giving up under the assault of automobile hubs and it is only a matter of months before it will be too late to do anything to save it. It seems to me that with the large parking (and necking) grounds a few hundred feet west that the police would try to keep a little of the park looking green and decent. No arrests are made or any attempt to stop this unwarranted destruction of what might be beauty. There is no necessity for parking anywhere in the park at all. I don't see why people can't walk a few blocks if necessary and leave the automobiles out of the park entirely. I think a surcease from the noise and smoke of them would be acceptable to everyone. I have never seen Edgewater Parklook as badly as it does at present, and it is not due to lack of funds as the damage could be corrected or averted without any expense; all that is needed is a few signs, warning people about parking and an occasional bit of activity on the part of the patroling officer. Why not try to save our parks and civic beauty before it is too late? J. P. Sharpe 9829 Lake avenue. ",
     "title": "Ruin In Edgewater",
     "word_count": 313,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 44.8
+    "timestamp": "2025-07-16 11:28:54",
+    "entities": [
+      {
+        "name": "Edgewater Park",
+        "type": "place",
+        "identity": "A public park in the city of Cleveland, Ohio, possibly within the vicinity of Lake Avenue."
+      },
+      {
+        "name": "park management",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "park police",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "city",
+        "identity": "The city in which Edgewater Park is located; possibly the jurisdictional context for the letter writer's concerns."
+      },
+      {
+        "name": "J. P. Sharpe",
+        "type": "person",
+        "identity": "Author of the protest letter, likely a resident of Edgewater Park concerned with the park's deterioration."
+      },
+      {
+        "name": "park police",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "name": "automobiles",
+        "type": "object",
+        "identity": "Vehicles causing damage to the park."
+      },
+      {
+        "name": "Norway maples",
+        "type": "species",
+        "identity": "Type of tree in the park."
+      },
+      {
+        "name": "lake",
+        "type": "body_of_water",
+        "identity": "Body of water adjacent to Edgewater Park, likely Lake Erie."
+      },
+      {
+        "name": "gravel walk",
+        "type": "infrastructure",
+        "identity": "Pathway in the park, presumably made of gravel."
+      },
+      {
+        "name": "wooden benches",
+        "type": "furniture",
+        "identity": ""
+      },
+      {
+        "name": "fine lawn",
+        "type": "landscaping",
+        "identity": "Area of well-kept grass within the park."
+      },
+      {
+        "name": "Cleveland",
+        "type": "city",
+        "identity": "The city in which the letter was published, potentially affecting local readers and authorities."
+      },
+      {
+        "name": "To the Editor of The Press",
+        "type": "address",
+        "identity": "Recipient of the letter, indicating the newspaper where the letter was printed."
+      }
+    ],
+    "elapsed_seconds": 14.0
   },
   {
     "author": "James L. Tracy",
@@ -74,109 +228,140 @@
       "City Politics",
       "Economy"
     ],
-    "summary": "The author argues for a reduction of car fares to 4 cents in the Newburg district, citing the convenience and fairness it would bring to residents who frequently travel between the city limits and downtown.",
+    "summary": "The author, James L. Tracy, complains about Newburg's implementation of a five-cent zone car fare when he believes that the public desires a four-cent fare to travel from the city limits to downtown. He argues that the current fare does not meet the needs and expectations of the car-riding community in Newburg.",
     "doctype": "letter",
     "text": "FIVE-CENT ZONES FOR NEWBURG\n\n To the Editor of The Press: Five-cent zone car fare is being strongly promoted by many merchants in the Newburg district. Previously car fare was advanced by the heads of the company without any promotion. Cleveland always did and always will have four zones. They are the city limits each and every way from downtown. What the car-riding public wants and needs is 4-cent car fare, so they can travel back and forth from the city limits to downtown for 4 cents. James L. Tracy 3908 E. 93d street. ",
     "title": "Five-Cent Zones For Newburg",
     "word_count": 93,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:08",
     "entities": [
       {
-        "text": "Five-Cent Zones For Newburg",
+        "name": "Five-cent zones",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City"
+      },
+      {
+        "name": "James L. Tracy",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Newburg district",
         "type": "place",
         "identity": ""
       },
       {
-        "text": "",
-        "type": "office",
-        "identity": "not specified"
+        "name": "car fare",
+        "type": "concept",
+        "identity": ""
       },
       {
-        "text": "To the Editor of The Press:",
+        "name": "company",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
         "type": "place",
-        "identity": "The Press"
+        "identity": "City and State: Ohio"
       },
       {
-        "text": "Cleveland",
-        "type": "city",
-        "identity": "Cleveland, Ohio"
+        "name": "four zones",
+        "type": "concept",
+        "identity": ""
       },
       {
-        "text": "Four zones",
-        "type": "office_or_organization",
-        "identity": "not specified, possibly the car fare system or zones designated by the city limits or company policy"
+        "name": "city limits",
+        "type": "concept",
+        "identity": "City limits"
       },
       {
-        "text": "James L. Tracy",
-        "type": "person",
-        "identity": "Author of the letter"
-      },
-      {
-        "text": "3908 E. 93d street.",
-        "type": "address",
-        "identity": "not specified"
+        "name": "downtown",
+        "type": "concept",
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 54.6
+    "elapsed_seconds": 8.4
   },
   {
     "author": "Albert Frederick",
     "address": "",
     "subjects": [
       "City Politics",
-      "State Politics",
-      "National Politics",
-      "Economy",
-      "World Events"
+      "National Politics"
     ],
-    "summary": "Albert Frederick disagrees with Clarence E. Murphy's opinion on organ music being too loud, arguing that orchestras make more noise and that organ music is beautiful and necessary in churches.",
+    "summary": "Albert Frederick objects to Clarence E. Murphy's defense of organ music, arguing that it is too loud and contrasting it with orchestras as being quieter. He believes there are more appropriate places for loud music than churches and expresses a personal preference for soft music after a day's work.",
     "doctype": "letter",
     "text": "ORGANS ARE O. K.\n\n To the Editor of The Press: Albert Frederick, in response to my letter, wrote to The Press and expressed his dislike of organs. He says organ music is too loud. I disagree with him. If organ music is loud they wouldn't have the organ in churches. An orchestra makes much more noise than an organ. Lot of people come home from work and expect to hear soft music, but instead, we hear orchestras which make so much noise. An organ is one of the most beautiful instruments. I don't think you know beautiful music when you hear it, Mr. Frederick. Clarence E. Murphy. ",
     "title": "Organs Are O. K.",
     "word_count": 107,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:16",
     "entities": [
       {
         "name": "Albert Frederick",
-        "identity": "",
-        "type": "person"
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Frederick",
+        "type": "person",
+        "identity": ""
       },
       {
         "name": "Clarence E. Murphy",
-        "identity": "",
-        "type": "person"
-      },
-      {
-        "place_name": "Cleveland",
-        "type": "city"
-      },
-      {
-        "name": "The Press",
-        "identity": "newspaper",
-        "type": "organization"
-      },
-      {
-        "name": "orchestra",
-        "identity": "",
-        "type": "concept"
+        "type": "person",
+        "identity": "The author of the letter to the editor"
       }
     ],
-    "elapsed_seconds": 42.4
+    "elapsed_seconds": 4.8
   },
   {
     "author": "Priscilla Richmond",
     "address": "",
     "subjects": [
       "City Politics",
-      "State Politics"
+      "State Politics",
+      "National Politics"
     ],
-    "summary": "The author argues against the proposed plan by Mr. Benesch to exclude married women from teaching positions in public schools, claiming it is a mistake and that it overly concentrates the responsibility of education in the hands of spinsters, potentially limiting the perspectives available to the children.",
+    "summary": "The letter expresses concern over the proposed plan by Mr. Benesch, president of the Board of Education, to exclude married women from teaching positions in public schools. The author argues against this plan, suggesting that it is a mistake and that married women are valuable educators. She also asserts that the main issue with public schools is that they are too exclusively managed by spinsters.",
     "doctype": "letter",
     "text": "TOO MANY SPINSTERS\n\n To the Editor of The Prese: If Mr. Benesch, the president of e the Board of Education, carries out his plan to exclude married women from teaching positions in the public schools, I believe he will be makeing a serious mistake. I came to this \u25a0country many years ago, as soon as e possible I became an American citizen, and have had the privilege of educating five children in the public schools, three of my own and an \u25a0orphan niece and nephew. If a s fault is to be found with the public e schools it is this: It is too exclusively in the hands of spinsters. Not that I want to detract in any way 5 from the honor due women who forego the joys of home and social contacts to instruct our young, but there are some views of life which can never be a reality to them. Priscilla Richmond.",
     "title": "Too Many Spinsters",
     "word_count": 155,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 33.1
+    "timestamp": "2025-07-16 11:29:20",
+    "entities": [
+      {
+        "name": "Mr. Benesch",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "President",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "name": "Board of Education",
+        "type": "organization",
+        "identity": "The Board of Education"
+      },
+      {
+        "name": "Priscilla Richmond",
+        "type": "person",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 6.5
   }
 ]

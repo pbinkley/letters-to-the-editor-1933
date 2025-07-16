@@ -3,114 +3,201 @@
     "author": "Edward J. Falkenstein",
     "address": "",
     "subjects": [
-      "State Politics",
-      "Economy"
+      "State Politics"
     ],
-    "summary": "The author questions the increase in tenure of the state superintendent of banks from two years to six years under a proposed bill. He argues that other states do not grant such a long period and that this change makes it difficult for the public to oversee the bank's internal affairs effectively.",
+    "summary": "The author, Edward J. Falkenstein, questions the proposed increase in tenure of the state superintendent of banks in Pennsylvania from two years to six years. He points out that other states have shorter tenures for their banking officials and argues that frequent reviews by the State Senate are necessary due to the lack of transparency in bank operations.",
     "doctype": "letter",
     "text": "QUESTIONS PROPOSED TENURE OF BANK SUPERINTENDENT\n\nLetters to the Editor\n\nTo the Editor of The Press: I wonder if your readers are aware of a banking bill before the Legislature which increases to six years the tenure of office of the state superintendent of banks? This very important appointive officer now has a tenure of only two years, and since his appointment must be confirmed by the State Senate his position comes under review by representatives of the people much more frequently than is proposed under the new law.\n\nThe writer has looked into the question of tenure in a number of other states and finds none of those investigated granting so long a period. The following indicates the situation in those states:\n\nWisconsin, five years; Michigan, two years; New Jersey, three-years; West Virginia, four years; New York, two years; Massachusetts, three years; Connecticut, four years; Illinois, four years; Minnesota, titred years,\n\nIn Wisconsin the commissioner of banking is at all times under the strict supervision of a Banking Board of Review, and hence his appointment for five years is understandable, for his acts are carefully guarded. The other states desire to review the acts of this important official at more frequent intervals.\n\nThe proposed bill also provides that this officer can be removed only by the governor and only for cause. The writer believes this provision practically makes impossible the removal of the superintendent as long as his appointing governor is in power. \"Cause\" with regard to banks is difficult of proof since the public or the depositor has practically no access to the internal affairs of the bank. Are there not organizations in this community who are interested in seeing this legislation receive its proper review before it is passed? Edward J. Falkenstein Case School of Applied Science. ",
     "title": "Questions Proposed Tenure Of Bank Superintendent",
     "word_count": 303,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 46.1
+    "timestamp": "2025-07-16 11:26:42",
+    "entities": [
+      {
+        "name": "Edward J. Falkenstein",
+        "type": "person",
+        "identity": "Author of the letter"
+      },
+      {
+        "name": "banking bill",
+        "type": "document",
+        "identity": ""
+      },
+      {
+        "name": "Legislature",
+        "type": "organization",
+        "identity": "The Ohio State Legislature"
+      },
+      {
+        "name": "superintendent of banks",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "name": "Wisconsin",
+        "type": "place",
+        "identity": "State mentioned as having a banking commissioner with a 5-year tenure under supervision"
+      },
+      {
+        "name": "Michigan",
+        "type": "place",
+        "identity": "State mentioned for having a 2-year tenure"
+      },
+      {
+        "name": "New Jersey",
+        "type": "place",
+        "identity": "State mentioned for having a 3-year tenure"
+      },
+      {
+        "name": "West Virginia",
+        "type": "place",
+        "identity": "State mentioned for having a 4-year tenure"
+      },
+      {
+        "name": "New York",
+        "type": "place",
+        "identity": "State mentioned for having a 2-year tenure"
+      },
+      {
+        "name": "Massachusetts",
+        "type": "place",
+        "identity": "State mentioned for having a 3-year tenure"
+      },
+      {
+        "name": "Connecticut",
+        "type": "place",
+        "identity": "State mentioned for having a 4-year tenure"
+      },
+      {
+        "name": "Illinois",
+        "type": "place",
+        "identity": "State mentioned for having a 4-year tenure"
+      },
+      {
+        "name": "Minnesota",
+        "type": "place",
+        "identity": "State mentioned for having a 'titled years' tenure"
+      },
+      {
+        "name": "Banking Board of Review",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "superintendent of banks",
+        "type": "office",
+        "identity": "The appointive officer in question"
+      },
+      {
+        "name": "governor",
+        "type": "person",
+        "identity": "The individual who can remove the superintendent"
+      },
+      {
+        "name": "cause",
+        "type": "concept",
+        "identity": "Reason for removal as specified in the proposed bill"
+      },
+      {
+        "name": "public",
+        "type": "group",
+        "identity": "Citizens or depositors who have limited access to the bank's internal affairs"
+      }
+    ],
+    "elapsed_seconds": 14.9
   },
   {
     "author": "J. Manlet",
     "address": "",
     "subjects": [
-      "Economy"
+      "Economy",
+      "National Politics"
     ],
-    "summary": "The author questions the logic of Ray G. Binnell's opposition to inflation, pointing out that most people (debtor class) would benefit from it while only a minority (creditor class) would suffer. They argue that if Mr. Binnell is truly a democrat in the sense of favoring the majority's greatest good, he should logically support inflation.",
+    "summary": "The author argues against Ray G. Binnell's stance on inflation, suggesting that it would benefit the debtor class rather than harm them, as Binnell implies. The letter posits that since most people are debtors and own very little wealth, inflation would actually work in their favor by decreasing the value of their debts relative to the money they owe.",
     "doctype": "letter",
     "text": "WHO GAINS BY INFLATION?\n\n fo the Editor of The Presa: Ray G. Binnell, in The Press of Feb. 16, suggests that the people write to their representatives in Washington telling them that the nation is not in favor of inflation because the country would suffer enormous losses on account of it.\n\nThe language used by Mr. Binnell is confusing and consequently his aim unintelligible. The \"nation\" as a whole, for instance, could not suffer from inflation, but only a class could suffer, namely the creditor class. He also uses the term \"people.\" In view of the fact that most of the people belong to the debtor class, having in mind that less than 10 per cent of the people own more than 90 per cent of the wealth, I do not see how inflation could harm the majority but that on the contrary they would benefit.\n\nIf Mr. Binnell is a democrat, using the expression in the doctrinal and not in a party sense, and he accordingly believes in the greatest good of the largest number, I do not see how he can logically oppose inflation but that on the other hand he must favor it. J. Manlet, ",
     "title": "Who Gains By Inflation?",
     "word_count": 200,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:26:56",
     "entities": [
       {
-        "text": "Ray G.",
-        "type": "givenName",
-        "identity": "Author of the letter"
+        "name": "Ray G. Binnell",
+        "type": "person",
+        "identity": ""
       },
       {
-        "text": "Binnell",
-        "type": "surname",
-        "identity": "Full name not provided but likely 'Ray G. Binnell' based on context."
-      },
-      {
-        "text": "Washington",
-        "type": "placeName",
+        "name": "Washington",
+        "type": "office",
         "identity": "Capital of the United States"
       },
       {
-        "text": "The Press of",
-        "type": "organization",
-        "identity": "Name of the newspaper."
+        "name": "the nation",
+        "type": "abstract",
+        "identity": "The abstract concept representing the collective body of people in a state or country."
       },
       {
-        "text": "Feb.",
-        "type": "month",
-        "identity": "Month of publication"
+        "name": "creditor class",
+        "type": "class",
+        "identity": "Social and economic group composed of individuals or entities to whom money is owed by others."
       },
       {
-        "text": "Ray G. Binnell",
+        "name": "people",
+        "type": "general",
+        "identity": "General term for the collective body of individuals within a specified population."
+      },
+      {
+        "name": "J. Manlet",
         "type": "person",
-        "identity": "Author of the letter"
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 61.8
+    "elapsed_seconds": 8.9
   },
   {
-    "author": "",
+    "author": "H. D.",
     "address": "",
     "subjects": [
       "City Politics"
     ],
-    "summary": "The letter argues that The Press can play a significant role in advocating for the city's division into wards based on accurate population data from the 1930 census. It suggests using census tracts as the basis for ward division rather than relying on the estimated growth over three years.",
+    "summary": "The author suggests that the newspaper should help in forcing the city council to properly divide the city into wards based on the 1930 census data, rather than relying on an outdated estimate of population growth.",
     "doctype": "letter",
     "text": "DISTRICTING THE CITY\n\n To the Editor of The Press: Your editorial, \"Suggestion to Council,\" can hardly fail to win the approval of every citizen not a politician. They seem to consider the charter provision for \"one ward for each 30,000 population or major portion thereof\" makes it mandatory on Council to guess how much the city has grown in three years. Probably the last federal census was intended to be the basis of computation. It seems to me that The Press might greatly aid in forcing a division of the city into wards of \"conxxxxx xxxx xx xxx\n\nreads may, shudder. A still greater service would be to empjoy someone to arrange the city's territory in the required number of wards and precincts and then ask the politicians to show cause why such division should not be accepted by Council. The sensible way to go about it would be to build up precincts and wards from the census tracts as shown in the large map accompanying Green's analysis of the data published by the Census Bureau. These tracts are small and compact and their population in 1930 is definitely known. H. D. ",
     "title": "Districting The City",
     "word_count": 199,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:27:04",
     "entities": [
       {
-        "text": "The Press",
+        "name": "The Press",
         "type": "organization",
         "identity": "Local newspaper"
       },
       {
-        "text": "Council",
+        "name": "H. D.",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Council",
         "type": "office",
-        "identity": "City Council (hypothetical entity within the letter's context, representing local government.)"
+        "identity": "City council"
       },
       {
-        "text": "H.",
-        "type": "person",
-        "identity": "Unidentified individual mentioned in the letter, likely the author or a person referred to in the context (e.g., a reader)."
-      },
-      {
-        "text": "Green",
-        "type": "person",
-        "identity": "Hypothetical person referenced within the text, possibly a real individual involved with census data analysis or a fictional character for illustrative purposes."
-      },
-      {
-        "text": "Census Bureau",
+        "name": "Census Bureau",
         "type": "organization",
-        "identity": "Federal agency responsible for the United States Census"
+        "identity": "Federal agency responsible for population census"
       },
       {
-        "text": "Districting the City",
-        "type": "concept",
-        "identity": "The title or subject matter of the letter."
-      },
-      {
-        "text": "city",
-        "type": "place",
-        "identity": "Cleveland, Ohio (implied by the context but not explicitly mentioned; local affairs are discussed.)"
+        "name": "Green",
+        "type": "person",
+        "identity": "Author of the analysis"
       }
     ],
-    "elapsed_seconds": 64.8
+    "elapsed_seconds": 6.2
   },
   {
     "author": "Robis Larkoff",
@@ -118,30 +205,37 @@
     "subjects": [
       "Economy"
     ],
-    "summary": "The letter expresses relief over the chain stores' statements that there is no reason for a shortage in essential food items, despite the bank holiday affecting freight movements and prices rising only on minor goods.",
+    "summary": "The author expresses relief upon reading an article stating that there is 'no reason for shortage' of food and prices have not been raised significantly except for 'unimportant items.' Despite this comfort, the author questions the omission of essential food items like meat, flour, butter, sugar, beans, and potatoes from the exempt list.",
     "doctype": "letter",
     "text": "NOT SO UNIMPORTANT\n\n To the Editor of The Press: I am a poor working man, and having nothing else to do, I have read avidly everything printed in your good paper anent the present situation.\n\nSince I have a large family I have been most concerned about the effect of the bank holiday and the attendant difficulty of freight movements, upon the price of food stuff: Imagine my relief upon reading the article in the News of March 9: \"Sales Up, Food Hoarding Seen.\" The article quotes the local managers of a number of chain stores and wholesale groceries to the effect that there is \"no reason for shortage and prices have not been raised except on the unimportant items of meat, flour, butter, sugar, beans and potatoes.\"\n\nThere is so much comfort in that declaration, that I shall finish smoking my stogie, and get a good night's sleep. Robis Larkoff, ",
     "title": "Not So Unimportant",
     "word_count": 151,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:27:10",
     "entities": [
       {
-        "text": "To the Editor of The Press:",
-        "type": "office",
-        "identity": ""
-      },
-      {
-        "text": "Robis Larkoff",
+        "name": "Robis Larkoff",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Cleveland",
+        "name": "The Press",
+        "type": "organization",
+        "identity": "The 1930s newspaper"
+      },
+      {
+        "name": "Cleveland",
         "type": "place",
-        "identity": "The city where the letter writer lives or is concerned about local affairs."
+        "identity": "Location hinted by the reference to local affairs and food price issues"
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State hinted by dealing with state affairs, particularly regarding the bank holiday"
       }
     ],
-    "elapsed_seconds": 40.2
+    "elapsed_seconds": 5.5
   },
   {
     "author": "C. C. Ayres",
@@ -150,13 +244,61 @@
       "National Politics",
       "Economy"
     ],
-    "summary": "The letter expresses the opinion that the Reconstruction Finance Corporation (R.F.C.) has failed to stimulate the economy effectively by directing aid to banks and insurance companies instead of directly aiding the general public through depositors. The author argues that the only way to end the depression is for the R.F.C. to provide a 5% discount on saving deposits, which would both reduce the cost of implementing such a plan and directly benefit the citizens.",
+    "summary": "The letter argues that the Reconstruction Finance Corporation (R.F.C.) has failed to effectively address the depression by prioritizing the repayment of debts of large banks, insurance companies, and railroads over aiding the general public. The author proposes that for the R.F.C. to truly stimulate economic recovery, it should directly pay depositors of savings banks and savings and loan associations. Additionally, the letter suggests a 5% discount on saving deposits as a means to lower costs and increase aid to the public.",
     "doctype": "letter",
     "text": "LET THE R. F. C. PAY DIRECT\n\n Te the Editor of The Press: Ever since the great collapse of the stock market which created the. present depression and which all our great leaders have been trying to solve. They cannot do so for they are so shortsighted and only can figure the condition from their point of view, never taking into consideration that the depression is affecting all the people of our nation.\n\nThey created a R. F. C. to take care of the needs of the large banks, insurance companies and railroads. There is no doubt that the railroads are in a precarious condition, but what help, they received went to the bankers and insurance companies to help pay off their indebtedness, but it did not start the railroads carrying more goods or help them any in passenger traffic, so far the R. F. C. has proven a failure as a help in creating an upturn in business.\n\nThere is only one way out of this depression and which would start the wheels of industry and business going again. That is by the R. F. C. paying direct to the depositors of the xxxx xxxx and saving and loan xxxx\n\ncirculation. The.R. F. C. could discount the saving deposits 5 per cent and in that way it would reduce the expense of any extra help they would need to carry such a plan forward and at the same time would be helping the nation as a whole. C. C. Ayres 22 W. 14th street.",
     "title": "Let The R. F. C. Pay Direct",
     "word_count": 255,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 46.4
+    "timestamp": "2025-07-16 11:27:15",
+    "entities": [
+      {
+        "name": "R. F. C.",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "depositors",
+        "type": "person",
+        "identity": "The individuals who have deposited money in the banks or savings and loans"
+      },
+      {
+        "name": "banks",
+        "type": "organization",
+        "identity": "financial institutions where people keep their money"
+      },
+      {
+        "name": "insurance companies",
+        "type": "organization",
+        "identity": "companies that provide financial protection against loss"
+      },
+      {
+        "name": "railroads",
+        "type": "organization",
+        "identity": "mode of transportation using trains"
+      },
+      {
+        "name": "C. C. Ayres",
+        "type": "person",
+        "identity": "The author of the letter, presumably a resident of Cleveland or Ohio"
+      },
+      {
+        "name": "Te the Editor of The Press:",
+        "type": "office",
+        "identity": "Title and position of the person who would receive this letter at 'The Press' newspaper"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City where the author likely resides, given the reference to local affairs."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "Given the context, 'Cleveland' is part of Ohio and state affairs are referenced indirectly."
+      }
+    ],
+    "elapsed_seconds": 11.0
   }
 ]

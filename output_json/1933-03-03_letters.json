@@ -3,67 +3,115 @@
     "author": "J. J. Levy",
     "address": "16726 Miles avenue.",
     "subjects": [
-      "National Politics",
+      "State Politics",
       "Economy"
     ],
-    "summary": "The letter argues for the reevaluation of gold in the United States to alleviate the economic depression by decreasing the national debt and increasing employment, following France's example. The author points out the drastic reduction in unemployment in France after revaluation and urges Americans to pressure their congressmen and senators to take action in this regard.",
+    "summary": "The letter discusses France's decision to revalue its gold after World War I to alleviate its national debt and stimulate economic recovery. The author argues that the United States should follow this example by revaluing its gold in order to make it easier to pay off debts from the 1920s with the more valuable currency of the 1930s. The letter also presents statistics indicating a drastic decrease in unemployment in France after their currency adjustment.",
     "doctype": "letter",
     "text": "HOW THE FRENCH SCALED DOWN THEIR DEBTS\n\n-Letters to the Editorto the Editor of The Press: At the end of the World War, France discovered that her national debt had risen to the equivalent of $80,000,000,000 against a gold deposit in her vaults of $2,090,000,000. France faced the facts. She realized that employment, bread and butter and shelter were more important than retaining her former valuation of gold.\n\nShe revaluated her gold ounce in the ratio of five to one. She legislated that gold, as far as she was concerned, was five times more valuable in 1930-than it was in 1914. She declared that a franc was five times less in value. This meant that the $80,000,000,000 of the French national debt was automatically decreased in the same proportion. Today it represents in modern American money the sum of $16,000,000,000, the fifth of what it was formerly.\n\nThirty-six of the 37 nations engaged in the World War practically followed the example set by France, either by legislation or through necessity. We alone have refused to revalue our gold in spite of the fact that public and private debts amount to the staggering total of $235,000,000,000 against a gold deposit of approximately $4,500,000,000. In the face of these facts, the bankers would\n\nxxxxxxxxx old dollar would be a \"novel experience\" never before attempted by any nation. You will now naturally ask how this move on the part of the French government affected her business and employment. The French ambassador says that as of October 15th, 1932, there were in France only 251,083 completely out of work; those with partial work numbered 12,203. The total population of France is 40,785,874. If this proportion held true in our country there would be only 750,000 unemployed instead of the 12,000,000 which we actually have.\n\nI am firmly convinced that before we escape from the throes of this depression, we will have revaluated our gold dollar, banks, financiers and capitalists to the contrary. By this I do not mean, as our friends would have you believe, \"inflating\" our currency until it begins to shrink in value, but I mean \"normalizing\" our currency so that a 1929 debt can be paid with honest 1933 dollars and not with dollars whose buying power has reached the unheard of peak of today. The constitution of this country invests in Congress full power to legislate the value of currency and the sooner they take steps in this direction, the sooner will we find ourselves on the road to recovery.\n\nI am sure that if all the people who are interested in seeing \"better times\" return to us, would urge their congressmen and senator-to-support gold revaluation, we will get some quick action in the right direction. J. J. Levy 16726 Miles avenue. ",
     "title": "How The French Scaled Down Their Debts",
     "word_count": 463,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:22:17",
     "entities": [
       {
-        "text": "J. J. Levy",
+        "name": "J. J. Levy",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "French",
-        "type": "nationality",
-        "identity": ""
-      },
-      {
-        "text": "gold deposit",
-        "type": "object",
-        "identity": "Gold mentioned as France's asset."
-      },
-      {
-        "text": "World War",
-        "type": "event",
-        "identity": "The World War referenced."
-      },
-      {
-        "text": "France",
-        "type": "country",
-        "identity": "French nation and its government."
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "If the letter pertains to local affairs, include this."
-      },
-      {
-        "text": "The Press",
+        "name": "The Press",
         "type": "organization",
-        "identity": "Name of the newspaper publishing the letter."
+        "identity": "newspaper"
       },
       {
-        "text": "editor",
-        "type": "role",
+        "name": "Congress",
+        "type": "office",
         "identity": ""
       },
       {
-        "text": "United States",
-        "type": "country",
-        "identity": "Mentioned in comparison to France."
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "city in Ohio"
       },
       {
-        "text**: ": ", ",
-        ": ": "} // Correction: Remove these extra commas here as they do not belong in the JSON format, assuming the intent was to separate points in a list but with no comma after the colon in this specific case. They were mistakenly included here due to formatting issues in the original question text. **}{"
+        "name": "France",
+        "type": "country",
+        "identity": "nation mentioned in the letter"
+      },
+      {
+        "name": "World War",
+        "type": "event",
+        "identity": "world war mentioned in the context of the letter"
+      },
+      {
+        "name": "debt",
+        "type": "concept",
+        "identity": "national debt as discussed in the text"
+      },
+      {
+        "name": "gold",
+        "type": "commodity",
+        "identity": "reference to gold standard and valuation changes"
+      },
+      {
+        "name": "French",
+        "type": "ethnicity",
+        "identity": "referring to French people and their government actions"
+      },
+      {
+        "name": "bankers",
+        "type": "role",
+        "identity": "group mentioned in the letter opposing the revaluation"
+      },
+      {
+        "name": "old dollar",
+        "type": "concept",
+        "identity": "historical currency value mentioned in the letter"
+      },
+      {
+        "name": "debt",
+        "type": "concept",
+        "identity": "public and private debt amounts as discussed in the letter"
+      },
+      {
+        "name": "French ambassador",
+        "type": "person",
+        "identity": "individual quoted in the letter"
+      },
+      {
+        "name": "unemployed",
+        "type": "demographic",
+        "identity": "number of unemployed people in France as discussed in the letter"
+      },
+      {
+        "name": "United States",
+        "type": "country",
+        "identity": "America mentioned in the context of the letter"
+      },
+      {
+        "name": "gold deposit",
+        "type": "asset",
+        "identity": "amount of gold mentioned in the text"
+      },
+      {
+        "name": "World War I",
+        "type": "historical event",
+        "identity": "world war mentioned indirectly through the discussion of gold valuation post-war"
+      },
+      {
+        "name": "dollars",
+        "type": "currency",
+        "identity": "historical value of dollars discussed in the letter"
+      },
+      {
+        "name": "depression",
+        "type": "economic condition",
+        "identity": "Great Depression mentioned in the context of the letter"
       }
     ],
-    "elapsed_seconds": 91.8
+    "elapsed_seconds": 19.9
   },
   {
     "author": "Cornelius Maloney",
@@ -71,121 +119,185 @@
     "subjects": [
       "Economy"
     ],
-    "summary": "The author suggests a plan where banks certify customers' checks to create a form of circulating currency, akin to a temporary substitute for cash during the economic crisis. The idea hinges on banks being solvent and the public maintaining faith in them, which he believes would provide significant relief from the current financial paralysis.",
+    "summary": "The author proposes a method where bank-issued certified checks could function as circulating currency, providing relief from the current economic paralysis. Assuming the banks involved are solvent and the public believes in their solvency, this plan could facilitate transactions without the need for physical cash.",
     "doctype": "letter",
     "text": "WHY NOT SWAP CHECKS?\n\nthe Editor of The Press: With the co-operation of the banks as an extraordinary measure in an extraordinary condition, I see no insuperable reason why thefollowing plan cannot be carried out: Suppose A has money in bank. The bank cannot at present cash his check. Suppose A, owing B, or seeking cash of goods from B, draws his check, payable to B. The bank co-operating, certifies this check, confirming that it owes A the money. A delivers the certified check to B, who, having faith in the certifying bank, accepts it, delivers it by indorsement to C, who, with like faith, accepts it, and so on. A $10 check thus circulating could discharge $1000 of aggregate obligations in a short time, even as currency can do. These checks are as good as the currency, assuming that the certifying banks ultimately redeem them, which is sure enough for trading purposes, if, as is claimed, the best banks of Cleveland are solvent. If these banks are solvent, and if the public believe they are solvent (which faith would also help to keep and make them solvent) this plan of course would work, and working, would bring tremendous relief to the present paralyzing situation. Cornelius Maloney 1413 Williamson Building. ",
     "title": "Why Not Swap Checks?",
     "word_count": 210,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:22:36",
     "entities": [
       {
-        "text": "the Editor of The Press:",
+        "name": "The Press",
         "type": "organization",
-        "identity": ""
+        "identity": "Name of the newspaper where the letter is published."
       },
       {
-        "text": "Cornelius Maloney",
+        "name": "Cornelius Maloney",
         "type": "person",
-        "identity": ""
+        "identity": "The author of the letter."
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City where the letter's context implies local affairs are being discussed."
+      },
+      {
+        "name": "banks",
+        "type": "organization",
+        "identity": "Financial institutions mentioned in the letter."
+      },
+      {
+        "name": "Banks",
+        "type": "organization",
+        "identity": "General reference to the banking system."
+      },
+      {
+        "name": "solvent",
+        "type": "adjective",
+        "identity": "Term used to describe the ability of banks to meet their financial obligations."
+      },
+      {
+        "name": "Cleveland banks",
+        "type": "organization",
+        "identity": "Specific reference to banks in Cleveland, Ohio, which are presumed to be solvent."
+      },
+      {
+        "name": "A",
+        "type": "person",
+        "identity": "Hypothetical person with money in a bank."
+      },
+      {
+        "name": "B",
+        "type": "person",
+        "identity": "Person to whom 'A' owes money."
+      },
+      {
+        "name": "C",
+        "type": "person",
+        "identity": "Person to whom 'B' delivers the check."
+      },
+      {
+        "name": "certified check",
+        "type": "financial_instrument",
+        "identity": "Instrument used in the proposed plan for circulating money."
       }
     ],
-    "elapsed_seconds": 45.0
+    "elapsed_seconds": 11.3
   },
   {
     "author": "John F. Robb",
     "address": "",
     "subjects": [
-      "Economy"
+      "Economy",
+      "City Politics"
     ],
-    "summary": "The author is concerned about the lack of action from the Public Utilities Commission regarding the overcharge for a 'cradle telephone' service that has been installed in his office since 1927. Despite his repeated protests, the charge remains at 25c per month for over six years, totaling an excessive amount. He points out that in Washington D.C., similar service was installed for $4.00 cash and cites it as a more reasonable charge, questioning why the Public Utilities Commission in Ohio does not compel a reduction. The author calls for action to address this 'obstacle' and criticizes the commission's perceived inertia.",
+    "summary": "The author, John F. Robb, is dissatisfied with the cradle telephone charge after six years, having paid $18.00 plus a $5.00 installation fee for a total of what could have bought several phones. Although he protested to the Public Utilities Commission, his efforts to reduce the charge to a fair rate have been futile. The author questions the commission's effectiveness and the ethics behind the company's handling of this issue.",
     "doctype": "letter",
     "text": "THE CRADLE PHONE OVERCHARGE\n\n I wils one of the nist users in the city of Cleveland of the cradle telephone, installed in my office the first part of 1927. The installation charge was $5.00 according to my records, and the initial monthly charge was 50c. I protested this 50c charge, immediately to the Public Utilities Commission and evidently others in the state did likewise, for the commission compelled the company then to reduce its monthly charge to 250. I have written to the Public Utilities Commission from time to time, urging that after a person has paid the 25c charge for a certain length of time, the charge be discontinued. This is the only fair and proper way to handle this matter, but so far as I can see the Public Utilities Commission is deaf as a post, and does not deal with the problem put up to the commission in this matter. From my correspondence with the commission, it seems to them that this rate on the cradle phone is wrapped up in the entire rate structure and regulations of the company, whereas, it is obvious that it is not. The sole question is whether an equitable charge is being levied E upon the people of this state, and I L say that the present charge is exFor over six years I have paid 25c a month for the cradle phone con-s venience, or a total of something E over $18.00 plus an installation charge of $5.00, which brings the total to an amount that would pay for several of these cradle phones very readily. I have referred to the commission the fact that in the t District of Columbia the cradle phone was installed in 1931 on the b basis of a cash payment of $4.00, or a payment of $4.50 on a time basis. The Public Utilities Commission compels the telephone company there to get its charges down to a reasonable point. On the basis of the charge at Washington I have paid for nearly six cradle telephones in the past six years.\n\nI feel our chief obstacle is the supineness of our Public Utilities Commission. Why should the telephone company worry when all it has to do is to tie up its rate structure case before the commission for six, eight or some such unending term of years? Why should people pay taxes to support such a commission? John F. Robb Hanna Building. ",
     "title": "The Cradle Phone Overcharge",
     "word_count": 408,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 59.8
+    "timestamp": "2025-07-16 11:22:47",
+    "entities": [
+      {
+        "name": "Public Utilities Commission",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "John F. Robb",
+        "type": "person",
+        "identity": "Author of the letter; officeholder or citizen of Cleveland, Ohio."
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Location where the cradle phone user resides and from where the letter was likely written."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which the Public Utilities Commission operates; context suggests state-level affairs."
+      },
+      {
+        "name": "cradle telephone",
+        "type": "object",
+        "identity": "The specific type of phone service being discussed."
+      },
+      {
+        "name": "the company",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "District of Columbia",
+        "type": "place",
+        "identity": "Location mentioned for comparison; no specific names provided."
+      },
+      {
+        "name": "telephone company",
+        "type": "organization",
+        "identity": "The entity responsible for telephone services in the location under discussion."
+      }
+    ],
+    "elapsed_seconds": 10.4
   },
   {
     "author": "Kay Jackson",
     "address": "Norwalk, O.",
     "subjects": [
       "State Politics",
-      "National Politics"
+      "National Politics",
+      "Economy"
     ],
-    "summary": "The letter argues against the idea that taxing the rich will yield substantial revenue for the government. The author highlights Charles E. Mitchell's testimony before a Senate committee regarding his large income from stock and bond deals, as well as his methods to evade income tax by selling and buying back stock to his daughter at a loss.",
+    "summary": "The author writes to the editor of The Press to express skepticism towards the notion that the rich can be taxed significantly through increased income tax rates. Citing the testimony of Charles E. Mitchell, she argues that high-income individuals find ways to evade taxes, as evidenced by Mitchell's own admission to evading his tax obligation through selling and repurchasing stock at a loss. The letter suggests that Congress should not rely on taxing the rich to balance the budget.",
     "doctype": "letter",
     "text": "SWAT THE RICH? FORGET IT!\n\nTo the Editor of The Press: After the candid admission by Mr. Charles E. Mitchell of the New York National City Bank to a Senate committee the other day it seems incredible that anyone will be so naive as to assert that the United States government can ever raise an appreciable amount of money by means of a tax upon large incomes-by \"swatting the rich.\"\n\nHe frankly confessed that he had xxx xxx xxx xxx xxx xxx his $25,000 a year salary in bonuses on stock and bond deals during the three boom years, 1927, 1928 and 1929. This money was simply given to him by the National City Co., a company formed and manned by the National City Bank to deal in stocks and bonds in a big way. He explained that this system of compensating him had been inaugurated because of his \"low\" salary, compared to those given \"private\" bankers, and Committeeman Couzens, senator from Michigan, asked him if he believed it to be a good system. Banker Mitchell promptly replied, \"Yes, I feel very strongly about it.\"\n\nAnd then, but only after persistent questioning by Mr. Pecora, the counsel for the committee, he disclosed the measures he employed in 1929 to evade his income tax. They were exceedingly simple. He merely sold stock in his bank to his daughter at a \"loss\" of more than $2,500,000. After the day for declaring his income had passed he bought it all back!\n\nOf course Mr. Mitchell is not an exception among the considerable group of American citizens who obtain incomes of that size and in that manner, nor can it be argued ing the income tax, efficient as it surely is, is the only one in vogue among these people.\n\nSo, in making its estimates of the money the government can raise from various sources to balance the budget, Congress would do well to just forget all about the rich and turn its attention elsewhere. Kay Jackson Norwalk, O.",
     "title": "Swat The Rich? Forget It!",
     "word_count": 335,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:22:57",
     "entities": [
       {
-        "name": "Charles E. Mitchell",
+        "name": "Mr. Charles E. Mitchell",
         "type": "person",
-        "identity": "Real person, head of New York National City Bank, testified before Senate committee."
-      },
-      {
-        "name": "Committee",
-        "type": "organization",
-        "identity": "U.S. Senate Committee"
-      },
-      {
-        "name": "Mr. Pecora",
-        "type": "person",
-        "identity": "Joseph Pecora, counsel for the Senate committee."
+        "identity": ""
       },
       {
         "name": "Committeeeman Couzens",
-        "type": "person",
-        "identity": "Senator David A. Reed (R-Pennsylvania), real name, also known as Couzens; member of Senate Finance Committee."
+        "type": "office",
+        "identity": "Senator from Michigan"
       },
       {
-        "name": "Mitchell",
-        "type": "person",
-        "identity": "Name mentioned multiple times and clearly a subject of the letter."
-      },
-      {
-        "name": "National City Bank",
+        "name": "New York National City Bank",
         "type": "organization",
-        "identity": "Real organization, parent company of National City Co."
+        "identity": ""
       },
       {
         "name": "National City Co.",
         "type": "organization",
-        "identity": "Hypothetical or fictional entity related to National City Bank for stock and bond dealings."
-      },
-      {
-        "name": "Norwalk",
-        "type": "place",
-        "identity": "City in Ohio, referenced as Kay Jackson's location; likely a real place but not explicitly named in the text."
-      },
-      {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "Not explicitly mentioned in the text, but if the letter pertains to local affairs of Ohio, it would be included here."
-      },
-      {
-        "name": "Ohio",
-        "type": "state",
-        "identity": "State where Norwalk is located; included assuming the letter's focus is state-level or deals with state finances."
-      },
-      {
-        "name": "United States government",
-        "type": "organization",
-        "identity": "Real entity mentioned in context of raising money through taxation."
-      },
-      {
-        "name": "Congress",
-        "type": "institution",
-        "identity": "Real institution, referred to as making budget estimates."
+        "identity": "a company formed and manned by the National City Bank to deal in stocks and bonds"
       },
       {
         "name": "Kay Jackson",
         "type": "person",
-        "identity": "Hypothetical name of the letter's author; no additional information provided about her in the text."
+        "identity": ""
+      },
+      {
+        "name": "Norwalk",
+        "type": "place",
+        "identity": "the place where the letter was written"
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "the state where Norwalk is located"
       }
     ],
-    "elapsed_seconds": 91.1
+    "elapsed_seconds": 8.7
   }
 ]

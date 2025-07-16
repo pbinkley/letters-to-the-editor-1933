@@ -1,181 +1,339 @@
 [
   {
-    "author": "Jack Gilroy",
+    "author": "",
     "address": "",
     "subjects": [
-      "Economy"
+      "Economy",
+      "City Politics"
     ],
-    "summary": "The author argues for the adoption of beer piping systems in place of kegs and bottles, as a more efficient and modern solution. This proposal is aimed at reducing overhead costs for saloon owners by eliminating the need for storage space and pumps, and suggests an installation that includes a metered service with monthly billing.",
+    "summary": "The letter suggests replacing kegs and bottles with a pipe system for delivering beer. The writer argues that this would eliminate much of the overhead and labor involved in serving beer, as well as provide a more sanitary delivery method.",
     "doctype": "letter",
     "text": "WOULD SUBSTITUTE PIPE LINE FOR KEGS AND BOTTLES\n\n To the Editor of The Press: Such devices as kegs and bottles may have done justice to the beer industry of yesterday, but today they suggest something akin to the generator crank of the old telephone. Our new \"suds\" should be piped. Copper-lined tubing could run from the storage vats of the brewery through pumping stations located at strategic spots in its district. The beer would get into the barroom through a meter, be cooled in the ice-coil and run out of the spigot into the tankards, neat as you please. Any saloon proprietor need only outfit his oasis with bar, rail, mugs, cooler, spigot, sawdust and Rops art work-no pumps, store rooms, and other non-productive overhead. The beer technician comes around with the meter, collects a fee, turns on the flow and sends a bill every month. Maybe a quarter-meter could-be worked out for home use. To meet immediate demands breweries might lease city water mains from noon to 5 a. m. and run their lager through the channels using present meters. Beer for baths and shaving might be found novel if not entirely logical. You wouldn't need any soap-suds would be furnished. Jack Gilroy. ",
     "title": "Would Substitute Pipe Line For Kegs And Bottles",
     "word_count": 204,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:36:20",
     "entities": [
-      {
-        "name": "The Press",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "barroom",
-        "type": "place",
-        "identity": ""
-      },
       {
         "name": "Jack Gilroy",
         "type": "person",
         "identity": ""
-      },
-      {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "The letter evidently deals with local affairs in Cleveland, Ohio."
       }
     ],
-    "elapsed_seconds": 46.6
+    "elapsed_seconds": 4.0
   },
   {
     "author": "Charles Watkins",
     "address": "17524 Harland Avenue",
     "subjects": [
-      "Economy",
-      "City Politics"
+      "Economy"
     ],
-    "summary": "The author commends the newspaper's defense of the City-State Free Employment Bureau in light of the economic crisis. They question whether the proposal to dismantle the bureau is an attempt to favor private, fee-collecting employment agencies over the bureau, which serves the unemployed without charge.",
+    "summary": "The author commends The Press for defending the City-State Free Employment Bureau, which he believes is crucial in the current economic conditions. He questions the bureau's maintenance cost, suggesting that it might be an attempt to favor private, fee-collecting employment agencies. He encourages others to write if they share his concern.",
     "doctype": "letter",
     "text": "FROM A FRIEND OF THE BUREAU\n\n To the Editor of The Press: Your paper's vigorous defense of the City-State Free Employment Bureau in the present crisis is certainly highly commendable. Surely under the existing economic conditions this is one of the most essential services that the city can render to its citizens and should be maintained at any cost. The writer wonders whether this is an honest attempt to economize or just a thinly veiled effort to throw business to the \"private, fee-collecting employment agencies\" that exist on the misfortune of the unemployed. If every person who feels as I do about this would take the trouble to write, the battle would be won. Charles Watkins 17524 Harland avenue. ",
     "title": "From A Friend Of The Bureau",
     "word_count": 119,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:36:24",
     "entities": [
-      {
-        "name": "The Press",
-        "type": "organization",
-        "identity": "Local newspaper."
-      },
       {
         "name": "City-State Free Employment Bureau",
         "type": "organization",
-        "identity": ""
+        "identity": "A public employment service provided by the city of Cleveland, Ohio."
       },
       {
-        "name": "Citizens",
-        "type": "group",
-        "identity": "General term for residents of the city."
+        "name": "private, fee-collecting employment agencies",
+        "type": "organization",
+        "identity": "Profit-driven employment agencies that charge fees for job placement services."
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City where the Bureau operates, likely in Ohio."
       },
       {
         "name": "Charles Watkins",
         "type": "person",
-        "identity": ""
+        "identity": "Writer of the letter who advocates for maintaining the City-State Free Employment Bureau."
+      },
+      {
+        "name": "The Press",
+        "type": "publication",
+        "identity": "Local newspaper where the letter was published."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which Cleveland is located, and where the affairs discussed by Charles Watkins are likely to occur."
       }
     ],
-    "elapsed_seconds": 40.4
+    "elapsed_seconds": 7.6
   },
   {
     "author": "J. Coleman",
     "address": "885 E. 128th street.",
     "subjects": [
-      "National Politics",
-      "Media Bias"
+      "National Politics"
     ],
-    "summary": "The author expresses joy about The Cleveland Press's coverage of Father Coughlin and criticizes other news outlets for their silence on the topic, suggesting a possible influence of 'reactionary capitalistic interests'. They praise The Press for upholding progressive thought and liberal values.",
+    "summary": "The author is pleased to see The Cleveland Press covering the Detroit banking situation and particularly Father Charles E. Coughlin. They question the silence of other news journals regarding Coughlin and suggest it might be due to control by reactionary interests. The writer supports The Press for breaking this perceived silence and upholding progressive thought.",
     "doctype": "letter",
     "text": "GLAD TO READ ABOUT FATHER COUGHLIN\n\n To the Editor of The Press: May I express to your newspaper my pleasure at seeing the recent news columns devoted to the Detroit banking situation and in particular to its chief figure-the Rev. Fr. Charles E. Coughlin. It has been a source of irritation and constant wonder to me and to many others as to the reason for the silence, which has been obvious, of the nation's news journals regarding the Rev. Fr. Coughlin. Should the answer for this be control by reactionary capitalistic interests? A newspaper's first duty is to its readers and the ethics of the profession would never allow a continuance of a policy of disregarding one of the country's leading figures of interest and of his noble battle for human rights. Therefore, I am heartily glad to be able to feel that The Cleveland Press by this latest action cannot be classified in any such diabolical category, and that it is upholding the finest traditions of the Scripps-Howard Newspapers, an institution which has always prided itself on being liberal and has always advanced progressive thought. May it always continue to do so. J. Coleman 885 E. 128th street. ",
     "title": "Glad To Read About Father Coughlin",
     "word_count": 199,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 37.2
+    "timestamp": "2025-07-16 11:36:31",
+    "entities": [
+      {
+        "name": "Father Coughlin",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Detroit",
+        "type": "place",
+        "identity": "The letter specifically mentions the Detroit banking situation, indicating that 'Detroit' refers to the city where the banking situation took place."
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "The mention of 'The Cleveland Press' implies that this newspaper is from or about Cleveland, Ohio. However, there's no explicit reference to 'Ohio' in the provided text."
+      },
+      {
+        "name": "Rev. Fr. Charles E. Coughlin",
+        "type": "person",
+        "identity": "This is the name of the individual who is central to the letter's content, a Catholic priest known for his political and social activism in the 1930s."
+      },
+      {
+        "name": "J. Coleman",
+        "type": "person",
+        "identity": "The author of the letter; a resident of Cleveland with an address on E. 128th street."
+      }
+    ],
+    "elapsed_seconds": 8.6
   },
   {
     "author": "Mike M. Sweeney",
     "address": "16516 Claire avenue.",
     "subjects": [
       "City Politics",
-      "National Politics"
+      "Irish Clubs"
     ],
-    "summary": "The letter writer questions the lack of specificity in an article about Irish-American Democratic League clubs in Cuyahoga County, expressing concern that local Irish clubs on the West Side were not mentioned and calling for transparency so interested residents can join. The writer identifies two known clubs but clarifies that they are independent of any league organization, casting doubt on the claim of two newly formed clubs on the West Side.",
+    "summary": "The author questions why the locations and names of two Irish clubs formed on the West Side of Cleveland have not been disclosed by Walter G. O'Donnell, president of the Irish-American Democratic League, and expresses hope that Mr. O'Donnell did not misconstrue his intent. The author mentions the existence of two West Side Irish-American Democratic clubs he is aware of but clarifies that one of them, the West Park club, is not a part of any organization under the league's direction.",
     "doctype": "letter",
     "text": "WHAT ABOUT ALL THESE IRISH CLUBS?\n\n To the Editor of The Press: On March 16, 1933, an article appeared in your paper stating that the Irish-American Democratic League of Cuyahoga County, under the directorship of Walter G. O'Donnell, president of the league, had organized two clubs on the West Side, and that three are in process of formation on the East Side.\n\nAs a strong believer in unity, I believe in organization, and especially if the purpose of the organization is to elevate our Irish race in political and civil life.\n\nI think Mr. O'Donnell should have stated where those two clubs are formed on the West Side and what names they go under, so that the Irish people in that vicinity might have the opportunity to join such clubs if they believe in such organizations.\n\nThere are two Irish-American Democratic clubs formed on the West Side that I am aware of, the West Park and the West Side Irish-American Democratic clubs, located at Lorain avenue and 135th street and Detroit avenue and 101st street, respectively.\n\nI hope Mr. O'Donnell will not misconceive my meaning. I am not insinuating that he has reference to any of the two clubs named above because, as a member of the West Park club, I know we are not a unit of any organization. Mike M. Sweeney 16516 Claire avenue. ",
     "title": "What About All These Irish Clubs?",
     "word_count": 226,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 41.6
+    "timestamp": "2025-07-16 11:36:39",
+    "entities": [
+      {
+        "name": "Walter G. O'Donnell",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Irish-American Democratic League",
+        "type": "organization",
+        "identity": "An Irish-American political organization in Cuyahoga County, Ohio"
+      },
+      {
+        "name": "West Park",
+        "type": "place",
+        "identity": "A specific location referenced as an Irish club on the West Side of Cleveland, Ohio."
+      },
+      {
+        "name": "West Side Irish-American Democratic clubs",
+        "type": "organization",
+        "identity": "A collective reference to two unspecified Irish clubs on the West Side of Cleveland, Ohio."
+      },
+      {
+        "name": "Mike M. Sweeney",
+        "type": "person",
+        "identity": "The author of the letter to the editor"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "A city mentioned as the location where the Irish clubs are located, implying local affairs in Ohio."
+      }
+    ],
+    "elapsed_seconds": 9.4
   },
   {
     "author": "Arthur A. Miller",
     "address": "",
     "subjects": [
-      "Economy",
-      "National Politics"
+      "National Politics",
+      "Economy"
     ],
-    "summary": "The author advocates for the government to manage savings through postal banks, investing them in mortgages and farms to ensure citizens' hard-earned money is safe and to stabilize the economy. Suggests this would eliminate the need for government bonuses, fat dividends, and low-interest loans to influential figures. The proposal would also discourage hoarding of money and prevent foreclosures by enabling mortgage moratoriums when needed.",
+    "summary": "The letter's author, Arthur A. Miller, argues that the handling of time deposits should be a government monopoly. He posits that during profitable times for banks, they opposed government regulation. However, now that they face difficulties, they are calling for governmental assistance. Miller suggests expanding Postal Savings banks to accept unlimited time deposits and invest them in home mortgages and farm operations owned by their occupants. The author proposes a 2% interest rate to encourage safe depositing while those seeking higher returns could use private savings banks. He suggests the government charge no more than 3-3.5% interest on such loans, ensuring depositors' safety and reducing hoarding. Furthermore, he believes this move would prevent foreclosures by allowing temporary moratoriums on mortgages if the government is the mortgagee. Miller concludes that this will eliminate risk for depositors and drive private money lenders from the market.",
     "doctype": "letter",
     "text": "\"THE GOVERNMENT SHOULD BE BANKER\n\n To the Editor of The Press: The banking stampede has demonstrated that the handling of time deposits is a natural government monopoly.\n\nDuring the era of large profits and plentiful dividends the banking fraternity protested loudly against governmental supervision and regulation.\n\nNow, however, they are shouting even more loudly for governmentalhelp to extricate them from the mire of their own troubles. The savings acumulated, by millions of our citizens as a defense against economic insecurity have in almost all instances been won at the price of a lifetime of toil and thrift. These savings are entitled to the greatest safeguards that our government can throw about them. I therefore wish to make the following suggestions: I suggest that our Postal Savings banks be so expanded that they accept time deposits in unlimited amounts and that these deposits be invested in first mortgages on homes occupied by their owners and farms operated by their owners. The present 2 per cent interest rate paid to depositors would be continued, of course, as they would be primarily interested in safeguarding their funds. Those who seek larger returns could patronize private savings banks. The government is under no necessity of paying huge bonuses to officers or making large loans to influential directors. It would be under no pressure to pay fat dividends to stockholders regardless of earnings. It could therefore limit its interest charges on these loans to 3 or 3\u00bd per cent. This would guarantee deposits of those who sought safety and reduce hoarding considerably. It would prevent recurring epidemics of foreclosures, as the government being the mortgagee, could at will declare temporary moratoriums. There would be no cost to the taxpayers, as the interest rates could be adjusted to make the project selfsupporting. Last, but not least, it would drive the \"money changers\" out of a substantial part of the \"temple\" and fear out of the hearts of depositors. Arthur A. Miller. ",
     "title": "\"The Government Should Be Banker",
     "word_count": 343,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:36:48",
     "entities": [
       {
+        "name": "",
+        "type": "",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "publication",
+        "identity": "the newspaper where the letter was printed"
+      },
+      {
+        "name": "Government",
+        "type": "institution",
+        "identity": "the entity capable of handling time deposits as a monopoly"
+      },
+      {
+        "name": "banking fraternity",
+        "type": "organization",
+        "identity": "the banking sector protesting against governmental supervision and regulation"
+      },
+      {
+        "name": "citizens",
+        "type": "person",
+        "identity": "the general public who have accumulated savings"
+      },
+      {
+        "name": "Postal Savings banks",
+        "type": "institution",
+        "identity": "the suggested expanded government-run banking system"
+      },
+      {
+        "name": "first mortgages",
+        "type": "financial instrument",
+        "identity": "mortgages on homes occupied by their owners and farms operated by them"
+      },
+      {
+        "name": "private savings banks",
+        "type": "institution",
+        "identity": "alternative for those seeking larger returns"
+      },
+      {
+        "name": "officers",
+        "type": "person",
+        "identity": "officials within the government who might receive bonuses"
+      },
+      {
+        "name": "directors",
+        "type": "person",
+        "identity": "influential individuals to whom large loans might be made"
+      },
+      {
+        "name": "stockholders",
+        "type": "organization",
+        "identity": "owners of the banking institutions demanding fat dividends"
+      },
+      {
+        "name": "taxpayers",
+        "type": "person",
+        "identity": "general public who might be burdened by costs"
+      },
+      {
+        "name": "money changers",
+        "type": "conceptual entity",
+        "identity": "the term used to describe the private banking sector being criticized"
+      },
+      {
         "name": "Arthur A. Miller",
-        "type": "author",
-        "identity": "The letter's author"
+        "type": "person",
+        "identity": "author of the letter"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "the city where the letter's context suggests it pertains to local affairs, although 'Ohio' is not explicitly mentioned in the provided text."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "if the letter is addressing state-level affairs, which is not clear from the provided excerpt."
       }
     ],
-    "elapsed_seconds": 55.0
+    "elapsed_seconds": 17.4
   },
   {
     "author": "Joe Didolce",
-    "address": "12328 Ashbury Avenue",
+    "address": "12328 Ashbury avenue.",
     "subjects": [
       "National Politics",
       "Economy"
     ],
-    "summary": "The letter expresses discontent over the government's apparent favoritism towards bankers while small home-owners and the unemployed are left without adequate support. It highlights the need for increased wages as a path to prosperity and happiness.",
+    "summary": "The author questions why the government prioritizes the rescue of bankers over helping small home-owners and the unemployed, pointing out the lack of information about wage increases despite job recovery.",
     "doctype": "letter",
     "text": "PROSPERITY AND PAY\n\n To the Editor of The Press: Our government has come to the rescue of the bankers. The bankers and government seem to be in partnership. How about the small home-owners and the unemployed? It seems that we get plenty of air. In the daily newspapers one can read reports of how many go back to work but they do not say anything about the wages. The return of prosperity and happiness depends on good pay to the masses. Joe Didolce 12328 Ashbury avenue.",
     "title": "Prosperity And Pay",
     "word_count": 89,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:37:05",
     "entities": [
       {
-        "text": "PROSPERITY AND PAY",
-        "type": "theme",
+        "name": "Joe Didolce",
+        "type": "person",
         "identity": ""
       },
       {
-        "text": "Our government",
-        "type": "organization_or_band",
-        "identity": "The United States Government, likely referencing the administration of the time"
+        "name": "government",
+        "type": "organization",
+        "identity": ""
       },
       {
-        "text": "bankers",
-        "type": "group",
-        "identity": "Financial sector professionals in the 1930s"
-      },
-      {
-        "text": "To the Editor of The Press:",
-        "type": "recipient",
-        "identity": "The Editor of The Press, hypothetical name"
-      },
-      {
-        "text": "Cleveland",
-        "type": "place_name",
-        "identity": "A city, likely Cleveland, Ohio"
-      },
-      {
-        "text": "Ohio",
-        "type": "state",
-        "identity": "The state where Cleveland is located"
-      },
-      {
-        "text": "Joe Didolce",
+        "name": "bankers",
         "type": "person",
-        "identity": "Hypothetical name of a citizen expressing concern in the letter"
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "The text mentions '12328 Ashbury avenue,' which suggests a local affair, hence including 'Cleveland' as the place name."
+      },
+      {
+        "name": "Press",
+        "type": "organization",
+        "identity": "The letter is addressed to 'The Editor of The Press', indicating this newspaper."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "Although not explicitly mentioned, since the letter mentions local affairs and addresses a newspaper from the 1930s in Ohio (Cleveland), it is reasonable to infer 'Ohio' as the state context."
+      },
+      {
+        "name": "small home-owners",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "unemployed",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "masses",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "prosperity",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "name": "happiness",
+        "type": "concept",
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 46.8
+    "elapsed_seconds": 10.5
   }
 ]

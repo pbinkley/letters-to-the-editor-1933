@@ -4,232 +4,275 @@
     "address": "",
     "subjects": [
       "City Politics",
-      "Library"
+      "Economy"
     ],
-    "summary": "The author, Nina Grundman, writes to urge the editor of The Press to support a campaign to preserve the library system in Cleveland. She explains how the lack of employment has made books and music through the library the primary form of recreation for her and others. The letter also points out that closing branch libraries would disproportionately affect the unemployed and children who rely on them due to cost constraints, and emphasizes the importance of saving all libraries, not just the main one.",
+    "summary": "The letter calls for action to prevent the closure of Cleveland's library system due to the economic hardships caused by her husband's prolonged unemployment. It argues against closing all but the main library, noting that branch libraries serve a significant portion of the community, especially children and the unemployed. The author expresses concern that people like her family would be left without access to reading materials without the library and questions the priority given to the beer bill over this issue.",
     "doctype": "letter",
     "text": "URGES CAMPAIGN TO PRESERVE THE LIBRARY\n\nLetters to the Editor-\n\nTo the Editor of The Press: Won't you please get behind a movement to save our library system? It is even more necessary in these times than in good times.\n\nMy husband has been without a job for over two years and the library supplies us with books and music which are the only forms of recreation we have. We'd go insane (or Socialist) if we couldn't get reading material. Furthermore keeping only the main library open as has been suggested would not be doing much good because 66 per cent of the books circulated are through the branch libraries. The unemployed and the children who use the neighborhood libraries cannot spend 20 cents for carfare every time they need books.\n\nYou can spare lots of room in your pages for news of the beer bill, which is undoubtedly important, but there are a good many people in Cleveland who would rather have books than beer.\n\nYour paper makes public opinion and this move to make our Ohio legislators give the libraries of the state their fair share of the new tax in intangibles will be a success if The Press uses its influence and emphasizes the fact that the library has reached the end and must close in June if something is not done very soon. Nina Grundman. ",
     "title": "Urges Campaign To Preserve The Library",
     "word_count": 229,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [],
-    "elapsed_seconds": 44.3
+    "timestamp": "2025-07-16 11:33:57",
+    "entities": [
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Nina Grundman",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "The letter evidently deals with local affairs, so 'Cleveland' is mentioned."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "Since the issue pertains to the state library system and is addressed to Ohio legislators, 'Ohio' should be included."
+      },
+      {
+        "name": "library system",
+        "type": "organization",
+        "identity": "The library system in general."
+      },
+      {
+        "name": "books",
+        "type": "generic",
+        "identity": ""
+      },
+      {
+        "name": "music",
+        "type": "generic",
+        "identity": ""
+      },
+      {
+        "name": "",
+        "type": "generic",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 9.0
   },
   {
     "author": "Edward V. Cook",
     "address": "14525 Alger road.",
     "subjects": [
       "City Politics",
-      "National Politics"
+      "State Politics"
     ],
-    "summary": "The authors question the unilateral decision by Mr. Stinchcomb to close Rocky River fishing, arguing that it is arbitrary, discriminatory, and contrary to established laws. They assert that the ruling negatively impacts local fishermen while providing no direct benefit to the park system or broader fishing community, as migratory fish return to Lake Erie after spawning.",
+    "summary": "The authors question the arbitrary decision to close Rocky River fishing, arguing that it discriminates against local fishermen and has no direct benefit for Cleveland's Metropolitan Park system or its larger population. They argue against the closure based on lack of proof that bass return to spawn where they were spawned and emphasize that the closure disproportionately affects those without financial means to fish elsewhere.",
     "doctype": "letter",
     "text": "FISHERMEN PROTEST CLOSING OF RIVERS\n\n To the Editor of The Press: The writers of this letter to you represent thousands of fishermen, taxpayers and voters, who desire to bring forth another side of Mr. Stinchcomb's order closing Rocky River fishing.\n\nThis, to us, seems arbitrary and discriminatory. Regardless of the merits or demerits of spring fishing in general, it is a fact that the state of Ohio did riot make it illegal to fish until May 1. Mr. Stinchcomb's ruling represents his own personal opinion and perhaps that of some other fishermen who do not exactly understand the true conditions. We, who fish Rocky River particularly, are most seriously affected by this ruling.\n\nIt is an obvious fact that even if this stream were closed, it would be of no direct benefit to the Metropolitan Park system, or to the fishermen of Cleveland at large. It would rather be a benefit to those people outside Cleveland who own property bordering migratory streams flowing into Lake Erie. Migratory streams, as you know, are streams which fish use during the spawning season and from which, at the completion of spawning, they return whence they came. Rocky River is one of these streams, and the fish that use it are products of Lake Erie. At the close of the spawning season they return either to the islands or to similar reefs in the lake.\n\nRegarding the \"slaughter of fish\" to t which Mr. Stinchcomb refers, that e was due entirely to the faulty construction of the concrete ramp t across the river, which did not permit the fish to pass. Thanks to Mr. e Stinchcomb, this has been corrected, and the fish now have at least the same chance as they have in other rivers.\n\nThe idea, then, of not permitting Cleveland people to fish in their own public park in order to help the fishermen of Sandusky, Huron, Erie. Vermilion, etc., seems to us discriminatory, inasmuch as it has 1 yet to be proven that bass return to spawn where they themselves were spawned.\n\nIf it were a general thing throughout the state to close all streams to spring fishing, you would find us among the most willing to co-operate. Under the circumstances, however, we are naturally unwilling to be deprived of the sport which our own money helps to buy and maintain.\n\nYou doubtless know that property owners along the nearby migratory streams make a charge, usually 50 cents, for the privilege of fishing from their land. That is fine for those who have the 50 cents and the price of getting there, but how about those who don't have it? Why are they to be penalized by one man's well-meaning but futile gesture? Edward V. Cook 14525 Alger road. Harry Carlson 7925 Colgate avenue. ",
     "title": "Fishermen Protest Closing Of Rivers",
     "word_count": 467,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:34:06",
     "entities": [
       {
         "name": "Mr. Stinchcomb",
         "type": "person",
-        "identity": "Cleveland mayor or similar authoritative figure based on the context of the letter."
-      },
-      {
-        "name": "Rocky River",
-        "type": "place",
-        "text": "Rocky River",
-        "identity": "River in Ohio, likely the one mentioned as being closed to fishing. It's a migratory stream noted for its fish population connected to Lake Erie."
-      },
-      {
-        "name": "Cleveland people",
-        "type": "person",
-        "identity": "Citizens of Cleveland who fish in public parks."
-      },
-      {
-        "name": "Metropolitan Park system",
-        "type": "organization",
-        "identity": "Public park system managed by the city or state authorities. Likely located in or around Cleveland, Ohio."
-      },
-      {
-        "name": "Sandusky, Huron, Erie, Vermilion",
-        "type": "place",
-        "text": [
-          "cities"
-        ],
-        "identity": "Cities mentioned as locations for fishermen who might benefit from the reopening of Rocky River. These are likely towns within Ohio that border migratory streams flowing into Lake Erie."
+        "identity": ""
       },
       {
         "name": "Edward V. Cook",
         "type": "person",
-        "identity": "Author or co-signatory of the letter."
+        "identity": "14525 Alger road"
       },
       {
         "name": "Harry Carlson",
         "type": "person",
-        "identity": "Another author or co-signatory of the letter."
+        "identity": "7925 Colgate avenue."
       },
       {
-        "name": "Mr. Cook",
+        "name": "Cleveland people",
         "type": "person",
-        "identity": "Author or co-signatory Edward V. Cook."
+        "identity": "those who fish Rocky River particularly"
       },
       {
-        "name": "Harry Carlson",
-        "type": "person",
-        "identity": "Author or co-signatory Harry Carlson."
+        "name": "Rocky River",
+        "type": "place",
+        "identity": ""
+      },
+      {
+        "name": "Metropolitan Park system",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Sandusky, Huron, Erie, Vermilion",
+        "type": "place",
+        "identity": [
+          "towns"
+        ]
+      },
+      {
+        "name": "Lake Erie",
+        "type": "body_of_water",
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 100.0
+    "elapsed_seconds": 9.1
   },
   {
-    "author": "",
+    "author": "Mrs. E.",
     "address": "",
     "subjects": [
       "State Politics",
-      "National Politics"
+      "Economy"
     ],
-    "summary": "The author expresses grave concerns regarding the treatment of Spanish American War veterans by the U.S. government. They highlight issues such as inadequate food supply and unsanitary conditions during service, leading to high rates of illness among the soldiers. The letter states that many veterans have suffered disproportionately compared to civilian populations. Furthermore, the letter points out the lack of adequate proof on discharge papers for service-related disabilities, which makes it difficult for veterans to receive the benefits they are entitled to.",
+    "summary": "The letter critiques the poor treatment and neglect shown towards veterans of the Spanish-American War, emphasizing the high mortality rates among these veterans compared to civilian actuarial figures and the lack of adequate proof for disability claims due to inadequate medical records at the time of discharge.",
     "doctype": "letter",
     "text": "PRESUMING DISABILITY\n\n To the Editor of The Press:\n\nMen of the Seventh Army Corps (Spanish American War), were half starved for one year. What littie food they had was mostly unfit for human consumption. In this the government was criminally negligent.\n\nMen of the Seventh Corps campede on swampy ground near Jacksonville for four months, until practically three-fourths of them were ill with typhoid, malaria and intestinal diseases. Then, after the damage was done, they were moved to higher ground. This constituted criminal neglect by the government.\n\nDoubtless other units of the army had the same experience.\n\nNumber of deaths of Spanish War veterans in past 34 years exceeds insurance actuarial figures for civilians by 50 per cent.\n\nPresent death rate of Spanish War veterans exceeded actuarial figsures for civilians of same age by 70 per cent.\n\nPresumption of Spanish War veterans' disabilities being due to service is, in view of these facts, only fair.\n\nSpanish War veterans whose disabilities are due to and connected with service, because of bad food, fever infested camps and other obvious conditions-just as directly service-connected as though they had been wounded by bullets, have positively no way to prove that their disability is service connected.\n\nMedical inspection at time of muster out was cursory. Yet, in order to prove service connection, one must have the evidence on his discharge papers. Dr. Clement B. Edgar ",
     "title": "Presuming Disability",
     "word_count": 237,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:34:15",
     "entities": [
       {
         "name": "Men of the Seventh Army Corps",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "Seventh Army Corps",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "government",
-        "type": "institution",
+        "type": "person",
         "identity": ""
       },
       {
         "name": "Seventh Corps",
         "type": "organization",
-        "identity": ""
+        "identity": "7th Army Corps"
       },
       {
         "name": "Jacksonville",
         "type": "place",
-        "identity": "City, Florida"
+        "identity": "city in Florida, USA"
       },
       {
-        "name": "Dr. Clement B. Edgar",
+        "name": "Clement B. Edgar",
         "type": "person",
         "identity": ""
+      },
+      {
+        "name": "government",
+        "type": "organization",
+        "identity": "United States Federal Government"
+      },
+      {
+        "name": "Spanish War veterans",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "death rate",
+        "type": "numeric",
+        "identity": "Statistical measure comparing the number of deaths among Spanish War veterans to civilians of the same age"
+      },
+      {
+        "name": "actuarial figures",
+        "type": "numeric",
+        "identity": "Insurance company calculations for expected mortality rates"
+      },
+      {
+        "name": "Spanish War",
+        "type": "conflict",
+        "identity": "War with Spain, 1898-1902"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City in Ohio, USA (if the letter deals with state affairs)"
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State of Ohio, USA (if the letter deals with state affairs)"
       }
     ],
-    "elapsed_seconds": 60.8
+    "elapsed_seconds": 11.2
   },
   {
     "author": "",
     "address": "",
     "subjects": [
-      "City Politics",
-      "Education"
+      "City Politics"
     ],
-    "summary": "The letter questions the rationale behind targeting married teachers for dismissal and calls for a more thorough investigation rather than hasty decisions.",
+    "summary": "The letter questions the decision by School Board headquarters to dismiss married teachers, calling for a systematic investigation rather than hasty actions without solid grounds.",
     "doctype": "letter",
     "text": "WHY MARRIED WOMEN ONLY?\n\n To the Editor of The Press:\n\nThere has been much unsatisfactory talk at School Board headquarters about dismissing married teachers. Where can this lead?\n\nWhy don't the leaders start systematically to investigate the situation instead of catching at loose ends simply for something to talk",
     "title": "Why Married Women Only?",
     "word_count": 54,
+    "service": "ollama",
     "model": "olmo2",
-    "entities": [
-      {
-        "name": "School Board headquar-",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "married teach-",
-        "type": "person",
-        "identity": "teachers presumably mentioned in the letter"
-      },
-      {
-        "name": "leaders",
-        "type": "person",
-        "identity": "presumably decision-makers or officials referred to in the letter"
-      },
-      {
-        "name": "The Press",
-        "type": "publication",
-        "identity": "name of the newspaper in which the letter is published"
-      },
-      {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "if the letter deals with local affairs"
-      },
-      {
-        "name": "",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "name": "WHY MARRIED WOMEN ONLY?",
-        "type": "title",
-        "identity": "the title of the letter, possibly a rhetorical question posed by the author"
-      },
-      {
-        "name": "there has been much unsatisfac-",
-        "type": "phrase",
-        "identity": ""
-      },
-      {
-        "name": "School Board",
-        "type": "organization",
-        "identity": "the specific board referred to in the letter"
-      }
-    ],
-    "elapsed_seconds": 51.3
+    "timestamp": "2025-07-16 11:34:26",
+    "entities": [],
+    "elapsed_seconds": 3.9
   },
   {
     "author": "H. L. Jones",
     "address": "",
     "subjects": [
-      "City Politics"
+      "City Politics",
+      "Economy"
     ],
-    "summary": "The letter expresses frustration about the uneven distribution of salary cuts among employees and the city officials in Cleveland Heights. The author highlights how Mayor Frank C. Cain's salary increased despite the city's financial strain, which they believe should prompt public outrage.",
+    "summary": "The author is dissatisfied with the unequal pay cuts across different roles in Cleveland Heights, particularly highlighting the disparity between the mayor's compensation and the 40% garbage service reduction without a corresponding 40% salary cut for 'Official Family' and other employees. They call for public action to correct this imbalance.",
     "doctype": "letter",
     "text": "WANTS PAY CUT MORE, GARBAGE CUT LESS\n\n To the Editor of The Press:\n\nWe read in the Cleveland Heights Press \"The garbage collections in Cleveland Heights have been cut down from 10 to 6 routes.\"\n\nThe announcement of this wonderful reduction by 40 per cent of the garbage service by City Manager Harry Canfield and a statement by Mayor Frank C. Cain, to the effect that the city will save at least $15,000, should justly entitle them to the front page publicity they did receive, were it not for the fact that the \"Official Family\" and other employees have only taken a 20 per cent cut.\n\nHow pleasant it would have been, could all the other employees and taxpayers in Cleveland Heights have had the experience of our mayor. In 1929 his salary was $3600, in the fall of that year after the \"crash,\" the Council voted to increase his compensation beginning Jan. 1, 1930 to $6000 per annum, later, when the cut of 20 per cent was put into effect he received $1200 more than he did in the most \"foolish year\" in our history.\n\nSurely it is time for the smothering \"Fire of Wrath\" in Cleveland Heights to spring forth in the open, that this \"city on the hill\" may become such in fact as well as in name. H. L. Jones. ",
     "title": "Wants Pay Cut More, Garbage Cut Less",
     "word_count": 224,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:34:29",
     "entities": [
       {
-        "text": "Harry Canfield",
+        "name": "Harry Canfield",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Mayor Frank C. Cain",
+        "name": "Frank C. Cain",
         "type": "person",
-        "identity": ""
+        "_id": "mayor"
       },
       {
-        "text": "City Manager",
+        "name": "Mayor",
         "type": "office",
-        "identity": ""
+        "_id": "city_mayor"
       },
       {
-        "text": "Cleveland Heights Press",
+        "name": "Cleveland Heights Press",
         "type": "organization",
-        "identity": ""
+        "_id": "newspaper"
       },
       {
-        "text": "Cleveland Heights",
+        "name": "Cleveland Heights",
         "type": "place",
-        "identity": "city"
+        "identity": "City"
+      },
+      {
+        "name": "city",
+        "type": "general",
+        "_id": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Ohio"
+      },
+      {
+        "name": "Official Family",
+        "type": "organization",
+        "_id": "official_family"
+      },
+      {
+        "name": "H. L. Jones",
+        "type": "person",
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 48.6
+    "elapsed_seconds": 11.1
   },
   {
     "author": "Louis Lingelbach",
@@ -237,13 +280,15 @@
     "subjects": [
       "National Politics"
     ],
-    "summary": "The letter argues that the future of the country is in the hands of its young people, who possess immense energy and ambition to drive the nation forward. The writer expresses optimism that the 'Young America' will prevent the country from regressing.",
+    "summary": "The letter highlights the potential and energy of young Americans, emphasizing their role as the future of the country. The author expresses optimism about the nation's prospects due to this youthful vigor and productivity.",
     "doctype": "letter",
     "text": "YOUNG AMERICA IS OUR FUTURE\n\nTo the Editor of The Press:\n\nI have often wondered how many people realize the stored up energy in our young people, especially in those who have a desire to accomplish something. Those young people have not only the willingness to go to work but to do big things that are hidden in their minds, they will get their opportunity in the near future. We do not have to fear and worry about our country going backwards. There are not only food and products stored away but energy in people, especially our young people, to do great things. Young America is the future of our country, their energy will not be lost and all will benefit by it. Louis Lingelbach",
     "title": "Young America Is Our Future",
     "word_count": 125,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:34:40",
     "entities": [],
-    "elapsed_seconds": 28.7
+    "elapsed_seconds": 2.9
   }
 ]

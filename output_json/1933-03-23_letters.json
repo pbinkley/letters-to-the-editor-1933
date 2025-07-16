@@ -1,428 +1,189 @@
 [
   {
-    "author": "Mayor Bain of Fairview",
+    "author": "\u00a0",
     "address": "",
     "subjects": [
-      "City Politics",
-      "State Politics",
-      "National Politics"
+      "City Politics"
     ],
-    "summary": "The author, Mayor of Fairview, expresses concern over proposed legislation in Columbus, Ohio, that aims to provide tax relief primarily for rural taxpayers and areas while neglecting municipalities. Despite having representatives in the Legislature, municipalities are not adequately represented, leading to unfair distribution of tax relief. The author argues for a fairer approach that includes relief for municipalities alongside that for rural districts.",
+    "summary": "The author argues against proposed refund bills targeting rural taxpayers, lamenting the lack of representation for municipalities in Columbus. They express concern over special interest-driven legislation that could result in higher taxes for urban residents without equitable relief measures.",
     "doctype": "letter",
     "text": "MAYOR BAIN OF FAIRVIEW WARNS AGAINST REFUND BILLS\n\n -Letters to the Editor-\n\nTo the Editor of The Press: Do you know that in Columbus this coming week there is some legislation to be considered and probably passed which will relieve the rural taxpayer and let the rest of us out of the picture?\n\nNo. Most of you are too busy with your own personal affairs just now to be bothered much with the doings of the Legislature and did we not just turn this over to our representatives at Columbus to handle for us?\n\nThe road interests, rural districts and representatives of farmers' groups know that the majority of our citizens are prone to forget all about these little matters after the election is over, but do they forget?\n\nNo, absolutely not. They pay lawyers to draw up bills which only help their own particular case. They go down to Columbus while the Legislature is in session and lobby these selfish bills through. They have money to work with.\n\nWho goes to Columbus to represent the municipalities? Nobody. Why should we send anyone, haven't we got our representatives? Yes, we have, but these men are pressured to vote for these bills while we sit back and hope something will happen that might help us out.\n\nI realize that the rural districts need to be relieved, but why not be fair about this thing and let everyone participate in this belief?\n\nThe reason is that nobody has presented a bill to the Legislature which even mentions relief to a municipality, so how can we expect to get any satisfaction out of a situation such as this?\n\nAs I understand it, there are three bills which are being considered, one the Eickenberry bill, which is the most vicious of all and has $100,000 back of it, which would rebate all special assessments paid on state and county roads in rural districts only, which would amount to one-quarter billion dollars.\n\nAnother is the Armbruster bill, which would relieve the assessments to abutting property by issuing bonds on long terms and reassessing the cost over the entire county.\n\nThe third is the so-called McNamee bill, which was written by a representative of a group of farmers. This bill provides for the diversion of a portion of the gas tax and allowing the county to reassess for road purposes up to the amount of 2 mills, which is allowable by law. The power is entirely vested in the county commissioners to relieve those roads which they feel need this relief.\n\nAll of this legislation means more taxes to those who live in municipalities. Why wouldn't it have been possible to figure out a bill to relieve municipalities as well as rural districts?\n\nWhat are we, the untouchables? Some of these people were against the 1-mill levy. As I see it, the 1-mill levy is only cigaret money along side of this.\n\nAgain I say that the rural districts need relief from taxation, but give us all a share of this relief.\n\nThis problem presents itself in different ways in these communities. Some of these communities have only state or county roads that are imLEGAL RESERVE",
     "title": "Mayor Bain Of Fairview Warns Against Refund Bills",
     "word_count": 530,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:32:44",
     "entities": [
       {
-        "name": "BAIN",
-        "type": "Person",
-        "identity": "Mayor of Fairview"
-      },
-      {
         "name": "Columbus",
-        "type": "Place",
-        "identity": "Capital city of Ohio"
-      },
-      {
-        "name": "legislation",
-        "type": "General",
-        "identity": ""
-      },
-      {
-        "name": "Eickenberry bill",
-        "type": "Bill",
-        "identity": "Specific bill mentioned"
-      },
-      {
-        "name": "Armbruster bill",
-        "type": "Bill",
-        "identity": "Specific bill mentioned"
-      },
-      {
-        "name": "McNamee bill",
-        "type": "Bill",
-        "identity": "Specific bill mentioned"
-      },
-      {
-        "name": "rural taxpayer",
-        "type": "General",
-        "identity": ""
-      },
-      {
-        "name": "municipalities",
-        "type": "General",
-        "identity": ""
-      },
-      {
-        "name": "Cleveland",
-        "type": "Place",
-        "identity": "If the letter is specifically about local affairs in Cleveland, Ohio."
-      },
-      {
-        "name": "representatives",
-        "type": "Person",
-        "identity": "Members of the Legislature"
-      },
-      {
-        "name": "road interests",
-        "type": "Organization",
-        "identity": ""
-      },
-      {
-        "name": "rural districts",
-        "type": "Place",
-        "identity": ""
-      },
-      {
-        "name": "farmers' groups",
-        "type": "Organization",
-        "identity": ""
-      },
-      {
-        "name": "taxpayer",
-        "type": "General",
-        "identity": ""
+        "type": "location",
+        "identity": "Capital city mentioned as the location where legislation is being considered and passed."
       },
       {
         "name": "Legislature",
-        "type": "Organization",
-        "identity": "Ohio State Legislature"
-      },
-      {
-        "name": "Cigaret",
-        "type": "Miscellaneous",
-        "identity": "Metaphor for the 1-mill levy"
-      }
-    ],
-    "elapsed_seconds": 116.5
-  },
-  {
-    "author": "R. J. Ferriman",
-    "address": "932 Leader Building.",
-    "subjects": [
-      "Economy"
-    ],
-    "summary": "The author, R. J. Ferriman, critiqued columnist John W. Love for attempting to discredit the stability of Legal Reserve Life Insurance in light of temporary restrictions on loan and cash surrender privileges by some state insurance departments. They argue that life insurance has proven to be a stable investment during the four-year depression, contrary to Love's claims, and that it has continued to pay billions to policyholders despite other financial institutions failing. Ferriman suggests that Love should look for another angle to support his criticisms.",
-    "doctype": "letter",
-    "text": "LIFE INSURANCE\n\n To the Editor of The Press! To one who religiously reads the columnists\u2019 \u201cstuff\u201d in our daily press, there has seemed to be no more pathetic figure than the columnist who day by day has tried to forecast events in our changing economic society.\n\nFrom ardent defenders of the gold standard, over night these writers have endeavored to gracefully reverse their stand and hop aboard the flexible currency band wagon. As former defenders of rugged individualism they are now preaching the gospel of social consciousness.\n\nCleveland\u2019s own John W. Love in the March 15 issue of your paper is again groping for a peg on which to hang his hat. This time, good old Legal Reserve Life Insurance takes the rap. Mr. Love would lead the public to believe that cash values and investment through life insurance, after 150 years of successful performance, is on the way out of our capitalistic society simply because some of the state insurance departments have as a precautionary measure temporarily restricted the loan and cash surrender privileges. He apparently does not know that afterfour years of deflation that out of approximately 420 Legal Reserve Life Insurance companies a negligible number have had to in any way restrict their loans and surrenders even though life insurance is not intended to function as a banking institution but rather as a long-time permanent investment plan. Notwithstanding this fact, in the last four years Legal Reserve Life Insurance has paid billions of dollars to people who were left stranded financially by other investment institutions.\n\nThe writer sees many shortcomings in our capitalistic society, yet out of the wreckage caused by four depression years Legal Life Insurance stands as the one institution that has not failed its investors in this great emergency.\n\nBetter look for another peg for your hat, Mr. Love.\n\nR. J. Ferriman 932 Leader Building. ",
-    "title": "Life Insurance",
-    "word_count": 311,
-    "model": "olmo2",
-    "entities": [
-      {
-        "name": "John W. Love",
-        "type": "person",
-        "identity": "Cleveland's own columnist mentioned by R. J. Ferriman"
-      },
-      {
-        "name": "Legal Reserve Life Insurance",
         "type": "organization",
-        "identity": "State insurance department restrictions on loans and cash surrenders"
+        "identity": "Ohio state legislature"
+      },
+      {
+        "name": "Eickenberry bill",
+        "type": "bill",
+        "identity": "Specific piece of legislation that is discussed negatively for rebating special assessments on state and county roads in rural districts."
+      },
+      {
+        "name": "Armbruster bill",
+        "type": "bill",
+        "identity": "Another piece of legislation mentioned that provides relief by issuing bonds and reassessing costs."
+      },
+      {
+        "name": "McNamee bill",
+        "type": "bill",
+        "identity": "A specific bill authored by a representative of farmers' groups, providing relief through the diversion of gas tax funds."
+      },
+      {
+        "name": "rural taxpayer",
+        "type": "person",
+        "identity": "Taxpayers living outside urban areas who are mentioned as seeking tax relief."
+      },
+      {
+        "name": "municipalities",
+        "type": "location",
+        "identity": "Cities and towns which are concerned about receiving insufficient relief from taxation compared to rural districts."
+      },
+      {
+        "name": "state",
+        "type": "organization",
+        "identity": "The governmental entity in which Ohio is a part, presumed since the letter mentions Columbus, the capital, and state affairs."
+      },
+      {
+        "name": "road interests",
+        "type": "group",
+        "identity": "A collective term for those with vested interests in road development or maintenance."
+      },
+      {
+        "name": "rural districts",
+        "type": "location",
+        "identity": "Geographical area typically outside city limits where special assessments on roads are a concern."
+      },
+      {
+        "name": "farmers' groups",
+        "type": "organization",
+        "identity": "Organizations representing farmers' interests, presumably including those lobbying for tax relief."
+      },
+      {
+        "name": "representatives",
+        "type": "person",
+        "identity": "Elected officials in Columbus who are pressured to vote for specific bills."
       },
       {
         "name": "The Press",
         "type": "organization",
-        "identity": "Newspaper where the letter is published"
+        "identity": "Name of the newspaper where this letter was published."
+      },
+      {
+        "name": "Editor",
+        "type": "role",
+        "identity": "The person who oversees letters to the editor in the publication 'The Press'."
+      }
+    ],
+    "elapsed_seconds": 14.8
+  },
+  {
+    "author": "R. J. Ferriman",
+    "address": "932 Leader Building",
+    "subjects": [
+      "City Politics",
+      "National Politics",
+      "Economy"
+    ],
+    "summary": "The author, R.J. Ferriman, criticizes a columnist, John W. Love, for allegedly misrepresenting the stability and reliability of Legal Reserve Life Insurance in the face of economic challenges. Ferriman argues that despite Love's dire predictions based on temporary restrictions imposed by state insurance departments, Legal Reserve Life Insurance has been a reliable institution that has not failed its investors during the Great Depression.",
+    "doctype": "letter",
+    "text": "LIFE INSURANCE\n\n To the Editor of The Press! To one who religiously reads the columnists\u2019 \u201cstuff\u201d in our daily press, there has seemed to be no more pathetic figure than the columnist who day by day has tried to forecast events in our changing economic society.\n\nFrom ardent defenders of the gold standard, over night these writers have endeavored to gracefully reverse their stand and hop aboard the flexible currency band wagon. As former defenders of rugged individualism they are now preaching the gospel of social consciousness.\n\nCleveland\u2019s own John W. Love in the March 15 issue of your paper is again groping for a peg on which to hang his hat. This time, good old Legal Reserve Life Insurance takes the rap. Mr. Love would lead the public to believe that cash values and investment through life insurance, after 150 years of successful performance, is on the way out of our capitalistic society simply because some of the state insurance departments have as a precautionary measure temporarily restricted the loan and cash surrender privileges. He apparently does not know that afterfour years of deflation that out of approximately 420 Legal Reserve Life Insurance companies a negligible number have had to in any way restrict their loans and surrenders even though life insurance is not intended to function as a banking institution but rather as a long-time permanent investment plan. Notwithstanding this fact, in the last four years Legal Reserve Life Insurance has paid billions of dollars to people who were left stranded financially by other investment institutions.\n\nThe writer sees many shortcomings in our capitalistic society, yet out of the wreckage caused by four depression years Legal Life Insurance stands as the one institution that has not failed its investors in this great emergency.\n\nBetter look for another peg for your hat, Mr. Love.\n\nR. J. Ferriman 932 Leader Building. ",
+    "title": "Life Insurance",
+    "word_count": 311,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:32:58",
+    "entities": [
+      {
+        "name": "John W. Love",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Legal Reserve Life Insurance",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "The city where the columnist 'R. J. Ferriman' writes from."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "The state in which Cleveland is located, mentioned in the context of economic affairs."
       },
       {
         "name": "R. J. Ferriman",
         "type": "person",
-        "identity": "Author of the letter to the editor"
+        "identity": "The author of the letter to the editor."
       }
     ],
-    "elapsed_seconds": 70.8
+    "elapsed_seconds": 8.3
   },
   {
     "author": "A. A. Wood",
     "address": "Untonville, O.",
     "subjects": [
-      "State Politics",
-      "Economy"
+      "Economy",
+      "National Politics"
     ],
-    "summary": "The author advocates for the government to intervene and start factories, arguing that it will help the economy by creating jobs and providing a market for farmers' produce. They suggest a staggered approach to reemployment across the country, backed by a government-instigated installment plan to stimulate spending. Additionally, they express support for returning to pre-depression wage levels and reducing working hours in cases of overproduction.",
+    "summary": "The author urges the government to intervene and restart manufacturing by employing men in factories, arguing that it would stimulate the economy, provide farmers with a market for their goods, and eventually lead to an increase in pay and a decrease in unemployment. They propose a systematic approach where shops start hiring 15% of their men back at a time, with government assistance.",
     "doctype": "letter",
     "text": "GET SHOPS STARTED\n\n To the Editor of The Press: Why doesn't our government do something to get our manufacturers started? Our governmentshould have control of them. Our factories are the key to prosperity. Put the men back in the shops and everybody will start to work. I believe the best way to help the farmer is to start the shops, then he will have a market for his produce. The factories are all waiting for orders, but how can they get them when no one has any money to buy?\n\nI think the only way they can start is to have every shop in the United States begin at one time. With help from the government, I believe this can be done. This will give everyone a chance. Why couldn't they use an installment plan? The government sets a date and on this date every shop in the country should start up by putting 15 per cent of their men back to work. Then in two weeks another 15 per cent and so on until they have their full force.\n\nI also believe that starting this way they could raise their pay back to what it used to be.\n\nThey would begin at eight hours a day, five days a week and it would be a long time before we would have over-production. People need everything and when they get money they are going to buy. And when they get their men all back to work, if they have over-production, instead of laying off men they should cut down their hours per day.\n\nA. A. Wood Untonville, O.",
     "title": "Get Shops Started",
     "word_count": 268,
+    "service": "ollama",
     "model": "olmo2",
+    "timestamp": "2025-07-16 11:33:06",
     "entities": [
       {
-        "text": "editor",
-        "type": "office",
-        "identity": ""
-      },
-      {
-        "text": "government",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "text": "our government",
-        "type": "general",
-        "identity": "the federal or state government mentioned in a general context."
-      },
-      {
-        "text": "manufacturers",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "text": "factories",
-        "type": "place",
-        "identity": "factories in the United States"
-      },
-      {
-        "text": "shops",
-        "type": "general",
-        "identity": "local retail or industrial shops"
-      },
-      {
-        "text": "I",
-        "type": "person",
-        "identity": "the writer of the letter, A.A. Wood"
-      },
-      {
-        "text": "farmer",
+        "name": "A. A. Wood",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "produce",
-        "type": "general",
-        "identity": "agricultural products"
-      },
-      {
-        "text": "The Press",
+        "name": "government",
         "type": "organization",
-        "identity": "the newspaper where the letter is published"
+        "identity": "federal government of the United States"
       },
       {
-        "text": "Cleveland",
+        "name": "prosperity",
+        "type": "abstract concept",
+        "identity": ""
+      },
+      {
+        "name": "shops",
         "type": "place",
-        "identity": "not explicitly mentioned but implied to be relevant due to the reference to 'Untonville, O.' and the local context"
+        "identity": "local retail businesses"
       },
       {
-        "text": "Ohio",
-        "type": "state",
-        "identity": "not explicitly mentioned but potentially relevant given the location reference"
+        "name": "United States",
+        "type": "country",
+        "identity": "nation"
       },
       {
-        "text": "every shop in the United States",
-        "type": "general",
-        "identity": ""
-      },
-      {
-        "text": "government",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "text": "installment plan",
-        "type": "concept",
-        "identity": "a financing method where purchases are paid off over time"
-      },
-      {
-        "text": "A.A. Wood",
-        "type": "person",
-        "identity": "the letter writer's name"
-      },
-      {
-        "text": "Untonville",
+        "name": "factory",
         "type": "place",
-        "identity": "a location likely referring to a town in Ohio, possibly a fictional or less known place."
+        "identity": "industrial production site"
       },
       {
-        "text": "O.",
-        "type": "state",
-        "identity": "likely refers to 'Ohio'}"
-      },
-      {
-        "text": "editor",
-        "type": "office",
+        "name": "Cleveland",
+        "type": "city",
         "identity": ""
-      },
-      {
-        "text": "government",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "text": "our government",
-        "type": "general",
-        "identity": "the federal or state government mentioned in a general context"
-      },
-      {
-        "text": "manufacturers",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "text": "factories",
-        "type": "place",
-        "identity": "factories in the United States"
-      },
-      {
-        "text": "shops",
-        "type": "general",
-        "identity": "local retail or industrial shops"
-      },
-      {
-        "text": "I",
-        "type": "person",
-        "identity": "the writer of the letter, A.A. Wood"
-      },
-      {
-        "text": "farmer",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "produce",
-        "type": "general",
-        "identity": "agricultural products"
-      },
-      {
-        "text": "The Press",
-        "type": "organization",
-        "identity": "the newspaper where the letter is published"
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "not explicitly mentioned but implied to be relevant due to the reference to 'Untonville, O.' and the local context"
-      },
-      {
-        "text": "Ohio",
-        "type": "state",
-        "identity": "potentially relevant given the location reference"
-      },
-      {
-        "text": "every shop in the United States",
-        "type": "general",
-        "identity": "the general concept of all shops in the country"
-      },
-      {
-        "text": "government",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "text": "installment plan",
-        "type": "concept",
-        "identity": "a financing method where purchases are paid off over time"
-      },
-      {
-        "text": "A.A. Wood",
-        "type": "person",
-        "identity": "the letter writer's name"
-      },
-      {
-        "text": "Untonville",
-        "type": "place",
-        "identity": "a location likely referring to a town in Ohio, possibly a fictional or less known place"
-      },
-      {
-        "text": "O.",
-        "type": "state",
-        "identity": "likely refers to 'Ohio'}"
-      },
-      {
-        "entity": {
-          "text": "editor",
-          "type": "office",
-          "identity": ""
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "government",
-          "type": "organization",
-          "identity": ""
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "our government",
-          "type": "general",
-          "identity": "the federal or state government mentioned in a general context"
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "manufacturers",
-          "type": "organization",
-          "identity": ""
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "factories",
-          "type": "place",
-          "identity": "factories in the United States"
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "shops",
-          "type": "general",
-          "identity": "local retail or industrial shops"
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "I",
-          "type": "person",
-          "identity": "the writer of the letter, A.A. Wood"
-        },
-        "identity": "A.A. Wood"
-      },
-      {
-        "entity": {
-          "text": "farmer",
-          "type": "person",
-          "identity": ""
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "produce",
-          "type": "general",
-          "identity": "agricultural products"
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "The Press",
-          "type": "organization",
-          "identity": "the newspaper where the letter is published"
-        },
-        "identity": "The Press"
-      },
-      {
-        "entity": {
-          "text": "Cleveland",
-          "type": "place",
-          "identity": "not explicitly mentioned but implied to be relevant due to the reference to 'Untonville, O.' and the local context"
-        },
-        "identity": ""
-      },
-      {
-        "entity": {
-          "text": "Ohio",
-          "type": "state",
-          "identity": "potentially relevant given the location reference"
-        }
       }
     ],
-    "elapsed_seconds": 205.8
+    "elapsed_seconds": 7.4
   }
 ]
