@@ -187,12 +187,12 @@ for letter in letters:
 
   counter += 1
 
-  print(f"\n\n")
+  print(f"\n")
 
 job_elapsed_seconds = round(time.time() - time.mktime(job_start), 1)
 print(f"  elapsed time: {job_elapsed_seconds} seconds")
 
 # Write to json file
 print(f"Writing to {filename}.json")
-with open(f"output_json/{filename}-{model}-{short_commit_it}.json", "w") as outfile:
+with open(f"output_json/{filename}-{model}-{short_commit_id}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))
