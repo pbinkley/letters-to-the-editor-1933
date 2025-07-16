@@ -1,18 +1,21 @@
 [
   {
     "author": "F. Von Falkenberg",
-    "address": "21745 Lorain Avenue",
+    "address": "",
     "subjects": [
       "City Politics",
       "Economy"
     ],
-    "summary": "The author, F. Von Falkenberg, disavows any involvement in soliciting refunds from taxpayers on a commission basis from certain real estate men and attorneys. As a former executive director of the Cuyahoga County Taxpayers' League, Von Falkenberg emphasizes the league's integrity and moral stance against profiteering on the taxpayers' plight, especially given the established office of the county auditor to assist taxpayers without any cost.",
+    "summary": "The author, F. Von Falkenberg, is responding to real estate men and attorneys soliciting his cooperation in obtaining road refunds for taxpayers on a commission basis. He dismisses this proposition as unethical and dishonest, emphasizing the moral responsibility to help taxpayers without financial gain. As former executive director of the Cuyahoga County Taxpayers' League, Von Falkenberg opposes using his name or the league's reputation for such purposes.",
     "doctype": "letter",
     "text": "WILL NOT SOLICIT REFUNDS ON COMMISSION BASIS\n\nLetters to the Editor-\n\nTo the Editor of The Press: Certain real estate men and at-torneys have recently approached me on the subject of road refunds, according to a recent decision of the Ohio Supreme Court. As former executive director of the Cuyahoga County Taxpayers' League, it would appear that the aforesaid gentlemen would like to have my services in helping them milk the unfortunate taxpayer out of a few more dollars.\n\nThe proposition has been that because I have had extraordinary experience with regard to these matters, that I could \"co-operate\" with them in the very naive manner described by them as follows: That \"we\" could search out the taxpayers who have paid excessive amounts, approach these taxpayers with the promise of getting their refunds on some sort of a commisison or percentage basis.\n\nThe Cuyahoga County Taxpayers' League was formed by some of the best known and certainly some of the most honest men in the county. At their own expense they brought suit for these refunds solely and wholly for the benefit of the people. No one, with the exception of the aforesaid gentlemen, has had the slightest desire to make money on the already unfortunate plight of their fellow taxpayers.\n\nI personally consider such practice wholly unethical, to be polite, and downright dishonest in matter of fact. Because I feel that anyone who is so lacking in moral conception as to use this method of making a few dollars might also use my name of the name of the league in connection therewith, I offer this letter as a warning to all persons who may have refunds coming to them. The office of the county auditor has been established for years to take care of the legitimate needs of the taxpaying public and through my considerable association with this office, I know that the personnel thereof are always willing to help the taxpayer courteously and with no cost. F. Von Falkenberg 21745 Lorain avenue. ",
     "title": "Will Not Solicit Refunds On Commission Basis",
     "word_count": 335,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:35:31",
     "entities": [],
-    "elapsed_seconds": 23.7
+    "elapsed_seconds": 4.7
   },
   {
     "author": "Ann Phillips Heffron",
@@ -24,207 +27,310 @@
       "Economy",
       "World Events"
     ],
-    "summary": "The letter by Ann Phillips Heffron expresses a sentiment against social injustices and cruelty against any race under the American flag. It calls for broader protests to include all oppressed individuals, both in America and worldwide.",
+    "summary": "The letter expresses the author's concern about social injustice and cruelty against African Americans in America, urging readers to consider the broader issue of oppression across various communities.",
     "doctype": "letter",
     "text": "REMEMBER THE OPPRESSED\n\n To the Editor of The Press: A voice of protest raised against any social injustice or wholesale outburst of cruelty against any race is an intensely beautiful gesture be-cause it bespeaks an awareness of that touch of nature which makes the whole world kin. The only regret is that a spirit of protest is not oftener voiced.\n\nHere in America, under the Stars and Stripes, one-sixth of the popu-lation-the dark-skinned Americans are the victims of constant cruelty, but seldom is a protest heard. Here is something for us to think about! Whilst we are under the spell of protest let us enlarge its borders to include all those who live under op-pression-even those in the Ameri-can scene. Ann Phillips Heffron. ",
     "title": "Remember The Oppressed",
     "word_count": 123,
-    "entities": [],
-    "elapsed_seconds": 14.7
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:35:35",
+    "entities": [
+      {
+        "name": "Ann Phillips Heffron",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "America",
+        "type": "place",
+        "identity": "The United States of America"
+      },
+      {
+        "name": "Stars and Stripes",
+        "type": "symbol",
+        "identity": "The American flag, symbolizing the United States."
+      },
+      {
+        "name": "dark-skinned Americans",
+        "type": "person",
+        "identity": "African Americans"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": ""
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "The state in which Cleveland is located, potentially implying local affairs."
+      }
+    ],
+    "elapsed_seconds": 7.4
   },
   {
     "author": "J. H. Clark",
     "address": "20881 Arbor avenue.",
     "subjects": [
       "City Politics",
-      "Economy"
+      "National Politics"
     ],
-    "summary": "The letter argues that instead of protesting against Adolph Hitler's treatment of Jews in Germany, which does not concern the US, American protestors should focus on protecting American miners who are suffering under domestic circumstances. The writer also points out a perceived hypocrisy of protesting foreign mistreatment while ignoring similar issues at home.",
+    "summary": "The author writes to criticize the rabbis and Al Smith for protesting against Hitler's treatment of Jews in Germany when there are domestic issues affecting American miners that need attention.",
     "doctype": "letter",
     "text": "URGES PROTESTS\n\n To the Editor of The Press: \"People who live in glass houses should not throw stones.\" In your paper within the past few days I have read of the insults im-posed on the Jews by Adolph Hitler, recently elected ruler of Germany. As a result the Jews of the United States have called a protest against the treatment of the Jews in Germany.\n\nI think that if the rabbis and Al Smith would make a protest for the protection of the miners in our own United States they would be better off. Hitler is ruling Germany. He doesn't tell the United States what to do, so let's stay in our own backyard.\n\nWhen the Japs went into China and insulted Chinese women and children different organizations here protested against their treatment, but what did they do about it? They put the protestants in jail so what is good for the goose is good for the gander. J. H. Clark 20881 Arbor avenue. ",
     "title": "Urges Protests",
     "word_count": 164,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:35:42",
     "entities": [
       {
-        "text": "Adolph Hitler",
+        "name": "Adolph Hitler",
         "type": "person",
-        "identity": "German politician, elected ruler of Germany in the 1930s"
+        "identity": "Nazi leader, elected as Chancellor of Germany in 1933; notorious for his anti-Semitic policies."
       },
       {
-        "text": "Jews",
+        "name": "Jews",
         "type": "group",
-        "identity": "Jewish people"
+        "identity": "Jewish population affected by Hitler's policies"
       },
       {
-        "text": "rabbis",
-        "type": "group",
-        "identity": "leaders of Jewish communities"
-      },
-      {
-        "text": "Al Smith",
+        "name": "Al Smith",
         "type": "person",
-        "identity": "politician from the United States, possibly referring to Alfred E. Smith (1873-1944) who was a governor of New York and ran for President in 1928."
+        "identity": "Former Governor of New York, known for his opposition to Prohibition; may refer to Alfred E. Smith."
       },
       {
-        "text": "Japs",
+        "name": "miners",
         "type": "group",
-        "identity": "Japanese people"
+        "identity": "Coal miners in the United States"
       },
       {
-        "text": "Chinese women and children",
-        "type": "group",
-        "identity": "innocent civilians in China targeted by Japanese forces"
-      },
-      {
-        "text": "J. H. Clark",
+        "name": "Japs",
         "type": "person",
-        "identity": "Author of the letter, likely a local resident in Cleveland, Ohio based on the address."
+        "identity": "Japanese people, often used as a derogatory term during WWII"
       },
       {
-        "text": "Cleveland",
+        "name": "China",
         "type": "place",
-        "identity": "City mentioned as a local context for the letter's protests. Likely located in Ohio, USA."
+        "identity": "Country affected by Japanese invasion in the 1930s"
       },
       {
-        "text": "The Press",
-        "type": "organization",
-        "identity": "Newspaper where the letter is published, presumed to be The Cleveland Press, a significant newspaper in the 1930s Cleveland area."
+        "name": "Chinese women and children",
+        "type": "group",
+        "identity": "Victims of Japanese atrocities in China during the 1930s"
+      },
+      {
+        "name": "protestants",
+        "type": "group",
+        "identity": "Christian denominations targeted by authoritarian regimes, including Nazi Germany."
+      },
+      {
+        "name": "J. H. Clark",
+        "type": "person",
+        "identity": "Letter writer; address provided for identity verification."
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City mentioned in the letter, which indicates local affairs pertaining to it."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State where '20881 Arbor avenue.' is located; relevant if affairs are state-wide."
       }
     ],
-    "elapsed_seconds": 48.7
+    "elapsed_seconds": 10.7
   },
   {
     "author": "Vincent Lawrence",
     "address": "Lakewood, O.",
     "subjects": [
-      "State Politics"
+      "National Politics",
+      "City Politics"
     ],
-    "summary": "The letter expresses concern over the lack of transparency regarding the salaries of executives within the Community and Welfare Federation. The author questions why these details are not public knowledge despite being familiar with the remunerations of other public officials.",
+    "summary": "The author questions the transparency of salaries within the Community and Welfare Federation. He expresses skepticism towards the justification provided by Kenneth Sturges and the potential absence of salaries by David E. Greene, hinting at possible reasons being either the avoidance of financial disclosure or an April Fool's joke.",
     "doctype": "letter",
     "text": "WANTS TO KNOW THE SALARIES\n\n To the Editor of The Press: Why is it that the salaries of the executives of the Community and Welfare Federation cannot be made public? Kenneth Sturges stated that the public would not understand, but since they understand about donating when the drive is on wouldn't it be possible to also make it clear to them about what each official receives? We are familiar with the salaries of all public officials e/cn the presidents. Mr. David E. Greene, president of the Welfare Federation stated that probably there would be no salaries after April 1. Is this due to the fact that rather than reveal their present salaries they would prefer to work for glory or is it just an April 1 joke? Vincent Lawrence Lakewood, O. ",
     "title": "Wants To Know The Salaries",
     "word_count": 131,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:35:52",
     "entities": [
-      {
-        "text": "WANTS TO KNOW THE SALARIES",
-        "type": "phrase"
-      },
-      {
-        "text": "executives of the Community and Welfare Federation",
-        "type": "organization"
-      },
-      {
-        "text": "Kenneth Sturges",
-        "type": "person"
-      },
-      {
-        "text": "David E. Greene",
-        "type": "person"
-      },
       {
         "name": "Kenneth Sturges",
         "type": "person",
-        "identity": "Unknown if specific individual, likely a figure involved in the Community and Welfare Federation based on the context"
+        "identity": ""
       },
       {
         "name": "David E. Greene",
         "type": "person",
-        "identity": "President of the Welfare Federation, identity unknown but presumably a public figure in the 1930s related to welfare issues."
-      },
-      {
-        "text": "Cleveland",
-        "type": "place"
-      },
-      {
-        "text": "Ohio",
-        "type": "state"
+        "identity": "President of the Welfare Federation"
       },
       {
         "name": "Community and Welfare Federation",
         "type": "organization",
-        "identity": "A federation presumably involved in community and welfare services, likely a real organization existing in the 1930s."
+        "identity": "Local non-profit or charitable organization"
       },
       {
-        "text": "Lakewood",
-        "type": "place"
+        "name": "Cleveland",
+        "type": "place",
+        "identity": ""
       },
       {
-        "type": "city"
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which Lakewood is located"
       }
     ],
-    "elapsed_seconds": 40.7
+    "elapsed_seconds": 6.7
   },
   {
     "author": "P. Carbo",
     "address": "",
     "subjects": [
-      "State Politics",
-      "Economy"
+      "City Politics",
+      "State Politics"
     ],
-    "summary": "The letter argues that strikes should not be tolerated and considered an offense against the government, suggesting that whenever a dispute arises between capital and labor, a board of four members (two employees, two employers, and two state representatives) should present the case to a federal judge. The author believes businesses should continue operations while awaiting the judge's decision.",
+    "summary": "The author argues that strikes should be outlawed since they are tools of union leaders who misuse their power. They propose a system where a board presents cases to a federal judge, whose decision halts strikes and allows business to continue as usual.",
     "doctype": "letter",
     "text": "WOULD OUTLAW ALL STRIKES\n\n To the Editor of The Press: So long as labor unions are necessary to protect the workingman against selfish employers, strikes should not be tolerated and considered an offense against the government. Strikes are the tools of some union leaders who misuse their office and bring disaster to all concerned. Whenever a dispute arises between capital and labor, a board consisting of two employees, two employers and two representatives from the state should present the case pro and con to the nearest federal judge, whose decision in the matter should be considered final. And until such decision, busines is to go on as usual. P. Carbo. ",
     "title": "Would Outlaw All Strikes",
     "word_count": 110,
-    "entities": [],
-    "elapsed_seconds": 16.0
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:35:58",
+    "entities": [
+      {
+        "name": "P. Carbo.",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "workingman",
+        "type": "person",
+        "identity": "Generic term for a laborer or employee"
+      },
+      {
+        "name": "selfish employers",
+        "type": "organization",
+        "identity": "Employers who are described as acting out of self-interest, potentially negative or exploitative"
+      },
+      {
+        "name": "union leaders",
+        "type": "person",
+        "identity": "Leaders of labor unions"
+      },
+      {
+        "name": "board",
+        "type": "organization",
+        "identity": "A group formed to resolve disputes between labor and management, as proposed in the letter"
+      },
+      {
+        "name": "federal judge",
+        "type": "office",
+        "identity": "An official appointed by the federal government to hear cases and make decisions"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City mentioned in the context of local affairs (if relevant)"
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State where 'Cleveland' is located (if relevant)"
+      }
+    ],
+    "elapsed_seconds": 8.7
   },
   {
-    "author": "Guy E. Thornton",
-    "address": "1513 E. 49th street",
+    "author": "John of Cleveland",
+    "address": "",
     "subjects": [
       "Economy"
     ],
-    "summary": "The letter from Guy E. Thornton addresses the economic plight of a fellow named John who, despite working for a company, is still struggling to feed his family due to inadequate weekly grocery allowance and lack of additional support from charity organizations because of his employment status.",
+    "summary": "The letter describes the plight of John, a hardworking citizen who faces financial hardship after being laid off from his job yet dependent on his former employer for weekly groceries. John is torn between accepting charity and maintaining his connection with the company in hopes of future employment.",
     "doctype": "letter",
     "text": "THIS IS HARD TO ANSWER\n\n To the Editor of The Press: Kindly allow me to present for your consideration, or meditation, one John of Cleveland. John is a strong-backed bohunk with a passion for American citizenship and an instinctive urge to building a nest and raising young Johns.\n\nJohn worked for several years for a mammoth Cleveland company, married, built a home, and fathered six children. Two years ago John's company no longer needed his services, but, because of his good record with them, they told him they would not allow his family to starve. So every week they gave John a basket of groceries, ranging in value from $2.50 to $3.25, and in order to keep the stigma of charity from entering John's life, they have him work, a day or a day and a half (from eight to 12 hours) for the basket.\n\nJohn discovered that the basket of groceries would not feed eight persons-six of them growing children-so he applied to Associated Charities for additional food. But the A. C. tell John he has a job so they cannot give him help.\n\nNow if John received no groceries from his company, he would receive from the A. C. about twice as much food as he now receives. He is on the horns of a dilemma. Should he sever connections with his company and get his food from charity, or hang onto his place on the company payroll so that in the eventuality the company again hires men he will be in the strategic position? He looks back on the past two lean years with bitterness, and looks ahead with apprehension. Three dollars and twenty-five cents in groceries does not go far with eight people for a week's fare. (Try it.) This week they cannot give John his basket because they can find no work for him, but promised him his basket again next week. Can you advise John, Mr. Editor? Guy E. Thornton 1513 E. 49th street ",
     "title": "This Is Hard To Answer",
     "word_count": 330,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:36:06",
     "entities": [
       {
-        "text": "John",
+        "name": "John",
         "type": "person",
-        "identity": "The individual whose situation is described in the letter."
+        "identity": ""
       },
       {
-        "text": "Cleveland",
+        "name": "Cleveland",
         "type": "place",
-        "identity": "City mentioned where John lives and works; likely refers to Cleveland, Ohio."
+        "identity": "city"
       },
       {
-        "text": "John's company",
+        "name": "company",
         "type": "organization",
-        "identity": "A large corporation based in Cleveland that employs John."
+        "identity": "mammoth Cleveland company"
       },
       {
-        "text": "Associated Charities",
+        "name": "Associated Charities",
         "type": "organization",
-        "identity": "Charitable organization that provides additional food aid; likely a real or fictional organization from the 1930s Ohio."
+        "identity": "A. C."
       },
       {
-        "text": "Guy E. Thornton",
+        "name": "Guy E. Thornton",
         "type": "person",
-        "identity": "The author of the letter, presumably a resident of Cleveland."
+        "identity": "author of letter"
+      },
+      {
+        "name": "1513 E. 49th street",
+        "type": "place",
+        "identity": "address of the author"
       }
     ],
-    "elapsed_seconds": 37.1
+    "elapsed_seconds": 8.2
   },
   {
     "author": "Rose Friedman",
     "address": "9914 Ostend Avenue",
     "subjects": [
-      "City Politics",
-      "State Politics",
       "National Politics",
-      "Economy",
-      "World Events"
+      "Economy"
     ],
-    "summary": "The author argues that well-read people are often Socialists due to increased knowledge leading to critical thinking. They suggest that if Nina Grundman is concerned about the spread of socialism, she should advocate for more libraries and open access to information rather than closing them down.",
+    "summary": "The author disputes the notion that people become socialists solely because libraries are available to them, suggesting instead that well-read individuals, who typically utilize libraries, are the ones who lean towards socialism. They advocate for more libraries and the continuation of open access to knowledge, implying that this leads to more informed individuals, potentially fostering a greater number of socialists. However, they humorously recommend Nina Grundman to campaign for closing libraries and stricter censorship as a way to prevent more people from becoming socialists.",
     "doctype": "letter",
     "text": "MORE LIBRARIES MORE SOCIALISTS\n\n To the Editor of The Press: Nina Grundman in her letter to The Press Monday makes the statement that we must keep the libraries open to keep people from going insane, or Socialist. I hate to disillusion her, but it is usually wellread people who are Socialists. People who read a lot, and who read worth-while things, are bound to absorb some knowledge. As they absorb knowledge, they begin to think, and as they begin to think -presto-you have the beginning of a Socialist.\n\nSince Socialists are dangerous people, I suggest that Nina Grundman change her tactics and start a campaign to close all libraries, especially sociology departments, and for a stricter censorship of the press. For my part, bigger and better libraries-and more Socialists. Rose Friedman 9914 Ostend avenue. ",
     "title": "More Libraries More Socialists",
     "word_count": 134,
-    "entities": [],
-    "elapsed_seconds": 17.2
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:36:14",
+    "entities": [
+      {
+        "name": "Nina Grundman",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "To the Editor",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "newspaper"
+      },
+      {
+        "name": "Rose Friedman",
+        "type": "person",
+        "identity": "letter writer"
+      }
+    ],
+    "elapsed_seconds": 6.0
   }
 ]

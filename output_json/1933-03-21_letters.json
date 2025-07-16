@@ -1,107 +1,171 @@
 [
   {
-    "author": "",
+    "author": "Frank McKee",
     "address": "",
     "subjects": [
-      "National Politics"
+      "National Politics",
+      "Ideas"
     ],
-    "summary": "The letter argues that national prosperity and well-being depend on a change in people's ideas rather than physical resources. It emphasizes the power of belief and collective mindset in shaping reality.",
+    "summary": "The author, Frank McKee, asserts that the power of belief can turn ideas into reality. On a national scale, he argues that the obstacles to abundance and better living conditions are not physical but mental. He calls for a new set of ideas to be ingrained in people's minds as a solution to societal problems.",
     "doctype": "letter",
     "text": "SAYS MEN MUST ADOPT A NEW SET OF IDEAS\n\nLetters to the Editor To the Editor of The Press: The faculty which ideas seem to possess of materializing into concrete facts is one of the miracles of science. Widely held beliefs tend to come true even though they defy logic. If everyone believes that a bank is going to fall, the chances are that it will fall. Conversely, if everyone believes that the bank will pull through, the chances are that it will pull through. On the national scale, there are no physical obstacles to an abundant life for everyone. The obstacles are purely mental. Starving because of overproduction, or freezing on top of mountains of coal, going to jail without benefit of counsel, or dying without solace of medicine (while doctors and lawyers complain about overcrowded professions), life's supreme handicap is always in the realm of ideas. I can visualize nothing better in the direction of human affairs until a new set of ideas has been built into the minds of men. Frank McKee. ",
     "title": "Says Men Must Adopt A New Set Of Ideas",
     "word_count": 179,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:31:29",
     "entities": [],
-    "elapsed_seconds": 14.9
+    "elapsed_seconds": 3.7
   },
   {
-    "author": "J. Beale",
+    "author": "Hillingdon",
     "address": "",
     "subjects": [
-      "Economy"
+      "State Politics",
+      "National Politics"
     ],
-    "summary": "The letter discusses the failure of American bankers and the need for stringent banking regulations following the financial crisis, contrasting it with England's experience and their departure from the gold standard.",
+    "summary": "The author questions the integrity of American bankers who, despite their previous boasts, allowed the nation to fall into a deplorable condition. They call for stringent regulations on banking practices in light of the current economic crisis and the comparison with England's handling of their depression.",
     "doctype": "letter",
     "text": "HOW ABOUT ENGLAND\n\n To the Editor of The Press: I would like very much to know what has become of the great financiers we had in this country a few years ago, who rode on the crest of the wave of prosperity proclaiming to the world that we had the best and soundest monetary system in the universe. In England they have experienced a great depression for several years, have gone off the gold standard and yet more banks closed their doors in the state of Ohio in the past month than in England during 50 years. If the bankers in this country had devoted their energies to the ethics of sound banking instead of bucket-shop speculating we would not be in the most deplorable condition we find ourselves in today. There should be enacted at once some very stringent laws regulating the manner in which a bank may handle the funds of its depositors. Faith in banks as a safe depository has been terribly shattered and it will take years to restore the confidence of the public. Hillingdon.\n\nbe",
     "title": "How About England",
     "word_count": 182,
-    "entities": [],
-    "elapsed_seconds": 17.8
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:31:32",
+    "entities": [
+      {
+        "name": "The Press",
+        "type": "publication",
+        "identity": ""
+      },
+      {
+        "name": "Financiers",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "United States",
+        "type": "place",
+        "identity": "Country"
+      },
+      {
+        "name": "England",
+        "type": "place",
+        "identity": "Country"
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State, mentioned in relation to bank closures"
+      },
+      {
+        "name": "bankers",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "bucket-shop speculating",
+        "type": "concept",
+        "identity": ""
+      },
+      {
+        "name": "Hillingdon",
+        "type": "place",
+        "identity": "Location, likely referring to a person's name or title given the context, but no specific identity information can be determined from the text alone."
+      },
+      {
+        "name": "Cleveland",
+        "type": "city",
+        "identity": ""
+      },
+      {
+        "name": "great depression",
+        "type": "event",
+        "identity": "Worldwide economic event"
+      },
+      {
+        "name": "gold standard",
+        "type": "concept",
+        "identity": ""
+      }
+    ],
+    "elapsed_seconds": 9.3
   },
   {
     "author": "C. A. Quintrell",
     "address": "",
     "subjects": [
-      "City Politics",
-      "State Politics",
-      "National Politics"
+      "National Politics",
+      "Economy"
     ],
-    "summary": "The author argues against the American Legion's attempt to force its posts to repudiate their support for an economic bill proposed by President Roosevelt, claiming that this contradicts democratic principles and free speech rights. The author recalls an article indicating opposition to veterans' legislation by isolated legion posts and calls for community public opinion to hold legion officials accountable.",
+    "summary": "The author writes to express concern over the American Legion's ultimatum to a post that either repudiates its executive committee's support for President Roosevelt's economy bill or face ejection from the legion. The author argues that the Legion should not impose autocratic control, suppressing free speech, particularly on matters of economic policy such as the bill in question. Citing Alfred E. Smith's view of opposition within the Legion, they emphasize that the Legion should be a forum for free expression of opinion regarding war-time and post-war benefits.",
     "doctype": "letter",
     "text": "FREE SPEECH IN THE LEGION\n\n To The Editor of The Press. The Army & Navy Post of the American Legion has been served with an ultimatum from the officials of the American Legion that it either repudiate the action of its executive committee in recommending the passage of the economy bill, sponsored by President Roosevelt, or suffer ejection from the legion. This information was contained in your paper of March 16th and in a statement sent by the adjutant of this post to all of its members. The American Legion is not and cannot function as a military machine. It may be that a member of a military organization in war times should obey without hesitancy or criticism any order given by a superior officer. No organization, however, operating in peace time in a democratic government whose constitution guarantees the right of free speech, can survive if it attempts to exercise such autocratic control of enforcement of gag rule. The economy bill was, as I understand it, introduced in the federal Congress at the request of the president of this country and certainly ho organization can be permitted by public opinion to eject members from its roster becanse of the fact that they or their representatives express an opinion upon such a bill, particularly one in favor of its adoption. The question as to whether or not the government should pay or should ever have made payments relating to disabilities having no connection with war-time service is one on which any citizen should be free to express his frank opinion. It is my recollection from an article by Alfred E. Smith in the Saturday Evening Post that not only isolated posts of the legion but in fact the New England department of the legion took an attitude of opposition toward a great deal of the veterans' legislation.\n\nI am writing this to you as a member of Army & Navy Post and in the belief that it is high time that public opinion of this and other communities bring the officials charged with the conduct of the legion affairs to their 'sens\u00e9s. and xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx military machine operating in war time with czaristic powers including that of gag rule. The legion as such is an extremely worthwhile American institutioil Dut it is very apparent its officials are departing wholly from the spirit of its constitution and from all standards of American conduct. C. A. Quintrell. ",
     "title": "Free Speech In The Legion",
     "word_count": 410,
-    "entities": [
-      {
-        "name": "The Army & Navy Post",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "American Legion",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "executive committee",
-        "type": "office",
-        "identity": ""
-      },
-      {
-        "name": "President Roose-",
-        "type": "person",
-        "identity": "Franklin D. Roosevelt"
-      },
-      {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "Ohio"
-      },
-      {
-        "name": "New England department",
-        "type": "organization",
-        "identity": ""
-      },
-      {
-        "name": "Alfred E. Smith",
-        "type": "person",
-        "identity": "former Governor of New York and Democratic presidential candidate"
-      },
-      {
-        "name": "Czar",
-        "type": "title_or_role",
-        "identity": ""
-      },
-      {
-        "name": "C. A. Quintrell",
-        "type": "person",
-        "identity": "the writer of the letter"
-      }
-    ],
-    "elapsed_seconds": 48.9
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:31:41",
+    "entities": [],
+    "elapsed_seconds": 5.5
   },
   {
-    "author": "",
+    "author": "Charles Wagner",
     "address": "",
     "subjects": [
       "Economy"
     ],
-    "summary": "The author, Charles Wagner, argues against those who opposed inflation measures to remedy the economic situation following the 1929 stock market crash. He criticizes the stubborn adherence to the gold standard despite its detrimental effects on the economy and people's welfare.",
+    "summary": "The author expresses frustration with the response to the 1929 stock market crash, arguing that the reluctance to allow for inflation was misguided. Despite the economic hardship, there was an inflexible adherence to the gold standard which prevented the necessary economic adjustments and caused people to suffer unnecessarily. The letter criticizes those who opposed inflation measures as 'howlers' and 'ostriches', stating that even a technically non-abandonment of the gold standard is a step in the right direction toward economic recovery.",
     "doctype": "letter",
     "text": "NOW FOR INFLATION\n\n To the Editor of The Press: Ever since the stock market crash of 1929 wiped billions off we have been attempting to carry on business as usual with many millions less than the usual amount of the medium necessary to successfully transact business. When statesmen attempted to remedy this situation they were howled down as inflationists. \"Never, never will we abanden-the gold standard,\" cried these howlers. People could starve and commerce slowly shrink to the limits of barter but the sacred golden calf must not be melted into usefulness. What a rude awakening awaited these ostriches in the proclamation which puts us off the gold standard, only technically, of course. Sugar coat the medicine by all means, tell them we refuse to honor our gold certificates but not really, only technically.\n\nNow for inflation. Even technical inflation will be satisfactory. Charles Wagner. ",
     "title": "Now For Inflation",
     "word_count": 145,
-    "entities": [],
-    "elapsed_seconds": 14.9
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:31:46",
+    "entities": [
+      {
+        "name": "",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "statesmen",
+        "type": "office",
+        "identity": "Politicians in office at the time, presumably federal officials responsible for economic policy."
+      },
+      {
+        "name": "howlers",
+        "type": "person",
+        "identity": "Those who opposed measures to remedy the economic situation, likely members of the public or groups with strong ideological stances against inflation."
+      },
+      {
+        "name": "sacred golden calf",
+        "type": "metaphor",
+        "identity": "Refers to the gold standard which is considered sacred by its supporters."
+      },
+      {
+        "name": "inflationists",
+        "type": "person",
+        "identity": "Those advocating for inflationary measures to help the economy."
+      },
+      {
+        "name": "Charles Wagner.",
+        "type": "person",
+        "identity": "The author of the letter to the editor."
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Not explicitly mentioned in the text, but if the letter is addressing local affairs, 'Cleveland' would be a plausible place name. Since no state or country is named, we might infer it as a city in Ohio (assuming state-level affairs)."
+      },
+      {
+        "name": "Ohio",
+        "type": "place",
+        "identity": "If the letter concerns state affairs, 'Ohio' would be the state. No specific information about its identity is provided in the text."
+      }
+    ],
+    "elapsed_seconds": 11.0
   },
   {
     "author": "Mrs. William Flaugher",
@@ -110,64 +174,155 @@
       "City Politics",
       "National Politics"
     ],
-    "summary": "The letter writer expresses frustration at what she perceives as inconsistency in the newspaper's criticism, or lack thereof, toward Robert Crosser for his vote against President Roosevelt's economic measure. She points out that if the person in question was not Crosser and had been a political opponent of Mr. Raper's, Mr. Raper would likely have been much harsher in his critique. Additionally, the letter claims that Crosser has escaped Mr. Raper's usually acidic commentary because he was Crosser's campaign manager.",
+    "summary": "The letter writer criticizes the lack of consistency in Mr. Raper's column regarding his candidate, Robert Crosser. She notes that Raper refrains from harsh criticism because Crosser was his campaign manager and should have been criticized for voting against President Roosevelt's half billion dollar measure.",
     "doctype": "letter",
     "text": "CROSSER PROTECTED?\n\n To the Editor of The Prese: I got sore eyes trying to find a wise crack in Mr. Raper's column today referring to his candidate, Robert Crosser. If it had been anyone else who had voted against the half billion dollar measure of President Roosevelt's providing for economy, Mr. Raper would have wrathfully referred to him as a mor\u00f2n or something along the same line. But because he was his campaign manager he neglects to treat Grosser as he would anyone else.\n\nAnd by the way, Mr. Editor, your editorial commenting on Mr. Crosser's conduct was not the same kind of a fire-eating editorial you would write against a Republican, for example, if he had acted as Crosser did on the Roosevelt bill.\n\nAbout the only person who has escaped the poison pen of Mr. Raper is Mr. Crosser, and I guess it is because he was his campaign manager.\n\n\"Consistency, thou art a jewel.\" Mrs. William Flaugher 3618 Tullamore road. ",
     "title": "Crosser Protected?",
     "word_count": 163,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:31:57",
     "entities": [
       {
         "name": "Robert Crosser",
         "type": "person",
-        "identity": "Candidate for an unspecified office."
+        "identity": ""
       },
       {
         "name": "Mr. Raper",
         "type": "person",
-        "identity": "Columnist, presumably known to the readership."
+        "identity": ""
       },
       {
         "name": "President Roosevelt",
         "type": "person",
-        "identity": "U.S. President at the time."
+        "identity": "Franklin D. Roosevelt"
       },
       {
-        "name": "Mr. Grosser",
+        "name": "Grosser",
         "type": "person",
-        "identity": "Mentioned but not identified further in the text. Could be a political figure or a character invented for the letter."
+        "identity": ""
+      },
+      {
+        "name": "Mr. Editor",
+        "type": "office",
+        "identity": "Editor of The Prese: (Hypothetical title, assuming 'Editor' is a formal title in the newspaper context of the 1930s)"
       },
       {
         "name": "Mrs. William Flaugher",
         "type": "person",
-        "identity": "Writer of the letter"
+        "identity": "Presumed to be a local figure or resident due to address"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Local context suggests, but not explicitly stated."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "The letter refers to state affairs as the writer comments on a political event at the state level."
       }
     ],
-    "elapsed_seconds": 39.2
+    "elapsed_seconds": 8.9
   },
   {
     "author": "John McCarthy",
     "address": "1730 W. 38th street.",
     "subjects": [
-      "National Politics"
+      "State Politics",
+      "Economy"
     ],
-    "summary": "The letter questions the source of funding for farm relief and asserts that the money will ultimately come from urban residents, which will reduce their purchasing power for farm goods and negatively impact the economy as a whole. The author argues that true recovery for farmers requires a market-driven approach rather than political interventions.",
+    "summary": "The letter argues against farm relief funded by city residents, suggesting that the financial strain will ultimately lead to city dwellers buying fewer farm products, negatively impacting the entire nation. The author cites experts who advocate for letting market forces determine farm product prices as the most effective solution to the farm crisis.",
     "doctype": "letter",
     "text": "WHO PAYS FOR FARM RELIEF?\n\n To the Editor of The Press:\n\nWhere will the government get the money to help the farmers? Answer: From the city man. Result: the city man will have less money. Further result: he will buy less farm goods. Final result: the whole nation will be worse off and especially the farmer, just as both are now worse off as a result of the activities of the Farm Board. There is only one way to cure the farm trouble, and that is to let farm products face the eternal law of supply and demand. Professor Moley knows that. Professor Tugwell knows it and Professor Taussig knows it. We will have to come to it in the end. In the meantime there is no sense in our repeating the colossal blunders of the past. It was not the Republicans who boosted the appropriations for the veterans during the boom years. It was the general prosperity of the country. Similarly it is not the Democrats who now are reducing those appropriations; it is the general poverty of the country. Politicians merely put into effect the measures made necessary by general social conditions.\n\nJohn McCarthy 1730 W. 38th street. ",
     "title": "Who Pays For Farm Relief?",
     "word_count": 200,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:32:05",
     "entities": [
       {
-        "text": "John McCarthy",
+        "name": "John McCarthy",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "1730 W. 38th street.",
-        "type": "address",
-        "identity": ""
+        "name": "The Press",
+        "type": "organization",
+        "identity": "1930s newspaper"
+      },
+      {
+        "name": "farm products",
+        "type": "product",
+        "**identity**": ""
+      },
+      {
+        "name": "Farm Board",
+        "type": "organization",
+        "identity": "Government body involved in agricultural policies"
+      },
+      {
+        "name": "Professor Moley",
+        "type": "person",
+        "identity": "Hypothetical or real person, not identified clearly"
+      },
+      {
+        "name": "Professor Tugwell",
+        "type": "person",
+        "identity": "Hypothetical or real person, not identified clearly"
+      },
+      {
+        "name": "Professor Taussig",
+        "type": "person",
+        "identity": "Hypothetical or real person, not identified clearly"
+      },
+      {
+        "name": "farmers",
+        "type": "group",
+        "identity": "Farmers of the United States"
+      },
+      {
+        "name": "city man",
+        "type": "person",
+        "identity": "Urban citizen"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "City in Ohio, mentioned if the letter pertains to local affairs."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "State in which Cleveland is located, included if the letter pertains to state-wide affairs."
+      },
+      {
+        "name": "veterans",
+        "type": "group",
+        "identity": "World War I veterans"
+      },
+      {
+        "name": "Democrats",
+        "type": "organization",
+        "identity": "Political party mentioned in the context of fiscal policies."
+      },
+      {
+        "name": "Republicans",
+        "type": "organization",
+        "identity": "Opposition political party mentioned in the context of past appropriations."
+      },
+      {
+        "name": "general prosperity",
+        "type": "period",
+        "identity": "Economic period preceding the Great Depression, characterized by economic growth and optimism."
+      },
+      {
+        "name": "general poverty",
+        "_type_: state of being impoverished or financially distressed._identity_: Condition in the United States during the Great Depression era.": ""
       }
     ],
-    "elapsed_seconds": 26.6
+    "elapsed_seconds": 14.6
   },
   {
     "author": "Frank Mervar",
@@ -175,44 +330,31 @@
     "subjects": [
       "City Politics"
     ],
-    "summary": "The letter's author, Frank Mervar, advocates for Adam J. Dammi to be appointed as the safety director, citing Dammi's longstanding public service, his capability demonstrated by an outstanding record, and the expected positive reception from both the public and police/fire departments. The author also expresses that Mayor Ray T. Miller and the Democratic organization should be proud to include a man of Mr. Damm's integrity and ability in their cabinet.",
+    "summary": "The author, Frank Mervar, supports Adam J. Dammi for the position of safety directorship in the city, highlighting his long-standing public service record and his reputation as a level-headed and fearless leader. Mervar believes that Dammi would be welcomed by both the public and the Police and Fire departments.",
     "doctype": "letter",
     "text": "SAYS DAMM IS THE MAN\n\n To The Editor of The Press.\n\nAdam J. Damni is the logical man for the safety directorship. He would be welcomed by the public in general as well as the Police and Fire departments. That he is capable, his past record in public service of a great many years as councilman and city treasurer is outstanding: He is a level-headed and fearless leader. Mayor Ray T. Miller and the Democratic organization should be proud to have a man of Mr. Damm's integrity and ability in their cabinet. Frank Mervar 7801 Wade Park avenue.",
     "title": "Says Damm Is The Man",
     "word_count": 98,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:32:19",
     "entities": [
       {
-        "text": "Adam J. Dammi",
+        "name": "Adam J. Dammi",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Police and Fire departments",
-        "type": "organization",
+        "name": "Ray T. Miller",
+        "type": "person",
         "identity": ""
       },
       {
-        "text": "Mayor Ray T. Miller",
+        "name": "Frank Mervar",
         "type": "person",
-        "identity": "mayor of the city"
-      },
-      {
-        "text": "Democratic organization",
-        "type": "organization",
-        "identity": "political party"
-      },
-      {
-        "text": "Frank Mervar",
-        "type": "person",
-        "identity": "author of the letter"
-      },
-      {
-        "city": "Cleveland",
-        "state": "Ohio",
-        "country": "",
-        "identity": "City in Ohio, likely refers to Cleveland, Ohio."
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 35.1
+    "elapsed_seconds": 5.0
   }
 ]

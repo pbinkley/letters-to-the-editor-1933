@@ -1,47 +1,18 @@
-from ollama import chat
-from pydantic import BaseModel
+from google import genai
+from google.genai import types
+
 import json
 import sys
-import os
+import osgemini
 from pathlib import Path
 import time
 import re
-import subprocess
 
 # based on https://ollama.com/blog/structured-outputs
 
-from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
-
-job_start = time.localtime()
-
-# Parse command line arguments
-parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
-parser.add_argument("-s", "--service", default="ollama", help="LLM service")
-parser.add_argument("-m", "--model", default="olmo2", help="LLM name")
-parser.add_argument("file", help="File name like raw_text/1933-03-01_letters.txt'")
-args = vars(parser.parse_args())
-
-# Set up parameters
-service = args['service']
-model = args['model']
-try:
-  input_text_file = args['file'] # e.g. raw_text/1933-03-01_letters.txt
-except:
-  sys.exit("Provide a filename like 'raw_text/1933-03-01_letters.txt'")
-
-def get_short_commit_id_with_date():
-    result = subprocess.run(['git', 'log', '-1', '--pretty=format:%h - %ad'], stdout=subprocess.PIPE)
-    output = result.stdout.decode().strip()
-    return output.split(' - ')[0], output.split(' - ')[1]
-
-short_commit_id, commit_date = get_short_commit_id_with_date()
-
-print(f"Service: {service}; model: {model}; commit: {short_commit_id}; commit date: {commit_date}")
-
-# model = 'olmo2'
-# model = 'olmo2:13b-1124-instruct-fp16'
-# model = 'deepseek-r1:32b'
-
+service = 'gemini'
+model = 'gemini-2.0-flash-001'
+ 
 class Letter(BaseModel):
   author: str
   address: str
@@ -83,6 +54,11 @@ def get_response(prompt, listClass):
     format=listClass.model_json_schema(),
   )
   return response
+
+try:
+  input_text_file = sys.argv[1] # e.g. raw_text/1933-03-01_letters.txt
+except:
+  sys.exit("Provide a filename like 'raw_text/1933-03-01_letters.txt'")
 
 print(f"Opening {input_text_file}")
 
@@ -140,8 +116,10 @@ else:
 print(f"There are {len(letters)} letters.")
 counter = 1
 
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+
 for letter in letters:
-  start = time.localtime()
+  start = time.time()
 
   text = ('\n').join(letter)
   paragraphs = text.split('\n\n')
@@ -152,47 +130,52 @@ for letter in letters:
   # prompt template ends with <OCR text>
   letter_metadata_prompt = prompt_metadata.replace("<OCR text>", f"\n\"\"\"\n{text}\n\"\"\"")
 
-  response = get_response(letter_metadata_prompt, LetterListMetadata)
+#  response = get_response(letter_metadata_prompt, LetterListMetadata)
+  response = client.models.generate_content(
+      model = model,
+      config=types.GenerateContentConfig(
+          system_instruction="You are a skilled reader of old newspaper texts. You never invent, generate or hallucinate text that is not found in the image you are processing."),
+      contents=[letter_metadata_prompt])
+
+  import pdb; pdb.set_trace()
+
 
   letter_data = json.loads(response['message']['content'])['letters'][0]
   letter_data['text'] = ('@@@').join(paragraphs).replace("-\n", '').replace("\n", ' ').replace('@@@', "\n\n")
   letter_data['title'] = title.title()
   letter_data['doctype'] = "letter"
   letter_data['word_count'] = words
-  letter_data['service'] = service
+  letter_stat['service'] = service
   letter_data['model'] = model
   letter_data['timestamp'] = time.strftime("%Y-%m-%d %H:%M:%S", start)
-
-  print(letter_data['summary'])
 
   # now do the entities
 
   # prompt template ends with <OCR text>
   letter_entities_prompt = prompt_entities.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
 
-  response = get_response(letter_entities_prompt, LetterListEntities)
+#  response = get_response(letter_entities_prompt, LetterListEntities)
+
+  response = client.models.generate_content(
+      model = model,
+      config=types.GenerateContentConfig(
+          system_instruction="You are a skilled reader of old newspaper texts. You never invent, generate or hallucinate text that is not found in the image you are processing."),
+      contents=[letter_entities_prompt])
 
   letter_data['entities'] = []
   for letter in json.loads(response['message']['content'])['letters']:
-    #import pdb; pdb.set_trace()
     for entity in letter['entities']:
       letter_data['entities'].append(entity)
-      print(f"  {entity.get('name', '<no name>')}: {entity.get('type', '<no type>')}")
 
   letters_json.append(letter_data)
 
-  elapsed_seconds = round(time.time() - time.mktime(start), 1)
-  print(f"  elapsed time: {elapsed_seconds} seconds; {len(letter_data['entities'])} entities")
+  elapsed_seconds = round(time.time() - start, 1)
+  print(f"  elapsed time: {elapsed_seconds} sec")
   letter_data['elapsed_seconds'] = elapsed_seconds
 
   counter += 1
 
-  print(f"\n\n")
-
-job_elapsed_seconds = round(time.time() - time.mktime(job_start), 1)
-print(f"  elapsed time: {job_elapsed_seconds} seconds")
-
 # Write to json file
 print(f"Writing to {filename}.json")
-with open(f"output_json/{filename}-{model}-{short_commit_it}.json", "w") as outfile:
+with open(f"gemini_json/{filename}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))

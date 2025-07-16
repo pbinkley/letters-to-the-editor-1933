@@ -2,5 +2,6 @@ raw_images
 test_images
 column_images
 venv
-
+.DS_Store
+.python-version
 

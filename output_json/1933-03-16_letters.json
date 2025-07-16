@@ -5,155 +5,60 @@
     "subjects": [
       "National Politics"
     ],
-    "summary": "The letter's author, Josephine Masar, expresses her support for President Roosevelt's actions and initiatives, particularly in restoring confidence in the banking system and his clear communication. They praise his wife for providing a good example to the nation, and they hope that his leadership will lead the country out of its financial difficulties.",
+    "summary": "The letter commends President Roosevelt for his radio talk and actions to restore confidence in the banking system, highlighting his clear communication and swift methods. The author expresses hope that Roosevelt will lead the country out of financial difficulties.",
     "doctype": "letter",
     "text": "READER CALLS THREE CHEERS FOR PRESIDENT ROOSEVELT\n\nLetters to the Editor-\n\nTo the Editor of The Press: Three cheers for President Roosevelt! He has been in office for only a short length of time but has accomplished much and has gained the confidence of the people in this country. He was not afraid to state his ideas and plans and at the same time he succeeded in them.\n\nI listened to his radio talk Sunday, March 12, and I thought it was given in a very clear and concise manner. Subjects concerning banks were explained so simply that practically anyone could understand them. He has moved swiftly in his methods to clear up the banking system and at the same time has restored the confidence of the people in the banks. Once more we will be able to entrust our money in the banks without the constant fear of not being able to receive it back.\n\nThe president's wife has also shown a wonderful example to the country. She has been constantly by the side of her husband and has tried to aid him to the greatest possible extent.\n\nA great many of the people appreciate the things that are being accomplished by the president and are only too glad to co-operate with him. Here's hoping that he will be able to lead us out of this financial difficulty we have fallen into and show us the good and prosperous times again. Josephine Masar. ",
     "title": "Reader Calls Three Cheers For President Roosevelt",
     "word_count": 244,
-    "entities": [
-      {
-        "text": "Three",
-        "type": "Number",
-        "identity": "Indefinite or Placeholder"
-      },
-      {
-        "text": "President",
-        "type": "Office",
-        "identity": ""
-      },
-      {
-        "text": "Roosevelt",
-        "type": "Person",
-        "identity": "Franklin D. Roosevelt, 32nd President of the United States"
-      },
-      {
-        "text": "I",
-        "type": "Person",
-        "identity": "Hypothetical or Unspecified"
-      },
-      {
-        "text": "his",
-        "type": "PossessiveRelationship",
-        "identity": ""
-      },
-      {
-        "text": "radio talk",
-        "type": "BroadcastMedium",
-        "identity": ""
-      },
-      {
-        "text": "Sunday",
-        "type": "Day",
-        "identity": "Hypothetical or Unspecified"
-      },
-      {
-        "text": "March 12",
-        "type": "Date",
-        "identity": "Real Date"
-      },
-      {
-        "text": "he",
-        "type": "Person",
-        "identity": "Franklin D. Roosevelt, 32nd President of the United States"
-      },
-      {
-        "text": "his",
-        "type": "PossessiveRelationship",
-        "identity": ""
-      },
-      {
-        "text": "methods",
-        "type": "AbstractConcept",
-        "identity": ""
-      },
-      {
-        "text": "banking system",
-        "type": "System",
-        "identity": "Real System"
-      },
-      {
-        "text": "confidence",
-        "type": "AbstractConcept",
-        "identity": "of the people"
-      },
-      {
-        "text": "in the banks",
-        "type": "Phrase",
-        "identity": ""
-      },
-      {
-        "text": "The president's",
-        "type": "PossessiveRelationship",
-        "identity": "Franklin D. Roosevelt, 32nd President of the United States"
-      },
-      {
-        "text": "wife",
-        "type": "Person",
-        "identity": "Eleanor Roosevelt"
-      },
-      {
-        "text": "country",
-        "type": "Place",
-        "identity": "United States"
-      },
-      {
-        "text": "Josephine Masar",
-        "type": "Person",
-        "identity": "Hypothetical or Unspecified"
-      }
-    ],
-    "elapsed_seconds": 62.2
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:26",
+    "entities": [],
+    "elapsed_seconds": 3.7
   },
   {
     "author": "John McLellan",
     "address": "",
     "subjects": [
-      "Economy",
-      "State Politics"
+      "State Politics",
+      "Economy"
     ],
-    "summary": "The author, John McLellan, a delegate to the Home Owners' Central Committee, writes to Governor White seeking support for home owners facing unemployment and advocating for extraordinary measures in response to economic crisis, similar to those during wartime. He also questions the disparity in Ohio's deficiency judgment compared to other states and encourages the governor to address this issue.",
+    "summary": "The author, John McLellan, writes as a delegate to the Home Owners' Central Committee to Governor Frank White. He commends White for his support during a tough election in a predominantly Republican area and appeals to him now for assistance in behalf of homeowners facing unemployment and the possibility of deficiency judgments. He mentions the potential for a moratorium on mortgage payments due to the unprecedented economic conditions, akin to wartime circumstances where such measures would be expected. Additionally, the letter brings attention to Ohio's harsh deficiency judgment laws compared to other states, urging a reconsideration of these laws in the current emergency. The letter concludes with an expression of confidence in Governor White's commitment to help and requests a clear statement on what actions he plans to take for Ohio's home owners.",
     "doctype": "letter",
     "text": "OPEN LETTER TO GOV. WHITE\n\n To the Editor of The Press) Gov. White: As a man who in the face of bitter opposition insisted that you as a candidate be accorded the same indorsement by the Cleveland Federation of Labor as your rival and af that time few, Democrats had the courage to do that in what was then a Republican stronghold, I am now writing you in behalf of the small home owners, believing them to be in need and deserving of clean-cut, businesslike aid, when the men and women of America are engaged in a bitter struggle with circumstances over which they are powerless, being against a stone wall of unemployment.\n\nHow far will you go in their behalf? Is there any possibility of a moratorium for those with a large equity, men and women who have proven their thrift and industry by years of regular payment, until the dykes gave way and this flood of unemployment swept all before it?\n\nMay I mention to you also the damnable injustice of Ohio's deficiency judgment, compared to other states, in a crisis like the present, in an emergency like the present. which is greater than that of war itself, recognized as such by Roosevelt-asking for and receiving wartime power under wartime act.\n\nThese are extraordinary times, and unless our executives meet them with extraordinary measures, the reaction to millions of home owners who are now wondering what possible meaning the word equity has to a home owner will be phenomenal and perhaps startling to the world. Already the Small Home Owners' Federation has had a wonderful growth, passing the 10,000 mark here in Cuyahoga county, although thumbed down by the Cleveland Federation of Labor, just as unemployment insurance was until I took the bull by the horns and appointed a the first committee. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx F with the farmers of the west mak-ing it an organization of far-reaching and ever-growing influence. With every confidence in your sincerity and desire to serve, I am writing you for a frank statement of what you can do for the home owners of Ohio.\n\nJohn McLellan Delegate to the Home Owners' Central Committee. ",
     "title": "Open Letter To Gov. White",
     "word_count": 360,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:29",
     "entities": [
       {
-        "text": "Gov. White:",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "Cleveland Federation of Labor",
-        "type": "organization",
-        "identity": "Labor union in Cleveland, Ohio"
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "City"
-      },
-      {
-        "text": "small home owners",
-        "type": "person_group",
-        "identity": ""
-      },
-      {
-        "text": "John McLellan",
-        "type": "person",
-        "identity": "Author of the letter"
-      },
-      {
-        "text": "Delegate to the Home Owners'",
+        "name": "Gov. White:",
         "type": "office",
-        "identity": "Title held by John McLellan"
+        "identity": ""
       },
       {
-        "text": "Central Committee.",
+        "name": "Cleveland Federation of Labor",
         "type": "organization",
-        "identity": "Unknown, possibly related to a home owners' organization"
+        "identity": "Labor union"
+      },
+      {
+        "name": "Democrats",
+        "type": "group",
+        "identity": "Political party"
+      },
+      {
+        "name": "Small Home Owners' Federation",
+        "type": "organization",
+        "identity": "Organization for home owners"
+      },
+      {
+        "name": "Central Committee",
+        "type": "office",
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 43.6
+    "elapsed_seconds": 8.7
   },
   {
     "author": "H. Williams",
@@ -162,59 +67,66 @@
       "City Politics",
       "Economy"
     ],
-    "summary": "The author, H. Williams, complains about the treatment of checking accounts compared to savings accounts in terms of fees and the handling of deposited funds.",
+    "summary": "The author expresses discontent over the charging of fees on checking accounts despite the fact that they are essentially money stored by the bank and not an investment.",
     "doctype": "letter",
     "text": "CHECKING ACCOUNTS AND SAVINGS\n\n To the Editor of The Press: When you participate in the profits of any venture by the same token you take the loss. However, the banks in the case of a checking account charge for what they claim are costs. Yet notwithstanding the same is put in the class of a savings accounts.\n\nI see no reason, legal, logical-or otherwise for taking my money upon which I paid storage, handling, etc. (monthly service charge), and treating it as other money where the depositor didn't store his money but rather invested it in the bank's brains.\n\nA checking account is money stored by the bank's own contention so why hold on to our property? Savings accounts, certificates of deposit, etc., are investments and as such are subject to risk.z\n\nWe pay to have our money handled and still can't get it. Sure is a joke. H. Williams. ",
     "title": "Checking Accounts And Savings",
     "word_count": 150,
-    "entities": [],
-    "elapsed_seconds": 13.9
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:37",
+    "entities": [
+      {
+        "name": "The Press",
+        "type": "publication_name",
+        "identity": "A 1930s newspaper"
+      }
+    ],
+    "elapsed_seconds": 4.0
   },
   {
     "author": "A. E. Schwind",
     "address": "",
     "subjects": [
-      "National Politics",
+      "State Politics",
       "Economy"
     ],
-    "summary": "The author, A.E. Schwind, critiques Heywood Broun's stance on economizing by suggesting that if people like Broun simply followed the law, there would be no need for prohibition enforcement officers and significant government savings could be achieved.",
+    "summary": "The author, A. E. Schwind, questions Heywood Broun's hypocrisy regarding Prohibition. They argue that if citizens, including Broun, would simply obey all laws, the government wouldn't need to spend money enforcing them, thus saving money.",
     "doctype": "letter",
     "text": "OBEY THE LAW, SAVE MONEY\n\n To the Editor of The Fress: A few days ago Heywood Broun stated in his column that the government should economize and should begin in the Prohibition Enforcement Department. He also stated he objected to having his favorite speakeasy raided by federal enforcement officers. I wonder if he knows that if it were not for Heywood Broun and others like himself the government would have no need of prohibition enforcement officers, and that would be a great economy.\n\nIf Heywood Broun and all other people would obey all laws, much money would be saved for the government. It is too bad that we cannot have a law observance campaign and urge people to obey all laws. A. E. Schwind. ",
     "title": "Obey The Law, Save Money",
     "word_count": 124,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:41",
     "entities": [
       {
         "name": "Heywood Broun",
         "type": "person",
-        "identity": "Journalist and columnist"
+        "identity": ""
       },
       {
         "name": "Prohibition Enforcement Department",
         "type": "organization",
-        "identity": "Government department responsible for enforcing prohibition laws"
+        "identity": ""
       },
       {
-        "name": "The Fress",
-        "type": "publication",
-        "identity": "Local newspaper in which the letter was published"
+        "name": "federal enforcement officers",
+        "type": "person",
+        "identity": ""
       },
       {
         "name": "Cleveland",
         "type": "place",
-        "identity": "City mentioned as likely locale of the letter's publication or context."
+        "identity": "Place Name Mentioned in Local Affair"
       },
       {
-        "name": "Ohio",
-        "type": "state",
-        "identity": "State where Cleveland is located, potentially relevant if state-level issues are being addressed."
-      },
-      {
-        "name": "A. E. Schwind.",
+        "name": "A. E. Schwind",
         "type": "person",
-        "identity": "The author of the letter."
+        "identity": "Author of the letter to the editor"
       }
     ],
-    "elapsed_seconds": 35.2
+    "elapsed_seconds": 6.0
   },
   {
     "author": "Joseph J. McCord",
@@ -223,34 +135,16 @@
       "City Politics",
       "National Politics"
     ],
-    "summary": "The letter expresses support for Robert Crosser's integrity and commitment to his own convictions, rather than succumbing to political pressures. The writer acknowledges Crosser's 18-year record in public service and believes he will continue to stand by the people's interests.",
+    "summary": "The letter expresses support for Robert Crosser's independent voting record during his time in public office, contrasting his integrity with the potential for corruption among other politicians who might swayed by political plums or favors.",
     "doctype": "letter",
     "text": "HATS OFF TO CROSSER\n\n To the Editor of The Press: I resent your attempted criticism of Robert Crosser in your editorial entitled, \"Hats Off to Bolton.\" Mr. Crosser has an unimpeachable record of 18 years in public office and he has done nothing to be ashamed of. Any of the congressmen could easily be swayed and led and forced to follow the leader, when it was either that or lose the political plums they could get for their friends. But not so with Bob Crosser; he stood on his own initiative, plums or no plums, and voted his own convictions. That is what takes courage and backbone. He has done what he pledged himself to do for the people, not for the National Economy League, big business or the politicians, I have no doubt that he will continue to take the same stand in 'the future. Being able to follow his own convictions and using his own judgment is what has made Bob Crosser what he is and will continue to make him. Hats off to Bob, and may he put in many more years of publie service. Joseph J. McCord ",
     "title": "Hats Off To Crosser",
     "word_count": 191,
-    "entities": [
-      {
-        "text": "Robert Crosser",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "Congressmen",
-        "type": "office",
-        "identity": "members of the U.S. Congress"
-      },
-      {
-        "text": "Bob",
-        "type": "nickname",
-        "identity": "shortened form of Robert, used affectionately or familiarly"
-      },
-      {
-        "text": "Joseph J. McCord",
-        "type": "person",
-        "identity": "Author of the letter, presumed to be a real person named Joseph J. McCord"
-      }
-    ],
-    "elapsed_seconds": 28.9
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:46",
+    "entities": [],
+    "elapsed_seconds": 3.9
   },
   {
     "author": "Harry T. Hoffman",
@@ -259,105 +153,90 @@
       "City Politics",
       "National Politics"
     ],
-    "summary": "The author expresses support for Adam J. Damm's rumored appointment as the next safety director. They mention his longstanding service to the Democratic organization and his commitment to political duties, citing the sentiments of many people they've spoken to who agree with their view.",
+    "summary": "The letter expresses support for Adam J. Damm's appointment to the position of safety director based on his long service to the Democratic organization and political obligations.",
     "doctype": "letter",
     "text": "WANTS DAMM FOR SAFETY DIRECTOR\n\n To the Editor of The Press: I read with great interest the article appearing in The Fress of March 14 relative to filling the post of safety director, which is to be vacated by Mr. Merrick. Your article mentioned the name of Adam J. Damm for the post. The appointment of Adam J. Damm to this office would certainly be a good move on the part of the Democratic organization and would partially repay Adam J. Damm for his 20 or more years of faithful and tireless service to the Democratic organization and the interest he has shown in the fulfillment of all his political obligations. I have spoken to many people regarding the rumored appointment of Adam J. Damm, and their sentiments are the same as mine. Harry T. Hoffman ",
     "title": "Wants Damm For Safety Director",
     "word_count": 136,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:49",
     "entities": [
       {
-        "text": "Adam J. Damm",
+        "name": "Adam J. Damm",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Merrick",
+        "name": "Merrick",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Harry T. Hoffman",
+        "name": "Harry T. Hoffman",
         "type": "person",
-        "identity": ""
+        "identity": "Author of the letter"
       },
       {
-        "text": "Democratic organization",
+        "name": "Democratic organization",
         "type": "organization",
-        "identity": "Political party in the United States, historically the Democratic Party; mentioned in the context of local or state affairs"
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "City in Ohio, USA; place name is relevant to the letter's local focus."
-      },
-      {
-        "text": "The Press",
-        "type": "organization",
-        "identity": "Newspaper; likely a reference to 'The Cleveland Press', a significant newspaper in Ohio during the 1930s."
-      },
-      {
-        "text": "Ohio",
-        "type": "state",
-        "identity": "U.S. state, relevant to the letter's concern over state affairs"
+        "identity": "Political party"
       }
     ],
-    "elapsed_seconds": 39.5
+    "elapsed_seconds": 5.6
   },
   {
     "author": "Jack Wells",
     "address": "Lakewood American Legion, Post 66.",
     "subjects": [
-      "City Politics",
-      "State Politics",
-      "National Politics"
+      "National Politics",
+      "State Politics"
     ],
-    "summary": "The letter by Jack Wells addresses the event of the assassination of Mayor Anton Cermak and praises the quick action of a legionnaire who knocked down the assassin, Zangara. The legionnaire's intervention prevented a potentially violent reaction from the crowd and was described as both patriotic and divine.",
+    "summary": "The letter discusses the heroism of a legionnaire who knocked down and possibly killed an assassin before he could murder Mayor Anton Cermak. The author marvels at the legionnaire's actions, interpreting it as a 'godlike act' motivated by both patriotism ('for country') and a higher moral principle ('for God'), in line with the American Legion's motto. Despite being asked for his name, the legionnaire chose anonymity, responding only that the American Legion was responsible. The letter underscores the values of bravery, duty, and national pride embodied by the legionnaire.",
     "doctype": "letter",
     "text": "A LEGIONNAIRE'S BRAVE DEED\n\n To the Editer of The Press: Regarding vast reports of our late beloved Mr. Cermak's assassination, you are familiar with even such details as the stomach pains of Zangara, the rat. The world's papers did not mention one pain, which Zangara developed in a hurry. He still clutched his little smokemaker when a man-sized fist socked him, and zingo-Zangara was flatter than an ele-phant's arch. One foot behind the fist was the owner thereof, a tin-helmeted legionnaire from the drum and bugle corps. H\u00e9, like any ex-service man, was taught over there, \"In case of doubt, do some one sensible thing.\" Now comes the practicing of the Legion's slogan: Who can deny that the knockdown was \"for country\"? e In the next flash, the Legion group surrounded and saved this same rat from justly enraged citizens. Who can deny that was a godlike act? Hence, \"for God.\" That great organization of yours-and mine-has a slogan, part of which reads, \"For God and Country, in Peace and in War.\" An excited reporter yelled, \"Who struck him down? What's the legionnaire's name?\" He got a quick answer from that great gang: \"Aw, hell; just tell 'em the American Legion hit him.\". Jack Wells Lakewood American Legion, Post 66. 1 C U t C",
     "title": "A Legionnaire'S Brave Deed",
     "word_count": 215,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:29:54",
     "entities": [
       {
         "name": "Mr. Cermak",
         "type": "person",
-        "identity": "Mayor Anton Cermak."
+        "identity": ""
       },
       {
         "name": "Zangara",
         "type": "person",
-        "identity": "Giuseppe Zangara, assassin of Mayor Cermak."
+        "identity": "Bruno Zangara"
       },
       {
         "name": "tin-helmeted legionnaire",
         "type": "person",
-        "identity": "Unknown soldier from the Legion who knocked down Zangara."
-      },
-      {
-        "name": "Legion group",
-        "type": "organization",
-        "identity": "American Legion."
-      },
-      {
-        "name": "reporter",
-        "type": "person",
-        "identity": "Unnamed reporter."
-      },
-      {
-        "name": "Cleveland",
-        "type": "place",
-        "identity": "City mentioned in the context of local affairs. Likely refers to Cleveland, Ohio."
-      },
-      {
-        "name": "Ohio",
-        "type": "state",
-        "identity": "State where Cleveland is located."
+        "identity": ""
       },
       {
         "name": "American Legion",
         "type": "organization",
-        "identity": "The American Legion, a national organization for veterans."
+        "identity": "United States"
+      },
+      {
+        "name": "Jack Wells",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Lakewood American Legion",
+        "type": "organization",
+        "identity": "Lakewood post of the American Legion in Ohio"
+      },
+      {
+        "name": "Post 66",
+        "type": "organization",
+        "identity": "Specific legionnaire unit within the American Legion"
       }
     ],
-    "elapsed_seconds": 40.4
+    "elapsed_seconds": 9.2
   }
 ]

@@ -5,12 +5,19 @@
     "subjects": [
       "National Politics"
     ],
-    "summary": "The Acting German Consul, W. Friebel, writes to dispel rumors that the Reichstag fire was a government plot. He claims it was an act of organized Communist conspiracy and asserts that the suspension of Social-Democratic newspapers was due to their undermining of the government's authority.",
+    "summary": "The Acting German Consul, W. Friebel, writes to clarify that the Reichstag fire was the result of a Communist conspiracy, and the suspension of Social Democratic newspapers was due to their undermining of the government's authority.",
     "doctype": "letter",
     "text": "ACTING GERMAN CONSUL EXPLAINS REICHSTAG FIRE\n\nLetters to the Editor\n\nTo the Editor of The Press: It appears that some newspapers of this country are being used for a certain propaganda to the effect that the fire which recently. destroyed part of the German Reichstag Building was plotted by persons in close touch with the government in order to throw the odium on the Communist party.\n\nI therefore feel it my duty to announce that according to official advices received by this consulate it has been conclusively proven that xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx mer Royal Castle as well as in the Reithstag, can be traced to the activities of organized Communist conspiracy. The government, therefore, to preserve order especially in ployed, has been compelled to take drastic and extraordinary steps against all subversive movements. The temporary suspension of So-cial-Democratic newspapers was due to the fact that such papers had lately consistently undermined the authority of the government. W. Friebel Acting German Consul. ",
     "title": "Acting German Consul Explains Reichstag Fire",
     "word_count": 163,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:23:05",
     "entities": [
+      {
+        "text": "ACTING GERMAN CONSUL EXPLAINS REICHSTAG FIRE",
+        "type": "title"
+      },
       {
         "name": "W. Friebel",
         "type": "person",
@@ -18,123 +25,190 @@
       },
       {
         "name": "German Consul",
-        "type": "position",
-        "identity": "acting German Consul"
+        "type": "office",
+        "identity": "Acting German Consul"
+      },
+      {
+        "name": "Germany",
+        "type": "country",
+        "identity": ""
+      },
+      {
+        "name": "Reichstag",
+        "type": "office",
+        "identity": "German Reichstag Building"
       },
       {
         "name": "Cleveland",
         "type": "place",
+        "identity": "not mentioned explicitly but possibly relevant due to the mention of 'this country'"
+      },
+      {
+        "name": "Communist party",
+        "type": "organization",
         "identity": ""
       },
       {
-        "name": "Ohio",
-        "type": "state",
+        "name": "subversive movements",
+        "type": "abstract",
+        "identity": "mentioned as being against the government"
+      },
+      {
+        "name": "Social-Democratic newspapers",
+        "type": "organization",
         "identity": ""
       }
     ],
-    "elapsed_seconds": 26.9
+    "elapsed_seconds": 8.9
   },
   {
     "author": "Walter Lee",
-    "address": "6214 Lexington Avenue",
+    "address": "6214 Lexington avenue.",
     "subjects": [
-      "State Politics",
-      "Economy"
+      "Economy",
+      "State Politics"
     ],
-    "summary": "The letter's author, Walter Lee, expresses his discontent with the editorial 'Back the Banks for the General Good' from The Press newspaper. He argues against a proposed law that would limit the withdrawal of commercial accounts in banks. Lee believes that this law could ruin a business owner's credit and give banks too much control over business operations. He is particularly critical of banks charging service fees without providing adequate loan opportunities to businesses. Furthermore, he criticizes banks for their high-interest rates on personal loans and low-interest rates on savings deposits. Lee argues that banks have lost the trust of the public through such practices and calls for laws to control them in the future. He urges fellow citizens to protect the general interest by enforcing sound business principles.",
+    "summary": "The letter is a response to The Press's editorial advocating for backing the banks for the general good. The author, Walter Lee, argues against any law limiting the withdrawal of commercial accounts, stating that the working cash of businesses must remain free. He believes that such a law would allow banks to control businesses and ruin their credit at will. Lee also criticizes the banks for charging fees on deposits and not offering fair rates on loans, highlighting a breach of public trust. He calls for new laws to control banks instead of blindly supporting them.",
     "doctype": "letter",
     "text": "FINDS US UNREASONABLE\n\n To the Editor of The Press: Your editorial, Back the Banks for the General Good, is the most unreasonable thing I have ever read in your paper in sometime. I am sure you do not realize how-disasterous it would be to business to have a law to limit the withdrawal of commercial accounts, even temporarily. It is the working cash of all business, and the one thing that should be free today. Every man's credit is strained to the-limit. He must take advantage of all discounts, etc., to make ends meet. The banks charge a service fee for carrying these accounts, and therefore have no claim on them, and are liable for their payment on demand. Those funds are not for investment. With such a law they can ruin a man's credit and control any business at their discretion. They refusing to loan on real estate, allowing the investor to juggle values until their assets in that line are destroyed. With money borrowed from them on personal security, he erates of interest and large bonus, spaying regular commercial 'rates to them, for our saving deposits drawing 3 per cent for security. They have Violated the conndence and trust of the public. It was a gamble, and they have lost. They should be held to account for it, by laws to control them hereafter. This ocasi\u00f3n calls for calm and clear thinking, but not for uncomplaining acceptance of such conditions. And it is time for all good citizens to protect the general interest, by holding them to sound business principles. Stand back of them in their troubles now, but pr\u00e9pare for the future. Yours for calm and clear thinking. Walter Lee 6214 Lexington avenue. ",
     "title": "Finds Us Unreasonable",
     "word_count": 287,
-    "entities": [
-      {
-        "name": "editor",
-        "type": "office",
-        "identity": ""
-      },
-      {
-        "name": "The Press",
-        "type": "organization",
-        "identity": "Name of the 1930s newspaper"
-      },
-      {
-        "name": "Walter Lee",
-        "type": "person",
-        "identity": ""
-      }
-    ],
-    "elapsed_seconds": 37.3
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:23:13",
+    "entities": [],
+    "elapsed_seconds": 5.4
   },
   {
-    "author": "O. T. Marchand",
-    "address": "",
+    "author": "",
+    "address": "Gates Mills, Ohio",
     "subjects": [
       "Economy",
       "National Politics"
     ],
-    "summary": "The author proposes that the U.S. government call back outstanding Liberty Bonds, issue new money to pay for them, use these bonds as backing for the new currency to prevent deflation, save on interest payments, and increase confidence through taxation of profits from the stock market.",
+    "summary": "The author suggests that the government should retire some of the outstanding Liberty Bonds, print an equivalent amount of new money, and use the bonds as backing for the new currency. They argue that this would save on interest payments, provide tax revenue, and help restore confidence in the economy by preventing dollar deflation. Additionally, they propose a 80 to 90% tax on profits from the stock market to curb speculative behavior.",
     "doctype": "letter",
     "text": "RETIRE BONDS, PRINT MONEY...\n\n To the Editor of The Press: There has been so much said about the government issuing $2,000,000,000 in new money in order to bring more money into circulation. This money would, of course, have no gold value in back of it, therefore it is considered too dangerous, as it would deflate the dollat too low and destroy what confidence there is left. Now suppose the government would call back one of the issues of the, oustanding Liberty Bonds, print said amount of new money. pay face value for them. Said bond to be kept in treasury as backing of newly issued money. If necessary, it can be resold in later years when times are better, re-dating them due in a later year, than they are due now. These bonds certainly should have xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx racy has been fof naught. Also said backing should keep the dollar from deflation. Calling back said bonds will save the government millions of dollars sin interest. Also the taxes derived from this money will repay a good bit of the new money sued. Further in order to bring back confidence, the government should tax 80 to 90 per cent of the profit taken at the stock market. People will then buy stocks for investment and not gamble. Confidence would thus be restored. O. T. Marchand Gates Milis, O. ",
     "title": "Retire Bonds, Print Money...",
     "word_count": 226,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:23:18",
     "entities": [
       {
         "name": "O. T. Marchand",
         "type": "person",
-        "identity": "Author of the letter"
+        "identity": ""
       },
       {
-        "name": "The Press",
-        "type": "organization",
-        "identity": "Name of the Newspaper where the letter is published"
+        "name": "Gates Milis",
+        "type": "person",
+        "identity": ""
       }
     ],
-    "elapsed_seconds": 27.1
+    "elapsed_seconds": 5.1
   },
   {
-    "author": "Rossi Cerrits",
+    "author": "Mr. and Mrs. Rossi Cerri",
     "address": "",
     "subjects": [
-      "Social Issues",
-      "Justice System"
+      "City Politics",
+      "National Politics"
     ],
-    "summary": "The author, Rossi Cerrits, expresses concern over the implications of incarcerating young boys with seasoned criminals. They argue that the psychological impact on these youths could lead to a life of crime and a diminished self-worth, challenging societal norms and the judicial system's approach to juvenile delinquency.",
+    "summary": "The authors express concern over the incarceration of five boys for sneaking into a movie theater, questioning the effectiveness of the justice system in distinguishing between petty offenders and actual criminals. They argue that the boys' minds will be corrupted while in prison and that upon release they will consider themselves social inferiors, leading to a life of crime. The letter calls for consideration by citizens and courts regarding this issue.",
     "doctype": "letter",
     "text": "READERS AROUSED\n\n To the Editor of The Press: We were very much aroused after reading the article in The Press on March 1 in reference to the five boys who were jailed for sneaking Into the State Theater.\n\nOur sociology books, teachers and xxxxxxxxxxxxxxxxxxxxxxxx courts try to is now trying to use science and good judgment in discriminating the thief from the petty offender. What chances in life will these boys kave after mingling with experi-enced criminals? Their minds will be corrupted. After they have been freed they will consider themselves \"social inferiors\" jailbirds and crooks and in most cases act the part. This is something for our citizens and courts to think about. Mr. and Mrs. Rossi Cerrits. ",
     "title": "Readers Aroused",
     "word_count": 119,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:23:23",
     "entities": [],
-    "elapsed_seconds": 16.5
+    "elapsed_seconds": 3.4
   },
   {
     "author": "William B. Bucey",
-    "address": "1367 E. 110th street",
+    "address": "1367 E. 110th street.",
     "subjects": [
+      "City Politics",
       "Economy",
       "Immigration"
     ],
-    "summary": "The author argues against the proposed opening of immigration doors wide during the economic depression, stating that it could lead to job losses for veterans, the cheapening of wages, and a propagation of social degradation. He questions the integrity and intentions behind this policy, suggesting it may be aimed at deunionizing workers and lowering standards.",
+    "summary": "The letter discusses the reemployment of veterans over immigrants and the potential impact on American society, economy, and standards of living. The author questions the motives behind relaxing immigration policies during an economic depression, suggesting that it may contribute to lowering wages and standards of living.",
     "doctype": "letter",
     "text": "TARIFFS AND IMMIGRATION\n\n To the Editor of The Press: Eleven years ago, before we im-posed restriction on immigration, men who wore the uniform of the try on the battlefields of France were thrown out of their jobs every-where and immigrants fresh from the docks put in their places. Why? Because the immigrant would work cheaper and because he esteemed the cut-wage a princely salary com-pared to what he could earn at home.\n\nAre we to encourage the develop-ment of the misery of European slums and social degradation in our land and are we to make fertile fields for the propagandists of Gom munism and others who destroy our social, economic and political order?\n\nAre we to repeat the sad experi-ence of 11 years ago and under cir-cumstances less trying than those of the present time?\n\nAre we to disregard the pledge secured by President Hoover in the beginning of this period of depres-sion from leading industrialists, not to lower standards of work nor re-duce prevailing wages in return for xxxxxxxxxxxxxxxx not to seek higher standards?\n\nAre we to believe that this entire program for the opening wide our portals to both foreign workers and goods of foreign people is inspired and designed to liquidate isbor and force a lowering of our standards? Can we honestly draw any other dedustion? William B. Bucey 1367 E. 110th street.",
     "title": "Tariffs And Immigration",
     "word_count": 226,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:23:26",
     "entities": [
+      {
+        "name": "President Hoover",
+        "type": "person",
+        "identity": "Franklin D. Roosevelt was President at the time this letter was written in the 1930s; however, the name 'President Hoover' suggests Herbert Hoover, who was President from 1929 to 1933."
+      },
       {
         "name": "William B. Bucey",
         "type": "person",
-        "identity": ""
+        "identity": "The identity of William B. Bucey is not provided in the text. He appears to be the author of the letter."
       },
       {
-        "name": "President Hoover",
-        "type": "office",
-        "identity": "United States President at the time of economic depression"
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "The mention of '1367 E. 110th street' suggests a location within Cleveland, Ohio, hinting that local affairs might be the focus."
       },
       {
-        "name": "leading industrialists",
+        "name": "immigrants",
+        "type": "person",
+        "identity": "These are individuals from other countries who moved to the United States during the 1930s, often seeking better opportunities."
+      },
+      {
+        "name": "European slums",
+        "type": "place",
+        "identity": "Refers to the impoverished neighborhoods in European cities, which were common at the time."
+      },
+      {
+        "name": "Gom munism",
         "type": "organization",
-        "identity": "Prominent business leaders in the United States"
+        "identity": "This appears to be a misspelling or an incorrect transcription of 'Communism', referring to the political ideology and governance system led by the Soviet Union, which was influential and often criticized during the 1930s."
+      },
+      {
+        "name": "standards of work",
+        "type": "concept",
+        "identity": "Refers to the quality or level of work expected from employees."
+      },
+      {
+        "name": "prevailing wages",
+        "type": "concept",
+        "identity": "This refers to the standard pay rates that were common in the workforce at the time."
+      },
+      {
+        "name": "standards of work nor re-duce prevailing wages",
+        "type": "concept",
+        "identity": "This is a directive from leading industrialists not to lower job quality or reduce pay as part of an economic deal during the Great Depression."
+      },
+      {
+        "name": "program for the opening wide our portals to both foreign workers and goods",
+        "type": "concept",
+        "identity": "This refers to policies and proposals aimed at easing immigration and trade during the 1930s."
+      },
+      {
+        "name": "foreign workers",
+        "type": "person",
+        "identity": "Workers who are not citizens of the country in which they are working\u2014in this case, the United States."
+      },
+      {
+        "name": "goods of foreign people",
+        "type": "concept",
+        "identity": "Refers to products manufactured or produced by people from other countries."
+      },
+      {
+        "name": "Isbor",
+        "type": "concept",
+        "identity": "This appears to be a misspelling of 'Socialism' or 'Soviet Union,' which the author suggests is being 'liquidated' through immigration and trade policies."
       }
     ],
-    "elapsed_seconds": 29.6
+    "elapsed_seconds": 16.5
   }
 ]

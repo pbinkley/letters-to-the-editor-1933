@@ -6,234 +6,296 @@
       "Economy",
       "National Politics"
     ],
-    "summary": "The author, John McCarthy, opposes the revaluation of gold dollars as a solution to economic depression issues. He argues that it would cause confusion in international trade and doesn't address the core factors affecting prices, such as the decrease in credit and circulation. McCarthy sees bank stringency (withdrawals exceeding deposits) as a manageable situation akin to drawing less water from a well than it seeps in, suggesting the crisis is temporary and will improve.",
+    "summary": "The author, John McCarthy, disputes the notion of revaluing the gold dollar during the Great Depression, arguing that such an action would lead to confusion in international trade and doesn't necessarily correlate with higher prices due to the simultaneous decrease in credit and circulation. He compares the economic situation to a water well analogy, suggesting that drawing less from the 'well' (bank withdrawals) and allowing more to 'seep in' (deposits) will solve the temporary low reserves issue.",
     "doctype": "letter",
     "text": "TO THE EDITOR OF THE PRESS:\n\nThe demand that the gold dollar be revalued is foolish. If we Americans were to revalue, without other nations doing likewise, the value of our currency in relation to the value of theirs would be dislocated; and the result would be confusion in foreign exchange and international trade.\n\nWith gold revalued our present stock of gold 'would serve as a basis for a greater quantity of currency: but currency has been increasing all through the depression-while prices have been dropping-so why assume that more currency would bring higher prices? Prices do not depend on currency alone, they depend also on the total amount of credit outstanding and on the rapidity with which both currency and credit circulate.\n\nWhile there has been an increase in. in currency, there has been a decrease a very big decrease in credit and circulation and so the three combined are much less now than in 1929; which is why prices are much lower.\n\nRevalued gold would provide more potential credit, but there was plenty of potential credit at the banks long after the depression started; but the business world didn't need it and couldn't use it. Had there been more, what good would it have been?\n\nGold revaluation would only bring confusion. It wouldn't help matters a particle. As for the present bank stringency, it simply means that for a considerable time withdrawals have been exceeding deposits. The bank's reserves have thus become a little low. It is precisely like drawing water out of a well faster than the water seeps in. We will have to draw less out for a while, and let more seep in. The situation is not really serious and it will steadily improve. John McCarthy 1730 W. 38th street. ",
     "title": "To The Editor Of The Press:",
     "word_count": 296,
-    "entities": [],
-    "elapsed_seconds": 23.9
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:24:32",
+    "entities": [
+      {
+        "name": "John McCarthy",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "No explicit mention of 'Cleveland' in terms of local affairs."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": ""
+      },
+      {
+        "name": "gold dollar",
+        "type": "currency",
+        "identity": "A specific reference to the gold dollar standard."
+      },
+      {
+        "name": "foreign exchange",
+        "type": "concept",
+        "identity": "The concept is mentioned in the context of potential effects of revaluing gold."
+      },
+      {
+        "name": "currency",
+        "type": "concept",
+        "identity": "The letter discusses the increase in currency during the depression."
+      },
+      {
+        "name": "credit",
+        "type": "concept",
+        "identity": "Decrease in credit and circulation is mentioned as a factor affecting prices."
+      },
+      {
+        "name": "prices",
+        "type": "concept",
+        "identity": "The letter explains that prices depend on more than just currency, including credit outstanding and circulation."
+      },
+      {
+        "name": "bank",
+        "type": "organization",
+        "identity": "Reference to bank stringency and reserve levels."
+      },
+      {
+        "name": "withdrawals",
+        "type": "action",
+        "identity": "The letter mentions withdrawals exceeding deposits causing bank reserves to decrease."
+      },
+      {
+        "name": "deposits",
+        "type": "action",
+        "identity": "The letter refers to deposits as the source of a bank's water supply in a metaphor comparing it to drawing from a well."
+      },
+      {
+        "name": "water",
+        "type": "metaphor",
+        "identity": "Used as a metaphor for comparing withdrawals and deposits in a bank."
+      }
+    ],
+    "elapsed_seconds": 14.1
   },
   {
     "author": "Mrs. Frank Laraway",
-    "address": "1038 Oakwood avenue, Toledo",
+    "address": "1038 Oakwood Avenue, Toledo",
     "subjects": [
-      "Family",
-      "Local"
+      "National Politics"
     ],
-    "summary": "A heartbroken mother, Mrs. Frank Laraway, is seeking information about her missing daughter, Mary Scott Jackman, by appealing to the editor of The Press to publish her plea in the paper. Mrs. Laraway has not heard from her daughter for some time and is concerned due to her illness.",
+    "summary": "A heartbroken mother, Mrs. Frank Laraway, is seeking news of her missing daughter, Mary Scott Jackman, by publishing an appeal in the newspaper. She has not heard from her daughter for some time and expresses concern through her letter. The subject of her letter is national politics, although this seems incidental to her primary request for information about her daughter.",
     "doctype": "letter",
     "text": "MOTHER SEEKS HER DAUGHTER\n\n To the Editer of The Presst Will you please print this in your paper for a poor heartbroken mother?\n\nMary Scott Jackman or Mrs. Bonnie. Higt please write to mother at once. I am ill and would love to hear from you.\n\nI have not heard from my daughter for some time. I feel sure she will see this message in your paper.. May God bless you is the wish for this 70-year-old mother. Mrs. Frank Laraway 1038 Oakwood avenue Toledo. ",
     "title": "Mother Seeks Her Daughter",
     "word_count": 85,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:24:46",
     "entities": [
       {
-        "text": "MOTHER SEEKS HER DAUGHTER",
-        "type": "subject"
-      },
-      {
-        "name": {
-          "text": "Mary Scott Jackman",
-          "identity": "likely a person, daughter of the letter writer Mrs. Frank Laraway"
-        },
+        "name": "Mary Scott Jackman",
         "type": "person",
-        "identifier": "daughter mentioned in the letter"
+        "identity": ""
       },
       {
-        "name": {
-          "text": "Mrs. Bonnie",
-          "identity": "unknown without further context, possibly another person mentioned"
-        },
+        "name": "Mrs. Bonnie",
         "type": "person",
-        "identifier": "possible other identity of the daughter or a separate individual"
+        "identity": ""
       },
       {
-        "name": {
-          "text": "Frank Laraway",
-          "identity": "likely a person, husband of the letter writer Mrs. Frank Laraway"
-        },
+        "name": "Frank Laraway",
         "type": "person",
-        "identifier": "husband mentioned indirectly"
+        "identity": "Husband of Mrs. Frank Laraway"
       },
       {
-        "name": {
-          "text": "Mrs.",
-          "identity": "title used for the letter writer; assumed to be a woman"
-        },
-        "type": "title",
-        "identifier": "title for the letter writer"
+        "name": "Mrs. Frank Laraway",
+        "type": "person",
+        "identity": "Mother seeking her daughter"
       },
       {
-        "name": {
-          "text": "1038 Oakwood avenue",
-          "identity": "address where the letter writer lives"
-        },
+        "name": "Bonnie Jackman",
+        "type": "person",
+        "identity": ""
+      },
+      {
+        "name": "Cleveland",
         "type": "place",
-        "identifier": "specific address mentioned in the letter"
+        "identity": "Not explicitly mentioned as a critical location but included as it fits the historical context (1930s) where such requests often involved larger, possibly regional newspapers serving areas like Ohio. No specific local detail provided in letter content to limit to 'Ohio'."
       },
       {
-        "name": {
-          "text": "Toledo",
-          "identity": "city mentioned in the context, likely relates to location of mother and daughter"
-        },
+        "name": "Toledo",
         "type": "place",
-        "identifier": "city where the writer lives and presumably her daughter is missing from"
+        "identity": "City where the mother lives"
       },
       {
-        "name": {
-          "text": "The Press",
-          "identity": "publication mentioned in the letter; presumed to be the name of the 1930s newspaper"
-        },
+        "name": "The Presst",
         "type": "organization",
-        "identifier": "name of the newspaper where the letter is printed"
-      },
-      {
-        "name": {
-          "text": "Cleveland",
-          "identity": "not explicitly mentioned in the text, but inferred to be relevant given the time and location context (Ohio)"
-        },
-        "type": "city",
-        "identifier": "if the letter pertains to local matters from the 1930s Ohio area, which is likely given the format"
-      },
-      {
-        "name": {
-          "text": "Ohio",
-          "identity": "state mentioned indirectly; inferred to be the location where the daughter went missing or where the mother resides"
-        },
-        "type": "state",
-        "identifier": "likely relevant state based on the time and place context of the letter"
+        "identity": "Name of the newspaper publishing the letter"
       }
     ],
-    "elapsed_seconds": 72.0
+    "elapsed_seconds": 8.0
   },
   {
     "author": "Rabbi Jacob Richman",
     "address": "",
     "subjects": [
-      "State Politics",
-      "National Politics",
       "Economy",
+      "National Politics",
+      "City Politics",
+      "State Politics",
       "World Events"
     ],
-    "summary": "The author argues that in order to overcome the economic and crime crises, society must prioritize spiritual development alongside material foundations. He criticizes the lack of spiritual growth among people due to indifferent attitudes towards religion, broken homes, and nominal religious practices.",
+    "summary": "The author argues that in order to address both economic calamity and rising crime rates, society must focus on spiritual and moral development. While the country has been preoccupied with economic recovery, it's essential to re-establish a strong moral foundation within families and religious institutions. The freedom obtained through generations of struggle should not be taken for granted but instead serve as a basis for living with spiritual values and responsibility towards God and fellow humans.",
     "doctype": "letter",
     "text": "NEEDS OF THE SPIRIT\n\n To the Editor of The Press: According to the version of ereation the physical part of original xxx xxxxx xxx xxxxxx xxxx xxx divine particle called soul inserted afterward. This indicates to us that we human beings in the conduct of our lives must have a material foundation first if there is to be a spiritual development. True as it is that man cannot live by bread alone, precedence must be given bread. Without substance there is no room for spiritual growth.\n\nWhile during the last three years we have set the best minds of our country to thinking of how to bring the economical calamity to a close, consideration should not be withheld for the waves of crime which have spread over our country. If we are to survive economically we must make spiritual readjustment as well. Unless we do uphold our moralstandard we would not be able to avail ourselves of prosperity when it comes. We cannot put all the responsibility for our moral laxity upon the present day difficulties. Its origin must be sought in our broken homes, our nominally religious institutions that afford no spiritual training.\n\nFor countless generations men had struggled for freedom, willing to live and die for the right to worship and now in an age with that freedom attained, what does that freedom mean to us? We have become indifferent, we neither affirm nor deny religion. We think of God as one who is tolerated by us instead of thinking us tolerated by him. We pay our debt to him by coming once in a while or even once a year to church or temple, rolling presumptuously in munificence in luxuriant pews, appreciating the sensuous atmosphere with no relation to the love of God which is also the love and consideration of our fellowmen. It is real prayer and worship that prevents the infliction of pain in others and is able to check crime and vice and enable men to enjoy life to the fullest. Rabbi Jacob Richman, Lorain, O. ",
     "title": "Needs Of The Spirit",
     "word_count": 345,
-    "entities": [
-      {
-        "text": "Rabbi Jacob Richman",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "city in Ohio, United States"
-      },
-      {
-        "text": "Lorain",
-        "type": "place",
-        "identity": "town in Ohio, United States"
-      },
-      {
-        "text": "country",
-        "type": "place",
-        "identity": "United States"
-      }
-    ],
-    "elapsed_seconds": 34.4
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:24:54",
+    "entities": [],
+    "elapsed_seconds": 4.6
   },
   {
     "author": "Louis Branch",
     "address": "313 Townsend street\nWilmington, Del.",
     "subjects": [
       "City Politics",
-      "National Politics"
+      "Economy"
     ],
-    "summary": "The letter's author, Louis Branch, is seeking to locate their extended family in Cleveland. Despite living in Wilmington, Delaware, they have lost touch with their twin brother, sister, aunt, uncle, and cousins for eight years. Branch provides the names Lee Branch (brother), Elsie Branch (sister), Sarah Briggs (aunt), and Cleter and Mitchell Briggs (uncles) and hopes The Press newspaper will assist in this reunion endeavor.",
+    "summary": "The author, Louis Branch, is seeking to reconnect with his family members who live in Cleveland. He mentions living in Wilmington, Delaware and provides details about his relatives, including their names and the last known location: 'the Roaring Third,' a term used at the time which likely refers to the economically booming area of Ohio around Cleveland.",
     "doctype": "letter",
     "text": "LOOKING FOR RELATIVES\n\n To the Editor of The Press: I have a twin brother, a sister and an aunt and two uncles living in Cleveland and I haven't heard from any of them for eight years. I hope you will help me locate them. I want to hear from them.\n\nAll of them live in what you people call the Roaring Third, but that is all I know.\n\nMy brother is Lee Branch, my sister, Elsie Branch; my aunt, Sarah Briggs, and my uncles, Cleter and Mitchell Briggs. I would like to hear from any of them. Louis Branch 313 Townsend street Wilmington, Del. ",
     "title": "Looking For Relatives",
     "word_count": 104,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:24:58",
     "entities": [
       {
-        "text": "Lee Branch",
+        "name": "Lee Branch",
         "type": "person",
-        "identity": "Hypothetical person; likely a sibling as mentioned in the letter."
+        "identity": ""
       },
       {
-        "text": "Elsie Branch",
+        "name": "Elsie Branch",
         "type": "person",
-        "identity": "Hypothetical person; likely another sibling as mentioned in the letter."
+        "@identity": ""
       },
       {
-        "text": "Sarah Briggs",
+        "name": "Sarah Briggs",
         "type": "person",
-        "identity": "Hypothetical person; likely an aunt as mentioned in the letter."
+        "identity": ""
       },
       {
-        "text": "Cleter Briggs",
+        "name": "Cleter Briggs",
         "type": "person",
-        "identity": "Hypothetical person; likely an uncle as mentioned in the letter."
+        "identity": ""
       },
       {
-        "text": "Mitchell Briggs",
+        "name": "Mitchell Briggs",
         "type": "person",
-        "identity": "Hypothetical person; likely another uncle as mentioned in the letter."
+        "identity": ""
       },
       {
-        "text": "Cleveland",
+        "name": "Cleveland",
         "type": "place",
-        "identity": "Real place; the city where the writer's relatives live according to the letter."
+        "identity": "The place where the narrator's relatives live, likely a city given the context."
       },
       {
-        "text": "Roaring Third",
-        "type": "location",
-        "identity": "Hypothetical term; could refer to a specific neighborhood or area within Cleveland. No additional historical information available without more context."
+        "name": "Ohio",
+        "type": "region",
+        "identity": "State where Cleveland is located; mentioned because affairs seem to be state-level given the 'Roaring Third' reference (historically associated with Ohio)."
       },
       {
-        "text": "Louis Branch",
+        "name": "Roaring Third",
+        "type": "region",
+        "identity": "The term refers to a specific area in Ohio around the 1930s, indicating local affairs."
+      },
+      {
+        "name": "Louis Branch",
         "type": "person",
-        "identity": "Real person; the writer of the letter according to the text."
+        "identity": "Appears to be the author of the letter"
       },
       {
-        "text": "Wilmington, Del.",
+        "name": "313 Townsend street",
         "type": "place",
-        "identity": "Real place; the location from where the letter was written."
+        "identity": "The narrator's address in Wilmington, Delaware"
+      },
+      {
+        "name": "Wilmington",
+        "type": "city",
+        "identity": "City where the narrator lives; not part of the relatives' location but relevant to the sender's identity."
       }
     ],
-    "elapsed_seconds": 54.5
+    "elapsed_seconds": 10.2
   },
   {
     "author": "Henry Dill Benner",
-    "address": "77 Heller Parkway\nNewark, N. J.",
+    "address": "77 Heller Parkway, Newark, N. J.",
     "subjects": [
+      "City Politics",
       "State Politics",
-      "National Politics",
-      "Economy",
-      "World Events"
+      "National Politics"
     ],
-    "summary": "The letter discusses the visibility of astronomical features such as Orion's Belt and the Pleiades in the night sky, providing specific viewing instructions with an opera glass. It mentions the progression of Orion's position in the sky over time, and how to locate the Great Nebula within Orion's sword. The writer also hints at broader societal implications through metaphor.",
+    "summary": "The letter discusses the visibility of celestial bodies in the night sky, specifically Orion's Belt and the Pleiades, and suggests using an opera glass for a better view. It mentions the changing position of Orion in the sky and encourages readers to observe these wonders using a Scout compass.",
     "doctype": "letter",
     "text": "ORION'S GLASS\n\n To the Editor of The Press Possibly not all of your well-in-formed readers know that the most outstanding diagram in the night-sky is Orion's Beauty-Glass in the form of a baseball diamond, held by that mighty hunter in such a way the beautiful Seven Sisters forming the Pleiades can behold their own loveliness and at the same time keep an ever-watchful eye on that ever-following gentleman.\n\nOrion is now on our nosth-south line (known as the meridian, easily found with a Scout compass, if not known) about 7 p. m., and will be on it four minutes earlier each succeeding night, directly between us and the south pole of the sky. xxxxxxxxxxxxxxxxxxxxxxxxxxxx upper-left side of the glass; his three \"sword stars\" its handle.\n\nAn opera-glass will give a better view of his Great Nebula, whose exact location is clearly marked by the middle star in the handle.\n\nThe opera glass will also give amost splendid view of the Fairies Dipper in the Pleiades easily seen out beyond Aldebaran and his Vshaped group, by sighting from the left to the right, along the \"belt stars.\" Henry Dill Benner 77 Heller Parkway Newark, N. J. ",
     "title": "Orion'S Glass",
     "word_count": 196,
-    "entities": [],
-    "elapsed_seconds": 24.1
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:25:08",
+    "entities": [
+      {
+        "name": "Orion",
+        "type": "celestial body",
+        "identity": ""
+      },
+      {
+        "name": "Seven Sisters",
+        "type": "constellation",
+        "identity": "the Pleiades"
+      },
+      {
+        "name": "Henry Dill Benner",
+        "type": "person",
+        "identity": "Author of the letter"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "Not explicitly mentioned in the context but inferred as the location relevant to the letter content."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "The state in which Newark, N. J. is located, though not explicitly named in the letter."
+      }
+    ],
+    "elapsed_seconds": 7.0
   },
   {
     "author": "Albert Frederick",
     "address": "",
     "subjects": [
-      "City Politics",
-      "National Politics"
+      "National Politics",
+      "Economy"
     ],
-    "summary": "The author, Albert Frederick, expresses his disapproval of organ music on the radio. He argues that it is overly loud and not very beautiful, having been associated with movie advertisements. He also criticizes the mouth organ as a more sensitive and beautiful instrument than the pipe organ.",
+    "summary": "The author disapproves of the overemphasis on organ music on the radio and expresses disdain towards both pipe and mouth organs, considering them overrated and not as beautiful as other musical instruments. Despite this, he tolerates their presence if not forced upon him.",
     "doctype": "letter",
     "text": "ORGANS. AND MOUTH ORGANS\n\n To the Editor of The Press: I read in your paper where a man named Murphy thinks there ought to be more organ music on the radio.\n\nIt's o. k. with me, because I have already thrown my radio into the ash can because every time I turned the blamed thing on it started putting out organ music, but I should imagine that it would be an unnecessary cruelty to lots of other people, especially shutins that can't help listening to the radio.\n\nThe reason some people like organ music, I think, is because it is so loud. It certainly is not very beautiful. It wasn't even very beautiful before it got associated with movie advertisements of what's coming next week and what's showing at all the other houses in the city.\n\nPersonally, I regard the mouth organ as a much more sensitive and beautiful instrument than the pipe organ, which is the most overrated thing in the whole musical world. And I don't think much of the mouth organ.\n\nAlbert Frederick. ",
     "title": "Organs. And Mouth Organs",
     "word_count": 176,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:25:14",
     "entities": [
       {
         "name": "Murphy",
@@ -241,62 +303,91 @@
         "identity": ""
       },
       {
-        "name": "Albert Frederick.",
-        "type": "person",
+        "name": "I",
+        "type": "unknown",
         "identity": ""
+      },
+      {
+        "name": "shutins",
+        "type": "hypothetical",
+        "identity": "people who are confined indoors and cannot avoid listening to the radio"
+      },
+      {
+        "name": "Cleveland",
+        "type": "place",
+        "identity": "city mentioned in the context of movie advertisements"
+      },
+      {
+        "name": "pipe organ",
+        "type": "musical instrument",
+        "identity": "organ type mentioned as being overrated"
+      },
+      {
+        "name": "mouth organ",
+        "type": "musical instrument",
+        "identity": "another musical instrument referred to as 'sensitive and beautiful'"
+      },
+      {
+        "name": "Albert Frederick",
+        "type": "person",
+        "identity": "the letter writer's full name"
       }
     ],
-    "elapsed_seconds": 21.2
+    "elapsed_seconds": 7.9
   },
   {
     "author": "Thomas Q. Lempertz",
     "address": "1230 E. Ninth street.",
     "subjects": [
       "City Politics",
-      "National Politics"
+      "National Politics",
+      "Economy"
     ],
-    "summary": "The author disputes the information provided in a previous edition of The Cleveland Press concerning the original name of Constantinople. According to Lempertz, the city was named after Constantine the Great when he established the eastern seat of Roman government there in 330 A.D., and the claim that it was originally called Istambul by the Turks is incorrect.",
+    "summary": "The author disputes the claim that Constantinople was renamed to Istambul by the Turks before 1453 AD. They argue that the city's original name is Byzantium, established by Greek colonists in the Sixth Century BC, and that Constantine the Great renamed it to Constantinople in 330 AD when he made it the new eastern capital of the Roman Empire.",
     "doctype": "letter",
     "text": "CONSTANTINOPLE'S CHANGING NAMES\n\n To the Editor of The Press: In the question and answer column of The Cleveland Press for March 3, I find the following: Question: What was the original name for Constantinople?\n\nAnswer: Istambul is the old Turkish name. It was changed to Constantinople in honor of Constantine the Great, and recently the Turks have returned to the former name.\n\nThe above answer is obviously incorrect. Constantinople did not fall into the hands of the Ottoman Tarks until 1453 A. D., when the Eastern Roman Empire, so-called, came to an end. It is highly im-probable that it was given a Turkish name prior to that date. True, Istambul is the old Turkish name, but it is not the original. The city was first called after Constantine when that emperor established the eastern seat of Roman government at that point in 330 A. D. To do this, he enlarged the town of Byzantium and called the result after himself. However, even then the name Byzantium still clung and today we still speak of Byzantine language and Byzantine architecture,\n\nByzantium was settled sometime in the Sixth Century B. C. by Greek colonists. As far as I am able to determine, that is the original name of the settlement at that place. Thomas Q. Lempertz 1230 E. Ninth street.",
     "title": "Constantinople'S Changing Names",
     "word_count": 218,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:25:21",
     "entities": [
-      {
-        "text": "CONSTANTINOPLE'S CHANGING NAMES",
-        "type": "topic"
-      },
-      {},
       {
         "name": "Constantinople",
         "type": "place",
-        "identity": "The capital city of the Eastern Roman Empire from its move from Rome to Byzantium in 330 AD, renamed by Emperor Constantine the Great. It remained the capital of the Byzantine Empire until its conquest by the Ottomans in 1453 AD."
+        "identity": ""
       },
       {
-        "name": "Istanbul",
+        "name": "Istambul",
         "type": "place",
-        "identity": "The modern name for Constantinople after the Ottoman Turks renamed it in the 15th century. It is now the largest city in Turkey and a significant cultural and historical center."
+        "identity": "old Turkish name for Constantinople"
       },
       {
         "name": "Constantine",
         "type": "person",
-        "identity": "Roman Emperor who moved the capital of the Roman Empire to Byzantium, renaming it Constantinople in 330 AD."
+        "identity": "Emperor Constantine the Great"
+      },
+      {
+        "name": "Constantinople",
+        "type": "place",
+        "identity": "city renamed in honor of Constantine the Great"
+      },
+      {
+        "name": "Eastern Roman Empire",
+        "type": "organization",
+        "identity": "so-called"
+      },
+      {
+        "name": "Byzantium",
+        "type": "place",
+        "identity": "original name of the settlement at that place, settled in the Sixth Century B.C. by Greek colonists"
       },
       {
         "name": "Thomas Q. Lempertz",
         "type": "person",
-        "identity": "The writer of the letter to The Cleveland Press, providing a critique of the answer given regarding the name changes of Constantinople."
-      },
-      {
-        "text": "Cleveland",
-        "type": "place",
-        "identity": "Not mentioned directly in the letter, but if this letter is indeed from or about local affairs in Cleveland, Ohio, it would be included here with a placeholder identity noting its absence in the letter text."
-      },
-      {
-        "text": "Ohio",
-        "type": "state",
-        "identity": "The state where Cleveland is located; referenced indirectly if the letter pertains to state-level matters not specified in the text."
+        "identity": "author of the letter to the editor"
       }
     ],
-    "elapsed_seconds": 55.4
+    "elapsed_seconds": 9.0
   }
 ]

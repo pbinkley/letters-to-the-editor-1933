@@ -1,95 +1,142 @@
 [
   {
     "author": "F. J. Turk",
-    "address": "830 E. 185th street",
+    "address": "830 E. 185th street.",
     "subjects": [
-      "National Politics",
-      "Economy"
+      "National Politics"
     ],
-    "summary": "The author expresses satisfaction with the change in leadership, comparing it to switching to a lively 'bronco' of a political figure who promises to take the country in the right direction swiftly, leaving behind old practices and objectionable figures. They advocate for staying informed through multiple media sources to keep up with the new administration's progress.",
+    "summary": "The author is pleased with the change in political leadership, describing the new administration as a 'lively, bucking bronco' that is swiftly taking the country in the direction it needs to go without needing guidance or restraint.",
     "doctype": "letter",
     "text": "WE CHANGED IN MIDSTREAM, AND THE NEW HORSE GOES\n\n Letters to the Editor To the Editor of The Press: Well, aren't we glad that we changed horses in the middle of the stream. Now we will get some place. The new horse is no ordinary plug, it proves to be a lively, bucking bronco; such as any political stable ought to be proud of. No sooner than we hit the saddle, this bronco leaps into the air, snorting and stamping and out of the stream we go, in fact, so fast that we can hardly observe old timber passing, giant and decayed diplomatic oaks, old fumblers or money-changers, old hens setting on golden eggs, hatching poverty. Also calamity-howling demagogs who objected to any kind of a move. Yes, the new bronco is fast leaving them all behind. Oh, boy! but you are forced to hold fast to the new bronco to keep abreast. One is compelled to read three newspapers a day, besides tuning in on the radio, to get the new events, Why, the new horsey seems to know the way which we all want to go without guiding or pulling on the reins. It seems to me that it was our good fortune to have a horse in the middle of the stream to change to F. J. Turk 830 E. 185th street. ",
     "title": "We Changed In Midstream, And The New Horse Goes",
     "word_count": 225,
-    "entities": [
-      {
-        "text": "To the Editor of The Press:",
-        "type": "office",
-        "identity": {}
-      },
-      {
-        "text": "Letters to the Editor",
-        "type": "section",
-        "identity": "Title of the section"
-      }
-    ],
-    "elapsed_seconds": 27.2
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:27:26",
+    "entities": [],
+    "elapsed_seconds": 3.5
   },
   {
     "author": "N. Bohar",
     "address": "",
     "subjects": [
-      "State Politics",
-      "Economy"
+      "Economy",
+      "City Politics"
     ],
-    "summary": "The author, N. Bohar, president of the St. Clair Street Chapter Progressive Barbers' Association, writes to support the barber bill in the Ohio Senate. Bohar argues that 385% of Ohio barbers are in favor of the bill, which would license barbers to protect public health and ensure sanitary practices in barber shops. The bill is also intended to prevent unlicensed barbers from other states, who have been rejected due to health issues, from operating in Ohio. Bohar states that this practice is supported by the experience of 38 other states and dismisses the notion that barbers seek a political football, emphasizing their desire for protection of their business and public health.",
+    "summary": "The letter is from N. Bohar, the President of the St. Clair Street Chapter of the Progressive Barbers' Association. Bohar supports a barber licensing bill in the Ohio Senate, arguing that it's necessary for public health and business protection. The author states that 85% of Ohio barbers support the bill and emphasizes that the proposed board would be self-sustaining, financed by barber license fees. Bohar also mentions that 38 states have similar licensing measures and that Ohio is lagging behind in this matter. Additionally, the letter addresses the issue of rejected barbers from other states moving to Ohio due to the lack of licensing requirements here.",
     "doctype": "letter",
     "text": "FAVORS LICENSE FOR BARBERS\n\n To the Editor of The Press: In your editorial of March 8 under the caption of \"Politicians Next,\" I read the article and it appears that you are opposing the barber bill in the Ohio Senate and I wonder if you are aware of the exact conditions of the barbering industry. Thirty-eight states in the Union have, found it necessary to license barbers to protect the health of the general public. This bill is patterned from the experience gained in the other states. The state of Ohio is completely surrounded by states having license bills and we find the barber who has been rejected in these various states coming into Ohio. Most of these men have been rejected because of diseases which prohibit them from working at the barbering profession in their home states. Eighty-fiv\u00e9 per cent of the barbers in the state of Ohio are in favor of the bill. The board created by the bill is self-sustaining from the license fee of the barber. It is no desire of the barbers to create a political football, but an honest desire to protect their business, the health of their patrons, and to assure the public that the men operating barber shops are barbers and operate a shop in the most sanitary method known. Under the bill, the board must consist of barbers and the barbers in Qhio had a similar bill before the Ohio Legislature for the past 30 years, and it is not a new idea even in Ohio, but Ohio is real backward on this subject. N. Bohar President of the St. Clair Street Chapter Progressive Barbers' Association. ",
     "title": "Favors License For Barbers",
     "word_count": 275,
-    "entities": [],
-    "elapsed_seconds": 26.7
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:27:29",
+    "entities": [
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": ""
+      },
+      {
+        "name": "Ohio Senate",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "name": "state of Ohio",
+        "type": "place",
+        "identity": "Ohio"
+      },
+      {
+        "name": "N. Bohar",
+        "type": "person",
+        "identity": "President of the St. Clair Street Chapter Progressive Barbers' Association."
+      },
+      {
+        "name": "barber bill",
+        "type": "office",
+        "identity": ""
+      },
+      {
+        "name": "Ohio Legislature",
+        "type": "office",
+        "identity": "Ohio Legislature"
+      }
+    ],
+    "elapsed_seconds": 8.6
   },
   {
     "author": "Mrs. M. Ekherg",
-    "address": "1736 E. 238th street",
+    "address": "1736 East 238th Street",
     "subjects": [
-      "National Politics",
-      "Economy"
+      "National Politics"
     ],
-    "summary": "The letter supports former President Herbert Hoover, blaming current hardships on the Democratic politicians who opposed his efforts during World War I and last fall. Mrs. Ekherg argues that Hoover's foresight in averting a larger disaster earns him no credit, contrasting it with a hypothetical scenario where he would have been hailed as a hero.",
+    "summary": "The author praises former President Herbert Hoover's actions during World War I, asserting his importance in preventing starvation and promoting governmental economies. She criticizes Democratic politicians for not supporting Hoover, blaming them for the economic hardships faced during the Great Depression. Additionally, she laments the lack of public appreciation for Hoover's foresight and integrity.",
     "doctype": "letter",
     "text": "DEFENDS HOOVER, BLAMES RAPER\n\n To the Editor of The Press: The best thing I've seen in your paper for a long time was a letter from Mr. Emil A. Greene. I think every honest American blushes when he reads such \"bright sayings\" as Mr. Raper made in his column about former President Hoover. There are still 15,000,000 Americans who haven't forgotten how necessary Mr. Hoover was during the World War; how the same engineering ability that has been made so much light of during the last few years s\u00e5ved millions from starvation. Nor have we forgotten how the Democratic politicians took millions of dollars out of the taxpayers' pockets by not supporting Mr. Hoover in his efforts to produce governmental economies and measures to bring about the return of prosperity. We have not forgotten, either, that we were well on the road to prosperity last fall and would probably have avoided the suffering we are now enduring, if we would have voted for patriotic Americans instead of politicians. Because Mr. Hoover had foresight enough to see disaster as it approached and detoured us into safe highways, he receives no credit. If he would have allowed us to have been ship wrecked and then saved us, we would have called him a great hero. However, no truly great men have been honored while they lived; people chose Barabbas instead of Jesus Christ and so it i expecting too much from people to expect them to honor a man as honest, intelligent and self-sacrias Mr. Hoover.\n\nMrs. M. Ekherg 1736 E. 238th street ",
     "title": "Defends Hoover, Blames Raper",
     "word_count": 261,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:27:37",
     "entities": [
       {
         "name": "Emil A. Greene",
         "type": "person",
-        "identity": ""
+        "identity": "Hypothetical name, possibly a local individual who supported Hoover."
       },
       {
         "name": "Mr. Raper",
         "type": "person",
-        "identity": "Appears to be a reference to a columnist or writer, likely fictional for this scenario."
+        "identity": "Possibly a reference to a local or national figure known for criticizing Hoover; identity unknown without more context."
       },
       {
         "name": "former President Hoover",
         "type": "office",
-        "identity": "President Herbert Hoover (1929-1933), known for his efforts during World War I and the subsequent economic depression."
+        "identity": "Calvin Coolidge's successor, known for his efforts to combat the Great Depression and his role during World War I."
       },
       {
         "name": "Democratic politicians",
-        "type": "group",
-        "identity": ""
+        "type": "organization",
+        "identity": "Politicians affiliated with the Democratic Party who are criticized for handling funds poorly under Hoover's presidency."
       },
       {
         "name": "patriotic Americans",
-        "type": "group",
-        "identity": ""
+        "type": "person",
+        "identity": "Individuals who are implied to be more supportive of Hoover's policies compared to the Democratic politicians."
       },
       {
-        "name": "Mrs. M. Ekherg",
+        "name": "Mr. Hoover",
         "type": "person",
-        "identity": "Fictional or hypothetical name, possibly included for local flavor in Cleveland."
+        "identity": "Calvin Coolidge's vice president and later the 31st President of the United States, known for his economic policies and efforts during the Great Depression."
+      },
+      {
+        "name": "Barabbas",
+        "type": "person",
+        "identity": "Character in Christian tradition who was freed instead of Jesus Christ; used metaphorically to describe Hoover's lack of recognition."
+      },
+      {
+        "name": "Jesus Christ",
+        "type": "person",
+        "identity": "Central figure in Christianity, contrasted with Barabbas to suggest Hoover's unrecognized greatness."
       },
       {
         "name": "Cleveland",
         "type": "place",
-        "identity": "Place name suggesting the letter is related to local affairs in or around Cleveland, Ohio."
+        "identity": "If the letter deals with local affairs or mentions specific local references not specified here, this would be included, but it is not explicitly mentioned in the provided text."
+      },
+      {
+        "name": "Ohio",
+        "type": "state",
+        "identity": "The state where Cleveland is located; if the letter pertains to broader state issues or mentions Ohio specifically."
+      },
+      {
+        "name": "Mrs. M. Ekherg",
+        "type": "person",
+        "identity": "Hypothetical name, likely a local resident responding to the letter; identity unknown without further context."
       }
     ],
-    "elapsed_seconds": 42.2
+    "elapsed_seconds": 13.7
   },
   {
     "author": "Jack Kreves",
@@ -98,50 +145,53 @@
       "City Politics",
       "National Politics"
     ],
-    "summary": "The author, Jack Kreves, responds to a previous letter by Emil A. Greene expressing concern over Mr. Raper's actions, reassuring readers not to cancel their subscriptions due to one individual's actions. Kreves advocates for an open-minded approach to disagreements and suggests that people should think more before reacting negatively.",
+    "summary": "The author, Jack Kreves, responds to Emil A. Greene's criticism of Mr. Raper in a letter published in The Press. Kreves argues that people should not be alarmed by a single individual's outburst and calls for more open-mindedness and tolerance toward differing opinions.",
     "doctype": "letter",
     "text": "NO CAUSE FOR ALARM\n\n To the Editor of The Press: I just read Emil A. Greene's letter in which he expresses his disgust of Mr. Raper. I want to assure you that you need not be alarmed about losing your subscribers just because one individual loses his senses. The truth sometimes hurts a lot. I have an open mind and disagree with Mr. Greene. If people would only stop and think, my what a better world it would be to live in. I don't always agree with writers, but then give the other man a break. Why get all -flustered about it? Jack Kreves: ",
     "title": "No Cause For Alarm",
     "word_count": 104,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:27:50",
     "entities": [
       {
         "name": "Emil A. Greene",
         "type": "person",
-        "identity": "Appears to be a person expressing disagreement with Mr. Raper."
+        "identity": ""
       },
       {
         "name": "Mr. Raper",
         "type": "person",
-        "identity": "A individual whose actions have upset Emil A. Greene."
-      },
-      {
-        "name": "The Press",
-        "type": "organization",
-        "identity": "The 1930s newspaper where the letter is published."
+        "identity": ""
       },
       {
         "name": "Jack Kreves",
         "type": "person",
-        "identity": "The writer of the letter disagreeing with the stance taken by Emil A. Greene."
+        "identity": ""
+      },
+      {
+        "name": "The Press",
+        "type": "organization",
+        "identity": "Local newspaper"
       }
     ],
-    "elapsed_seconds": 28.1
+    "elapsed_seconds": 5.4
   },
   {
     "author": "Miss Caesar",
     "address": "",
     "subjects": [
       "City Politics",
-      "State Politics",
-      "National Politics",
-      "Economy",
-      "World Events"
+      "Economy"
     ],
-    "summary": "The author, Miss Caesar, challenges Dr. Laird's assertion that what the country needs is more sleep, arguing that the underlying mental and economic stress of individuals cannot be alleviated by such simple means as creating a comfortable sleeping environment. She suggests that even with a comfortable bed and room, people still worry about financial matters and responsibilities, which she argues are the true causes of sleeplessness, not a lack of a 'Lairdish' manner of living.",
+    "summary": "Miss Caesar disputes Dr. Laird's assertion that what the country needs is more sleep, arguing that sleep cannot cure economic and mental stress such as worry about rent, bills, and work responsibilities.",
     "doctype": "letter",
     "text": "IT'S THE SLEEPER NOT THE BED\n\n To the Editor of The Press: Dr. Laird in an interview said that what this country needed is some good old-fashioned sleep. Everyone knows that sleep is very beneficial both to the mental as well as to the physical side of nature. In fact it would be more ideally healing than anything our chemists could bottle for us, but only to those who can afford their medicine in such \"Lairdish\" manner, and to those who can swallow it. Velour drapes and dark rooms will undoubtedly induce slumber but only to the man who is in a condition to retire completely. Mental tension, the tight nerve-wrack-ing kind we find today, cannot be eased as simply as Dr. Laird would have us believe. According to the great psychologist, we must have thick rugs to deaden the noises, soothing hues of wall paper to quiet the nerves and heavy or dark shades to keep out the light.. Indeed! I can imagine a person worrying about rent and a stack of grocery bills, rushing out with his few last paltry dollars to buy these much-desired furnishings for the bedroom. Poor sap!\n\nJust one more thing, old dear. I am willing to wager that there are many soft beds in warm-shaded rooms whose inmates, too, turn worry and fret all night over tomorrow's meeting of board directors, and who are unaware and immune to the wondrous and healing effects of their delightful environment. It's not the bed, old chap, it's the fellow in the bed. Miss Caesar. ",
     "title": "It'S The Sleeper Not The Bed",
     "word_count": 258,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:27:55",
     "entities": [
       {
         "name": "Dr. Laird",
@@ -149,19 +199,9 @@
         "identity": ""
       },
       {
-        "name": "country",
-        "type": "region",
-        "identity": "United States"
-      },
-      {
-        "name": "chemists",
-        "type": "organization",
-        "identity": "Scientists who might bottle health remedies."
-      },
-      {
-        "name": "Lairdish",
-        "type": "adjective",
-        "identity": "Derived from Dr. Laird's name, possibly implying a manner or style related to him."
+        "name": "man",
+        "type": "hypothetical person",
+        "identity": ""
       },
       {
         "name": "Velour drapes",
@@ -171,89 +211,68 @@
       {
         "name": "dark rooms",
         "type": "location",
-        "identity": "Rooms that are dark"
+        "identity": "Rooms implied by the context as conducive to sleep."
       },
       {
-        "name": "mental tension",
-        "type": "condition",
-        "identity": "A state of worry or stress affecting the mind."
-      },
-      {
-        "name": "psychologist",
-        "type": "person",
-        "identity": ""
-      },
-      {
-        "name": "Velour drapes",
+        "name": "thick rugs",
         "type": "product",
         "identity": ""
       },
       {
-        "name": "wallpaper",
+        "name": "soothing hues of wall paper",
         "type": "product",
-        "identity": "Soothing hues of wall paper"
+        "identity": "Implied to soothe nerves based on psychological effect."
       },
       {
-        "name": "bedroom",
-        "type": "location",
-        "identity": "The room where one sleeps."
+        "name": "heavy or dark shades",
+        "type": "product",
+        "identity": "Implied to block out light and aid in sleep."
       },
       {
-        "name": "poor sap",
-        "type": "phrase",
-        "identity": "A derogatory term for a person who is perceived as a fool or victim."
-      },
-      {
-        "name": "Miss Caesar",
-        "type": "person",
-        "identity": ""
+        "name": "board directors",
+        "type": "organization",
+        "identity": "A position of authority within a business or company, implied by the context of worry related to financial matters."
       }
     ],
-    "elapsed_seconds": 64.8
+    "elapsed_seconds": 8.3
   },
   {
     "author": "John F. Robb",
     "address": "",
     "subjects": [
+      "City Politics",
       "Economy"
     ],
-    "summary": "The letter's author, John F. Robb, is responding to Dr. S. H. Englander's assessment of the debate over the 20-cent charge for cradle telephones as a minor issue ('a drop in the bucket'). Robb believes that small charges, when accumulated over many users, can constitute a significant amount of money. He mentions there are between 60,000 to 70,000 cradle phones in Cleveland and states that the city's population is paying out '$15,000 or more' per month due to this charge. Robb has also taken action by presenting his case to the State Utilities Commission and recommends that Dr. Englander do the same with his concerns regarding the cost of bells for these telephones.",
+    "summary": "The author, John F. Robb, responds to Dr. S. H. Englander's dismissal of the 20-cent charge for cradle telephones as trivial. Robb emphasizes that while it may be a small sum on its own ('a drop in the bucket'), the cumulative amount across all users in Cleveland adds up significantly. He proposes that Dr. Englander, if his facts support such, should take his concerns directly to the State Utilities Commission to potentially initiate a hearing on discontinuing the charge for cradle telephones.",
     "doctype": "letter",
     "text": "60,000 DROPS IN A BUCKET\n\n To the Editor of The Press:\n\nI read with interest the criticism of Dr. S. H: Englander in your issue of March 6, 1933, suggesting that the dispussion of the 20 cent charge tor cradle telephones was amusing to him.\n\nIt is possibly only a drop in the bucket as the doctor well says, but obviously, if there are enough drops the bucket can be readily filled by them. I believe there are 60,000 to 70,000 cradle phones used in Cleve-land, so that as much, as $15,000 or more a month paid out by our people is worth \"a little fuss.\"\n\nI might say that my efforts have not been confined to writing letters to your newspaper. I have done my best to present the impropriety of the continuance of the 25-cent charge directly to the State Utilities Commission. I have submitted data supporting my position. My recommendation would be that your correspondent above-mentioned present the facts which he has concerning the cost of bells, first investigating to make sure that his position as to the expense involved in original cost and maintenance is correct. Then if he will bear down with his information and contentions upon the State Utilities Commission, possibly he can get a hearing appointed on the charges to which he objects, as has been accomplished in reference to the cradle, telephone matter. xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx the order to show cause why the company should not discontinue its charges for the cradle telephones, John F. Robb Hanna Building.",
     "title": "60,000 Drops In A Bucket",
     "word_count": 256,
+    "service": "ollama",
+    "model": "olmo2",
+    "timestamp": "2025-07-16 11:28:03",
     "entities": [
       {
-        "text": "",
+        "name": "Dr. S. H: Englander",
         "type": "person",
         "identity": ""
       },
       {
-        "text": "Dr. S. H: Englander",
-        "type": "person",
-        "identity": "Dr. S. H: Englander, presumably a real individual, possibly a doctor or academic from the historical context of the 1930s"
-      },
-      {
-        "text": "Cleveland",
+        "name": "Cleveland",
         "type": "place",
-        "identity": "The letter evidently deals with local affairs in 'Cleveland', presumably the city in Ohio, given the mention of cradle telephones and the State Utilities Commission. It is likely located in Ohio."
+        "identity": "City in Ohio, where the cradle phones are used"
       },
       {
-        "text": "State Utilities Commission",
-        "type": "organization",
-        "identity": "State Utilities Commission, an entity responsible for regulating utilities in the state of Ohio during the 1930s"
-      },
-      {
-        "text": "John F. Robb",
+        "name": "John F. Robb",
         "type": "person",
-        "identity": "John F. Robb, presumably a real person, the one who wrote the letter to the editor."
+        "identity": "Author of the letter."
       },
       {
-        "text": "Hanna Building",
-        "type": "place",
-        "identity": "The Hanna Building, a specific location where John F. Robb submitted his data and made his recommendation, presumably in Cleveland, Ohio."
+        "name": "Hanna Building",
+        "type": "building",
+        "identity": "Location where the author writes from."
       }
     ],
-    "elapsed_seconds": 57.5
+    "elapsed_seconds": 6.6
   }
 ]
