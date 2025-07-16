@@ -6,10 +6,13 @@ import os
 from pathlib import Path
 import time
 import re
+import subprocess
 
 # based on https://ollama.com/blog/structured-outputs
 
 from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
+
+job_start = time.localtime()
 
 # Parse command line arguments
 parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
@@ -26,7 +29,14 @@ try:
 except:
   sys.exit("Provide a filename like 'raw_text/1933-03-01_letters.txt'")
 
-print(f"Service: {service}; model: {model}")
+def get_short_commit_id_with_date():
+    result = subprocess.run(['git', 'log', '-1', '--pretty=format:%h - %ad'], stdout=subprocess.PIPE)
+    output = result.stdout.decode().strip()
+    return output.split(' - ')[0], output.split(' - ')[1]
+
+short_commit_id, commit_date = get_short_commit_id_with_date()
+
+print(f"Service: {service}; model: {model}; commit: {short_commit_id}; commit date: {commit_date}")
 
 # model = 'olmo2'
 # model = 'olmo2:13b-1124-instruct-fp16'
@@ -177,7 +187,12 @@ for letter in letters:
 
   counter += 1
 
+  print(f"\n\n")
+
+job_elapsed_seconds = round(time.time() - time.mktime(job_start), 1)
+print(f"  elapsed time: {job_elapsed_seconds} seconds")
+
 # Write to json file
 print(f"Writing to {filename}.json")
-with open(f"output_json/{filename}.json", "w") as outfile:
+with open(f"output_json/{filename}-{model}-{short_commit_it}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))
