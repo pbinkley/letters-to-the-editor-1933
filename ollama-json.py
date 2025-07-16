@@ -194,5 +194,5 @@ print(f"  elapsed time: {job_elapsed_seconds} seconds")
 
 # Write to json file
 print(f"Writing to {filename}.json")
-with open(f"output_json/{filename}-{model}-{short_commit_id}.json", "w") as outfile:
+with open(f"output_json/{filename}-{model.replace(":", "_")}-{short_commit_id}.json", "w") as outfile:
   outfile.write(json.dumps(letters_json, indent=2))
