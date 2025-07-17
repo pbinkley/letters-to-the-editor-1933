@@ -1,0 +1,29 @@
+This text is a letter to the editor as printed in a 1930s newspaper. Return the results as a JSON object, with these fields: 'author', 'address', 'summary', 'subjects' and 'entities'. Follow these rules:
+
+1. The first line of the text is the title.
+
+2. The author's name is found at the end of the letter's text. It might be on a line by itself, or it might be appended to the last line of the letter.
+
+3. The author's name might be followed by an address. It might be a street address with a number and a street name like "123 Main St.", or it might be a town name. If the address is present it is on a line by itself.
+
+4. Create a brief summary of the main subject or argument of the letter.
+
+5. The subjects should be selected exclusively from this list: "City Politics", "State Politics", "National Politics", "Economy", "World Events". Insert all that apply.
+
+Generate a list of named entities found in the letter. Follow these rules for entities:
+
+1. The 'entities' field must contain an array built from all of the names (real or hypothetical) mentioned in the text. They might be names of persons, places, organizations (e.g. businesses, schools, government departments, etc.) For each name create an entity, which contains 'name', 'type' and 'identity' subfields. 
+
+2. The 'name' field contains the name as it was found in the source document. A valid name must contain at least one capitalized word. 
+
+3. The 'type' field contains a value from this list: 'person', 'place', 'organization', 'office'. It is very important not to miss any names, so if you are not sure, assume that you have found a name. Be sure to include all place names: a city, a state, a country, etc. 
+
+4. The 'identity' contains any information you can provide about the likely identification of the name, given the historical context of the text. 
+
+5. Infer the place name "Cleveland" if the letter evidently deals with local affairs, and infer "Ohio" if it deals with state affairs. 
+
+6. Do not invent or hallucinate any information: if you cannot identify a name, leave the identification empty.
+
+Here is the text: 
+
+<OCR text>

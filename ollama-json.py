@@ -48,15 +48,10 @@ class Letter(BaseModel):
   subjects: list[str]
   summary: str
   doctype: str
-
-class Entities(BaseModel):
   entities: list[object]
 
 class LetterListMetadata(BaseModel):
   letters: list[Letter]
-
-class LetterListEntities(BaseModel):
-  letters: list[Entities]
 
 def is_title_line(text):
   # check for two capital letters together, so as not to be fooled
@@ -89,10 +84,8 @@ print(f"Opening {input_text_file}")
 p = Path(input_text_file)
 filename = p.with_suffix('').name # extract filename and strip extension
 
-with open('prompt_metadata.txt', 'r') as file:
-    prompt_metadata = file.read()
-with open('prompt_entities.txt', 'r') as file:
-    prompt_entities = file.read()
+with open('metadata_prompt.txt', 'r') as file:
+    metadata_prompt = file.read()
 with open(input_text_file, 'r') as file:
     ocr_text = file.read()
 
@@ -150,11 +143,12 @@ for letter in letters:
   print(f"Letter {counter}: {title} ({words} words)")
 
   # prompt template ends with <OCR text>
-  letter_metadata_prompt = prompt_metadata.replace("<OCR text>", f"\n\"\"\"\n{text}\n\"\"\"")
+  letter_prompt = metadata_prompt.replace("<OCR text>", f"\n\"\"\"\n{text}\n\"\"\"")
 
-  response = get_response(letter_metadata_prompt, LetterListMetadata)
-
+  response = get_response(letter_prompt, LetterListMetadata)
+   
   letter_data = json.loads(response['message']['content'])['letters'][0]
+
   letter_data['text'] = ('@@@').join(paragraphs).replace("-\n", '').replace("\n", ' ').replace('@@@', "\n\n")
   letter_data['title'] = title.title()
   letter_data['doctype'] = "letter"
@@ -163,21 +157,12 @@ for letter in letters:
   letter_data['model'] = model
   letter_data['timestamp'] = time.strftime("%Y-%m-%d %H:%M:%S", start)
 
-  print(letter_data['summary'])
+  # see results
 
-  # now do the entities
+  print(f"Summary: {letter_data['summary']}")
 
-  # prompt template ends with <OCR text>
-  letter_entities_prompt = prompt_entities.replace("<OCR text>", f"\n\"\"\"\n{letter}\n\"\"\"")
-
-  response = get_response(letter_entities_prompt, LetterListEntities)
-
-  letter_data['entities'] = []
-  for letter in json.loads(response['message']['content'])['letters']:
-    #import pdb; pdb.set_trace()
-    for entity in letter['entities']:
-      letter_data['entities'].append(entity)
-      print(f"  {entity.get('name', '<no name>')}: {entity.get('type', '<no type>')}")
+  for entity in letter_data['entities']:
+    print(f"  {entity.get('name', '<no name>')}: {entity.get('type', '<no type>')} ({entity.get('identity', '<no identity>')})")
 
   letters_json.append(letter_data)
 
